@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/xtrm0/763e9b4ffa6d32dd65dd>
