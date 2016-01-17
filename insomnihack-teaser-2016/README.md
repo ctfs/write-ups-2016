@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [web/smartcat1-50](web/smartcat1-50)
+* [web/smartcat2-50](web/smartcat2-50)
 
 ## Missing write-ups
 
