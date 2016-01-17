@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://pony7.fr/ctf:public:insomnihack-teaser:smartcat>
