@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/xtrm0/763e9b4ffa6d32dd65dd>
+* <https://gist.github.com/anonymous/ee1ab888705c13efb539>
