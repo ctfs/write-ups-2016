@@ -1,0 +1,20 @@
+# Insomni'hack Teaser CTF 2016 : Fridginator 10k
+
+**Category:** Crypto / Web
+**Points:** 200
+**Author:** clZ
+**Solves:** 
+**Description:**
+
+> My brother John just bought this high-tech fridge which is all flashy and stuff, but has also added some kind of security mechanism which means I can't steal his food anymore... I'm not sure I can survive much longer without his amazing yoghurts. Can you find a way to steal them for me?
+> 
+> The fridge is [here](http://fridge.insomnihack.ch/login?next=/)
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet

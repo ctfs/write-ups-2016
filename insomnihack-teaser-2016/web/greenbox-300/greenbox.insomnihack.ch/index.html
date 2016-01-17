@@ -1,0 +1,52 @@
+<html><head><title>GreenBox</title>
+<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+<style type="text/css" media="screen">
+    h1{
+      font-family: 'Indie Flower', cursive;
+      text-align: center;
+    }
+    body{
+      background: rgba(219,255,186,1);
+      background: -moz-linear-gradient(top, rgba(219,255,186,1) 0%, rgba(77,153,6,1) 100%);
+      background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(219,255,186,1)), color-stop(100%, rgba(77,153,6,1)));
+      background: -webkit-linear-gradient(top, rgba(219,255,186,1) 0%, rgba(77,153,6,1) 100%);
+      background: -o-linear-gradient(top, rgba(219,255,186,1) 0%, rgba(77,153,6,1) 100%);
+      background: -ms-linear-gradient(top, rgba(219,255,186,1) 0%, rgba(77,153,6,1) 100%);
+      background: linear-gradient(to bottom, rgba(219,255,186,1) 0%, rgba(77,153,6,1) 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbffba', endColorstr='#4d9906', GradientType=0 );
+      height: 800px;
+    }
+    form, p{
+        text-align: center;
+    }
+    p{
+        font-family: 'Indie Flower', cursive;
+    }
+.btn {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #3498db;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+</style>
+</head>
+<body>
+    <h1>GreenBox</h1>
+
+    <p>GreenBox is a new generation of remotely controlled and programmed plants !</p>
+    <p>By directly providing JavaScript code to your plant you can control the way the plant grow according to external variables (temperature, water, light)</p>
+    <p>Just be creative to get a beautiful eccentric plant !</p>
+
+    <form action="/login" method="GET">
+    <input type="text" name="username" placeholder="Username"><br /><br />
+    <input type="password" name="password" placeholder="Password"><br /><br />
+    <input class="btn" type="submit" value="Login"/>
+    </form>
+</body>

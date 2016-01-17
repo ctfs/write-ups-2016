@@ -1,0 +1,22 @@
+# Insomni'hack Teaser CTF 2016 : Bring the noise
+
+**Category:** Crypto
+**Points:** 200
+**Author:** veorg
+**Solves:** 
+**Description:**
+
+> Quantum computers won't help you
+> 
+> [Source](./server-bd6a6586808ab28325de37276aa99357.py)
+> 
+> Running on: bringthenoise.insomnihack.ch:1111
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
