@@ -20,4 +20,5 @@
 ## Other write-ups and resources
 
 * <https://pony7.fr/ctf:public:insomnihack-teaser:smartcat>
+* <https://ctf.rip/insomnihack-teaser-2016-smartcat2-50-pt-web-challenge/>
 * <https://gist.github.com/xtrm0/3b7d9ed8d425720925f1>
