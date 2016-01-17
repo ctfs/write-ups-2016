@@ -1,7 +1,7 @@
 # Insomni'hack Teaser CTF 2016 write-ups
 
 * <https://teaser.insomnihack.ch/>
-* [Scoreboard](https://teaser.insomnihack.ch/) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://teaser.insomnihack.ch/) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
