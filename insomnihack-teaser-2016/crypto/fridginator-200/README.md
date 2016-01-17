@@ -3,7 +3,7 @@
 **Category:** Crypto / Web
 **Points:** 200
 **Author:** clZ
-**Solves:** 
+**Solves:** 52
 **Description:**
 
 > My brother John just bought this high-tech fridge which is all flashy and stuff, but has also added some kind of security mechanism which means I can't steal his food anymore... I'm not sure I can survive much longer without his amazing yoghurts. Can you find a way to steal them for me?

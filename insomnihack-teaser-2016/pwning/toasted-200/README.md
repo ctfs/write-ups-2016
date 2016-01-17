@@ -3,7 +3,7 @@
 **Category:** Pwning
 **Points:** 200
 **Author:** grimmlin
-**Solves:** 
+**Solves:** 15
 **Description:**
 
 > Welcome to Internet of Toaster! This next-gen piece of art is awaiting you!

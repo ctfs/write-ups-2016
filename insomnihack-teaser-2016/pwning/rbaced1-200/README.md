@@ -3,7 +3,7 @@
 **Category:** Pwning
 **Points:** 200
 **Author:** awe
-**Solves:** 
+**Solves:** 12
 **Description:**
 
 > This coffee machine can be controlled from your smartphone.

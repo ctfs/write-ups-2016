@@ -3,7 +3,7 @@
 **Category:** Web
 **Points:** 50
 **Author:** grimmlin
-**Solves:** 
+**Solves:** 132
 **Description:**
 
 > Almost there, but now you should be able to do better than a cat (sorry about the pun)

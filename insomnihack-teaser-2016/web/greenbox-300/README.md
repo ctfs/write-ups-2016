@@ -3,7 +3,7 @@
 **Category:** (Hipster-)Web
 **Points:** 300
 **Author:** agix
-**Solves:** 
+**Solves:** 33
 **Description:**
 
 > [GreenBox](http://greenbox.insomnihack.ch/) is a new generation of remotely controlled and programmed plants !
