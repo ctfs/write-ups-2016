@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <https://pony7.fr/ctf:public:insomnihack-teaser:smartcat>
+* <https://gist.github.com/xtrm0/3b7d9ed8d425720925f1>
