@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://gist.github.com/elliptic-shiho/25b73b40df0125e5b12a
