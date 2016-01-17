@@ -23,3 +23,4 @@
 
 * <https://pony7.fr/ctf:public:insomnihack-teaser:smartcat>
 * <https://ctf.rip/insomnihack-teaser-2016-smartcat1-50-pt-web-challenge/>
+* <https://b01lers.net/challenges/Insomni'hack%202016/smartcat1/82/>
