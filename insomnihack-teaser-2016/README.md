@@ -10,12 +10,12 @@
 ## External write-ups only
 
 * [crypto/bring-the-noise-200](crypto/bring-the-noise-200)
+* [crypto/fridginator-200](crypto/fridginator-200)
 * [web/smartcat1-50](web/smartcat1-50)
 * [web/smartcat2-50](web/smartcat2-50)
 
 ## Missing write-ups
 
-* [crypto/fridginator-200](crypto/fridginator-200)
 * [pwning/rbaced1-200](pwning/rbaced1-200)
 * [pwning/rbaced2-300](pwning/rbaced2-300)
 * [pwning/toasted-200](pwning/toasted-200)
