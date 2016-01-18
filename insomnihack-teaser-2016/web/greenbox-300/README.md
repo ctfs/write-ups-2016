@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/elliptic-shiho/25b73b40df0125e5b12a>
+* <https://gist.github.com/HoLyVieR/f19387f9531c627ec135>
