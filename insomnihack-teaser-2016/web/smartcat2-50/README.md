@@ -25,3 +25,4 @@
 * <https://0x1337seichi.wordpress.com/2016/01/17/insomnihack-2016-ctf-teaser-smartcat-1-2-writeup/>
 * <https://gist.github.com/xtrm0/3b7d9ed8d425720925f1>
 * <http://toh.necst.it/insomnihack/web/smartcat/>
+* <http://blog.justinsteven.com/posts/2016/01/18/insomnihack-declawing-smartcat1-and-smartcat2/>

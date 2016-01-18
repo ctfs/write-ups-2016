@@ -30,4 +30,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastebin.com/57gWfXG6>
