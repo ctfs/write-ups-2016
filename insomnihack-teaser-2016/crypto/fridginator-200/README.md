@@ -19,3 +19,4 @@
 
 * <https://github.com/p4-team/ctf/tree/master/2016-01-16-insomnihack/crypto_200_fridginator#eng-version>
 * <http://pastebin.com/pHg4erCj>
+* <https://pony7.fr/ctf:public:insomnihack:fridginator_10k>
