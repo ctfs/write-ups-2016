@@ -24,3 +24,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/kitctf/writeups/tree/master/insomnihack-teaser-2016/toasted>
+* <https://github.com/raccoons-team/ctf/tree/master/2016-01-16-insomnihack-teaser/pwn_250_toasted>
