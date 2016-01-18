@@ -24,3 +24,4 @@
 * [b01lers](https://b01lers.net/challenges/Insomni'hack%202016/smartcat2/83/)
 * <https://0x1337seichi.wordpress.com/2016/01/17/insomnihack-2016-ctf-teaser-smartcat-1-2-writeup/>
 * <https://gist.github.com/xtrm0/3b7d9ed8d425720925f1>
+* <http://toh.necst.it/insomnihack/web/smartcat/>
