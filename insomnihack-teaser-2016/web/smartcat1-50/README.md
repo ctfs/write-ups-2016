@@ -24,3 +24,4 @@
 * <https://pony7.fr/ctf:public:insomnihack-teaser:smartcat>
 * <https://ctf.rip/insomnihack-teaser-2016-smartcat1-50-pt-web-challenge/>
 * [b01lers](https://b01lers.net/challenges/Insomni'hack%202016/smartcat1/82/)
+* <https://0x1337seichi.wordpress.com/2016/01/17/insomnihack-2016-ctf-teaser-smartcat-1-2-writeup/>
