@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/kitctf/writeups/tree/master/insomnihack-teaser-2016/toasted>
