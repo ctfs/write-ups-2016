@@ -24,3 +24,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/kitctf/writeups/tree/master/insomnihack-teaser-2016/toasted>
+* <http://hxp.io/blog/24/Insomni%27hack%20Teaser%202016:%20pwn250%20"toasted"/>
