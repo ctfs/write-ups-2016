@@ -16,7 +16,6 @@
 * [web/greenbox-300](web/greenbox-300)
 * [web/smartcat1-50](web/smartcat1-50)
 * [web/smartcat2-50](web/smartcat2-50)
+* [pwning/rbaced2-300](pwning/rbaced2-300)
 
 ## Missing write-ups
-
-* [pwning/rbaced2-300](pwning/rbaced2-300)

@@ -30,4 +30,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/kitctf/writeups/blob/master/insomnihack-teaser-2016/rbaced2/exploit.py>
