@@ -27,3 +27,4 @@
 * <https://0x1337seichi.wordpress.com/2016/01/17/insomnihack-2016-ctf-teaser-smartcat-1-2-writeup/>
 * <http://toh.necst.it/insomnihack/web/smartcat/>
 * <http://blog.justinsteven.com/posts/2016/01/18/insomnihack-declawing-smartcat1-and-smartcat2/>
+* <https://github.com/raccoons-team/ctf/tree/master/2016-01-16-insomnihack-teaser/web_50-50_smartcat>
