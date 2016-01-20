@@ -28,3 +28,5 @@
 * <http://toh.necst.it/insomnihack/web/smartcat/>
 * <http://blog.justinsteven.com/posts/2016/01/18/insomnihack-declawing-smartcat1-and-smartcat2/>
 * <https://github.com/raccoons-team/ctf/tree/master/2016-01-16-insomnihack-teaser/web_50-50_smartcat>
+* <https://github.com/p4-team/ctf/tree/master/2016-01-16-insomnihack/web_100_smartcat#smartcat1-eng>
+* <https://highon.coffee/blog/insomnihack-ctf-teaser-smartcat1-writeup/>
