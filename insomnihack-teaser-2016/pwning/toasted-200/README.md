@@ -26,3 +26,4 @@
 * <https://github.com/kitctf/writeups/tree/master/insomnihack-teaser-2016/toasted>
 * <http://hxp.io/blog/24/Insomni%27hack%20Teaser%202016:%20pwn250%20"toasted"/>
 * <https://github.com/raccoons-team/ctf/tree/master/2016-01-16-insomnihack-teaser/pwn_250_toasted>
+* <http://gnoobz.com/insomnihack-teaser-2016-toasted.html>

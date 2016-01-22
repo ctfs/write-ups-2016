@@ -30,4 +30,5 @@
 
 ## Other write-ups and resources
 
-* <http://pastebin.com/57gWfXG6>
+* <https://blog.scrt.ch/2016/01/19/rbaced-a-ctf-introduction-to-grsecurity-rbac/>
+* <http://gnoobz.com/insomnihack-teaser-2016-rbaced1.html>

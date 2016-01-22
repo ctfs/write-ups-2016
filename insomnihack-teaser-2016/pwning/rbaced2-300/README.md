@@ -31,3 +31,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/kitctf/writeups/blob/master/insomnihack-teaser-2016/rbaced2/exploit.py>
+* <https://blog.scrt.ch/2016/01/19/rbaced-a-ctf-introduction-to-grsecurity-rbac/>

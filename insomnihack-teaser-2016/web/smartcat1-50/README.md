@@ -30,3 +30,4 @@
 * <https://github.com/raccoons-team/ctf/tree/master/2016-01-16-insomnihack-teaser/web_50-50_smartcat>
 * <https://github.com/p4-team/ctf/tree/master/2016-01-16-insomnihack/web_100_smartcat#smartcat1-eng>
 * <https://highon.coffee/blog/insomnihack-ctf-teaser-smartcat1-writeup/>
+* <http://nusgreyhats.org/write-ups/INSOMNIHACK-CTF-Teaser-2016-Write-Up-Smartcat1/>
