@@ -21,6 +21,7 @@
 
 ## Other write-ups and resources
 
+* [b01lers](https://b01lers.net/challenges/Insomni%27hack%202016/Greenbox/85/)
 * <https://gist.github.com/elliptic-shiho/25b73b40df0125e5b12a>
 * <https://gist.github.com/HoLyVieR/f19387f9531c627ec135>
 * <http://pastebin.com/ahN71qVK>
