@@ -32,3 +32,4 @@
 * <https://highon.coffee/blog/insomnihack-ctf-teaser-smartcat1-writeup/>
 * <http://nusgreyhats.org/write-ups/INSOMNIHACK-CTF-Teaser-2016-Write-Up-Smartcat1/>
 * <http://h4ckx0re-ctf-crew.co.nf/2016/01/23/insomnihack-teaser-2016-smartcat1-50-pts/>
+* [Spanish](https://blog.ka0labs.net/post/27/)

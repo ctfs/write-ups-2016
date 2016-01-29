@@ -30,3 +30,4 @@
 * <https://en.internetwache.org/insomnia-teaser-2016-smartcat2-writeup-18-01-2016/>
 * <https://github.com/p4-team/ctf/tree/master/2016-01-16-insomnihack/web_100_smartcat#smartcat2-eng>
 * <https://highon.coffee/blog/insomnihack-ctf-teaser-smartcat2-writeup/>
+* [Spanish](https://blog.ka0labs.net/post/27/)
