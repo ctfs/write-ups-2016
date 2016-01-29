@@ -28,3 +28,4 @@
 * <https://gist.github.com/IgnacioSanmillan/6dc8e82cc90e40bd674f>
 * <https://github.com/raccoons-team/ctf/tree/master/2016-01-16-insomnihack-teaser/crypto_200_bring_the_noise>
 * <https://gist.github.com/fbonzon/480a1c7877a34d9f3e93>
+* <https://adriancohea.ninja/bring-the-noise-insomnihack-teaser-2016/> (SSL Mismatch for Chrome - Try on FireFox or other Browsers :D)
