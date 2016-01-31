@@ -13,7 +13,9 @@
 
 ## Write-up
 
-(TODO)
+After reading the description it was pretty clear this was a Caesar cipher. Upon throwing 'The_extract.txt' into [Xarg's Caesar decrypter](http://www.xarg.org/tools/caesar-cipher/) we can recover what seems like an [excerpt from a book](./The_text.txt)(which would match the problem description). 
+
+Afterwards we can throw the first sentence of the plaintext into Google Books, where we are met with multiple books, but the first result 'In the Shadow of Greed' is the correct flag!
 
 ## Other write-ups and resources
 
