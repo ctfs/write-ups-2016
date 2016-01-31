@@ -13,7 +13,30 @@
 
 ## Write-up
 
-(TODO)
+From the description it can be deduced that this is probably a XOR challenge. Since we are given the Heartclear and Heartcrypt files XORing the crypt with the plaintext gives us the following key:
+
+```
+Its right there what you are looking for.
+Its right there what you are looking for.
+Its right there what you are looking for.
+Its right there what you are looking for.
+Its right there what you are looking for.
+Its right there what you are looking for.
+Its right there what you are looking for.
+Its right there what you a
+```
+
+While it is beyond creepy we can then xor Mindcrypt with the key and get the following
+
+```
+https://play.google.com/store/apps/collection/promotion_3001629_watch_live_games?hl=en
+ithjo(qs1ob+Z>q3y.)lyf1"vU#npdS.ie7;ZS6D9
+                                         hFhspu;-5alby*a*6q$;1s"6<zv~+$.ytho~p7?Gsi/vsmw~tjojYvi(,w'kC8x;mqS"b9l[|!
+to5s6h0l-a12zoqvaz/ym1:{z7#,|1S5woxjp%0^Kr
+oujp~(rs5i'rB#0&S
+```
+
+And with the risky click of the day we visit the link and see the following header **Never Miss a Game** which is our flag.
 
 ## Other write-ups and resources
 

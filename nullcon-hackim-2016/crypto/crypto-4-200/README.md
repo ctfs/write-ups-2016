@@ -13,7 +13,21 @@
 
 ## Write-up
 
-(TODO)
+Opening the file attatched leads to a list of MD5 hashes. After running them through a rainbow table they come out to the following
+* d80517c8069d7702d8fdd89b64b4ed3b : Carrie
+* 088aed904b5a278342bba6ff55d0b3a8 : Grease
+* 56cdd7e9e3cef1974f4075c03a80332d : Perfect
+* 0a6de9d8668281593bbd349ef75c1f49 : Shout
+* 972e73b7a882d0802a4e3a16946a2f94 : Basic
+* 1cc84619677de81ee6e44149845270a3 : Actor
+* b95086a92ffcac73f9c828876a8366f0 : Aircraft
+* b068931cc450442b63f5b3d276ea4297 : name
+
+After we take those words and plug them into Google the first result is John Travolta, which matches the problem description of an influential man. Next we need to find out what his PRIDE is. The terms all seemed to be related to his acting career other than the last two words: Aircraft, and name.
+
+Looking at his [Wikipdea page](https://en.wikipedia.org/wiki/John_Travolta) we can see he does own a plane, which has a name. *"He owns five aircraft, including an ex-Qantas Boeing 707-138 airliner that bears the name Jett Clipper Ella in honor of his children"*
+
+The name of his aircraft is the flag! Jett Clipper Ella
 
 ## Other write-ups and resources
 
