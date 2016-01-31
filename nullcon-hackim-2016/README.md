@@ -3,7 +3,7 @@
 * <http://ctf.nullcon.net/>
 * [Scoreboard](http://ctf.nullcon.net/scoreboard.php) or [local alternative](TODOLOCAL)
 
-## Repo-local write-ups
+## Completed write-ups
 
 * none yet
 
@@ -31,6 +31,8 @@
 * [programming/programming-200](programming/programming-200)
 * [programming/programming-300-1](programming/programming-300-1)
 * [programming/programming-300-2](programming/programming-300-2)
+* [programming/programming-400](programming/programming-400)
+* [programming/programming-500](programming/programming-500)
 * [re/donfos-500](re/donfos-500)
 * [re/pseudorandom-300](re/pseudorandom-300)
 * [re/zorropub-100](re/zorropub-100)
