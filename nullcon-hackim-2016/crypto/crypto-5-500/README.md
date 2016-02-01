@@ -13,7 +13,45 @@
 
 ## Write-up
 
-(TODO)
+crypto5.zip contains two files: `warrior.txt` and `all_keys.txt`.
+
+The keys are all RSA public keys, in ASCII-armored format. They are all the same keylength, and as such occupy the same number of lines in the file per key, making it easy to carve out each key. As there are only 50 keys, we can use an exhaustive search method to determine which is the correct key, attempting to decrypt the ciphertext with each one.
+
+While we would normally apply a plaintext scoring system to programmatically determine which is the most likely candidate for successful decryption, there are so few keys that we can simply spit out all the candidate decryptions and then scroll through them until we see text.
+
+Several challengers were confused about the statement that the message was encrypted with the private key, being under the impression that private keys cannot be used to encrypt under RSA. In reality, either key in a keypair can be used as the private or public component. Since the encryption and decryption operations do not differ except in the use of the other half of the keypair, we can use standard libraries to "encrypt" the data with each public key in order to decrypt it.
+
+We can use Python and PyCrypto to solve the puzzle, like so:
+
+~~~Python
+from Crypto.PublicKey import RSA
+
+ciphertext_fh = open('warrior.txt','r')
+ciphertext = ciphertext_fh.read()
+ciphertext_fh.close()
+
+key_fh = open('all_keys.txt','r')
+key = ''
+for line_counter in range(9):
+   key += key_fh.readline()
+
+while key != '':
+   cipher = RSA.importKey(key)
+   print repr(cipher.encrypt(ciphertext, 'dummy')) # dummy second argument for compatibility
+   key = ''
+   for line_counter in range(9):
+      key += key_fh.readline()
+~~~
+
+We search through the resulting outputs for the word "the", and find a properly padded decrypted message:
+
+~~~
+("\x01\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00This fighter is a designation for two separate, heavily upgraded derivatives of the Su-35 'Flanker' jet plane. They are single-seaters designed by Sukhoi(KnAAPO).\n",)
+~~~
+
+Googling for this text results in a Wikipedia page on a fighter jet at https://en.wikipedia.org/wiki/Sukhoi_Su-35.
+
+The flag is the name of the fighter jet: `Sukhoi Su-35`
 
 ## Other write-ups and resources
 
