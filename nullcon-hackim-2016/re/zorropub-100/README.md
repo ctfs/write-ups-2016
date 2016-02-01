@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://vulnerablespace.blogspot.co.uk/2016/01/ctf-writeup-hackim-2016-zorropub-re-100.html>
