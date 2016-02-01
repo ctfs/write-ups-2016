@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [https://github.com/raccoons-team/ctf/tree/master/2016-01-30-nullcon-hackim/misc_200_hiding_in_plain_sight]()
