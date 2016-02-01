@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://corb3nik.github.io/2016/01/29/programming-5/>
