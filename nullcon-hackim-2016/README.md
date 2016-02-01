@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [programming/programming-300-2](programming/programming-300-2)
 
 ## Missing write-ups
 
@@ -30,7 +30,6 @@
 * [misc/know-india-300](misc/know-india-300)
 * [programming/programming-200](programming/programming-200)
 * [programming/programming-300-1](programming/programming-300-1)
-* [programming/programming-300-2](programming/programming-300-2)
 * [programming/programming-400](programming/programming-400)
 * [programming/programming-500](programming/programming-500)
 * [re/donfos-500](re/donfos-500)
