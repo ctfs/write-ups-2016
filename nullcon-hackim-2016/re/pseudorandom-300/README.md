@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://bannsecurity.com/index.php/home/10-ctf-writeups/27-hackim-2016-pseudorandom>

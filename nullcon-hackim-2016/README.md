@@ -13,6 +13,7 @@
 * [programming/programming-400](programming/programming-400)
 * [programming/programming-500](programming/programming-500)
 * [re/zorropub-100](re/zorropub-100)
+* [re/pseudorandom-300](re/pseudorandom-300)
 
 ## Missing write-ups
 
@@ -34,7 +35,6 @@
 * [programming/programming-200](programming/programming-200)
 * [programming/programming-300-1](programming/programming-300-1)
 * [re/donfos-500](re/donfos-500)
-* [re/pseudorandom-300](re/pseudorandom-300)
 * [trivia/trivia-100](trivia/trivia-100)
 * [trivia/trivia-200](trivia/trivia-200)
 * [trivia/trivia-300](trivia/trivia-300)

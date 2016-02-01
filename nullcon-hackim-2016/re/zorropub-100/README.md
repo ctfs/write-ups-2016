@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://vulnerablespace.blogspot.co.uk/2016/01/ctf-writeup-hackim-2016-zorropub-re-100.html>
+* <http://bannsecurity.com/index.php/home/10-ctf-writeups/26-hackim-2016-zorropub>
