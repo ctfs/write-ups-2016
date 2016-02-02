@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <https://corb3nik.github.io/2016/01/29/programming-5/>
+* <https://www.xil.se/post/hackim-2016-programming-5-arturo182/>
