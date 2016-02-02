@@ -16,6 +16,7 @@
 
 ## External write-ups only
 
+* [exploitation/exploitation-100](exploitation/exploitation-100)
 * [exploitation/exploitation-200](exploitation/exploitation-200)
 * [forensics/catchmeifyoucan-100](forensics/catchmeifyoucan-100)
 * [misc/hiding-in-plain-sight-200](misc/hiding-in-plain-sight-200)
@@ -30,7 +31,6 @@
 
 ## Missing write-ups
 
-* [exploitation/exploitation-100](exploitation/exploitation-100)
 * [exploitation/exploitation-300](exploitation/exploitation-300)
 * [forensics/payload-delivers-fantastic-300](forensics/payload-delivers-fantastic-300)
 * [forensics/peepingtom-400](forensics/peepingtom-400)
