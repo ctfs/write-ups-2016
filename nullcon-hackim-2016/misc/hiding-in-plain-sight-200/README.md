@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* [https://github.com/raccoons-team/ctf/tree/master/2016-01-30-nullcon-hackim/misc_200_hiding_in_plain_sight]()
+* <https://github.com/raccoons-team/ctf/tree/master/2016-01-30-nullcon-hackim/misc_200_hiding_in_plain_sight>
+* <https://www.xil.se/post/hackim-2016-misc-2-arturo182/>

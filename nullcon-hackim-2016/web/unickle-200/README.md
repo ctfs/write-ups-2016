@@ -89,4 +89,4 @@ flag{OSaaS_with_union_and_tickle_trend_it_is!}
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/bl4de/ctf/blob/master/2016/HackIM_2016/Unicle_Web200/Unicle_Web200_writeup.md>
