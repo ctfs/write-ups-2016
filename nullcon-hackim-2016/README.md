@@ -34,6 +34,7 @@
 * [trivia/trivia-100](trivia/trivia-100)
 * [trivia/trivia-200](trivia/trivia-200)
 * [trivia/trivia-400](trivia/trivia-400)
+* [web/signserver-100](web/signserver-100)
 
 ## Missing write-ups
 
@@ -43,4 +44,3 @@
 * [misc/calligraphy-100](misc/calligraphy-100)
 * [re/donfos-500](re/donfos-500)
 * [web/luhn-300](web/luhn-300)
-* [web/signserver-100](web/signserver-100)
