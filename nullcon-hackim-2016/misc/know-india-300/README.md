@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/tuvshuud/1up/blob/master/hackim2016/misc300.md>
