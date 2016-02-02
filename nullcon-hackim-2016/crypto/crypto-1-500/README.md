@@ -40,4 +40,9 @@ And with the risky click of the day we visit the link and see the following head
 
 ## Other write-ups and resources
 
-* none yet
+* <https://cryptsec.wordpress.com/2016/01/31/hackim-ctf-2016-write-up-crypto-question-1-500-points/>
+* <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/crypto_1#eng-version>
+* <https://www.xil.se/post/hackim-2016-crypto-1-arturo182/>
+* <http://h4ckx0re-ctf-crew.co.nf/2016/01/31/hackim-ctf-2016-crypto-1/>
+* <http://www.cnblogs.com/Christmas/p/5176496.html>
+* <https://github.com/Team-Sportsball/CTFs-2016/blob/master/nullcon-hackim-2016/crypto%201/crypto_1.md>
