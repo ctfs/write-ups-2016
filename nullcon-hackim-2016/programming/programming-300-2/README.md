@@ -17,3 +17,5 @@
 * <https://corb3nik.github.io/2016/01/29/programming-3/>
 * <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/recon_3#eng-version>
 * <https://www.xil.se/post/hackim-2016-programming-3-arturo182/>
+* <http://ctf.s4thi5h.com/nullcon-hackim-2016-ctf-programming/>
+* [Chinese](http://www.cnblogs.com/Christmas/p/5176428.html)

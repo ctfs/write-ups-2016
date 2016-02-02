@@ -16,3 +16,6 @@
 
 * <https://www.xil.se/post/hackim-2016-programming-1-arturo182/>
 * <https://www.youtube.com/watch?v=kfhBoEkJW5Q&feature=youtu.be>
+* <http://ctf.s4thi5h.com/nullcon-hackim-2016-ctf-programming/>
+* <http://corb3nik.github.io/2016/01/29/programming-1/>
+* [Chinese](http://www.cnblogs.com/Christmas/p/5176333.html)
