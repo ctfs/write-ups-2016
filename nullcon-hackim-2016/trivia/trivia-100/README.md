@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ctf.c0deguard.com/nullcon-ctf-hackim-2016-trivia-writeups/>

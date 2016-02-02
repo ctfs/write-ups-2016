@@ -25,4 +25,6 @@ AGLISURAKSHAKIVASTU
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ctf.c0deguard.com/nullcon-ctf-hackim-2016-trivia-writeups/>
+* <https://www.xil.se/post/hackim-2016-trivia-3-arturo182/>
+* <https://0x90r00t.com/2016/02/01/hackim-2016-trivia-question-3-write-up/>

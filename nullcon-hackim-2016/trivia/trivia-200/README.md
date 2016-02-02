@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ctf.c0deguard.com/nullcon-ctf-hackim-2016-trivia-writeups/>
+* <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/trivia_2#eng-version>
