@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.xil.se/post/hackim-2016-programming-1-arturo182/>
+* <https://www.youtube.com/watch?v=kfhBoEkJW5Q&feature=youtu.be>
