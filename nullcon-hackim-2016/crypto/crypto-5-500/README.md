@@ -55,4 +55,6 @@ The flag is the name of the fighter jet: `Sukhoi Su-35`
 
 ## Other write-ups and resources
 
-* none yet
+* <https://cryptsec.wordpress.com/2016/01/31/hackim-ctf-2016-write-up-crypto-question-5-500-points/>
+* <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/crypto_5#eng-version>
+* <http://h4ckx0re-ctf-crew.co.nf/2016/01/31/hackim-ctf-2016-crypto-5/>
