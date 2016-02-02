@@ -19,4 +19,8 @@ Afterwards we can throw the first sentence of the plaintext into Google Books, w
 
 ## Other write-ups and resources
 
-* none yet
+* <https://cryptsec.wordpress.com/2016/01/31/hackim-ctf-2016-write-up-crypto-question-2-400-points/>
+* <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/crypto_2#eng-version>
+* <https://www.xil.se/post/hackim-2016-crypto-2-arturo182/>
+* <http://h4ckx0re-ctf-crew.co.nf/2016/01/31/hackim-ctf-2016-crypto-2/>
+* <https://github.com/Team-Sportsball/CTFs-2016/blob/master/nullcon-hackim-2016/crypto_2/crypto_2.md>
