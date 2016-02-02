@@ -31,6 +31,8 @@
 * [re/prisonbreak-500](re/prisonbreak-500)
 * [re/pseudorandom-300](re/pseudorandom-300)
 * [re/zorropub-100](re/zorropub-100)
+* [trivia/trivia-100](trivia/trivia-100)
+* [trivia/trivia-200](trivia/trivia-200)
 * [trivia/trivia-400](trivia/trivia-400)
 
 ## Missing write-ups
@@ -40,7 +42,5 @@
 * [forensics/peepingtom-400](forensics/peepingtom-400)
 * [misc/calligraphy-100](misc/calligraphy-100)
 * [re/donfos-500](re/donfos-500)
-* [trivia/trivia-100](trivia/trivia-100)
-* [trivia/trivia-200](trivia/trivia-200)
 * [web/luhn-300](web/luhn-300)
 * [web/signserver-100](web/signserver-100)
