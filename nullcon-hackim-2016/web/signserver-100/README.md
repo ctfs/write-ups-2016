@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/p4-team/ctf/blob/master/2016-01-29-nullcon/web_1/README.md#eng-version>
+* <https://github.com/tuvshuud/1up/blob/master/hackim2016/web100.md>
