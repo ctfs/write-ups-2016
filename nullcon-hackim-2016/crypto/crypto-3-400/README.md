@@ -37,4 +37,6 @@ Ktzrjû_knN^yj/!IÑØxdjb6B h@,Ab.$yc,{cA}ÑÓ@&x[lj ckibrar9sg
 
 ## Other write-ups and resources
 
-* none yet
+* <https://cryptsec.wordpress.com/2016/01/31/hackim-ctf-2016-write-up-crypto-question-3-400-points/>
+* <https://www.xil.se/post/hackim-2016-crypto-3-arturo182/>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/HackIM/crypto-3.md#nullcon-hackim-crypto-question-3>
