@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/recon_2#eng-version>
+* <https://www.youtube.com/watch?v=aaaeuM8_4nM&feature=youtu.be>
