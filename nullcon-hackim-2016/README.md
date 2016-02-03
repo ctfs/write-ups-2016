@@ -29,6 +29,7 @@
 * [programming/programming-300-2](programming/programming-300-2)
 * [programming/programming-400](programming/programming-400)
 * [programming/programming-500](programming/programming-500)
+* [re/donfos-500](re/donfos-500)
 * [re/prisonbreak-500](re/prisonbreak-500)
 * [re/pseudorandom-300](re/pseudorandom-300)
 * [re/zorropub-100](re/zorropub-100)
@@ -42,5 +43,4 @@
 * [forensics/payload-delivers-fantastic-300](forensics/payload-delivers-fantastic-300)
 * [forensics/peepingtom-400](forensics/peepingtom-400)
 * [misc/calligraphy-100](misc/calligraphy-100)
-* [re/donfos-500](re/donfos-500)
 * [web/luhn-300](web/luhn-300)
