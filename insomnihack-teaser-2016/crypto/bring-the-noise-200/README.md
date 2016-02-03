@@ -22,6 +22,7 @@
 * <https://ctf.rip/insomnihack-teaser-2016-bring-the-noise-crypto-200-pts/>
 * <https://cryptsec.wordpress.com/2016/01/18/insomnihack-teaser-write-up-bring-the-noise-crypto-200/>
 * <https://0x1337seichi.wordpress.com/2016/01/17/insomnihack-2016-ctf-teaser-bring-the-noise-crypto-200/>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Insomnihack/crypto/bring-the-noise-200.md#insomnihack-2016--crypto-200>
 * <https://gist.github.com/xtrm0/763e9b4ffa6d32dd65dd>
 * <https://gist.github.com/anonymous/ee1ab888705c13efb539>
 * <https://gist.github.com/elliptic-shiho/935540b52e06a526f396>
