@@ -2,12 +2,12 @@
 
 **Category:** Web
 **Points:** 200
-**Solves:** 
+**Solves:**
 **Description:**
 
 > OSaaS is the new trend for 2016! Store your object directly in the cloud. Get rid of the hassle of managing your own storage for object with Osaas. Unickle currently offers a beta version that demonstrates how OSaaS will make the internet a better place... One object at a time!!
-> 
-> 
+>
+>
 > <http://54.84.124.93/>
 
 [Server files](./var/www)
@@ -46,7 +46,7 @@ print pickle.dumps(Inject())
 Confirm it works
 
 ```
-$ ./makepickle.py 
+$ ./makepickle.py
 cposix
 system
 p0
@@ -90,3 +90,4 @@ flag{OSaaS_with_union_and_tickle_trend_it_is!}
 ## Other write-ups and resources
 
 * <https://github.com/bl4de/ctf/blob/master/2016/HackIM_2016/Unicle_Web200/Unicle_Web200_writeup.md>
+* <http://losfuzzys.github.io/writeup/2016/02/02/hackim2016-unickle200/>
