@@ -86,4 +86,4 @@ just submit the md5i hash of the admin password, done.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x90r00t.com/2016/02/03/hackim-2016web-400-smashthestate-write-up/>

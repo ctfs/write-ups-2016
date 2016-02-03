@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/tuvshuud/1up/blob/master/hackim2016/misc300.md>
+* <https://0x90r00t.com/2016/02/03/hackim-2016misc-300-know-india-write-up/>
