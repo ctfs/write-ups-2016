@@ -36,6 +36,7 @@
 * [trivia/trivia-100](trivia/trivia-100)
 * [trivia/trivia-200](trivia/trivia-200)
 * [trivia/trivia-400](trivia/trivia-400)
+* [web/hqlol-500](web/hqlol-500)
 * [web/signserver-100](web/signserver-100)
 
 ## Missing write-ups
