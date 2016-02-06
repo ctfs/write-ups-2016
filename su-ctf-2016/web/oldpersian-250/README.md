@@ -32,4 +32,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/SharifCTF/Web3-oldpersian>
+* <http://gnoobz.com/sharif-ctf-2016-web-250-oldpersian.html>
+* <http://pastebin.com/csnbyaku>
