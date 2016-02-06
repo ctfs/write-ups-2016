@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://forum.xeksec.com/f25/t88611/?langid=1>
+* <https://ctftime.org/writeup/2402>
