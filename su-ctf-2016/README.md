@@ -5,12 +5,16 @@
 
 ## Completed write-ups
 
-* [forensics/we-lost-the-fashion-flag-100](forensics/we-lost-the-fashion-flag-100)
 * [forensics/kick-tort-teen-50](forensics/kick-tort-teen-50)
+* [forensics/we-lost-the-fashion-flag-100](forensics/we-lost-the-fashion-flag-100)
 
 ## External write-ups only
 
-* none yet
+* [crypto/rail-fence-cipher-50](crypto/rail-fence-cipher-50)
+* [forensics/dumped-100](forensics/dumped-100)
+* [misc/sec-coding-2-300](misc/sec-coding-2-300)
+* [web/oldpersian-250](web/oldpersian-250)
+* [web/technews-200](web/technews-200)
 
 ## Missing write-ups
 
@@ -18,12 +22,10 @@
 * [crypto/hail-zeus-300](crypto/hail-zeus-300)
 * [crypto/high-speed-rsa-keygen-150](crypto/high-speed-rsa-keygen-150)
 * [crypto/huge-250](crypto/huge-250)
-* [crypto/rail-fence-cipher-50](crypto/rail-fence-cipher-50)
 * [crypto/smooth-as-silk-200](crypto/smooth-as-silk-200)
 * [crypto/the-russian-attack-500](crypto/the-russian-attack-500)
 * [crypto/ure-100](crypto/ure-100)
 * [forensics/blocks-400](forensics/blocks-400)
-* [forensics/dumped-100](forensics/dumped-100)
 * [forensics/memdump-400](forensics/memdump-400)
 * [forensics/network-forensics-200](forensics/network-forensics-200)
 * [forensics/uagent-100](forensics/uagent-100)
@@ -31,7 +33,6 @@
 * [misc/hack-by-the-sound-200](misc/hack-by-the-sound-200)
 * [misc/impossible-game-300](misc/impossible-game-300)
 * [misc/sec-coding-1-100](misc/sec-coding-1-100)
-* [misc/sec-coding-2-300](misc/sec-coding-2-300)
 * [pwn/echo-200](pwn/echo-200)
 * [pwn/kiuar-200](pwn/kiuar-200)
 * [pwn/login-to-system-200](pwn/login-to-system-200)
@@ -45,6 +46,4 @@
 * [reverse/srm-50](reverse/srm-50)
 * [reverse/wincc-300](reverse/wincc-300)
 * [web/hackme-400](web/hackme-400)
-* [web/oldpersian-250](web/oldpersian-250)
 * [web/photoblog-100](web/photoblog-100)
-* [web/technews-200](web/technews-200)
