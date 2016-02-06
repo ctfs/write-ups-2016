@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/SharifCTF/Cryp1>
+* <https://www.youtube.com/watch?v=am-psraHQYw&feature=youtu.be>
