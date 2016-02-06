@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [forensics/we-lost-the-fashion-flag-100](forensics/we-lost-the-fashion-flag-100)
+* [forensics/kick-tort-teen-50](forensics/kick-tort-teen-50)
 
 ## External write-ups only
 
@@ -23,7 +24,6 @@
 * [crypto/ure-100](crypto/ure-100)
 * [forensics/blocks-400](forensics/blocks-400)
 * [forensics/dumped-100](forensics/dumped-100)
-* [forensics/kick-tort-teen-50](forensics/kick-tort-teen-50)
 * [forensics/memdump-400](forensics/memdump-400)
 * [forensics/network-forensics-200](forensics/network-forensics-200)
 * [forensics/uagent-100](forensics/uagent-100)
