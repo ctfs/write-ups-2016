@@ -72,4 +72,4 @@ And there's the flag!
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ctfs/write-ups-2016/tree/master/su-ctf-2016/forensics/kick-tort-teen-50>
