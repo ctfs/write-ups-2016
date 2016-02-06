@@ -7,7 +7,7 @@
 
 > Run it and capture the flag!
 > 
-> Download WinCC.exe
+> Download [WinCC.exe](WinCC3.exe)
 
 
 ## Write-up

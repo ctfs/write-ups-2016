@@ -5,7 +5,7 @@
 **Solves:** 48
 **Description:**
 
-> Hack me, please <http://ctf.sharif.edu:35455/chal/hackme/2aad034d9247f8e1/[login.php](./login.php)>
+> Hack me, please <http://ctf.sharif.edu:35455/chal/hackme/2aad034d9247f8e1/login.php>
 
 
 ## Write-up

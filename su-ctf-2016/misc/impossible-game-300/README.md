@@ -5,7 +5,7 @@
 **Solves:** 8
 **Description:**
 
-> Imposible Game <http://ctf.sharif.edu:38455/chal/img/[ImpossibleGame.html](./ImpossibleGame.html)>
+> Imposible Game <http://ctf.sharif.edu:38455/chal/img/ImpossibleGame.html>
 > 
 > Download [server.py](./server.py)
 
