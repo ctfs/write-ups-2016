@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [forensics/we-lost-the-fashion-flag-100](forensics/we-lost-the-fashion-flag-100)
 
 ## External write-ups only
 
@@ -27,7 +27,6 @@
 * [forensics/memdump-400](forensics/memdump-400)
 * [forensics/network-forensics-200](forensics/network-forensics-200)
 * [forensics/uagent-100](forensics/uagent-100)
-* [forensics/we-lost-the-fashion-flag-100](forensics/we-lost-the-fashion-flag-100)
 * [misc/asian-cheetah-50](misc/asian-cheetah-50)
 * [misc/hack-by-the-sound-200](misc/hack-by-the-sound-200)
 * [misc/impossible-game-300](misc/impossible-game-300)
