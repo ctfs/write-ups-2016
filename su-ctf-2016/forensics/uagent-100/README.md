@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.xil.se/post/sharifctf-2016-forensics-uagent-arturo182/>
