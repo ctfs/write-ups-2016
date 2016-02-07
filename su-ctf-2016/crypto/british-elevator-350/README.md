@@ -28,4 +28,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [http://hxp.io/blog/25](H4x0rPsch0rr)
