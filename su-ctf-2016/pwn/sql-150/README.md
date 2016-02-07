@@ -15,3 +15,6 @@
 ## Other write-ups and resources
 
 * <http://losfuzzys.github.io/writeup/2016/02/07/sharifctf2016-sql/>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-05-sharif/pwn_150_sql>
+* <https://ctf.rip/sharifctf-sql-150-point-pwn-challenge/>
+* <https://gist.github.com/djekmani/7ab77f261f1a4034d4d3>
