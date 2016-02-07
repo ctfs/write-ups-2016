@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://opcode.ninja/sharif-ctf-2016-network-forensics/#header>
