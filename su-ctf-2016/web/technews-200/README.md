@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://ctftime.org/writeup/2404>
+* [Spanish](https://blog.ka0labs.net/post/28/)
