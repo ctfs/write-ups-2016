@@ -35,3 +35,4 @@
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/SharifCTF/Web3-oldpersian>
 * <http://gnoobz.com/sharif-ctf-2016-web-250-oldpersian.html>
 * <http://pastebin.com/csnbyaku>
+* <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-web-250-old-persian-cuneiform-captcha-write-up/>

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-misc-100-sec-coding-1-write-up/>

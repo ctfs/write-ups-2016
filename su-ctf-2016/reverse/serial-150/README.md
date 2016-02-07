@@ -18,3 +18,4 @@
 
 * <https://www.xil.se/post/sharifctf-2016-re6-serial/>
 * <https://bannsecurity.com/index.php/home/10-ctf-writeups/29-sharif-university-ctf-2016-serial>
+* <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-reverse-150-serial-write-up/>
