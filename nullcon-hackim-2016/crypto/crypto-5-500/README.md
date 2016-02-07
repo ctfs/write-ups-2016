@@ -59,3 +59,4 @@ The flag is the name of the fighter jet: `Sukhoi Su-35`
 * <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/crypto_5#eng-version>
 * <http://h4ckx0re-ctf-crew.co.nf/2016/01/31/hackim-ctf-2016-crypto-5/>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176600.html)
+* <https://0x90r00t.com/2016/02/03/hackim-2016crypto-500-crypto-question-5-write-up/>

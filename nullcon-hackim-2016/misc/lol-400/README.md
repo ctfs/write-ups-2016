@@ -18,3 +18,4 @@
 
 * <https://github.com/raccoons-team/ctf/tree/master/2016-01-30-nullcon-hackim/misc_400_lol>
 * <https://github.com/tuvshuud/1up/blob/master/hackim2016/misc400.md>
+* <https://0x90r00t.com/2016/02/03/hackim-2016misc-400-lol-write-up/>
