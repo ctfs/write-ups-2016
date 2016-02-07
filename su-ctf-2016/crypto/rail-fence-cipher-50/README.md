@@ -19,3 +19,4 @@
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/SharifCTF/Cryp1>
 * <https://www.youtube.com/watch?v=am-psraHQYw&feature=youtu.be>
 * <https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-crypto-50-rail-fence-cipher-write-up/>
+* <http://cafelinux.info/articles/writeups-sharifctf-2016-rail-fence-cipher-crypto-50#ENG>
