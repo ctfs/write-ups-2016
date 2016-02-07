@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-misc-100-sec-coding-1-write-up/>
+* <http://losfuzzys.github.io/writeup/2016/02/07/sharifctf2016-sec-coding1/>
