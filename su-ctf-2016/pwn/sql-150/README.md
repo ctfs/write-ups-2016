@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://losfuzzys.github.io/writeup/2016/02/07/sharifctf2016-sql/>
