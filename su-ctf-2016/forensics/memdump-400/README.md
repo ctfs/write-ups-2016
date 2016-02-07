@@ -21,4 +21,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/raccoons-team/ctf/tree/master/2016-02-06-su-ctf/memdump-400>
+* <http://ctfwriteups.blogspot.in/2016/02/sharif-ctf-2016-memdump-forensics-400.html>
