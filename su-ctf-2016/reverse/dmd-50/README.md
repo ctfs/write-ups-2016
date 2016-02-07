@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://www.xil.se/post/sharifctf-2016-re-dmd-kbeckmann/>
+* <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-reverse-50-dmd-write-up/>

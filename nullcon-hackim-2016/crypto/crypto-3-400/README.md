@@ -41,3 +41,4 @@ Ktzrjû_knN^yj/!IÑØxdjb6B h@,Ab.$yc,{cA}ÑÓ@&x[lj ckibrar9sg
 * <https://www.xil.se/post/hackim-2016-crypto-3-arturo182/>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/HackIM/crypto-3.md#nullcon-hackim-crypto-question-3>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176542.html)
+* <https://0x90r00t.com/2016/02/03/hackim-2016crypto-400-crypto-question-3-write-up/>

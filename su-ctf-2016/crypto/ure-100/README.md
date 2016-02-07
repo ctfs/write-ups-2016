@@ -15,3 +15,5 @@
 ## Other write-ups and resources
 
 * none yet
+
+* <https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-crypto-100-rail-fence-cipher-write-up/>

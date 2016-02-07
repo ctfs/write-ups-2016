@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-reverse-100-android-app-write-up/>

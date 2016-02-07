@@ -26,3 +26,4 @@ Afterwards we can throw the first sentence of the plaintext into Google Books, w
 * <https://github.com/Team-Sportsball/CTFs-2016/blob/master/nullcon-hackim-2016/crypto_2/crypto_2.md>
 * <https://github.com/Desiprox/NullCon-2016/tree/master/crypto_2>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176509.html)
+* <https://0x90r00t.com/2016/02/03/hackim-2016crypto-400-crypto-question-2-write-up/>

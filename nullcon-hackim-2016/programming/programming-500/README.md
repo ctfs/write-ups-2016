@@ -22,3 +22,4 @@
 * <https://www.xil.se/post/hackim-2016-programming-5-arturo182/>
 * <http://ctf.s4thi5h.com/nullcon-hackim-2016-ctf-programming/>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176464.html)
+* <https://0x90r00t.com/2016/02/03/hackim-2016programming-500-programming-question-5-write-up/>

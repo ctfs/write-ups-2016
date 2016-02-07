@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-misc-50-asian-cheetah-write-up/>

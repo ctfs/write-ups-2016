@@ -73,3 +73,4 @@ And there's the flag!
 ## Other write-ups and resources
 
 * <https://github.com/ctfs/write-ups-2016/tree/master/su-ctf-2016/forensics/kick-tort-teen-50>
+* <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-forensic-50-kick-tort-teen-write-up/>

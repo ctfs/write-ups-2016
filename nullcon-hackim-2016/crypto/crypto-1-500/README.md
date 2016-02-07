@@ -46,4 +46,5 @@ And with the risky click of the day we visit the link and see the following head
 * <http://h4ckx0re-ctf-crew.co.nf/2016/01/31/hackim-ctf-2016-crypto-1/>
 * <http://www.cnblogs.com/Christmas/p/5176496.html>
 * <https://github.com/Team-Sportsball/CTFs-2016/blob/master/nullcon-hackim-2016/crypto%201/crypto_1.md>
-* >https://github.com/Desiprox/NullCon-2016/tree/master/crypto_1>
+* <https://github.com/Desiprox/NullCon-2016/tree/master/crypto_1>
+* <https://0x90r00t.com/2016/02/03/hackim-2016crypto-500-crypto-question-1-write-up/>
