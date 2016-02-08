@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://ctftime.org/writeup/2395>
+* <https://github.com/tuvshuud/1up/blob/master/SharifCTF2016/photoblog100/README.md>
