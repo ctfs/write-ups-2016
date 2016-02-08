@@ -1,7 +1,7 @@
 # EFF Capture the Flag @ Enigma 2016
 
 * <https://eff-ctf.org/>
-* [Scoreboard](https://eff-ctf.org/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://eff-ctf.org/scoreboard) or [score](score.txt)
 
 ## Completed write-ups
 
