@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * [Korean](https://github.com/tyhan/CTF/tree/master/SharifCTF2016/High-speed_RSA_Keygen)
+* https://gist.github.com/elliptic-shiho/4e3d6bac91a032cc6f20
