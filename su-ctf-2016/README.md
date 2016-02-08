@@ -13,6 +13,7 @@
 * [crypto/british-elevator-350](crypto/british-elevator-350)
 * [crypto/hail-zeus-300](crypto/hail-zeus-300)
 * [crypto/high-speed-rsa-keygen-150](crypto/high-speed-rsa-keygen-150)
+* [crypto/huge-250](crypto/huge-250)
 * [crypto/rail-fence-cipher-50](crypto/rail-fence-cipher-50)
 * [forensics/blocks-400](forensics/blocks-400)
 * [forensics/dumped-100](forensics/dumped-100)
@@ -39,7 +40,6 @@
 
 ## Missing write-ups
 
-* [crypto/huge-250](crypto/huge-250)
 * [crypto/smooth-as-silk-200](crypto/smooth-as-silk-200)
 * [crypto/the-russian-attack-500](crypto/the-russian-attack-500)
 * [crypto/ure-100](crypto/ure-100)
