@@ -29,3 +29,4 @@
 ## Other write-ups and resources
 
 * [H4x0rPsch0rr](http://hxp.io/blog/25/)
+* https://gist.github.com/elliptic-shiho/e76e7c2a2aff228d7807
