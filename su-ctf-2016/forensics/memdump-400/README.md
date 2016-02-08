@@ -23,3 +23,4 @@
 
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-06-su-ctf/memdump-400>
 * <http://ctfwriteups.blogspot.in/2016/02/sharif-ctf-2016-memdump-forensics-400.html>
+* <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-forensic-400-memdump-write-up/>
