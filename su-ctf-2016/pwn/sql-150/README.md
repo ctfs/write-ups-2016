@@ -18,3 +18,4 @@
 * <https://github.com/p4-team/ctf/tree/master/2016-02-05-sharif/pwn_150_sql>
 * <https://ctf.rip/sharifctf-sql-150-point-pwn-challenge/>
 * <https://gist.github.com/djekmani/7ab77f261f1a4034d4d3>
+* <https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/pwn/SQL.md>
