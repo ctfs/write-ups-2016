@@ -11,6 +11,7 @@
 * [crypto/crypto-4-200](crypto/crypto-4-200)
 * [crypto/crypto-5-500](crypto/crypto-5-500)
 * [trivia/trivia-300](trivia/trivia-300)
+* [web/luhn-300](web/luhn-300)
 * [web/smashthestate-400](web/smashthestate-400)
 * [web/unickle-200](web/unickle-200)
 
@@ -44,4 +45,3 @@
 * [forensics/payload-delivers-fantastic-300](forensics/payload-delivers-fantastic-300)
 * [forensics/peepingtom-400](forensics/peepingtom-400)
 * [misc/calligraphy-100](misc/calligraphy-100)
-* [web/luhn-300](web/luhn-300)
