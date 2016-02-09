@@ -1,7 +1,7 @@
 # Sharif University CTF 2016 write-ups
 
 * <http://ctf.sharif.edu/2016/>
-* [Scoreboard](http://ctf.sharif.edu/2016/panel/scoreboard/) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://ctf.sharif.edu/2016/panel/scoreboard/) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
