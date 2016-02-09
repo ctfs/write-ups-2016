@@ -16,3 +16,4 @@
 
 * <https://ctftime.org/writeup/2395>
 * <https://github.com/tuvshuud/1up/blob/master/SharifCTF2016/photoblog100/README.md>
+* <https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/web/PhotoBlog.md>
