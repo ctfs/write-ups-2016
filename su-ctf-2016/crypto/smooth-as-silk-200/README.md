@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.cnblogs.com/Christmas/p/5185512.html>
+* <https://github.com/BatmansKitchen/ctf-writeups/tree/master/2016-sharifctf>
