@@ -21,3 +21,4 @@
 * <https://www.xil.se/post/sharifctf-2016-pwn-login/>
 * <http://losfuzzys.github.io/writeup/2016/02/07/sharifctf2016-Login-to-system/>
 * <http://www.cnblogs.com/Christmas/p/5184665.html>
+* <http://opcode.ninja/sharif-ctf-2016-login-to-system-pwn-200/#header>
