@@ -8,7 +8,7 @@
 > Recover the hidden data.
 > 
 > 
-> [f200](./f200)
+> [f200](https://mega.nz/#!6R9mXbxC)
 
 
 ## Write-up

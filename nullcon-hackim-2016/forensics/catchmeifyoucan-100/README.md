@@ -8,7 +8,7 @@
 > We got this log which is highly compressed. Find the intruder's secret.
 > 
 > 
-> [f100](./f100)
+> [f100](https://mega.nz/#!CI8imZQR)
 
 
 ## Write-up
