@@ -12,7 +12,7 @@
 > 
 > 5226ba338e9e889a2122eaea9d4980e6
 > 
-> Download [memdump2.xz](./memdump2.xz)
+> Download [memdump2.xz](https://mega.nz/#!PEMnDDhR)
 
 
 ## Write-up
