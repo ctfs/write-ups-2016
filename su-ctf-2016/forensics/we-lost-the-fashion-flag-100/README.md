@@ -84,3 +84,4 @@ Flag: SharifCTF{2b9cb0a67a536ff9f455de0bd729cf57}
 * <https://github.com/gtoubassi/femtozip>
 * <https://www.xil.se/post/sharifctf-2016-forensics-fashion-flag-arturo182/>
 * <https://github.com/ctfs/write-ups-2016/tree/master/su-ctf-2016/forensics/we-lost-the-fashion-flag-100>
+* <https://0x90r00t.com/2016/02/09/sharif-university-ctf-2016-forensic-100-we-lost-the-fashion-flag-write-up/>
