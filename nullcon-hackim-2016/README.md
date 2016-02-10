@@ -1,7 +1,7 @@
 # nullcon HackIM write-ups
 
 * <http://ctf.nullcon.net/>
-* [Scoreboard](http://ctf.nullcon.net/scoreboard.php) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://ctf.nullcon.net/scoreboard.php) or [score](score.txt)
 
 ## Completed write-ups
 
