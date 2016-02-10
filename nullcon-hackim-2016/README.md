@@ -42,6 +42,8 @@
 
 ## Missing write-ups
 
+* [exploitation/exploitation-400](exploitation/exploitation-400)
+* [forensics/file-and-folders-500](forensics/file-and-folders-500)
 * [forensics/payload-delivers-fantastic-300](forensics/payload-delivers-fantastic-300)
 * [forensics/peepingtom-400](forensics/peepingtom-400)
 * [misc/calligraphy-100](misc/calligraphy-100)
