@@ -1,6 +1,6 @@
 # Break In 2016 - Oops
 
-**Category:** web
+**Category:** Web
 **Points:** 50
 **Solves:** 35
 **Description:**
@@ -29,5 +29,4 @@ Which is the flag.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

@@ -1,6 +1,6 @@
 # Break In 2016 - Ethernet Patched Transmission
 
-**Category:** networking
+**Category:** Networking
 **Points:** 200
 **Author:** networ-k-ing
 **Solves:** 6
@@ -91,5 +91,4 @@ Packet syntax:
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

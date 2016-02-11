@@ -5,18 +5,21 @@
 
 ## Completed write-ups
 
-* [Knock Knock](Knock Knock)
-* [Eighth Circles of Hell](Eighth Circles of Hell)
-* [Ethernet Patched Transmission](Ethernet Patched Transmission)
-* [Crypto-Numbero](Crypto-Numbero)
-* [Go To The Scoreboard](Go To The Scoreboard)
-* [Three Thieves Threw Trumpets Through Trees](Three Thieves Threw Trumpets Through Trees)
-* [Find The Idiot](Find The Idiot)
-* [Bots are Awesome!](Bots are Awesome!)
-* [Oops](Oops)
-* [You Can\(t\) See Me](You Can\(t\) See Me)
+* [crypto/crypto-numbero-100](crypto/crypto-numbero-100)
+* [forensics/find-the-idiot-100](forensics/find-the-idiot-100)
+* [misc/bot-are-awesome-100](misc/bot-are-awesome-100)
+* [networking/ethernet-patched-transmission-200](networking/ethernet-patched-transmission-200)
+* [networking/knock-knock-200](networking/knock-knock-200)
+* [steganography/eighth-circles-of-hell-200](steganography/eighth-circles-of-hell-200)
+* [steganography/make-pair-200](steganography/make-pair-200)
+* [steganography/three-thieves-threw-thrumpets-through-trees-100](steganography/three-thieves-threw-thrumpets-through-trees-100)
+* [steganography/you-cant-see-me-100](steganography/you-cant-see-me-100)
+* [web/go-to-the-scoreboard-20](web/go-to-the-scoreboard-20)
+* [web/i-have-the-power-100](web/i-have-the-power-100)
+* [web/oops-50](web/oops-50)
+
+## External write-ups only
+
+* none yet
 
 ## Missing write-ups
-
-* [I have the power](I have the power)
-* [make_pair](make_pair)

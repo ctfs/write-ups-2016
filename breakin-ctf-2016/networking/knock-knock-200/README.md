@@ -1,6 +1,6 @@
 # Break In 2016 - Knock Knock
 
-**Category:** networking
+**Category:** Networking
 **Points:** 200
 **Author:** ParthKolekar
 **Solves:** 5
@@ -33,5 +33,4 @@ Which is our flag.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

@@ -1,6 +1,6 @@
 # Break In 2016 - Find The Idiot
 
-**Category:** forensics
+**Category:** Forensics
 **Points:** 100
 **Solves:** 90
 **Description:**
@@ -27,5 +27,4 @@ The flag is `dragon1`.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

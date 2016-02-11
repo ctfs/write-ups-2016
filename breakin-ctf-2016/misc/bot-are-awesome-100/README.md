@@ -40,5 +40,4 @@ Which is the flag.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

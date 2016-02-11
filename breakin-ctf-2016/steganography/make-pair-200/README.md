@@ -1,6 +1,6 @@
 # Break In 2016 - make_pair
 
-**Category:** stegno
+**Category:** Steganography
 **Points:** 200
 **Solves:** 5
 **Description:**
@@ -15,5 +15,4 @@
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

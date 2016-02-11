@@ -1,6 +1,6 @@
 # Break In 2016 - Go To The Scoreboard
 
-**Category:** web
+**Category:** Web
 **Points:** 20
 **Solves:** 127
 **Description:**
@@ -17,5 +17,4 @@ Enter the flag, and you are good to go.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

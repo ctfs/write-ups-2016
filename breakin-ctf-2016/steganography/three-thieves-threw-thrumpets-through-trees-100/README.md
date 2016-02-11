@@ -1,6 +1,6 @@
 # Break In 2016 - Three Thieves Threw Trumpets Through Trees
 
-**Category:** stegno
+**Category:** Steganography
 **Points:** 100
 **Solves:** 70
 **Description:**
@@ -21,5 +21,4 @@ The title is a tongue twister and hints that the content is audio.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

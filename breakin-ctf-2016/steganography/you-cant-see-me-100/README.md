@@ -1,6 +1,6 @@
 # Break In 2016 - You Can(t) See Me
 
-**Category:** stegno
+**Category:** Steganography
 **Points:** 100
 **Solves:** 80
 **Description:**
@@ -28,5 +28,4 @@ This is the flag.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

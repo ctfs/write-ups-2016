@@ -1,6 +1,6 @@
 # Break In 2016 - Eighth Circles of Hell
 
-**Category:** stegno
+**Category:** Steganography
 **Points:** 200
 **Solves:** 17
 **Description:**
@@ -40,5 +40,4 @@ The flag is `dafuck_how_did_you_find_this!`
 
 # Other write-ups and resources 
 
-* None
-
+* none yet

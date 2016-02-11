@@ -1,6 +1,6 @@
 # Break In 2016 - Crypto-Numbero
 
-**Category:** crypto
+**Category:** Crypto
 **Points:** 100
 **Solves:** 7
 **Description:**
@@ -56,5 +56,4 @@ Which is the flag.
 
 # Other write-ups and resources 
 
-* None
-
+* none yet
