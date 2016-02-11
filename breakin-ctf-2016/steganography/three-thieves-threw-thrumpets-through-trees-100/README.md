@@ -21,4 +21,5 @@ The title is a tongue twister and hints that the content is audio.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://h4ckx0re-ctf-crew.co.nf/2016/01/27/break-in-2016-ctf-three-thieves-threw-trumpets-through-trees-100-pts/>
+* <https://github.com/objEEdump/breakin/tree/master/three_thieves>
