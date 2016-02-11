@@ -7,7 +7,7 @@
 
 > If you aren't on the Score Board this question is for you! :D
 
-# Write-up
+## Write-up
 
 The question had a html comment in the source of the page
 
@@ -15,6 +15,6 @@ The question had a html comment in the source of the page
 
 Enter the flag, and you are good to go. 
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

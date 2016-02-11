@@ -9,10 +9,10 @@
 > 
 > ![Attached Image](image.jpg)
 
-# Write-up
+## Write-up
 
 (TODO)
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

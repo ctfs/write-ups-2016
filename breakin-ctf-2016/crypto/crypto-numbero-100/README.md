@@ -7,7 +7,7 @@
 
 > 249929761157732020161556121009125440871694502549075144988219699324612968709313502340276966732128645621282888705508840858566948023130606222964801977446316823159281256329353559220858509063084671505269932006162189731434947807072043095879259154468002856960
 
-# Write-up
+## Write-up
 
 In this question the number given was a double type. So all one had to do 
 was to understand this part and after that it was just scanning and printing 
@@ -54,6 +54,6 @@ On running the number via this you get
 
 Which is the flag.
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

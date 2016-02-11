@@ -36,7 +36,7 @@
 >     0x0030:  38 90 18 79 00 00 02 04 05 b4 04 02 08 0a 53 e3
 >     0x0040:  8e e8 ?? ?? ?? ?? 01 03 03 07
 
-# Write-up
+## Write-up
 
 In this question 4 packets were given initially out of which one 
 packet had some hex bytes missing. So the first step should be to 
@@ -89,6 +89,6 @@ Packet syntax:
     [45 00 00 (Type of Service-TOS) 3c (a6 65) identification 40 00 (40) TTL (06) protocol_tcp (4a 23) header-checksum (0a 01 21 c8) src-ipv4 (0a 04 14 67) dest-ipv4 ]IP_LAYER 
     [(ad 2c) src-port (1f 90) dest-port (ca 72 ea 9d) seq-no (00 00 00 00) ack-no a0 (02) tcp-flags (syn in this case) (72 10) window_size (bb 90) checksum (00 00) urgent-pointer (02 04 05 b4 04 02 08 (kind-timestamp) 0a (length-10) (01 66 4c f8) TSval (00 00 00 00) TSecr 01 03 03 07) options] TCP_LAYER
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

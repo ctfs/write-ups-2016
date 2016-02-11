@@ -14,7 +14,7 @@
 > Hint: Like the base, it DROP
 > Hint: A key port involved with this question is 1XXX.
 
-# Write-up
+## Write-up
 
 The solution of this is to send a tcp packet to port 1143. This changes
 the state of the web-server, and then you send a request to 
@@ -27,10 +27,10 @@ This prints out
 
 Which is our flag.
 
-# Extended Write-up
+## Extended Write-up
 
 (TODO)
 
-# Other write-ups and resources 
+# Other write-ups and resources
 
 * none yet

@@ -11,7 +11,7 @@
 > 
 > ![Attached Image](eighthcircleofhell.png)
 
-# Write-up
+## Write-up
 
 The title has a hint towards the content of the strange image attached. 
 Eight Circles of Hell is the name given to Malbolge after its crazy twisted
@@ -38,6 +38,6 @@ We now pass it via a Malbolge intepreter.
 
 The flag is `dafuck_how_did_you_find_this!`
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

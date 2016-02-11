@@ -8,7 +8,7 @@
 >     <style></style> (this line is escaped)
 >     <script src="https://felicity.iiit.ac.in/contest/breakin/static/jquery.min.js"></script>
 
-# Write-up
+## Write-up
 
 The content of the attached jquery.min.js has a line attached to it in the bottom. 
 This line does 
@@ -27,6 +27,6 @@ On applying the split, slice, and join we end up with
 
 Which is the flag.
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

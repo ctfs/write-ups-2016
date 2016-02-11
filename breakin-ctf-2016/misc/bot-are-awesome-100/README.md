@@ -7,7 +7,7 @@
 
 > Aren't they awesome ! 
 
-# Write-up
+## Write-up
 
 The bot in question was on the IRC channel. The bot was an instance 
 of goircbot named teehee bot. The bot would respond to all queries of 
@@ -38,6 +38,6 @@ On giving the bot this command the bot replies with
 
 Which is the flag.
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

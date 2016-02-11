@@ -7,7 +7,7 @@
 
 > Link: [Here](image1.jpg)
 
-# Write-up
+## Write-up
 
 The question contains a link to an `image` which is not an image at all.
 `file` command show that it is actually a wav file. 
@@ -19,6 +19,6 @@ The password goes in reference to the Felicity '16 theme "Where magic happens".
 
 The title is a tongue twister and hints that the content is audio. 
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

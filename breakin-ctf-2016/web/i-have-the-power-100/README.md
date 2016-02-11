@@ -9,10 +9,10 @@
 >
 > (Right Places is a link to the contest page)
 
-# Write-up
+## Write-up
 
 (TODO)
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet

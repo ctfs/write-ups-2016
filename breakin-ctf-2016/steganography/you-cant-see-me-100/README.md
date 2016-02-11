@@ -13,7 +13,7 @@
 >
 > ![Attached Image](color.png)
 
-# Write-up
+## Write-up
 
 The image of is 7 x 200 pixels. This is a hint to show that it mst be an ascii text where
 each pixel is actually a bit of the 8-bit ascii. 
@@ -26,6 +26,6 @@ On reading this, we get a text
 
 This is the flag.
 
-# Other write-ups and resources 
+## Other write-ups and resources
 
 * none yet
