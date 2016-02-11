@@ -40,4 +40,4 @@ The flag is `dafuck_how_did_you_find_this!`
 
 ## Other write-ups and resources
 
-* none yet
+* <https://takt0rs.wordpress.com/2016/01/25/break-in-2106-eighth-circle-of-hell/>
