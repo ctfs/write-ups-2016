@@ -33,4 +33,4 @@ The flag is `dragon1`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/objEEdump/breakin/tree/master/find_the_idiot>
