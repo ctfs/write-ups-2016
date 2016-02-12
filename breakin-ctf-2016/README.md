@@ -1,7 +1,7 @@
 # breakin-ctf write-ups
 
 * <https://felicity.iiit.ac.in/threads/breakin/>
-* [Scoreboard](https://felicity.iiit.ac.in/threads/breakin/) or [local alternative](scoreboard.txt)
+* [Scoreboard](https://felicity.iiit.ac.in/threads/breakin/) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
