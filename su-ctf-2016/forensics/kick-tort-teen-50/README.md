@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [jashanbhoora](https://github.com/jashanbhoora)
+
 Upon opening the Excel file we are given, we are presented with a 23x14747 spreadsheet of integers.
 I notice the Excel warning that Macros have been disabled, so I open the Macro Editor (Alt + F11) and find the following macro.
 

@@ -12,6 +12,8 @@
 
 ## Write-up
 
+by [jashanbhoora](https://github.com/jashanbhoora)
+
 We are given a single file for the challenge: `fashion.tar.gz`
 
 ```
