@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 The title has a hint towards the content of the strange image attached. 
 Eight Circles of Hell is the name given to Malbolge after its crazy twisted
 syntax, preventing all but the most dedicated to write code in it. 

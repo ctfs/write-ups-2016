@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 The question contains a link to an `image` which is not an image at all.
 `file` command show that it is actually a wav file. 
 

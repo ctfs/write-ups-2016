@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 The bot in question was on the IRC channel. The bot was an instance 
 of goircbot named teehee bot. The bot would respond to all queries of 
 the form

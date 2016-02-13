@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 The request handler source code (in python) is as follows
 
     def is_power2(num):

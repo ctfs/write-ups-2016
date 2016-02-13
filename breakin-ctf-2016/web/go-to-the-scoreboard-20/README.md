@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 The question had a html comment in the source of the page
 
     <!-- the flag is #breakin -->

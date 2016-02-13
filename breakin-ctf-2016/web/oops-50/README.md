@@ -10,6 +10,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 The content of the attached jquery.min.js has a line attached to it in the bottom. 
 This line does 
     

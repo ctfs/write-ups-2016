@@ -23,6 +23,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 This is a straight forward question. You are given a zip file containing the
 entire filesystem dumps for the users. You have to run a dictionary attack on the
 shadow file.

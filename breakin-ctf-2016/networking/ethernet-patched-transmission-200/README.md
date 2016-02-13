@@ -38,6 +38,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 In this question 4 packets were given initially out of which one 
 packet had some hex bytes missing. So the first step should be to 
 decode/analyse the given packets in a packet decoder/analyser like 

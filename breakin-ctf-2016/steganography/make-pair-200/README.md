@@ -11,6 +11,8 @@
 
 ## Write-up
 
+by [ParthKolekar](https://github.com/ParthKolekar)
+
 As the question suggests, if you add the rainbow (R, G, B components of the image), and you 
 get a couple (even pairity), then you are good to go, else you need one more (mark it odd pairity).
 
