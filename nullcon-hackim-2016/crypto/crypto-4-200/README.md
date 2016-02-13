@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [steelsoldat](https://github.com/steelsoldat)
+
 Opening the file attatched leads to a list of MD5 hashes. After running them through a rainbow table they come out to the following
 * d80517c8069d7702d8fdd89b64b4ed3b : Carrie
 * 088aed904b5a278342bba6ff55d0b3a8 : Grease

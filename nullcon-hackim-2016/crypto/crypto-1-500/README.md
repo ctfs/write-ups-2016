@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [steelsoldat](https://github.com/steelsoldat)
+
 From the description it can be deduced that this is probably a XOR challenge. Since we are given the Heartclear and Heartcrypt files XORing the crypt with the plaintext gives us the following key:
 
 ```

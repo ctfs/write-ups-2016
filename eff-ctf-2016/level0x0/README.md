@@ -8,6 +8,8 @@
 
 ## Write-up
 
+by [LiveOverflow](https://github.com/LiveOverflow)
+
 When we visit the website we get redirected to: https://level0x0.eff-ctf.org/home/M1k3y
 
 We see that we have an unread message from the "Us Department of National Security": https://level0x0.eff-ctf.org/user/M1k3y/message/1

@@ -13,7 +13,7 @@
 
 ## Write-up
 
-**by lanjelot**
+by [lanjelot](https://github.com/lanjelot)
 
 The website consists of only one form that POSTs the `cc` parameter.
 

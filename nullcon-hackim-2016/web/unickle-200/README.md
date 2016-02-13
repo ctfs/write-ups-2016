@@ -14,7 +14,7 @@
 
 ## Write-up
 
-**by d1rt**
+by d1rt
 
 Immediately on visiting the target URL you're greeted with a list of "objects", each has an id.
 

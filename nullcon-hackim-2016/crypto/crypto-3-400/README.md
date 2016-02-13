@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [steelsoldat](https://github.com/steelsoldat)
+
 Crypto 3: We're given a text file that we can't read 'AncientSecretsOfTheKamaSutra.txt'
 
 Upon googling the name of the text file we *come* up with a 1997 Adult Film.

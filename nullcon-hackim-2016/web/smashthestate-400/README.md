@@ -15,9 +15,10 @@
 > <http://54.152.101.3/>
 
 [index.php](./index.php)
+
 ## Write-up
 
-**by d1rt**
+by d1rt
 
 Logging into the server with the `rob:smashthestate` combo takes you to a form that promises to allow you to upload and confirm zip file contents, if you upload a zip file containing a directory you'll be given an error from the `cat` command printed on screen.
 

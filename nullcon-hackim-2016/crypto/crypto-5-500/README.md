@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [unicornasfuel](https://github.com/unicornsasfuel)
+
 crypto5.zip contains two files: `warrior.txt` and `all_keys.txt`.
 
 The keys are all RSA public keys, in ASCII-armored format. They are all the same keylength, and as such occupy the same number of lines in the file per key, making it easy to carve out each key. As there are only 50 keys, we can use an exhaustive search method to determine which is the correct key, attempting to decrypt the ciphertext with each one.
