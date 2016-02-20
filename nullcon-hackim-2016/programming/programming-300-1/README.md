@@ -20,4 +20,5 @@
 * <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/recon_2#eng-version>
 * <https://www.youtube.com/watch?v=aaaeuM8_4nM&feature=youtu.be>
 * <http://ctf.s4thi5h.com/nullcon-hackim-2016-ctf-programming/>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/HackIM/programming.md>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176413.html)
