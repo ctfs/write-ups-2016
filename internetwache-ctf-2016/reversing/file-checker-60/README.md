@@ -20,3 +20,4 @@
 * <http://www.codehead.co.uk/internetwache-ctf-2016-file-checker-reversing-60-points/>
 * <https://www.xil.se/post/internetwache-2016-rev60-kbeckmann/>
 * <https://github.com/Kileak/CTF/tree/master/2016/internetwache/rev/filechecker>
+* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-reverse-60-file-checker-write-up/>
