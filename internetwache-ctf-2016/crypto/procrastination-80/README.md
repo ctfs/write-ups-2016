@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.xil.se/post/internetwache-2016-crypto-80-arturo182/>

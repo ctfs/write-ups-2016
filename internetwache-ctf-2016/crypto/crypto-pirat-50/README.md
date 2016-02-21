@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/0xbkth/ctf/blob/master/IW/coding90/writeup.md>

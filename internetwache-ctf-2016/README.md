@@ -15,6 +15,10 @@
 * [code/brute-with-force-80](code/brute-with-force-80)
 * [code/dark-forest-90](code/dark-forest-90)
 * [code/its-prime-time-60](code/its-prime-time-60)
+* [crypto/bank-90](crypto/bank-90)
+* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
+* [crypto/hashdesigner-70](crypto/hashdesigner-70)
+* [crypto/procrastination-80](crypto/procrastination-80)
 * [exploit/flagstore-70](exploit/flagstore-70)
 * [exploit/rubys-count-50](exploit/rubys-count-50)
 * [exploit/sh-ock-90](exploit/sh-ock-90)
@@ -34,11 +38,7 @@
 
 ## Missing write-ups
 
-* [crypto/bank-90](crypto/bank-90)
-* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
-* [crypto/hashdesigner-70](crypto/hashdesigner-70)
 * [crypto/oh-bob-60](crypto/oh-bob-60)
-* [crypto/procrastination-80](crypto/procrastination-80)
 * [exploit/equationsolver-60](exploit/equationsolver-60)
 * [exploit/remote-printer-80](exploit/remote-printer-80)
 * [misc/quick-run-60](misc/quick-run-60)
