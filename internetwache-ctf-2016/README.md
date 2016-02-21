@@ -6,16 +6,16 @@
 
 ## Completed write-ups
 
+* [code/a-numbers-game-2-70](code/a-numbers-game-2-70)
+* [code/a-numbers-game-50](code/a-numbers-game-50)
+* [code/its-prime-time-60](code/its-prime-time-60)
 * [crypto/hashdesigner-70](crypto/hashdesigner-70)
 * [reversing/eso-tape-80](reversing/eso-tape-80)
 
 ## External write-ups only
 
-* [code/a-numbers-game-2-70](code/a-numbers-game-2-70)
-* [code/a-numbers-game-50](code/a-numbers-game-50)
 * [code/brute-with-force-80](code/brute-with-force-80)
 * [code/dark-forest-90](code/dark-forest-90)
-* [code/its-prime-time-60](code/its-prime-time-60)
 * [crypto/bank-90](crypto/bank-90)
 * [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
 * [crypto/procrastination-80](crypto/procrastination-80)
