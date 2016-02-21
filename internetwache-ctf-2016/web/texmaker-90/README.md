@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/web90>
