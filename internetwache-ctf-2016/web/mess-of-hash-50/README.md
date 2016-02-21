@@ -21,3 +21,4 @@
 ## Other write-ups and resources
 
 * <https://forum.xeksec.com/f138/t88657/>
+* <https://www.xil.se/post/internetwache-2016-web-50-simonvik/>

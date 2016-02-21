@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/web70>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/web_70>
