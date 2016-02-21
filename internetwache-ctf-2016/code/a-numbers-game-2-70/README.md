@@ -78,3 +78,4 @@ while True:
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_70>
+* <https://github.com/Kileak/CTF/tree/master/2016/internetwache/code/numbersgame>

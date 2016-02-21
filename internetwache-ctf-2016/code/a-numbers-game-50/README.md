@@ -42,3 +42,4 @@ Flag is `IW{M4TH_1S_34SY}` (not that it really matters now)
 
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-code-50-a-numbers-game-write-up/>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_50>
+* <https://github.com/Kileak/CTF/tree/master/2016/internetwache/code/numbersgame>
