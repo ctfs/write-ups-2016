@@ -10,7 +10,7 @@
 
 ## External write-ups only
 
-* none yet
+* [reversing/eso-tape-80](reversing/eso-tape-80)
 
 ## Missing write-ups
 
@@ -34,7 +34,6 @@
 * [misc/quick-run-60](misc/quick-run-60)
 * [misc/rock-with-the-wired-shark-70](misc/rock-with-the-wired-shark-70)
 * [misc/the-hidden-message-50](misc/the-hidden-message-50)
-* [reversing/eso-tape-80](reversing/eso-tape-80)
 * [reversing/file-checker-60](reversing/file-checker-60)
 * [reversing/serverfarm-70](reversing/serverfarm-70)
 * [reversing/spim-50](reversing/spim-50)
