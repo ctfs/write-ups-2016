@@ -16,7 +16,7 @@
 
 ## Write-up
 
-Writeup by [unicornsasfuel](/unicornsasfuel)
+Writeup by [unicornsasfuel](https://github.com/unicornsasfuel)
 
 We are presented with a custom hash algorithm, one which, upon playing with it, results in a lot of collisions through pure brute force attempts. Contrary to the description, which suggests that neither brute force nor collisions will be effective, this is a very viable route to the solution.
 
