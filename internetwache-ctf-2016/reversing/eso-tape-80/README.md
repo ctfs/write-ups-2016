@@ -13,8 +13,26 @@
 
 ## Write-up
 
-(TODO)
+We are given just one file in the challenge ZIP: `priner.tb`
+
+Opening the file, we are presented with a wonderous mix of #, %, +, -, &, * and & symbols. Given this, plus the name of the challenge and the name/extension of the file, I assumed this is some sort of esoteric language, so I found my way to [esolangs.org's language list](http://esolangs.org/wiki/Language_list) and started investigating.
+
+Considering the challenge name Eso **Tape**, I guessed the t in .tb might also stand for tape. I searched for "tape" on the language list page, and found what I was looking for in the third match: [TapeBagel](http://esolangs.org/wiki/TapeBagel).
+
+The TapeBagel wiki entry details the action each block of characters performs on the program state, however I was unable to find an interpreter I could run on the challenge file. I was (un)lucky enough to be working on this challenge before the hints for it were released, which stated "Interpreters don't help. Operations write to the current index.", which implies that the activity the program performs might be simple enough to work out by hand.......
+
+Instead, I implemented an *extremely* simple (don't judge, it's for a CTF!) TapeBagel interpreter in Python, which I've made available [here](https://github.com/jashanbhoora/TapeBagel-Interpreter)
+
+So! Running the file we are given through my interpreter outputs the string "IW ILOVETAPEBAGEL ".
+
+Replacing the spaces with braces, we get our flag!
+I really enjoyed this challenge! Kudos to the creator!
+
+Flag: **IW{ILOVETAPEBAGEL}**
 
 ## Other write-ups and resources
 
-* none yet
+[esolangs.org's language list](http://esolangs.org/wiki/Language_list)
+[TapeBagel](http://esolangs.org/wiki/TapeBagel)
+[TapeBagel Interpreter](https://github.com/jashanbhoora/TapeBagel-Interpreter)
+
