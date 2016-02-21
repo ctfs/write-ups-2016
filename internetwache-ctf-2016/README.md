@@ -12,6 +12,7 @@
 
 * [code/a-numbers-game-50](code/a-numbers-game-50)
 * [code/its-prime-time-60](code/its-prime-time-60)
+* [exploit/rubys-count-50](exploit/rubys-count-50)
 * [misc/404-flag-not-found-80](misc/404-flag-not-found-80)
 * [misc/barparty-90](misc/barparty-90)
 * [misc/rock-with-the-wired-shark-70](misc/rock-with-the-wired-shark-70)
@@ -33,7 +34,6 @@
 * [exploit/equationsolver-60](exploit/equationsolver-60)
 * [exploit/flagstore-70](exploit/flagstore-70)
 * [exploit/remote-printer-80](exploit/remote-printer-80)
-* [exploit/rubys-count-50](exploit/rubys-count-50)
 * [exploit/sh-ock-90](exploit/sh-ock-90)
 * [misc/quick-run-60](misc/quick-run-60)
 * [misc/the-hidden-message-50](misc/the-hidden-message-50)
