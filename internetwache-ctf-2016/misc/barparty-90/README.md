@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-90-barparty-write-up/>
