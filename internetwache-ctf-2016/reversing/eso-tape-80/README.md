@@ -32,7 +32,8 @@ Flag: **IW{ILOVETAPEBAGEL}**
 
 ## Other write-ups and resources
 
+* <https://www.xil.se/post/internetwache-2016-rev80-kbeckmann/>
+* <https://www.xil.se/post/internetwache-2016-rev-80-arturo182/>
 [esolangs.org's language list](http://esolangs.org/wiki/Language_list)
 [TapeBagel](http://esolangs.org/wiki/TapeBagel)
 [TapeBagel Interpreter](https://github.com/jashanbhoora/TapeBagel-Interpreter)
-

@@ -6,7 +6,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [reversing/eso-tape-80](reversing/eso-tape-80)
 
 ## External write-ups only
 
@@ -20,6 +20,8 @@
 * [misc/barparty-90](misc/barparty-90)
 * [misc/rock-with-the-wired-shark-70](misc/rock-with-the-wired-shark-70)
 * [misc/the-hidden-message-50](misc/the-hidden-message-50)
+* [reversing/file-checker-60](reversing/file-checker-60)
+* [reversing/spim-50](reversing/spim-50)
 * [web/0ldsk00lblog-80](web/0ldsk00lblog-80)
 * [web/mess-of-hash-50](web/mess-of-hash-50)
 * [web/replace-with-grace-60](web/replace-with-grace-60)
@@ -38,8 +40,5 @@
 * [exploit/equationsolver-60](exploit/equationsolver-60)
 * [exploit/remote-printer-80](exploit/remote-printer-80)
 * [misc/quick-run-60](misc/quick-run-60)
-* [reversing/eso-tape-80](reversing/eso-tape-80)
-* [reversing/file-checker-60](reversing/file-checker-60)
 * [reversing/serverfarm-70](reversing/serverfarm-70)
-* [reversing/spim-50](reversing/spim-50)
 * [reversing/the-cube-90](reversing/the-cube-90)

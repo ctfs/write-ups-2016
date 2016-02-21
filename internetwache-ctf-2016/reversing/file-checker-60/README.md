@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.codehead.co.uk/internetwache-ctf-2016-file-checker-reversing-60-points/>
