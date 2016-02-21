@@ -11,6 +11,7 @@
 * [code/its-prime-time-60](code/its-prime-time-60)
 * [crypto/hashdesigner-70](crypto/hashdesigner-70)
 * [reversing/eso-tape-80](reversing/eso-tape-80)
+* [web/mess-of-hash-50](web/mess-of-hash-50)
 
 ## External write-ups only
 
@@ -34,7 +35,6 @@
 * [reversing/spim-50](reversing/spim-50)
 * [reversing/the-cube-90](reversing/the-cube-90)
 * [web/0ldsk00lblog-80](web/0ldsk00lblog-80)
-* [web/mess-of-hash-50](web/mess-of-hash-50)
 * [web/replace-with-grace-60](web/replace-with-grace-60)
 * [web/texmaker-90](web/texmaker-90)
 * [web/the-secret-store-70](web/the-secret-store-70)
