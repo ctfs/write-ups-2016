@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-code-60-its-prime-time-write-up/>
+* <https://forum.xeksec.com/f138/t88655/>

@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/web60>
+* <https://forum.xeksec.com/f138/t88658/>
