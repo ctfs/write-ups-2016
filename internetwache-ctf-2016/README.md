@@ -6,6 +6,7 @@
 
 ## Completed write-ups
 
+* [crypto/hashdesigner-70](crypto/hashdesigner-70)
 * [reversing/eso-tape-80](reversing/eso-tape-80)
 
 ## External write-ups only
@@ -17,7 +18,6 @@
 * [code/its-prime-time-60](code/its-prime-time-60)
 * [crypto/bank-90](crypto/bank-90)
 * [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
-* [crypto/hashdesigner-70](crypto/hashdesigner-70)
 * [crypto/procrastination-80](crypto/procrastination-80)
 * [exploit/equationsolver-60](exploit/equationsolver-60)
 * [exploit/flagstore-70](exploit/flagstore-70)
