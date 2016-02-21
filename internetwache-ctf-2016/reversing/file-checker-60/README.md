@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://www.codehead.co.uk/internetwache-ctf-2016-file-checker-reversing-60-points/>
+* <https://www.xil.se/post/internetwache-2016-rev60-kbeckmann/>
