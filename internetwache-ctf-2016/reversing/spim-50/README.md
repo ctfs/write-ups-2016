@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://www.xil.se/post/internetwache-2016-rev-50-arturo182/>
+* <https://github.com/Kileak/CTF/tree/master/2016/internetwache/rev/spim>
