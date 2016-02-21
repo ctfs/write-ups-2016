@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://forum.xeksec.com/f138/t88656/>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_80>

@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_70>

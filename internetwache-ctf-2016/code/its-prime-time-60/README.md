@@ -19,3 +19,4 @@
 
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-code-60-its-prime-time-write-up/>
 * <https://forum.xeksec.com/f138/t88655/>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_60>

@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-code-50-a-numbers-game-write-up/>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_50>

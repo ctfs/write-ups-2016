@@ -10,8 +10,10 @@
 
 ## External write-ups only
 
+* [code/a-numbers-game-2-70](code/a-numbers-game-2-70)
 * [code/a-numbers-game-50](code/a-numbers-game-50)
 * [code/brute-with-force-80](code/brute-with-force-80)
+* [code/dark-forest-90](code/dark-forest-90)
 * [code/its-prime-time-60](code/its-prime-time-60)
 * [exploit/flagstore-70](exploit/flagstore-70)
 * [exploit/rubys-count-50](exploit/rubys-count-50)
@@ -32,8 +34,6 @@
 
 ## Missing write-ups
 
-* [code/a-numbers-game-2-70](code/a-numbers-game-2-70)
-* [code/dark-forest-90](code/dark-forest-90)
 * [crypto/bank-90](crypto/bank-90)
 * [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
 * [crypto/hashdesigner-70](crypto/hashdesigner-70)
