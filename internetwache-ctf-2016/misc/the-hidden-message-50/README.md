@@ -18,3 +18,5 @@
 ## Other write-ups and resources
 
 * <https://forum.xeksec.com/f138/t88653/>
+* <https://www.xil.se/post/internetwache-2016-misc-50-arturo182/>
+* <http://corb3nik.github.io/2016/02/20/The-Hidden-Message/>

@@ -26,6 +26,7 @@
 * [exploit/sh-ock-90](exploit/sh-ock-90)
 * [misc/404-flag-not-found-80](misc/404-flag-not-found-80)
 * [misc/barparty-90](misc/barparty-90)
+* [misc/quick-run-60](misc/quick-run-60)
 * [misc/rock-with-the-wired-shark-70](misc/rock-with-the-wired-shark-70)
 * [misc/the-hidden-message-50](misc/the-hidden-message-50)
 * [reversing/file-checker-60](reversing/file-checker-60)
@@ -41,4 +42,3 @@
 ## Missing write-ups
 
 * [crypto/oh-bob-60](crypto/oh-bob-60)
-* [misc/quick-run-60](misc/quick-run-60)

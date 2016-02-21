@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-80-404-flag-not-found-write-up/>
+* <https://github.com/Kileak/CTF/tree/master/2016/internetwache/misc/flagnotfound>

@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.xil.se/post/internetwache-2016-misc-60-arturo182/>
+* <http://corb3nik.github.io/2016/02/20/Quick-Run/>

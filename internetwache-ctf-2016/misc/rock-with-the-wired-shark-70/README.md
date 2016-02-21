@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-70-rock-with-the-wired-shark-write-up/>
+* <https://www.xil.se/post/internetwache-2016-misc-70-arturo182/>
