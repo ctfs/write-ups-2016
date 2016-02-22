@@ -8,13 +8,13 @@
 
 * [code/a-numbers-game-2-70](code/a-numbers-game-2-70)
 * [code/a-numbers-game-50](code/a-numbers-game-50)
+* [code/brute-with-force-80](code/brute-with-force-80)
 * [code/its-prime-time-60](code/its-prime-time-60)
+* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
 * [crypto/hashdesigner-70](crypto/hashdesigner-70)
+* [exploit/remote-printer-80](exploit/remote-printer-80)
 * [reversing/eso-tape-80](reversing/eso-tape-80)
 * [web/mess-of-hash-50](web/mess-of-hash-50)
-* [exploit/remote-printer-80](exploit/remote-printer-80)
-* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
-* [code/brute-with-force-80](code/brute-with-force-80)
 
 ## External write-ups only
 
@@ -41,4 +41,3 @@
 * [web/the-secret-store-70](web/the-secret-store-70)
 
 ## Missing write-ups
-
