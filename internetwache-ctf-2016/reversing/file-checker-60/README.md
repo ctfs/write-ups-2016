@@ -21,3 +21,4 @@
 * <https://www.xil.se/post/internetwache-2016-rev60-kbeckmann/>
 * <https://github.com/Kileak/CTF/tree/master/2016/internetwache/rev/filechecker>
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-reverse-60-file-checker-write-up/>
+* <https://www.praetorian.com/blog/internetwache-re60-writeup-symbolic-execution-tramples-ctf-challenge/>
