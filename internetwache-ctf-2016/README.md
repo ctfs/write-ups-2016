@@ -12,16 +12,17 @@
 * [code/its-prime-time-60](code/its-prime-time-60)
 * [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
 * [crypto/hashdesigner-70](crypto/hashdesigner-70)
+* [crypto/procrastination-80](crypto/procrastination-80)
 * [exploit/remote-printer-80](exploit/remote-printer-80)
 * [reversing/eso-tape-80](reversing/eso-tape-80)
 * [web/mess-of-hash-50](web/mess-of-hash-50)
+* [web/replace-with-grace-60](web/replace-with-grace-60)
 
 ## External write-ups only
 
 * [code/dark-forest-90](code/dark-forest-90)
 * [crypto/bank-90](crypto/bank-90)
 * [crypto/oh-bob-60](crypto/oh-bob-60)
-* [crypto/procrastination-80](crypto/procrastination-80)
 * [exploit/equationsolver-60](exploit/equationsolver-60)
 * [exploit/flagstore-70](exploit/flagstore-70)
 * [exploit/rubys-count-50](exploit/rubys-count-50)
@@ -36,7 +37,6 @@
 * [reversing/spim-50](reversing/spim-50)
 * [reversing/the-cube-90](reversing/the-cube-90)
 * [web/0ldsk00lblog-80](web/0ldsk00lblog-80)
-* [web/replace-with-grace-60](web/replace-with-grace-60)
 * [web/texmaker-90](web/texmaker-90)
 * [web/the-secret-store-70](web/the-secret-store-70)
 
