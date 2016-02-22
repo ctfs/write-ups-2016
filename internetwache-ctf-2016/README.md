@@ -12,6 +12,7 @@
 * [crypto/hashdesigner-70](crypto/hashdesigner-70)
 * [reversing/eso-tape-80](reversing/eso-tape-80)
 * [web/mess-of-hash-50](web/mess-of-hash-50)
+* [exploit/remote-printer-80](exploit/remote-printer-80)
 
 ## External write-ups only
 
@@ -22,7 +23,6 @@
 * [crypto/procrastination-80](crypto/procrastination-80)
 * [exploit/equationsolver-60](exploit/equationsolver-60)
 * [exploit/flagstore-70](exploit/flagstore-70)
-* [exploit/remote-printer-80](exploit/remote-printer-80)
 * [exploit/rubys-count-50](exploit/rubys-count-50)
 * [exploit/sh-ock-90](exploit/sh-ock-90)
 * [misc/404-flag-not-found-80](misc/404-flag-not-found-80)
