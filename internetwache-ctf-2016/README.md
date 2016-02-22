@@ -18,7 +18,6 @@
 * [code/brute-with-force-80](code/brute-with-force-80)
 * [code/dark-forest-90](code/dark-forest-90)
 * [crypto/bank-90](crypto/bank-90)
-* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
 * [crypto/oh-bob-60](crypto/oh-bob-60)
 * [crypto/procrastination-80](crypto/procrastination-80)
 * [exploit/equationsolver-60](exploit/equationsolver-60)
@@ -41,3 +40,5 @@
 * [web/the-secret-store-70](web/the-secret-store-70)
 
 ## Missing write-ups
+
+* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
