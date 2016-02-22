@@ -14,10 +14,10 @@
 * [web/mess-of-hash-50](web/mess-of-hash-50)
 * [exploit/remote-printer-80](exploit/remote-printer-80)
 * [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
+* [code/brute-with-force-80](code/brute-with-force-80)
 
 ## External write-ups only
 
-* [code/brute-with-force-80](code/brute-with-force-80)
 * [code/dark-forest-90](code/dark-forest-90)
 * [crypto/bank-90](crypto/bank-90)
 * [crypto/oh-bob-60](crypto/oh-bob-60)
