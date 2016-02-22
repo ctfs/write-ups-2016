@@ -13,6 +13,7 @@
 * [reversing/eso-tape-80](reversing/eso-tape-80)
 * [web/mess-of-hash-50](web/mess-of-hash-50)
 * [exploit/remote-printer-80](exploit/remote-printer-80)
+* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
 
 ## External write-ups only
 
@@ -41,4 +42,3 @@
 
 ## Missing write-ups
 
-* [crypto/crypto-pirat-50](crypto/crypto-pirat-50)
