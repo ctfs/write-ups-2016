@@ -48,3 +48,7 @@ IW{R3Pl4c3_N0t_S4F3}
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/web60>
 * <https://forum.xeksec.com/f138/t88658/>
 * <http://losfuzzys.github.io/writeup/2016/02/22/iwctf2016-ReplaceWithGrace/>
+* <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-replace-with-grace-web60>
+* <http://rektsec.github.io/writeups/ctf/internetwatche-2016-ctf-replace-with-grace-web-60/>
+* <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-replace-with.html>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Web/Web60.md>

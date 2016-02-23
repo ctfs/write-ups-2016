@@ -20,3 +20,6 @@ Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/ta
 
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/web90>
 * <https://forum.xeksec.com/f138/t88651/>
+* <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-texmaker-web90>
+* <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/web/web90>
+* <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-texmaker.html>

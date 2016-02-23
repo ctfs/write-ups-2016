@@ -78,4 +78,5 @@ Logging in with username `pr0_adm1n` and the found password results in a success
 
 * <https://forum.xeksec.com/f138/t88657/>
 * <https://www.xil.se/post/internetwache-2016-web-50-simonvik/>
+* <https://eugenekolo.com/blog/internetwache-2016-ctf-writeups/>
 * <http://pastebin.com/K4xGYGMK>
