@@ -24,3 +24,4 @@
 * <https://github.com/bl4de/ctf/blob/master/2016/internetwache_2016/RockWithTheShark_Misc70_writeup.md>
 * <https://deya2diab.wordpress.com/2016/02/20/internetwache-ctf/>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc70.md>
+* <https://github.com/tuvshuud/1up/blob/master/internetwache/misc60.md>
