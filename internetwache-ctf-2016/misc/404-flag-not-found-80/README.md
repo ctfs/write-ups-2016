@@ -19,3 +19,6 @@
 
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-80-404-flag-not-found-write-up/>
 * <https://github.com/Kileak/CTF/tree/master/2016/internetwache/misc/flagnotfound>
+* <https://github.com/jmazzola/CTFs/tree/master/Internetwache%20CTF%202016/Misc/Misc80%20-%20404%20Flag%20not%20found>
+* <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-404-flag-not-found-misc80>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc80.md>
