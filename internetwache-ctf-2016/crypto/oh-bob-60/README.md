@@ -18,3 +18,5 @@
 ## Other write-ups and resources
 
 * <https://www.xil.se/post/internetwache-2016-crypto60-kbeckmann/>
+* <https://github.com/ernacktob/CTF-Writeups/tree/master/Internetwache-CTF-2016/crypto60>
+* <https://eugenekolo.com/blog/internetwache-2016-ctf-writeups/#ohbob>

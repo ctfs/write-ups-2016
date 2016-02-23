@@ -22,3 +22,6 @@
 
 * <https://www.xil.se/post/internetwache-2016-crypto90-kbeckmann/>
 * <https://cryptsec.wordpress.com/2016/02/22/internetwache-ctf-write-up-2016-bank-crypto-90/>
+* <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/crypto90>
+* <https://github.com/ernacktob/CTF-Writeups/tree/master/Internetwache-CTF-2016/crypto90>
+* <https://github.com/m-k-S/ctf-writeups/tree/master/internetwache-2016/bank-90>
