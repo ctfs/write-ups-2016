@@ -10,6 +10,7 @@
 > 
 > Service: <https://replace-with-grace.ctf.internetwache.org/>
 
+Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/web60/code>
 
 ## Write-up
 

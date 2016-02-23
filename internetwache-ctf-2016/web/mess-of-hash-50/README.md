@@ -13,6 +13,7 @@
 > 
 > Service: <https://mess-of-hash.ctf.internetwache.org/>
 
+Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/web50/code>
 
 ## Write-up
 
