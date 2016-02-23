@@ -19,3 +19,5 @@
 
 * <https://www.xil.se/post/internetwache-2016-rev90-rspkt/>
 * <http://poning.me/2016/02/22/the-cube/>
+* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-reverse-90-the-cube-write-up/>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Reverse/Rev90.md>
