@@ -1,7 +1,7 @@
 # Internetwache CTF 2016 write-ups
 
 * <https://ctf.internetwache.org/>
-* [Scoreboard](https://ctf.internetwache.org/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.internetwache.org/scoreboard) or [scores.json](scores.json) or [scores.csv](scores.csv)
 * [CTF Repo by the organizers](https://github.com/internetwache/Internetwache-CTF-2016)
 
 ## Completed write-ups
