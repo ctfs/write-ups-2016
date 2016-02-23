@@ -10,6 +10,7 @@
 > 
 > Service: <https://the-secret-store.ctf.internetwache.org/>
 
+Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/web70/code>
 
 ## Write-up
 

@@ -13,6 +13,7 @@
 > 
 > Service: <https://procrastination.ctf.internetwache.org>
 
+Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/crypto80/code/website>
 
 ## Write-up
 
