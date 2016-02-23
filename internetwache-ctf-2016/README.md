@@ -2,7 +2,7 @@
 
 * <https://ctf.internetwache.org/>
 * [Scoreboard](https://ctf.internetwache.org/scoreboard) or [scores.json](scores.json) or [scores.csv](scores.csv)
-* [CTF Repo by the organizers](https://github.com/internetwache/Internetwache-CTF-2016)
+* [CTF Repo by the organizers including sources and flags to challenges](https://github.com/internetwache/Internetwache-CTF-2016)
 
 ## Completed write-ups
 

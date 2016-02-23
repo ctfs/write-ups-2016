@@ -37,3 +37,8 @@ while True:
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-code-60-its-prime-time-write-up/>
 * <https://forum.xeksec.com/f138/t88655/>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_60>
+* <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-its-prime-time-code60>
+* <http://rektsec.github.io/writeups/ctf/internetwatche-2016-ctf-its-primer-time-code-60/>
+* <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/coding/code60>
+* <https://deya2diab.wordpress.com/2016/02/20/internetwache-ctf/>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Code/Code60.md>

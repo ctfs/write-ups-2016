@@ -79,3 +79,5 @@ while True:
 
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_70>
 * <https://github.com/Kileak/CTF/tree/master/2016/internetwache/code/numbersgame>
+* <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/coding/code70>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Code/Code70.md>
