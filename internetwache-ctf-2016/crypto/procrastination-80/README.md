@@ -52,3 +52,5 @@ So the flag was `IW{DR0N3S_W1TH_PH0N3S}`.
 * <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-crypto-80-procrastination-write-up/>
 * <http://losfuzzys.github.io/writeup/2016/02/22/iwctf2016-procrastination/>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Crypto/Crypto80.md>
+* <http://sexyplatypussies.com/writeups/InternetwacheCTF2016/crypto80.txt>
+* <https://blog.amishsecurity.com/-crypto80-procrastination/>

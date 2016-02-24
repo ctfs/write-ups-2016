@@ -152,3 +152,4 @@ IW{redacted_flag}
 ## Other write-ups and resources
 
 * <https://www.xil.se/post/internetwache-2016-crypto70-kbeckmann/>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/crypto_70>

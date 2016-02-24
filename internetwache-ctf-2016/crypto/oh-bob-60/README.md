@@ -20,3 +20,5 @@
 * <https://www.xil.se/post/internetwache-2016-crypto60-kbeckmann/>
 * <https://github.com/ernacktob/CTF-Writeups/tree/master/Internetwache-CTF-2016/crypto60>
 * <https://eugenekolo.com/blog/internetwache-2016-ctf-writeups/#ohbob>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/crypto_60>
+* <http://err0r-451.ru/internetwache-crypto-oh-bob-60-pts/>
