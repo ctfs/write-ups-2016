@@ -29,3 +29,4 @@ Afterwards we can throw the first sentence of the plaintext into Google Books, w
 * <https://github.com/Desiprox/NullCon-2016/tree/master/crypto_2>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176509.html)
 * <https://0x90r00t.com/2016/02/03/hackim-2016crypto-400-crypto-question-2-write-up/>
+* <http://err0r-451.ru/hackim-crypto-question-2-400pts/>
