@@ -23,3 +23,4 @@
 * <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-404-flag-not-found-misc80>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc80.md>
 * <https://github.com/tuvshuud/1up/blob/master/internetwache/misc80.md>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/misc_80>
