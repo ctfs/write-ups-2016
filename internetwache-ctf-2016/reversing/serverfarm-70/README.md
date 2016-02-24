@@ -22,3 +22,4 @@
 * <https://github.com/jmazzola/CTFs/tree/master/Internetwache%20CTF%202016/Reversing/Rev70%20-%20ServerfARM>
 * <https://eugenekolo.com/blog/internetwache-2016-ctf-writeups/>
 * <http://tylerhalfpop.com/2016/02/21/blog-Internetwache-CTF-re70.html>
+* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/re_70>
