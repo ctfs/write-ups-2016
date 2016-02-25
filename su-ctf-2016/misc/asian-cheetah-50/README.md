@@ -23,3 +23,4 @@
 * <http://www.codehead.co.uk/sharifctf-2016-asian-cheetah-misc-50-points/>
 * <https://www.youtube.com/watch?v=_O_tbiHF7Qg>
 * <http://err0r-451.ru/sharifctf-misc-asian-cheetah-50pts/>
+* [Russian](http://countersite.org/articles/steganography/59-asiancheetah.html)
