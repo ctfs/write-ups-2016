@@ -62,3 +62,4 @@ The whole python code used to solve this challenge can be found [on GIST](https:
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_80>
 * <http://losfuzzys.github.io/writeup/2016/02/22/iwctf2016-bruteforce/>
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/coding/code80>
+* <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/code80>

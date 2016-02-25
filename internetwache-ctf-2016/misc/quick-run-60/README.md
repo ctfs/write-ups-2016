@@ -24,3 +24,4 @@
 * <http://rektsec.github.io/writeups/ctf/internetwatche-2016-ctf-quick-run-misc-60/>
 * <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-quick-run.html>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc60.md>
+* <http://poning.me/2016/02/25/quick-run/>

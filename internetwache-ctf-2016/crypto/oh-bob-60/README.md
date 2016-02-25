@@ -22,3 +22,4 @@
 * <https://eugenekolo.com/blog/internetwache-2016-ctf-writeups/#ohbob>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/crypto_60>
 * <http://err0r-451.ru/internetwache-crypto-oh-bob-60-pts/>
+* <https://losfuzzys.github.io/writeup/2016/02/20/iwctf2016-oh-bob/>

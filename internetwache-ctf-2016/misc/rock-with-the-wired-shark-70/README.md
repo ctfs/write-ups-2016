@@ -27,3 +27,4 @@
 * <https://github.com/tuvshuud/1up/blob/master/internetwache/misc60.md>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/misc_70>
 * <https://www.youtube.com/watch?v=zZEpql4LErY>
+* <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/misc70>

@@ -24,3 +24,4 @@
 * <https://github.com/Veneno0/CTFwp/tree/master/Internetwache-CTF-2016/Web80>
 * <https://deya2diab.wordpress.com/2016/02/20/internetwache-ctf/>
 * <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-0ldsk00lblog.html>
+* <https://github.com/Ninjex/Wargame-Writeups/tree/master/CaptureTheFlag/2016/InternetWache-CTF/web80>

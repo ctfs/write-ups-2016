@@ -22,3 +22,4 @@ Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/ta
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/web_70>
 * <http://rektsec.github.io/writeups/ctf/internetwatche-2016-ctf-the-secret-store-web-70/>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Web/Web70.md>
+* <http://err0r-451.ru/internetwache-web-the-secret-store-70pts/>

@@ -24,3 +24,5 @@
 * <https://www.praetorian.com/blog/internetwache-re60-writeup-symbolic-execution-tramples-ctf-challenge/>
 * <https://github.com/jmazzola/CTFs/tree/master/Internetwache%20CTF%202016/Reversing/Rev60%20-%20File%20Checker>
 * <http://tylerhalfpop.com/2016/02/21/blog-Internetwache-CTF-re60.html>
+* <https://www.youtube.com/watch?v=DKYRt34sagg>
+* <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/re60>

@@ -23,3 +23,4 @@
 * <https://github.com/jmazzola/CTFs/tree/master/Internetwache%20CTF%202016/Reversing/Rev50%20-%20SPIM>
 * <https://www.whitehatters.academy/iw2016-ctf-rev50-spim/>
 * <https://github.com/ShadyHats/Writeups/tree/master/2016-02-20_Internetwache/rev50>
+* <http://poning.me/2016/02/25/spim/>
