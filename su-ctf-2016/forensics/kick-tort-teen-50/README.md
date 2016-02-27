@@ -78,3 +78,4 @@ And there's the flag!
 * <https://0x90r00t.com/2016/02/07/sharif-university-ctf-2016-forensic-50-kick-tort-teen-write-up/>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-05-sharif/for_50_tort#eng-version>
 * <https://github.com/QuokkaLight/write-ups/blob/master/sharif-university-ctf-2016/forensics/Kick_Tort_Teen.md>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/SHARIFCTF/forensics/kick_tort_teen>
