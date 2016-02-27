@@ -26,3 +26,5 @@
 * <http://tylerhalfpop.com/2016/02/21/blog-Internetwache-CTF-re60.html>
 * <https://www.youtube.com/watch?v=DKYRt34sagg>
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/re60>
+* <http://poning.me/2016/02/26/file-checker/>
+* <https://www.youtube.com/watch?v=mzueu4qoPms>

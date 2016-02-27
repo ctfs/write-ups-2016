@@ -25,3 +25,4 @@
 * <https://deya2diab.wordpress.com/2016/02/20/internetwache-ctf/>
 * <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-0ldsk00lblog.html>
 * <https://github.com/Ninjex/Wargame-Writeups/tree/master/CaptureTheFlag/2016/InternetWache-CTF/web80>
+* <http://err0r-451.ru/internetwache-web-0ldsk00lblog-80pts/>

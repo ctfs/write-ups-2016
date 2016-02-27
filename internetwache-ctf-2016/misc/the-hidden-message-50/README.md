@@ -28,3 +28,4 @@
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc50.md>
 * <http://poning.me/2016/02/23/the-hidden-message/>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/misc_50>
+* <http://err0r-451.ru/internetwache-web-0ldsk00lblog-80pts/>
