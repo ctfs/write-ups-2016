@@ -24,3 +24,4 @@
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc80.md>
 * <https://github.com/tuvshuud/1up/blob/master/internetwache/misc80.md>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/misc_80>
+* <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/misc80>
