@@ -29,4 +29,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [https://www.youtube.com/watch?v=zSXiQhWCq6A](https://www.youtube.com/watch?v=zSXiQhWCq6A)
