@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto-exploit/chain-rule-200](crypto-exploit/chain-rule-200)
 
 ## External write-ups only
 
@@ -15,7 +15,6 @@
 
 ## Missing write-ups
 
-* [crypto-exploit/chain-rule-200](crypto-exploit/chain-rule-200)
 * [crypto-exploit/heheda-100](crypto-exploit/heheda-100)
 * [crypto-exploit/nonogram-300](crypto-exploit/nonogram-300)
 * [misc/puzzle-200](misc/puzzle-200)
