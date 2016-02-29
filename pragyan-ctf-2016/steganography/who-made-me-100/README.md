@@ -30,7 +30,8 @@ This kind of pattern is a serialized python object: using `pickle` we obtain a l
 ~~~
 
 The comment at start suggests to create a blank image where the tuples are the black pixels:
-![Result](result.png)
+
+![Result](Result.jpg)
 
 ~~~python
 import pickle
