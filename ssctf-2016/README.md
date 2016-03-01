@@ -9,13 +9,13 @@
 
 ## External write-ups only
 
+* [crypto-exploit/heheda-100](crypto-exploit/heheda-100)
 * [crypto-exploit/pwn-1-400](crypto-exploit/pwn-1-400)
 * [crypto-exploit/pwn-2-600](crypto-exploit/pwn-2-600)
 * [misc/hungry-game-300](misc/hungry-game-300)
 
 ## Missing write-ups
 
-* [crypto-exploit/heheda-100](crypto-exploit/heheda-100)
 * [crypto-exploit/nonogram-300](crypto-exploit/nonogram-300)
 * [misc/puzzle-200](misc/puzzle-200)
 * [misc/speed-data-100](misc/speed-data-100)

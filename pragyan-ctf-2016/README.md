@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [steganography/who-made-me-100](steganography/who-made-me-100)
 
 ## External write-ups only
 
@@ -36,4 +36,3 @@
 * [steganography/calvin-meets-a-hitchhiker-30](steganography/calvin-meets-a-hitchhiker-30)
 * [steganography/harry-potter-30](steganography/harry-potter-30)
 * [steganography/look-at-these-colours-40](steganography/look-at-these-colours-40)
-* [steganography/who-made-me-100](steganography/who-made-me-100)
