@@ -9,13 +9,13 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * [binary-exploitation/apple-pies-100](binary-exploitation/apple-pies-100)
 * [binary-exploitation/be-the-boss-50](binary-exploitation/be-the-boss-50)
 * [binary-exploitation/stdin-70](binary-exploitation/stdin-70)
+* [miscellaneous/k-50](miscellaneous/k-50)
+
+## Missing write-ups
+
 * [binary-exploitation/threes-a-crowd-100](binary-exploitation/threes-a-crowd-100)
 * [cryptography/bail-cipher-20](cryptography/bail-cipher-20)
 * [cryptography/decipher-me-100](cryptography/decipher-me-100)
@@ -29,7 +29,6 @@
 * [miscellaneous/bad-habit-70](miscellaneous/bad-habit-70)
 * [miscellaneous/breaking-bar-100](miscellaneous/breaking-bar-100)
 * [miscellaneous/everybody-is-a-winner-1](miscellaneous/everybody-is-a-winner-1)
-* [miscellaneous/k-50](miscellaneous/k-50)
 * [miscellaneous/symphony-100](miscellaneous/symphony-100)
 * [reverse-engineering/smart-ass-bad-ass-great-ass-50](reverse-engineering/smart-ass-bad-ass-great-ass-50)
 * [reverse-engineering/vault-50](reverse-engineering/vault-50)
