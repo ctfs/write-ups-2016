@@ -26,3 +26,4 @@
 * <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-0ldsk00lblog.html>
 * <https://github.com/Ninjex/Wargame-Writeups/tree/master/CaptureTheFlag/2016/InternetWache-CTF/web80>
 * <http://err0r-451.ru/internetwache-web-0ldsk00lblog-80pts/>
+* <https://github.com/VulnHub/ctf-writeups/blob/master/2016/internetwache/web80.md>
