@@ -39,6 +39,7 @@ Flag: **IW{ILOVETAPEBAGEL}**
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/re_80>
 * <https://github.com/EspacioTeam/write-ups/tree/master/2016/internetwache/exp80>
 * <https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/reverse/rev80.md>
+* <http://poning.me/2016/02/29/eso-tape/>
 [esolangs.org's language list](http://esolangs.org/wiki/Language_list)
 [TapeBagel](http://esolangs.org/wiki/TapeBagel)
 [TapeBagel Interpreter](https://github.com/jashanbhoora/TapeBagel-Interpreter)
