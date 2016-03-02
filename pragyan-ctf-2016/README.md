@@ -13,6 +13,7 @@
 * [binary-exploitation/be-the-boss-50](binary-exploitation/be-the-boss-50)
 * [binary-exploitation/stdin-70](binary-exploitation/stdin-70)
 * [miscellaneous/k-50](miscellaneous/k-50)
+* [reverse-engineering/vault-50](reverse-engineering/vault-50)
 
 ## Missing write-ups
 
@@ -31,7 +32,6 @@
 * [miscellaneous/everybody-is-a-winner-1](miscellaneous/everybody-is-a-winner-1)
 * [miscellaneous/symphony-100](miscellaneous/symphony-100)
 * [reverse-engineering/smart-ass-bad-ass-great-ass-50](reverse-engineering/smart-ass-bad-ass-great-ass-50)
-* [reverse-engineering/vault-50](reverse-engineering/vault-50)
 * [steganography/calvin-meets-a-hitchhiker-30](steganography/calvin-meets-a-hitchhiker-30)
 * [steganography/harry-potter-30](steganography/harry-potter-30)
 * [steganography/look-at-these-colours-40](steganography/look-at-these-colours-40)
