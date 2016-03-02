@@ -27,4 +27,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://forum.xeksec.com/f138/t88691/?langid=1>
+* [Spanish](https://blog.ka0labs.net/post/32/)

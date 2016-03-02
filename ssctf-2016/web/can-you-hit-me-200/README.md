@@ -60,4 +60,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/teamavidya/ctf/tree/master/2016_ssctf_quals/can_you_hit_me%5Bweb200%5D>

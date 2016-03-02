@@ -25,4 +25,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.youtube.com/watch?v=8-yyvyh3PVM>

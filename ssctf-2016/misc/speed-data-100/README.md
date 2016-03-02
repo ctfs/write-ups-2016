@@ -26,4 +26,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.youtube.com/watch?v=ZFs58z_OzGw>
