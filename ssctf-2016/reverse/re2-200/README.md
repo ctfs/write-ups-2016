@@ -25,4 +25,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [b01lers](https://b01lers.net/challenges/SSCTF%202016/re2/90/)
