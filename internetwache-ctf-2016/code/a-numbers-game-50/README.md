@@ -48,3 +48,4 @@ Flag is `IW{M4TH_1S_34SY}` (not that it really matters now)
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/coding/code50>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Code/Code50.md>
 * <http://err0r-451.ru/internetwache-code-a-numbers-game-50pts/>
+* <http://poning.me/2016/03/03/a-numbers-game/>

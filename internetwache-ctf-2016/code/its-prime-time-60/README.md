@@ -43,3 +43,4 @@ while True:
 * <https://deya2diab.wordpress.com/2016/02/20/internetwache-ctf/>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Code/Code60.md>
 * <http://err0r-451.ru/internetwache-code-its-prime-time-60pts/>
+* <http://poning.me/2016/03/03/its-prime-time/>
