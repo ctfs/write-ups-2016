@@ -1,7 +1,7 @@
 # SSCTF 2016 write-ups
 
 * <http://lab.seclover.com/index>
-* [Scoreboard](http://lab.seclover.com/status) or [local alternative](TODOLOCAL)
+* [Scoreboard](http://lab.seclover.com/status) or [local alternative](./scoreboard)
 
 ## Completed write-ups
 
