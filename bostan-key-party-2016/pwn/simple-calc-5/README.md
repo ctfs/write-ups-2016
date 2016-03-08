@@ -22,3 +22,4 @@
 * https://github.com/VulnHub/ctf-writeups/blob/master/2016/boston-key-party/Simple%20Calc.md
 * https://eugenekolo.com/blog/boston-key-party/#simplecalc
 * http://hexfact0r.dk/2016/03/06/boston-key-party-ctf-2016-simple-calc/
+* http://grazfather.github.io/ctf/pwn/2016/03/06/BKP-PWN5-Simple-Calc.html
