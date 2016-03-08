@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://0xabe.io/ctf/exploit/2016/03/07/Boston-Key-Party-pwn-Complex-Calc.html
