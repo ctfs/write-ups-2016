@@ -18,3 +18,4 @@
 * https://github.com/Alpackers/CTF-Writeups/tree/master/2016/BostonKeyParty/Crypto/des-ofb
 * https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/BKPCTF/crypto/desofb
 * https://cryptsec.wordpress.com/2016/03/07/boston-key-party-ctf-write-up-2016-des-ofb-crypto-2/
+* https://0day.work/boston-key-party-ctf-2016-writeups/#desofb
