@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/misc_2_lily_flac
+* https://ctf.rip/boston-key-party-lily-flac-misc/
