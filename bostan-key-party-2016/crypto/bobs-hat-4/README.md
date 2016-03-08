@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * http://err0r-451.ru/2016-bkpctf-crypto-bobs-hat-4-pts/
+* https://ctf.rip/boston-key-party-2016-bobs-hat-crypto/
