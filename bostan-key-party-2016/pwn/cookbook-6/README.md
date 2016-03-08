@@ -16,4 +16,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://pwnexpoit.hol.es/2016/03/07/boston-key-party-ctf-2016-cookbook/
+* https://github.com/unamer/ctf/blob/master/bkpctf2016/cookbook.py
+* https://gist.github.com/stephenR/cdfa396aa40c22a3180c
