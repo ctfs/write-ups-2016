@@ -5,19 +5,17 @@
 
 ## Repo-local write-ups
 
-* none yet
+* [misc/found-it-1](misc/found-it-1)
 
 ## External write-ups only
 
-* none yet
+* [pwn/complex-calc-5](pwn/complex-calc-5)
+* [pwn/simple-calc-5](pwn/simple-calc-5)
 
 ## Missing write-ups
 
-* [misc/found-it-1](misc/found-it-1)
 * [misc/lily-flac-2](misc/lily-flac-2)
-* [pwn/complex-calc-5](pwn/complex-calc-5)
 * [pwn/cookbook-6](pwn/cookbook-6)
-* [pwn/simple-calc-5](pwn/simple-calc-5)
 * [pwn/spacerex-8](pwn/spacerex-8)
 * [pwn/segsh-6](pwn/segsh-6)
 * [web/bug-bounty-3](web/bug-bounty-3)

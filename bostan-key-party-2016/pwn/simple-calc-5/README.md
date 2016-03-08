@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://grazfather.github.io/ctf/pwn/2016/03/06/BKP-PWN5-Simple-Calc.html> 
