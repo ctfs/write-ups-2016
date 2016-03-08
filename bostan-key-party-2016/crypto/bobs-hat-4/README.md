@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://err0r-451.ru/2016-bkpctf-crypto-bobs-hat-4-pts/
