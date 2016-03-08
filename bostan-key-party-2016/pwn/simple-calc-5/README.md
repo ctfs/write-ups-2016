@@ -20,3 +20,4 @@
 * https://jkrshnmenon.wordpress.com/2016/03/07/simplecalc-bkp-ctf16-writeup/
 * https://github.com/unamer/ctf/blob/master/bkpctf2016/simplecalc.py
 * https://github.com/VulnHub/ctf-writeups/blob/master/2016/boston-key-party/Simple%20Calc.md
+* https://eugenekolo.com/blog/boston-key-party/#simplecalc
