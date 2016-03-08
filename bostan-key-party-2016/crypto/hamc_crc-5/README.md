@@ -16,3 +16,4 @@
 
 * http://andrewl.dreamhosters.com/lblog/2016-03-06_bostonkeyparty_hmac_crc_writeup/writeup.html
 * https://github.com/DeliciousHorse/2016.03.BostonKeyParty/blob/master/hmac_crc.md
+* https://github.com/raccoons-team/ctf/tree/master/2016-03-07-boston-key-party-ctf/crypto_5_hmac_crc
