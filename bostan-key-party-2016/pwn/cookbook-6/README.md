@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/unamer/ctf/blob/master/bkpctf2016/cookbook.py
