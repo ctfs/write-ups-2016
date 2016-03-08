@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/web_3_Good_Morning
+* http://security.szurek.pl/boston-key-party-ctf-2016-good-morning-and-optiproxy-writeup.html
