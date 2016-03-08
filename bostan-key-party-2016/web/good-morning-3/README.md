@@ -17,3 +17,4 @@
 * https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/web_3_Good_Morning
 * http://security.szurek.pl/boston-key-party-ctf-2016-good-morning-and-optiproxy-writeup.html
 * https://github.com/stypr/ctf/tree/master/2016/bkp_2016
+* http://www.kernelpicnic.net/2016/03/06/BKPCTF-Wonderland-Good-Morning-Write-Up.html
