@@ -1,0 +1,19 @@
+# Bostan Key Party CTF : segsh-6
+
+**Category:** Pwn
+**Points:** 6
+**Solves:** 28
+**Description:**
+
+`segsh.bostonkey.party 8888`
+
+> flag lives in /home/segsh/flag 
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
