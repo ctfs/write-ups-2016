@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://gist.github.com/isra17/1fa493ed016ac334b162
