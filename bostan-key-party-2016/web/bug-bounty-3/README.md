@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/web_3_Bug_Bounty
+* https://github.com/stypr/ctf/tree/master/2016/bkp_2016
