@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://security.szurek.pl/boston-key-party-ctf-2016-good-morning-and-optiproxy-writeup.html
