@@ -16,3 +16,4 @@
 
 * https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/crypto_4_ltseorg
 * http://err0r-451.ru/bkpctf-crypto-ltseorg-4-pts/
+* https://0day.work/boston-key-party-ctf-2016-writeups/#ltseorg
