@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* https://www.xil.se/post/bkp-2016-jit-re-kbeckmann/
 * https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/re_3_Jit_in_my_pants
