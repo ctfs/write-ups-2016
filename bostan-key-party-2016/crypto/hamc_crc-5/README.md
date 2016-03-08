@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://andrewl.dreamhosters.com/lblog/2016-03-06_bostonkeyparty_hmac_crc_writeup/writeup.html
