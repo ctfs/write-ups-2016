@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/stephenR/cdfa396aa40c22a3180c> 
+* <http://rex.sex/ctf/2016/bkp/cookbook.py>
