@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf.rip/boston-key-party-2016-bobs-hat-crypto/>
