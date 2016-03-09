@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/re_5_Frog_Fractions_2> 
+* <https://github.com/ByteBandits/writeups/tree/master/bostonkeyparty-2016/reverse/Alewife/sudhackar>

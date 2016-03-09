@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/raccoons-team/ctf/tree/master/2016-03-07-boston-key-party-ctf/crypto_5_hmac_crc>
+* <https://github.com/DeliciousHorse/2016.03.BostonKeyParty/blob/master/hmac_crc.md>
