@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/stephenR/cdfa396aa40c22a3180c> 
