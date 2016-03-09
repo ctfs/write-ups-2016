@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://forum.xeksec.com/f138/t88733/?langid=1> 
