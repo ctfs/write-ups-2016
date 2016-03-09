@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0day.work/boston-key-party-ctf-2016-writeups/#desofb> 

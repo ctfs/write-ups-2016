@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://forum.xeksec.com/f138/t88732/?langid=1> 
+* <https://0day.work/boston-key-party-ctf-2016-writeups/#goodmorning>
