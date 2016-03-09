@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://forum.xeksec.com/f138/t88734/?langid=1> 
+* <https://eugenekolo.com/blog/boston-key-party/#optiproxy>
