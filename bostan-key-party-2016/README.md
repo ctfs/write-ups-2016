@@ -16,6 +16,7 @@
 * [web/good-morning-3](web/good-morning-3)
 * [crypto/ltseorg-4](crypto/ltseorg-4)
 * [crypto/des-ofb-2](crypto/des-ofb-2)
+* [reversing/unholy-4](reversing/unholy-4)
 
 ## Missing write-ups
 
@@ -27,5 +28,4 @@
 * [crypto/hamc_crc-5](crypto/hamc_crc-5)
 * [crypto/gsilvis-counting-magic-9](crypto/gsilvis-counting-magic-9)
 * [reversing/jit-in-my-pants-3](reversing/jit-in-my-pants-3)
-* [reversing/unholy-4](reversing/unholy-4)
 * [reversing/frog-fraction-2-5](reversing/frog-fraction-2-5)
