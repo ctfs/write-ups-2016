@@ -11,8 +11,7 @@
 > Homoglyph
 
 ## Write-up
-A Google search for the following keyword will give the website in the first result:  
-"twitter homoglyph decode"
+A Google search for `"twitter homoglyph decode"` points to <http://holloway.co.nz/steg/>. Decoding the [tweet](https://twitter.com/HereIsJ0hnny/status/694255760402976768) text using that tool yields the solution.
 
 ![solution.png](images/solution.png)
 
