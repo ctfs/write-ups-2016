@@ -18,3 +18,4 @@
 
 * <https://gist.github.com/stephenR/cdfa396aa40c22a3180c> 
 * <http://rex.sex/ctf/2016/bkp/cookbook.py>
+* [b01lers](https://b01lers.net/challenges/Boston%20Key%20Party%202016/Cookbook/95/)
