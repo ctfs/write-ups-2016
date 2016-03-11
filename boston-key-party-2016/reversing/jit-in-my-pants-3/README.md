@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* Challenge author's expected Solution <https://dustri.org/b/expected-solution-for-jit-in-my-pants-boston-key-party-2016.html>
