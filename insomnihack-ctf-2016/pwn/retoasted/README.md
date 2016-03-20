@@ -10,7 +10,7 @@
 > 
 > running on retoasted.insomni.hack:7200 
 > 
-> You can grab the challenge files and enjoy some new qemu features such as NX, ASLR, PIE and W^X.
+> You can grab the [challenge files](./retoasted_fe6ac5df080b5a1902c03521e69f85da.tgz) and enjoy some new qemu features such as NX, ASLR, PIE and W^X.
 
 ## Write-up
 
