@@ -9,7 +9,7 @@
 > 
 > Service running on microwave.insomni.hack:1337 
 > 
-> Get the file microwave 
+> Get the file [microwave](./microwave_61f50dba931bb10ab3089215b2e188f4.tgz) 
 
 ## Write-up
 
@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.reverser.ninja/2016/20/insomnihack-2016-microwave-writeup.html>

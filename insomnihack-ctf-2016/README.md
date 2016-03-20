@@ -9,7 +9,8 @@
 
 ## External write-ups only
 
-* none yet
+* [pwn/microwave](pwn/microwave)
+* [pwn/smartstove](pwn/smartstove)
 
 ## Missing write-ups
 
@@ -27,10 +28,8 @@
 * [network/smartips](network/smartips)
 * [pwn/biotch-slap](pwn/biotch-slap)
 * [pwn/cc232](pwn/cc232)
-* [pwn/microwave](pwn/microwave)
 * [pwn/retoasted](pwn/retoasted)
 * [pwn/rootkit](pwn/rootkit)
-* [pwn/smartstove](pwn/smartstove)
 * [reverse/megafat](reverse/megafat)
 * [reverse/rostinator](reverse/rostinator)
 * [reverse/safecrt2](reverse/safecrt2)

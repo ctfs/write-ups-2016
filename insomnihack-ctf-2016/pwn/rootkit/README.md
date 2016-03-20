@@ -10,7 +10,7 @@
 > ssh rootkit@rootkit.insomni.hack
 > Password: flag of "microwave"
 > 
-> Challenge files
+> [Challenge files](./rootkit-305d6c20e4cb91db1e0bc162b0e016a4.tar.bz2)
 
 ## Write-up
 

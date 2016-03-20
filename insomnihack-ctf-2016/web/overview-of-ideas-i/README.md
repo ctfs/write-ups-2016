@@ -9,7 +9,7 @@
 > 
 > Sorry for the Crappy website
 > 
-> Sources
+> [Sources](./idea_58ad264f2fb7a03e165f7022e72eb8e3.tar.gz)
 
 ## Write-up
 

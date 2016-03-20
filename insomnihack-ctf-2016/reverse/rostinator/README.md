@@ -8,7 +8,7 @@
 > How is up for some nice rösti!?
 > 
 > 
-> Get the file rostinator 
+> Get the file [rostinator](./rostinator_cd18ee1c4f99af231a96f3573cd801eb) 
 
 ## Write-up
 
