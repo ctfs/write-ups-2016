@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://cybermashup.com/2016/03/21/insomnihack-2016-pcapbleeding-writeup/>

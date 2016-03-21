@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://blog.reverser.ninja/2016/20/insomnihack-2016-microwave-writeup.html>
+* <https://deadc0de.re/articles/microwave-write-up.html>
