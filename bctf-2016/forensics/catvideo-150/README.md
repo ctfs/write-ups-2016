@@ -25,3 +25,7 @@ Once that was done we could reassemble it into a video with ffmpeg:
 written by Alexander Kjäll
 
 published here: https://projects.hackeriet.no/news/16
+
+
+## Other write-ups and resources
+* <http://veganzombies.org/writeups/2016/03/21/BCtf-catvideo.html>
