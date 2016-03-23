@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/hexpresso/WU-2016/tree/master/insomnihack-ctf-2016/misc/Robots>

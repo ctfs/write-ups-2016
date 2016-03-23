@@ -9,6 +9,10 @@
 
 ## External write-ups only
 
+* [crypto/pcapbleeding](crypto/pcapbleeding)
+* [misc/robots](misc/robots)
+* [misc/smartcat3](misc/smartcat3)
+* [network/smartips](network/smartips)
 * [pwn/microwave](pwn/microwave)
 * [pwn/smartstove](pwn/smartstove)
 
@@ -17,15 +21,11 @@
 * [backdoor/smartdoor1](backdoor/smartdoor1)
 * [backdoor/smartdoor2](backdoor/smartdoor2)
 * [backdoor/smartdoor3](backdoor/smartdoor3)
-* [crypto/pcapbleeding](crypto/pcapbleeding)
 * [hardware/128k](hardware/128k)
 * [hardware/drunk4lyzer-i](hardware/drunk4lyzer-i)
 * [hardware/drunk4lyzer-ii](hardware/drunk4lyzer-ii)
 * [hardware/iotcode](hardware/iotcode)
-* [misc/robots](misc/robots)
 * [misc/smartcat0](misc/smartcat0)
-* [misc/smartcat3](misc/smartcat3)
-* [network/smartips](network/smartips)
 * [pwn/biotch-slap](pwn/biotch-slap)
 * [pwn/cc232](pwn/cc232)
 * [pwn/retoasted](pwn/retoasted)
