@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://cybermashup.com/2016/03/21/insomnihack-2016-pcapbleeding-writeup/>
+* <https://github.com/hexpresso/WU-2016/tree/master/insomnihack-ctf-2016/crypto/pcapbleeding>

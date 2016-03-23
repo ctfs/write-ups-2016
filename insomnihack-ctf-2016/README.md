@@ -11,10 +11,12 @@
 
 * [crypto/pcapbleeding](crypto/pcapbleeding)
 * [misc/robots](misc/robots)
+* [misc/smartcat0](misc/smartcat0)
 * [misc/smartcat3](misc/smartcat3)
 * [network/smartips](network/smartips)
 * [pwn/microwave](pwn/microwave)
 * [pwn/smartstove](pwn/smartstove)
+* [reverse/safecrt2](reverse/safecrt2)
 
 ## Missing write-ups
 
@@ -25,14 +27,12 @@
 * [hardware/drunk4lyzer-i](hardware/drunk4lyzer-i)
 * [hardware/drunk4lyzer-ii](hardware/drunk4lyzer-ii)
 * [hardware/iotcode](hardware/iotcode)
-* [misc/smartcat0](misc/smartcat0)
 * [pwn/biotch-slap](pwn/biotch-slap)
 * [pwn/cc232](pwn/cc232)
 * [pwn/retoasted](pwn/retoasted)
 * [pwn/rootkit](pwn/rootkit)
 * [reverse/megafat](reverse/megafat)
 * [reverse/rostinator](reverse/rostinator)
-* [reverse/safecrt2](reverse/safecrt2)
 * [shellcode/superpollute](shellcode/superpollute)
 * [web/greenbox](web/greenbox)
 * [web/ibeer](web/ibeer)
