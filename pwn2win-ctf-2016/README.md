@@ -6,6 +6,7 @@
 ## Repo-local write-ups
 
 * [reverse/timekeeperslock-600](reverse/timekeeperslock-600)
+* [web/bathing-and-grooming-400](web/bathing-and-grooming-400)
 
 ## External write-ups only
 
