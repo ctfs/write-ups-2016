@@ -5,7 +5,7 @@
 
 ## Repo-local write-ups
 
-* none yet
+* [reverse/timekeeperslock-600](reverse/timekeeperslock-600)
 
 ## External write-ups only
 

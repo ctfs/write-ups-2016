@@ -1,0 +1,13 @@
+@@comments :: ?//\*.*?\*//?
+@@eol_comments :: ?///.*?$/?
+
+identifier = ?/[a-zA-Z][A-Za-z0-9_]*/?;
+literal = "1'b0" | "1'b1" | "0" | "1";
+
+primary_expr = "(" @:expr ")" | literal | identifier;
+bitwiseand_expr = @+:primary_expr {"&" @+:primary_expr};
+bitwiseor_expr = @+:bitwiseand_expr {"|" @+:bitwiseand_expr};
+ternary_expr = cond:ternary_expr "?" ifT:ternary_expr ":" ifF:ternary_expr | override:bitwiseor_expr;
+expr = ternary_expr;
+
+assignment = "assign" ident:identifier "=" val:expr ";";
