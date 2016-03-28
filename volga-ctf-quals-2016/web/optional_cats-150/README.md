@@ -13,4 +13,4 @@ http://optcat.2016.volgactf.ru:8080/
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://blog.huntergregal.com/2016/03/volgactf-2016-optional-cats-writeup.html>

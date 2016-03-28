@@ -20,4 +20,5 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/VOLGACTF/crypto/lazy>
+* <https://cryptsec.wordpress.com/2016/03/27/volga-ctf-quals-2016-write-up-lazy-crypto-250/>

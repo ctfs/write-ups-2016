@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* <http://www.codehead.co.uk/volgactf2016-tic-tac-toe/>

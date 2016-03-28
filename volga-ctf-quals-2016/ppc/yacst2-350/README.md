@@ -21,4 +21,6 @@ http://yacst2.2016.volgactf.ru:8090/
 
 ## Other write-ups and resources
 
-(TODO)
+* <https://github.com/EspacioTeam/write-ups/tree/master/2016/volga/YACST2>
+* <http://corb3nik.github.io/2016/03/25/YACST2/>
+* <https://github.com/p4-team/ctf/tree/master/2016-03-26-volga2016-quals/yacs2>
