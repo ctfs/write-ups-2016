@@ -1,7 +1,7 @@
 # Pwn2Win CTF write-ups
 
 * [https://pwn2win.party](https://pwn2win.party)
-* [Scoreboard](https://pwn2win.party/game/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://pwn2win.party/game/scoreboard) or [local alternative](scoreboard)
 
 ## Repo-local write-ups
 
