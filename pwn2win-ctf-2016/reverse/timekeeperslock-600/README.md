@@ -324,4 +324,4 @@ SATISFIABLE
 
 ## Other write-ups and resources
 
-* none yet
+* [Challenge source code](https://github.com/epicleet/timekeeperslock)

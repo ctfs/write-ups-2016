@@ -84,4 +84,4 @@ After all required HTTP requests are made, the script returns the flag
 
 ## Other write-ups and resources
 
-* none yet
+* [Challenge source code](https://github.com/epicleet/bathing-and-grooming)
