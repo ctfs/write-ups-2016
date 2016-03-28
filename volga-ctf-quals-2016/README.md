@@ -4,16 +4,15 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 
 ## Repo-local write-ups
 
-(TODO)
+* [ppc/amazing-250](ppc/amazing-250)
+* [ppc/tic-tac-toe-200](ppc/tic-tac-toe-200)
 
 ## External write-ups only
 
 * [pwn/web_of_science_2-350](pwn/web_of_science_2-350)
 * [reverse/multiple_shift-500](reverse/multiple_shift-500)
-* [ppc/tic-tac-toe-200](ppc/tic-tac-toe-200)
 * [crypto/lazy-250](crypto/lazy-250)
 * [ppc/yacst2-350](ppc/yacst2-350)
-* [ppc/amazing-250](ppc/amazing-250)
 * [web/optional_cats-150](web/optional_cats-150)
 
 ## Missing write-ups
