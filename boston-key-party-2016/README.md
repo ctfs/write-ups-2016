@@ -21,6 +21,7 @@
 * [crypto/des-ofb-2](crypto/des-ofb-2)
 * [crypto/hamc_crc-5](crypto/hamc_crc-5)
 * [crypto/bobs-hat-4](crypto/bobs-hat-4)
+* [crypto/hamc_crc-5](crypto/hamc_crc-5)
 * [reversing/unholy-4](reversing/unholy-4)
 * [reversing/frog-fraction-2-5](reversing/frog-fraction-2-5)
 
