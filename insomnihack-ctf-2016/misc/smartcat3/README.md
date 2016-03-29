@@ -17,3 +17,5 @@
 ## Other write-ups and resources
 
 * <https://github.com/hexpresso/WU-2016/tree/master/insomnihack-ctf-2016/misc/Smartcat3>
+* <https://github.com/p4-team/ctf/tree/master/2016-03-18-insomnihack-final/web_smartcat3>
+* <http://0xecute.com/index.php/2016/03/21/insomnihack-2016-smartcat-3/>
