@@ -14,6 +14,7 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [crypto/lazy-250](crypto/lazy-250)
 * [ppc/yacst2-350](ppc/yacst2-350)
 * [web/optional_cats-150](web/optional_cats-150)
+* [crypto/xxy-300](crypto/xxy-300)
 
 ## Missing write-ups
 
@@ -23,7 +24,6 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [reverse/broken-200](reverse/broken-200)
 * [web/just_listen-200](web/just_listen-200)
 * [crypto/quiz-10](crypto/quiz-10)
-* [crypto/xxy-300](crypto/xxy-300)
 * [stego/remastered-100](stego/remastered-100)
 * [web/undesired_resource-350](web/undesired_resource-350)
 * [pwn/web_of_science_3-400](pwn/web_of_science_3-400)
