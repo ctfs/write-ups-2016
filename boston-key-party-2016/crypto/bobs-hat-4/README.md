@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://ctf.rip/boston-key-party-2016-bobs-hat-crypto/>
+* [b01lers](https://b01lers.net/challenges/Boston%20Key%20Party%202016/Bob's%20Hat/91/)

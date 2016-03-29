@@ -16,3 +16,4 @@
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/BKPCTF/crypto/ltseorg> 
 * <https://0day.work/boston-key-party-ctf-2016-writeups/#ltseorg>
+* [b01lers](https://b01lers.net/challenges/Boston%20Key%20Party%202016/ltseorg/92/)

@@ -19,3 +19,4 @@
 * <https://gist.github.com/stephenR/cdfa396aa40c22a3180c> 
 * <http://rex.sex/ctf/2016/bkp/cookbook.py>
 * <https://gist.github.com/LiveOverflow/dadc75ec76a4638ab9ea#file-cookbook-py> (including 3 part video write-up)
+* [b01lers](https://b01lers.net/challenges/Boston%20Key%20Party%202016/Cookbook/95/)
