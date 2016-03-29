@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+[H4x0rPsch0rr](http://hxp.io/blog/26)
