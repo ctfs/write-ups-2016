@@ -6,6 +6,7 @@
 ## Repo-local write-ups
 
 * [misc/found-it-1](misc/found-it-1)
+* [crypto/more-like-zkp-4](crypto/more-like-zkp-4)
 
 ## External write-ups only
 
