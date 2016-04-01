@@ -15,12 +15,12 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [ppc/yacst2-350](ppc/yacst2-350)
 * [web/optional_cats-150](web/optional_cats-150)
 * [crypto/xxy-300](crypto/xxy-300)
+* [crypto/five_blocks-600](crypto/five_blocks-600)
 
 ## Missing write-ups
 
 * [ppc/secure_image-250](ppc/secure_image-250)
 * [pwn/web_of_science-250](pwn/web_of_science-250)
-* [crypto/five_blocks-600](crypto/five_blocks-600)
 * [reverse/broken-200](reverse/broken-200)
 * [web/just_listen-200](web/just_listen-200)
 * [crypto/quiz-10](crypto/quiz-10)
