@@ -10,7 +10,7 @@
 
 ## External write-ups only
 
-* none yet
+* [Dragon Sector write-ups](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)
 
 ## Missing write-ups
 
