@@ -1,10 +1,10 @@
-i#Volga CTF Quals 2016 broken writeup
+#Volga CTF Quals 2016 broken writeup
 
 ###*Category:* Reverse *Points:* 200
 
 > This might be a part of GAI, but it must have been broken... Could you fix it?
 
-[broken](crypto/broken-200/broken)
+[broken](broken?raw=true)
 
 ## write-up
 
@@ -12,4 +12,4 @@ i#Volga CTF Quals 2016 broken writeup
 
 ## Other write-ups and resources
 
-(TODO)
+[insane::Coder alessandro;](https://alessandrogar.io/ctf/volgactf-2016-quals-broken-writeup)
