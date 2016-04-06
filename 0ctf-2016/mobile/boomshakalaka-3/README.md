@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://eugenekolo.com/blog/0ctf-2016-boomshakalaka-writeup/> 
