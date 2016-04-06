@@ -11,6 +11,7 @@
 
 * [crypto/equation-2](crypto/equation-2)
 * [exploit/warumup-2](exploit/warumup-2)
+* [exploit/sandbox-5](exploit/sandbox-5)
 * [web/piapiapia-6](web/piapiapia-6)
 * [web/monkey-4](web/monkey-4)
 * [web/rand_2-2](web/rand_2-2)
@@ -24,7 +25,6 @@
 * [exploit/3-3](exploit/3-3)
 * [exploit/freecell-7](exploit/freecell-7)
 * [exploit/jeap-10](exploit/jeap-10)
-* [exploit/sandbox-5](exploit/sandbox-5)
 * [exploit/zerostorage-6](exploit/zerostorage-6)
 * [misc/checkin-1](misc/checkin-1)
 * [misc/opm-3](misc/opm-3)

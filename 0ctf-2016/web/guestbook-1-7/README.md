@@ -18,4 +18,5 @@
 ## Other write-ups and resources
 
 * <https://tsublogs.wordpress.com/2016/03/14/0ctf-2016-quals-guestbook1-7-pts/> 
+* <http://security.szurek.pl/0ctf-2016-guestbook-1-writeup.html>
 * [Spanish](https://blog.ka0labs.net/post/33/)
