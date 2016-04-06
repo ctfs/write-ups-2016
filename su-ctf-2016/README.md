@@ -35,6 +35,7 @@
 * [reverse/interpolation-200](reverse/interpolation-200)
 * [reverse/serial-150](reverse/serial-150)
 * [reverse/srm-50](reverse/srm-50)
+* [reverse/maze-400](reverse/maze-400)
 * [web/hackme-400](web/hackme-400)
 * [web/oldpersian-250](web/oldpersian-250)
 * [web/photoblog-100](web/photoblog-100)
@@ -45,5 +46,4 @@
 * [crypto/the-russian-attack-500](crypto/the-russian-attack-500)
 * [pwn/echo-200](pwn/echo-200)
 * [reverse/hi-200](reverse/hi-200)
-* [reverse/maze-400](reverse/maze-400)
 * [reverse/wincc-300](reverse/wincc-300)

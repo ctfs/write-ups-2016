@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/1amtom/writeups/tree/master/2016-02-06-SharifCTF/re-400-maze> 
