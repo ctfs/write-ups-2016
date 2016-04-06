@@ -16,3 +16,4 @@
 
 * <https://ctf.rip/boston-key-party-2016-bobs-hat-crypto/>
 * [b01lers](https://b01lers.net/challenges/Boston%20Key%20Party%202016/Bob's%20Hat/91/)
+* <http://err0r-451.ru/2016-bkpctf-crypto-bobs-hat-4-pts/>
