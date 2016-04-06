@@ -33,3 +33,5 @@ published here: https://projects.hackeriet.no/news/16
 * <https://projects.hackeriet.no/news/16>
 * <http://fadec0d3.blogspot.com/2016/03/bctf-2016-catvideo-150.html>
 * <https://github.com/DMArens/CTF-Writeups/tree/master/2016/BCTF/Forensics150>
+* <http://err0r-451.ru/2016-bctf-forensic-catvideo-150-pts/>
+* [Russian](http://countersite.org/articles/steganography/68-bctf-2016-stego-catvideo.html)
