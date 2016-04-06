@@ -232,3 +232,7 @@ Output:
 999: (7, 193)
 BKPCTF{4c3b35aaade7843c8c97}
 ```
+
+## Other write-ups and resources
+
+* <https://losfuzzys.github.io/writeup/2016/03/30/bostonkeyparty-more-like-zkp/>
