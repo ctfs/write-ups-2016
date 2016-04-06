@@ -18,3 +18,4 @@
 * <https://0day.work/boston-key-party-ctf-2016-writeups/#ltseorg>
 * [b01lers](https://b01lers.net/challenges/Boston%20Key%20Party%202016/ltseorg/92/)
 * <http://err0r-451.ru/bkpctf-crypto-ltseorg-4-pts/>
+* <https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/crypto_4_ltseorg>

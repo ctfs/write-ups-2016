@@ -14,5 +14,6 @@
 
 ## Other write-ups and resources
 
-* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/BKPCTF/reversing/unholy> 
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/BKPCTF/reversing/unholy>
+* <https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/re_4_unholy>
 * [Russian](https://github.com/unamer/ctf/blob/master/bkpctf2016/simplecalc.py)
