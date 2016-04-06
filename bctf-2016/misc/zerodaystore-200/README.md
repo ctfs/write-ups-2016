@@ -8,5 +8,6 @@
 (TODO)
 
 ## Other write-ups and resources
-* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/BCTF/misc/zerodaystore>
 
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/BCTF/misc/zerodaystore>
+* <https://github.com/p4-team/ctf/blob/master/2016-03-19-bctf/misc_200_zerodaystore/README.md>

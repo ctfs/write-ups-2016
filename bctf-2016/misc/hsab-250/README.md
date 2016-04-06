@@ -9,5 +9,6 @@
 (TODO)
 
 ## Other write-ups and resources
-* <https://ctf.rip/bctf-2016-hsab-misc-category-challenge/>
 
+* <https://ctf.rip/bctf-2016-hsab-misc-category-challenge/>
+* <https://github.com/QuokkaLight/write-ups/blob/master/bctf-2016/hsab.md>
