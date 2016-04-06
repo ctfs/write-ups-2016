@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://eugenekolo.com/blog/0ctf-2016-boomshakalaka-writeup/> 
+* <https://github.com/p4-team/ctf/blob/master/2016-03-12-0ctf/boomshakalaka/README.md>

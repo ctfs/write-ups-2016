@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://reyammer.blogspot.in/2016/03/from-android-art-binary-only-to-dex-yes.html> 
