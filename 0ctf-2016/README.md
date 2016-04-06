@@ -14,6 +14,7 @@
 * [web/piapiapia-6](web/piapiapia-6)
 * [web/monkey-4](web/monkey-4)
 * [web/rand_2-2](web/rand_2-2)
+* [web/guestbook-1-7](web/guestbook-1-7)
 
 ## Missing write-ups
 
@@ -36,5 +37,4 @@
 * [reverse/papi-8](reverse/papi-8)
 * [reverse/trace-4](reverse/trace-4)
 * [reverse/vm-7](reverse/vm-7)
-* [web/guestbook-1-7](web/guestbook-1-7)
 * [web/guestbook-2-7](web/guestbook-2-7)

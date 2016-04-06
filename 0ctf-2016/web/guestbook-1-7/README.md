@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://tsublogs.wordpress.com/2016/03/14/0ctf-2016-quals-guestbook1-7-pts/> 
+* [Spanish](https://blog.ka0labs.net/post/33/)
