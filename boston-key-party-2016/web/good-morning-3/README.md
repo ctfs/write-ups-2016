@@ -18,3 +18,4 @@
 * <https://0day.work/boston-key-party-ctf-2016-writeups/#goodmorning>
 * <http://www.kernelpicnic.net/2016/03/06/BKPCTF-Wonderland-Good-Morning-Write-Up.html>
 * <https://github.com/stypr/ctf/tree/master/2016/bkp_2016>
+* <http://security.szurek.pl/boston-key-party-ctf-2016-good-morning-and-optiproxy-writeup.html>
