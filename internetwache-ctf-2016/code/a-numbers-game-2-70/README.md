@@ -81,3 +81,4 @@ while True:
 * <https://github.com/Kileak/CTF/tree/master/2016/internetwache/code/numbersgame>
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/coding/code70>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Code/Code70.md>
+* <https://www.whitehatters.academy/internetwache-ctf-code50/>
