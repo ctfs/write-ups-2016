@@ -12,3 +12,4 @@
 
 * <https://ctf.rip/bctf-2016-hsab-misc-category-challenge/>
 * <https://github.com/QuokkaLight/write-ups/blob/master/bctf-2016/hsab.md>
+* <https://github.com/DMArens/CTF-Writeups/tree/master/2016/BCTF/Misc200>
