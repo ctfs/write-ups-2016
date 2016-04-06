@@ -21,3 +21,4 @@
 * <https://gist.github.com/LiveOverflow/dadc75ec76a4638ab9ea#file-cookbook-py> (including 3 part video write-up)
 * [b01lers](https://b01lers.net/challenges/Boston%20Key%20Party%202016/Cookbook/95/)
 * <http://pwnexpoit.hol.es/2016/03/07/boston-key-party-ctf-2016-cookbook/>
+* <https://github.com/unamer/ctf/blob/master/bkpctf2016/cookbook.py>
