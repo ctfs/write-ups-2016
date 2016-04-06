@@ -29,3 +29,5 @@ published here: https://projects.hackeriet.no/news/16
 
 ## Other write-ups and resources
 * <http://veganzombies.org/writeups/2016/03/21/BCtf-catvideo.html>
+* <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/BCTF/Forensics150.md>
+* <https://projects.hackeriet.no/news/16>
