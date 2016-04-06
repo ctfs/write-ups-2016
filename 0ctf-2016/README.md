@@ -11,7 +11,9 @@
 
 * [crypto/equation-2](crypto/equation-2)
 * [exploit/warumup-2](exploit/warumup-2)
+* [web/piapiapia-6](web/piapiapia-6)
 * [web/monkey-4](web/monkey-4)
+* [web/rand_2-2](web/rand_2-2)
 
 ## Missing write-ups
 
@@ -36,5 +38,3 @@
 * [reverse/vm-7](reverse/vm-7)
 * [web/guestbook-1-7](web/guestbook-1-7)
 * [web/guestbook-2-7](web/guestbook-2-7)
-* [web/piapiapia-6](web/piapiapia-6)
-* [web/rand_2-2](web/rand_2-2)

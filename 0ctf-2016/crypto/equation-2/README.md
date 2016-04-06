@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://0day.work/0ctf-2016-quals-writeups/> 
+* <https://github.com/p4-team/ctf/tree/master/2016-03-12-0ctf/equation>
