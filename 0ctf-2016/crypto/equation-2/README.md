@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://0day.work/0ctf-2016-quals-writeups/> 
