@@ -10,6 +10,7 @@
 
 ## External write-ups only
 
+* [misc/lily-flac-2](misc/lily-flac-2)
 * [pwn/complex-calc-5](pwn/complex-calc-5)
 * [pwn/cookbook-6](pwn/cookbook-6)
 * [pwn/simple-calc-5](pwn/simple-calc-5)
@@ -24,9 +25,8 @@
 * [crypto/bobs-hat-4](crypto/bobs-hat-4)
 * [reversing/unholy-4](reversing/unholy-4)
 * [reversing/frog-fraction-2-5](reversing/frog-fraction-2-5)
+* [reversing/jit-in-my-pants-3](reversing/jit-in-my-pants-3)
 
 ## Missing write-ups
 
-* [misc/lily-flac-2](misc/lily-flac-2)
 * [crypto/gsilvis-counting-magic-9](crypto/gsilvis-counting-magic-9)
-* [reversing/jit-in-my-pants-3](reversing/jit-in-my-pants-3)

@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * Challenge author's expected Solution <https://dustri.org/b/expected-solution-for-jit-in-my-pants-boston-key-party-2016.html>
+* <https://www.xil.se/post/bkp-2016-jit-re-kbeckmann/>

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/duckythescientist/5c63e646ce5ab14c8afd>
