@@ -290,5 +290,4 @@ sun{F!N4LLY_C4UGHT_FL0R!D4M4N}
 
 
 ## Other write-ups and resources
-
-None.
+* <https://ctftime.org/writeup/2834>
