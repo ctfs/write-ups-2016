@@ -16,3 +16,4 @@
 
 * <https://gist.github.com/duckythescientist/5c63e646ce5ab14c8afd>
 * <https://www.youtube.com/watch?v=Ccnoa7toR5w>
+* <https://ctf.rip/boston-key-party-lily-flac-misc/>
