@@ -9,6 +9,8 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 
 ## External write-ups only
 
+* [admin/image_archeology-350](admin/image_archeology-350)
+* [pwn/web_of_science-250](pwn/web_of_science-250)
 * [pwn/web_of_science_2-350](pwn/web_of_science_2-350)
 * [reverse/multiple_shift-500](reverse/multiple_shift-500)
 * [crypto/lazy-250](crypto/lazy-250)
@@ -21,7 +23,6 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 ## Missing write-ups
 
 * [ppc/secure_image-250](ppc/secure_image-250)
-* [pwn/web_of_science-250](pwn/web_of_science-250)
 * [web/just_listen-200](web/just_listen-200)
 * [crypto/quiz-10](crypto/quiz-10)
 * [stego/remastered-100](stego/remastered-100)
@@ -29,7 +30,6 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [pwn/web_of_science_3-400](pwn/web_of_science_3-400)
 * [crypto/ask_the_oracle-400](crypto/ask_the_oracle-400)
 * [admin/shiver_pc-100](admin/shiver_pc-100)
-* [admin/image_archeology-350](admin/image_archeology-350)
 * [reverse/transformer-400](reverse/transformer-400)
 * [reverse/multiple_shift-500](reverse/multiple_shift-500)
 

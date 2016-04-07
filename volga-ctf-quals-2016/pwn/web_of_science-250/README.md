@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* <https://blahcat.github.io/2016/03/28/volgactf-2016-web-of-science.html>
