@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://blahcat.github.io/2016/03/28/volgactf-2016-web-of-science.html>
+* <https://0xabe.io/ctf/exploit/2016/03/29/VolgaCTF-pwn-Web-of-Science.html>

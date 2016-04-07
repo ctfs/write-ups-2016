@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* <https://0xabe.io/ctf/exploit/2016/03/29/VolgaCTF-pwn-Web-of-Science3.html>
