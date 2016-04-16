@@ -9,7 +9,8 @@
 
 ## External write-ups only
 
-* none yet
+* [pwn/old-school](pwn/old-school)
+* [web/js-is-no-a-jail](web/js-is-no-a-jail)
 
 ## Missing write-ups
 
@@ -19,9 +20,7 @@
 * [pwn/BugBug-220](pwn/BugBug-220)
 * [pwn/manager-287](pwn/manager-287)
 * [pwn/miccheck-1](pwn/miccheck-1)
-* [pwn/old-school](pwn/old-school)
 * [pwn/Fl0ppy-315](pwn/Fl0ppy-315)
-* [web/js-is-no-a-jail](web/js-is-no-a-jail)
 * [web/watermelon-210](web/watermelon-210)
 * [web/combination-pizza-222](web/combination-pizza-222)
 * [web/hack-no-jam-365](web/hack-no-jam-365)
