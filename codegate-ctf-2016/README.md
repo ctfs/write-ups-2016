@@ -13,6 +13,7 @@
 * [web/combination-pizza-222](web/combination-pizza-222)
 * [web/js-is-no-a-jail](web/js-is-no-a-jail)
 * [rev/Crypt1nth3sh3ll-333](rev/Crypt1nth3sh3ll-333)
+* [rev/compress-200](rev/compress-200)
 
 ## Missing write-ups
 
@@ -27,4 +28,3 @@
 * [web/hack-no-jam-365](web/hack-no-jam-365)
 * [rev/aarm_encrypt-191](rev/aarm_encrypt-191)
 * [rev/ultra-rev-350](rev/ultra-rev-350)
-* [rev/compress-200](rev/compress-200)

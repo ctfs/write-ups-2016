@@ -21,4 +21,5 @@
 
 ## Other write-ups and resources
 
-* <https://0x90r00t.com/2016/03/13/codegate-ctf-2016-web-222-combination-pizza-write-up/> 
+* <https://0x90r00t.com/2016/03/13/codegate-ctf-2016-web-222-combination-pizza-write-up/>
+* <https://ctf.rip/codegate-2016-combination-pizza-web-challenge/> 
