@@ -19,3 +19,4 @@
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/CODEGATE/misc/jsisnotajail> 
 * <http://hacktizen.blogspot.in/2016/03/codegate-2016-jsisnotajail.html>
+* <https://fadec0d3.blogspot.in/2016/03/codegate-ctf-2016-jsisnotajail-100.html>

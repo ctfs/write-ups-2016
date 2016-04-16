@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://fadec0d3.blogspot.in/2016/03/codegate-ctf-2016-cemu-512.html> 

@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://dakutenpura.hatenablog.com/entry/2016/03/16/163631> 
