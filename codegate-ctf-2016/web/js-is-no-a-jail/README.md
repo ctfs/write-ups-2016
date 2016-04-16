@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/CODEGATE/misc/jsisnotajail> 
+* <http://hacktizen.blogspot.in/2016/03/codegate-2016-jsisnotajail.html>
