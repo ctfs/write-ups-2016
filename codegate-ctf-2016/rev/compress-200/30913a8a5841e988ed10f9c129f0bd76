@@ -1,0 +1,64 @@
+import md5
+def encode(input_string):
+    print input_string
+    h = md5.md5(input_string[:4]).hexdigest()
+    table = {
+        'a': 1,
+        'b': 2,
+        'c': 3,
+        'd': 4,
+        'e': 5,
+        'f': 6,
+        'g': 7,
+        'h': 8,
+        'i': 9,
+        'j': 0
+    }
+    out = ""
+    prev = ""
+    stage1 = []
+    stage2 = []
+    stage3 = ""
+    passbyte = -1
+    for ch in input_string:
+        if ch in table.keys():
+            stage1.append(table[ch])
+        else:
+            stage1.append(ch)
+
+    for index, ch in enumerate(stage1):
+        if len(stage1) <= index+1:
+            if index != passbyte:
+                stage2.append(ch)
+            break
+
+        if passbyte != -1 and passbyte == index:
+            continue
+
+        if type(ch) == int and type(stage1[index+1])==int:
+            tmp = ch << 4
+            tmp |= stage1[index+1]
+            stage2.append(tmp)
+            passbyte = index+1
+        else:
+            stage2.append(ch)
+
+    for ch in stage2:
+        if type(ch) == int:
+            stage3 += chr(ch)
+        else:
+            stage3 += ch
+    
+    for index, ch in enumerate(stage3):
+        if index >= len(h):
+            choice = 0
+        else:
+            choice = index
+
+        out += chr(ord(ch) ^ ord(h[choice]))
+
+    print repr(out)
+
+
+encoded = "~u/\x15mK\x11N`[^\x13E2JKj0K;3^D3\x18\x15g\xbc\\Gb\x14T\x19E"
+encode(st)
