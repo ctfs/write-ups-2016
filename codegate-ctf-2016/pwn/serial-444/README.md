@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://hawaiijohn.wordpress.com/2016/03/15/codegate-2016-serial/> 
+* <http://ebfe.dk/ctf/2016/03/21/codegate_quals_serial/>
