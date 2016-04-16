@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://hawaiijohn.wordpress.com/2016/03/15/codegate-2016-serial/> 
