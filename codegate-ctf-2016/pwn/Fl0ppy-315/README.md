@@ -21,4 +21,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://revers3r.tistory.com/367> 
+* <http://pwnexpoit.hol.es/2016/03/15/codegate-ctf-2015-fl0ppy/>
