@@ -1,7 +1,7 @@
 # angstromCTF 2016 write-ups
 
-* <TODO>
-* [Scoreboard](https://angstromctf.com/scoreboard/) or [local alternative](TODOLOCAL)
+* [https://angstromctf.com](https://angstromctf.com)
+* [Scoreboard](https://angstromctf.com/scoreboard/) or [local alternative (TODO)](TODOLOCAL)
 
 ## Repo-local write-ups
 
