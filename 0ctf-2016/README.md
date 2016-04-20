@@ -20,6 +20,7 @@
 * [web/monkey-4](web/monkey-4)
 * [web/rand_2-2](web/rand_2-2)
 * [web/guestbook-1-7](web/guestbook-1-7)
+* [Dragon Sector write-ups](http://dragonsector.pl/docs/0ctf2016_writeups.pdf) (web/monkey-4, web/rand_r-2, web/piapiapia-6, pwn/(* ￣3)(ε￣ *)-8, misc/xor_painter-4, re/momo-3, mobile/boomshakalaka-3, pwn/sandbox-5, crypto/equation-3, re/trace-4, crypto/rsa-2, pwn/warmup-2, misc/0pm-3, mobile/state-of-the-art-5)
 
 ## Missing write-ups
 
