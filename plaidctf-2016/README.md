@@ -1,7 +1,6 @@
 # PlaidCTF 2016 write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://play.plaidctf.com/scoreboard) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 
@@ -9,7 +8,7 @@
 
 ## External write-ups only
 
-* none yet
+* [pwnable/butterfly](pwnable/butterfly)
 
 ## Missing write-ups
 
@@ -28,7 +27,6 @@
 * [crypto/radioactive](crypto/radioactive)
 * [crypto/tonnerre](crypto/tonnerre)
 * [pwnable](pwnable)
-* [pwnable/butterfly](pwnable/butterfly)
 * [pwnable/unix_time_formatter](pwnable/unix_time_formatter)
 * [pwnable/pzip](pwnable/pzip)
 * [pwnable/js_sandbox](pwnable/js_sandbox)
