@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/x64x6a/ctf/tree/master/PlaidCTF%202016/rabit>
