@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://p1kachu.pluggi.fr/writeup/re/2016/04/18/plaid-quick-writeup/>
