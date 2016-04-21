@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/x64x6a/ctf/tree/master/PlaidCTF%202016/tonnerre>
+* <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/PCTF/crypto/tonnerre>
