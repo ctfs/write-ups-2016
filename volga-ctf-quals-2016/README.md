@@ -20,6 +20,7 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [crypto/xxy-300](crypto/xxy-300)
 * [crypto/five_blocks-600](crypto/five_blocks-600)
 * [reverse/broken-200](reverse/broken-200)
+* [reverse/transformer-400](reverse/transformer-400)
 
 ## Missing write-ups
 
@@ -30,6 +31,5 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [web/undesired_resource-350](web/undesired_resource-350)
 * [crypto/ask_the_oracle-400](crypto/ask_the_oracle-400)
 * [admin/shiver_pc-100](admin/shiver_pc-100)
-* [reverse/transformer-400](reverse/transformer-400)
 * [reverse/multiple_shift-500](reverse/multiple_shift-500)
 

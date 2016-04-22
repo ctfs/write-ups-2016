@@ -4,8 +4,8 @@
 
 > This binary does something with the data. The transformation must be reversible, but the details are unknown. It shouldn't be too difficult to reverse that transformation and obtain the flag, should it?
 
-[transformer](reverse/transformer-400/transformer)
-[flag.transformed](reverse/transformer-400/flag.transformed)
+[transformer](transformer?raw=true)
+[flag.transformed](flag.transformed?raw=true)
 
 ## write-up
 
@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-(TODO)
+[insane::Coder alessandro;](https://alessandrogar.io/ctf/volgactf-2016-quals-transformer-writeup)  
+Reversing and writing a decoder for the Transformer challenge from the VolgaCTF 2016 Quals.
