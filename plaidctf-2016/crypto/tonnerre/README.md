@@ -15,3 +15,6 @@
 
 * <https://github.com/x64x6a/ctf/tree/master/PlaidCTF%202016/tonnerre>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/PCTF/crypto/tonnerre>
+* <https://gist.github.com/Bono-iPad/124e7969d4f3ae0e0b4bd7518de7fd7b>
+* <https://duksctf.github.io/PCTF2016-tonnerre/>
+* <https://grocid.net/2016/04/17/plaidctf-tonnerre/>

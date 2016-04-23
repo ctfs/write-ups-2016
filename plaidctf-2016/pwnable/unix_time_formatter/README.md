@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/VulnHub/ctf-writeups/blob/master/2016/plaidctf/unix_time_formatter.md>
+* <https://duksctf.github.io/PCTF2016-unix-time-formatter/>

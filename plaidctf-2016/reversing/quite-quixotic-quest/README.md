@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://b01lers.net/challenges/Plaid%202016/quite%20quixotic%20quest/103/>

@@ -14,3 +14,5 @@
 ## Other write-ups and resources
 
 * <https://github.com/x64x6a/ctf/tree/master/PlaidCTF%202016/rabit>
+* <https://gist.github.com/elliptic-shiho/9aba6a8f2869dea8a839a41ecc940fc0>
+* <http://blog.clark.re/2016/04/plaidctf-2016-rabit-write-up.html>

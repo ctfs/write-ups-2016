@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/sroettger/d077d3907999aaa0f89d11d956b438ea>
+* <https://rzhou.org/~ricky/pctf2016/js_sandbox.js>

@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/VulnHub/ctf-writeups/blob/master/2016/plaidctf/Misc_Untitle_1_pdf_50.md>
