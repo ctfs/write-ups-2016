@@ -19,4 +19,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://dougallj.wordpress.com/2016/04/18/plaidctf-2016-awkward-pwnable-600/>
+* <https://gist.github.com/brianairb/dc6f5b6d21d6c7ecacf83dd9b65dc288>

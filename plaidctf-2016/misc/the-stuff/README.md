@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/VulnHub/ctf-writeups/blob/master/2016/plaidctf/Misc_the_stuff_50.md>
+* <https://duksctf.github.io/PCTF2016-the-stuff/>

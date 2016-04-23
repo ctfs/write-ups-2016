@@ -19,4 +19,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://b01lers.net/challenges/Plaid%202016/fixedpoint/102/>
+* <https://duksctf.github.io/PCTF2016-fixedpoint/>
+* <https://github.com/rick2600/writeups/blob/master/PlaidCTF2016/fixedpoint.md>

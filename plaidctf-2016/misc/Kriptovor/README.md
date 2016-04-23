@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://duksctf.github.io/PCTF2016-kriptovor/>

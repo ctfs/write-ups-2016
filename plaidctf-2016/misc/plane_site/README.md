@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/VulnHub/ctf-writeups/blob/master/2016/plaidctf/Misc_plane_site_75.md>
