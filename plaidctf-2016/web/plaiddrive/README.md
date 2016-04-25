@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/tyage/a0e1c8d01b7ffad26e56293a198bef57>
