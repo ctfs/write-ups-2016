@@ -1,0 +1,10 @@
+ASSETS
+Current assets
+    Cash			$    2100
+    Accounts receivable		   436700
+    Inventory			   750450
+    Supplies			    14000
+    Prepaid insurance		    18506
+        Total current assets	  1221756
+
+Investments			    68943
