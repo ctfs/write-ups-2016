@@ -11,6 +11,7 @@
 * [crypto/rabit](crypto/rabit)
 * [crypto/tonnerre](crypto/tonnerre)
 * [pwnable/butterfly](pwnable/butterfly)
+* [217 write-ups](https://hackmd.io/s/NkkVqrpkW) (pixelshop, plaiddrive, butterfly, pzip, unix_time_formatter, fixedpoint, pound, sanity-check, Exponentiation-is-Hard, plane_site, morset, Untitled-1.pdf, hevc, the-stuff, Kriptover, tonnerre, rabit, sexec, radioactive, quick, quite-quixotic-quest, rage-against-the-machine, bitwise)
 
 ## Missing write-ups
 
