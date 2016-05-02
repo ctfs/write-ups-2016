@@ -7,7 +7,9 @@
 * none yet
 
 ## External write-ups only
-
+* [mobile](mobile)
+* [mobile/little-bobby-application-250](mobile/little-bobby-application-250)
+* [mobile/can-you-repo-it-5](mobile/can-you-repo-it-5)
 * [mobile/ill-intentions-150](mobile/ill-intentions-150)
 
 ## Missing write-ups
@@ -43,9 +45,6 @@
 * [homework/sand-blocks-15](homework/sand-blocks-15)
 * [homework/jail-break-100](homework/jail-break-100)
 * [homework/prison-break-100](homework/prison-break-100)
-* [mobile](mobile)
-* [mobile/little-bobby-application-250](mobile/little-bobby-application-250)
-* [mobile/can-you-repo-it-5](mobile/can-you-repo-it-5)
 * [networking](networking)
 * [networking/opabina-regalis-token-fetch-50](networking/opabina-regalis-token-fetch-50)
 * [networking/opabina-regalis-downgrade-attack-100](networking/opabina-regalis-downgrade-attack-100)

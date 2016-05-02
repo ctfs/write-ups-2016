@@ -13,4 +13,4 @@ Find the vulnerability, develop an exploit, and when you're ready, submit your A
 
 ## Other write-ups and resources
 
-* none yet
+* <https://blog.lse.epita.fr/articles/78-google-capture-the-flag-2016-mobile-category.html>

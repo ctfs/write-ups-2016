@@ -14,4 +14,4 @@ Do you think the developer of Ill Intentions knows how to set up public reposito
 
 ## Other write-ups and resources
 
-* none yet
+* <https://blog.lse.epita.fr/articles/78-google-capture-the-flag-2016-mobile-category.html>
