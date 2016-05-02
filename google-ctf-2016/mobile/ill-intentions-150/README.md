@@ -1,10 +1,10 @@
 # google-ctf-2016 : ill-intentions-150
 
 **Category:** Mobile
-**Points:** 
-**Solves:** 
+**Points:** 150 
+**Solves:** 89
 **Description:**
-
+Do you have have ill intentions?
 
 
 ## Write-up
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ift.tt/1NPPSpB>

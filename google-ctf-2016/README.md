@@ -8,7 +8,7 @@
 
 ## External write-ups only
 
-* none yet
+* [mobile/ill-intentions-150](mobile/ill-intentions-150)
 
 ## Missing write-ups
 
@@ -44,7 +44,6 @@
 * [homework/jail-break-100](homework/jail-break-100)
 * [homework/prison-break-100](homework/prison-break-100)
 * [mobile](mobile)
-* [mobile/ill-intentions-150](mobile/ill-intentions-150)
 * [mobile/little-bobby-application-250](mobile/little-bobby-application-250)
 * [mobile/can-you-repo-it-5](mobile/can-you-repo-it-5)
 * [networking](networking)
