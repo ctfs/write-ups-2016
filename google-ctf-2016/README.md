@@ -4,7 +4,7 @@
 
 ## Repo-local write-ups
 
-* none yet
+* [mobile/little-bobby-application-250](mobile/little-bobby-application-250)
 
 ## External write-ups only
 * [mobile](mobile)
