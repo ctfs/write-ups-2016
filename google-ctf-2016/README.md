@@ -1,7 +1,6 @@
 # google-ctf-2016 write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://capturetheflag.withgoogle.com/scoreboard) or [local alternative](scoreboard)
 
 ## Repo-local write-ups
 
