@@ -1,10 +1,13 @@
 # google-ctf-2016 : woodman-100
 
 **Category:** Crypto
-**Points:** 
-**Solves:** 
+**Points:** 100
+**Solves:** 57
 **Description:**
 
+How honest are you?
+
+Running here <https://giant-goannas.ctfcompetition.com/>
 
 
 ## Write-up
