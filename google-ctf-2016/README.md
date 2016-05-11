@@ -11,6 +11,7 @@
 * [mobile/little-bobby-application-250](mobile/little-bobby-application-250)
 * [mobile/can-you-repo-it-5](mobile/can-you-repo-it-5)
 * [mobile/ill-intentions-150](mobile/ill-intentions-150)
+* [forensics/for2-200](forensics/for2-200)
 
 ## Missing write-ups
 
@@ -22,7 +23,6 @@
 * [exploitation/forced-puns-125](exploitation/forced-puns-125)
 * [forensics](forensics)
 * [forensics/for1-100](forensics/for1-100)
-* [forensics/for2-200](forensics/for2-200)
 * [forensics/a-cute-stegosaurus-100](forensics/a-cute-stegosaurus-100)
 * [forensics/no-big-deal-50](forensics/no-big-deal-50)
 * [forensics/no-big-deal-part-2-250](forensics/no-big-deal-part-2-250)

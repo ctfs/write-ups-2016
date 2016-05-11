@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.rootusers.com/google-ctf-2016-forensic-for2-write-up/>
