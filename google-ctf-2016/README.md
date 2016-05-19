@@ -12,6 +12,7 @@
 * [mobile/can-you-repo-it-5](mobile/can-you-repo-it-5)
 * [mobile/ill-intentions-150](mobile/ill-intentions-150)
 * [forensics/for2-200](forensics/for2-200)
+* [homework/need-feedback-300](homework/need-feedback-300)
 
 ## Missing write-ups
 
@@ -34,7 +35,6 @@
 * [homework/tie-dye-socks-15](homework/tie-dye-socks-15)
 * [homework/time-to-go-150](homework/time-to-go-150)
 * [homework/jekyll-15](homework/jekyll-15)
-* [homework/need-feedback-300](homework/need-feedback-300)
 * [homework/bonafortuna-1194-15](homework/bonafortuna-1194-15)
 * [homework/bonafortuna-443-15](homework/bonafortuna-443-15)
 * [homework/pound-cake-15](homework/pound-cake-15)
