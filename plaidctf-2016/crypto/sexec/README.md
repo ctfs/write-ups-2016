@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://mslc.ctf.su/wp/plaidctf-2016-sexec-crypto-300/
