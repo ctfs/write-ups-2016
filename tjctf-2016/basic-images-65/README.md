@@ -10,4 +10,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-Basic-Images/)
+* [Invulnerable - Countersite.org](http://countersite.org/articles/steganography/97-grey-shades-tjctf2016.html)
+* [irBodyguard - irctf.blog.ir]( http://irctf.blog.ir/1395/03/11/TJCTF-2016-Basic-Images)
