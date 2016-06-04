@@ -10,4 +10,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-Interesting-Telegrams/)
