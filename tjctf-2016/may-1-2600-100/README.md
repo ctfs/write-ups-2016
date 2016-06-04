@@ -9,4 +9,6 @@ After downloading and unzipping the file provided, it appears as a .DBX file. Go
 
 ## Other write-ups and resources
 
-* none yet
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3451)
+* [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-May-1-2600/)
+* [The_Invulnerable - coutersite.org](http://countersite.org/articles/sysadmin/99-outbox-forensics-tjctf-2016.html)
