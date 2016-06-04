@@ -5,7 +5,8 @@
 
 ## Write-up
 
-TODO`tjctf{h1d3_y0UR_84RC0d3s}`
+(TODO)
+`tjctf{h1d3_y0UR_84RC0d3s}`
 
 ## Other write-ups and resources
 

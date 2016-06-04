@@ -5,7 +5,8 @@
 
 ## Write-up
 
-TODO`tjctf{j4V4_R3FL3C710n_15_7R1CkY}`
+(TODO)
+`tjctf{j4V4_R3FL3C710n_15_7R1CkY}`
 
 ## Other write-ups and resources
 

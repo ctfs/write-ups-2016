@@ -5,7 +5,7 @@
 
 ## Write-up
 
-TODO`tjctf{y4y_u_R_5aN3}`
+This challenge was meant to be introductory, low value, and was intended to inform you of the tjctf{flag} format. All you must do is copy the flag `tjctf{y4y_u_R_5aN3}` and paste it into the submission box (as instructed).
 
 ## Other write-ups and resources
 
