@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<style>
+    body {
+        margin: 40px auto;
+        max-width: 650px;
+        line-height: 1.6;
+        font-family: sans-serif;
+        padding: 0 10px;
+    }
+    h1, h2, h3 {
+        line-height: 1.2;
+    }
+    input {
+        padding: 4px 8px;
+    }
+</style>
+
+<h1>Use The Force</h1>
+
+{% if showflag %}
+<p>Congratulations! The flag is <code>tjctf{99f47fbbc74e814a9a00a6458d4e5c12}</code></p>
+{% elif incorrect %}
+<p>Sorry, that's incorrect.</p>
+{% endif %}
+
+<p>
+    To find the flag, <em>Use The Force</em>... and also the
+    <a href="app.py">source</a>.
+</p>
+
+<form action="" method="POST">
+    <input type="text" name="data" />
+    <input type="submit" />
+</form>

@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+body {
+    background-color:#1C1C1C;
+    font-family:'Inconsolata',monospace;
+}
+#container {
+    max-width:600px;
+    margin:0 auto;
+}
+h1 {
+    color:white;
+    text-align:center;
+    margin:15px;
+}
+.form {
+    background-color:white;
+    border:1px solid #aaa;
+    padding:15px;
+    margin-bottom:15px;
+}
+@keyframes blink {
+    0% {
+        opacity:0.2;
+    }
+    20% {
+        opacity:1;
+    }
+    100% {
+        opacity:0.2;
+    }
+}
+.dots i {
+    font-style:normal;
+    animation-name: blink;
+    animation-duration:1s;
+    animation-iteration-count:infinite;
+    animation-fill-mode:both;
+}
+.dots i:nth-child(2) {
+    animation-delay:0.2s;
+}
+.dots i:nth-child(3) {
+    animation-delay:0.4s;
+}
+pre {
+    tab-size:4;
+}
+#clippy {
+    display:none;
+    position:fixed;
+    bottom:15px;
+    right:15px;
+}
+#clippy img {
+    width:100px;
+}
+#clippy span {
+    position:relative;
+    background-color:#FFFFCB;
+    border-radius:10px;
+    padding:10px;
+    border:1px solid black;
+    font-family: 'Arial';
+    display:block;
+    max-width:230px;
+    margin-bottom:20px;
+}
+#clippy span:after {
+    content: "";
+    position: absolute;
+    bottom: -15px;
+    left: 10px;
+    border-width:15px 0px 0px 15px;
+    border-style:solid;
+    border-color:#FFFFCB transparent;
+    display: block;
+    width: 0;
+}
