@@ -12,4 +12,4 @@ Z Y X W V U T S R Q P O N M L K J U H G F E D C B A
 ```
 ## Other write-ups and resources
 
-* [MilWestA CTFtime.org](https://ctftime.org/writeup/3458)
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3458)
