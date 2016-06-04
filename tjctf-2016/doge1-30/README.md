@@ -10,4 +10,4 @@ Upon close inspection the image contains a dog holding an object with very light
 
 ## Other write-ups and resources
 
-* none yet
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3454)
