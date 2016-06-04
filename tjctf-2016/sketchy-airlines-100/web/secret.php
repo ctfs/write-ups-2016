@@ -1,0 +1,5 @@
+<?php
+
+$FLIGHT_PASSENGER = 'John Doe';
+$FLIGHT_NUM = '2198-b14f-e3c9-c54d-0b65';
+$SECRET_KEY = 'hxJ58SYVgHJLtQ8E';

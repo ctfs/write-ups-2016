@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+html, body {
+    height:100%;
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    background-image:url('/images/background.png');
+}
+#logo {
+    padding-top:15px;
+}
+#logo svg {
+    margin-left:10px;
+}
+#content {
+    border-left:1px solid #ccc;
+    border-right:1px solid #ccc;
+    background-color:white;
+    max-width:600px;
+    margin:0 auto;
+    min-height:100%;
+}
+.body {
+    padding:15px;
+    padding-top:0px;
+}
