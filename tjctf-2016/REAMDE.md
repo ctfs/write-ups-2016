@@ -26,6 +26,7 @@
 * may-1-2600-100
 * mu-sic-200
 * oneshot-170
+* one-time-subtraction-20
 * r-u-insane-5
 * reversing-20
 * rsa1-60
