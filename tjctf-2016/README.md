@@ -10,6 +10,18 @@
 
 * none
 
+## Completed write-ups
+* a-hundred-captchas-60
+* cipher-font-50
+* doge1-30
+* doge2-35
+* gravity-mud-90
+* may-1-2600-100
+* r-u-insane-5
+* reversing-20
+* super-questionable-luggage-service-30
+* znzarmt-mvd-hproo-10
+
 ## Missing write-ups
 * basic-images-65
 * contingency-120
