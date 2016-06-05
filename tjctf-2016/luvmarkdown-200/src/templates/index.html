@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>luvmarkdown</title>
+    <link rel="stylesheet" href="/static/main.css" type="text/css" />
+    <script src="/static/index.js" type="application/javascript"></script>
+</head>
+
+<body>
+    <h1 class="page-title"><a href="/">~ luvmarkdown ~</a></h1>
+    <h2>for all your markdown needs</h2>
+    <p>
+        got an important markdown file you need to share? then luvmarkdown is
+        for you! we luv markdown just as much as you do. &lt;3
+    <p>
+        we store each file at a unique url corresponding to the sha256 hash of
+        the file. that way, you can upload your markdown knowing that it will
+        never be tampered with. you can easily verify the integrity of a file
+        by downloading it and ensuring that its filename is equal to
+        <code>hmac_sha256("luvmarkdown", file_contents)</code>.
+    </p>
+    <p>
+        credits to
+        <a href="https://github.com/showdownjs/showdown">showdown</a>
+        and
+        <a href="https://github.com/chjj/marked">marked</a>
+        for the markdown conversion libraries.
+    </p>
+
+
+    <h2>submit your markdown</h2>
+    <noscript>
+        <p>sorry, javascript is required to use this website.</p>
+    </noscript>
+    <form method="POST" id="markdown-form" class="nodisplay">
+        <p><textarea id="markdown-input"></textarea></p>
+        <p><input type="submit" id="markdown-submit" /></p>
+    </form>
+
+    <div id="success-container" class="nodisplay">
+      <p>
+          <strong class="success">&#x2713; success!</strong>
+          your file was successfully uploaded.
+          <a href="" target="_blank" id="success-link">view the file.</a>
+      </p>
+    </div>
+    <div id="error-container" class="nodisplay">
+      <p>
+          <strong class="error">&#x2717; error!</strong>
+          <span id="error-message"></span>
+      </p>
+    </div>
+
+
+    <h2>recently closed pages</h2>
+    <div id="recent-pages-container">
+      <p>no recently closed pages :(</p>
+    </div>
+
+
+</body>
+</html>

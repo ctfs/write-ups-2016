@@ -1,0 +1,15 @@
+{
+  "name": "luvmarkdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "helmet-csp": "^0.3.0"
+  }
+}

@@ -9,4 +9,4 @@ Because the question points to the red bits, any experienced CTF'er knows this i
 
 ## Other write-ups and resources
 
-* [MilWestA - CTFtime.org](https://ctftime.org/task/2449)
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3453)

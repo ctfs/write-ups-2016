@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>luvmarkdown</title>
+    <link rel="stylesheet" href="/static/main.css" type="text/css" />
+    <script src="/static/view.js" type="application/javascript"></script>
+</head>
+
+<body>
+    <h1 class="page-title"><a href="/">~ luvmarkdown ~</a></h1>
+    <noscript>
+        <p>sorry, javascript is required to use this website.</p>
+    </noscript>
+
+    <div id="fileview"></div>
+
+    <div id="filename-container">
+      <p id="filename"></p>
+      <p>
+          <a id="download-link" href="#">download</a> &nbsp;|&nbsp;
+          <a id="report-link" href="#">report</a> &nbsp;|&nbsp;
+          <label for="markdown-library">markdown library: </label>
+          <select id="markdown-library">
+            <option value="showdown">showdown</option>
+            <option value="marked">marked</option>
+          </select>
+      </p>
+    </div>
+</body>
+</html>
