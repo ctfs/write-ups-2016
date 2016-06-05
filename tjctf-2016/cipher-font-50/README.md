@@ -9,4 +9,4 @@ By attempting to copy and paste the text displayed on the webpage, it is obvious
 
 ## Other write-ups and resources
 
-* none yet
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3451)

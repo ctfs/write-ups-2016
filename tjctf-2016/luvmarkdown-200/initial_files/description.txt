@@ -1,0 +1,8 @@
+# description
+We've observed that whenever the site owner needs to check out one of the
+Markdown pages on his site:
+  - they first clear their cookies, so you can't steal their session ID,
+  - when they visit the site, they switch to the Markdown library with, uh,
+    better escaping, and
+  - afterwards, they visit the flag page again to make sure it hasn't been
+    deleted (and also to taunt you).

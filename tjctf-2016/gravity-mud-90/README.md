@@ -9,4 +9,5 @@ After connecting to the given server on netcat, it is painstakingly obvious this
 
 ## Other write-ups and resources
 
-* none yet
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3449)
+* [HackCat](http://s0ngsari.tistory.com/entry/TJCTF-gravitymud)

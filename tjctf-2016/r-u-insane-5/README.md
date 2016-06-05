@@ -9,4 +9,4 @@ This challenge was meant to be introductory, low value, and was intended to info
 
 ## Other write-ups and resources
 
-* none yet
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3456)

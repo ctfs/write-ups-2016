@@ -10,4 +10,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-torrent/)
+* [b0tch_sec - b0tchsec.com](http://b0tchsec.com/2016/05/ctf-writeup-tjctf-torrent)

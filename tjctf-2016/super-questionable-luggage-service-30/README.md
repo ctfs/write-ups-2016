@@ -9,4 +9,4 @@ This challenge takes some messing around, but if you monitor the data sent from 
 
 ## Other write-ups and resources
 
-* none yet
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3457)

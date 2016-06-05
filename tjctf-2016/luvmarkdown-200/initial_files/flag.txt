@@ -1,0 +1,5 @@
+# the flag
+did you really think that this file wouldn't be in markdown as well?
+
+the flag is:
+`tjctf{ce905b7859b9745e249aac6566d293be}`

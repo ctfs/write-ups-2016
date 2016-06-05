@@ -9,4 +9,4 @@ Using netcat (or the socket equivalent), go to p.tjctf.org on port 8008 (no long
 
 ## Other write-ups and resources
 
-* none yet
+* [MilWestA - CTFtime.org](https://ctftime.org/writeup/3452)
