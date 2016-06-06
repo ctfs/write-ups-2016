@@ -10,4 +10,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/use_the_force_80_pts.html)

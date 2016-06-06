@@ -11,3 +11,4 @@
 ## Other write-ups and resources
 
 * [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-corruption/)
+* [My Computer is a Potato](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/corruption_130_pts.html)
