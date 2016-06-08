@@ -11,3 +11,4 @@
 ## Other write-ups and resources
 
 * [HackCat](http://s0ngsari.tistory.com/entry/TJCTF-Java-sandbox)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/java_sandbox_100_pts.html)

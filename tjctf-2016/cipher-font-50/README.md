@@ -10,3 +10,4 @@ By attempting to copy and paste the text displayed on the webpage, it is obvious
 ## Other write-ups and resources
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3451)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/cipher_font_50_pts.html)

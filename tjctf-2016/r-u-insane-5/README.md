@@ -10,3 +10,4 @@ This challenge was meant to be introductory, low value, and was intended to info
 ## Other write-ups and resources
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3456)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/r_u_insane_5_pts.html)

@@ -13,3 +13,4 @@ Z Y X W V U T S R Q P O N M L K J U H G F E D C B A
 ## Other write-ups and resources
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3458)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/znzarmt_mvd_hproo_10_pts.html)

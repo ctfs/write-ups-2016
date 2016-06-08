@@ -12,3 +12,4 @@
 
 * [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-Curses-and-Hexes/)
 * [Invulnerable - Countersite.org](http://countersite.org/articles/steganography/98-curses-and-hexes-stego-tjctf-2016.html)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/curses_and_hex-es_65_pts.html)

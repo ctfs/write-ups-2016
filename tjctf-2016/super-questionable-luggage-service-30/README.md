@@ -10,3 +10,4 @@ This challenge takes some messing around, but if you monitor the data sent from 
 ## Other write-ups and resources
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3457)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/super_questionable_luggage_service_30_pts.html)

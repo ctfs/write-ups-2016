@@ -10,3 +10,4 @@ Using netcat (or the socket equivalent), go to p.tjctf.org on port 8008 (no long
 ## Other write-ups and resources
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3452)
+* [My Computer is a Potato](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/a_hundred_captchas_60_points.html)

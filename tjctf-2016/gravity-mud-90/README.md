@@ -11,3 +11,4 @@ After connecting to the given server on netcat, it is painstakingly obvious this
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3449)
 * [HackCat](http://s0ngsari.tistory.com/entry/TJCTF-gravitymud)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/gravitymud_90_pts.html)

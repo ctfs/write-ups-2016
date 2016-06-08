@@ -11,3 +11,4 @@ Upon close inspection the image contains a dog holding an object with very light
 ## Other write-ups and resources
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3454)
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/doge_1_30_pts.html)

@@ -10,4 +10,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/one_time_subtraction_20_pts.html)

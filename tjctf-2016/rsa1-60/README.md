@@ -11,3 +11,4 @@
 ## Other write-ups and resources
 
 * [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-RSA1/)
+* [My Computer is a Potato](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/rsa_1_60_pts.html)
