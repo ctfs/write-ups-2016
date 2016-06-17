@@ -7,7 +7,7 @@
 * [mobile/little-bobby-application-250](mobile/little-bobby-application-250)
 
 ## External write-ups only
-* [mobile](mobile)
+
 * [mobile/little-bobby-application-250](mobile/little-bobby-application-250)
 * [mobile/can-you-repo-it-5](mobile/can-you-repo-it-5)
 * [mobile/ill-intentions-150](mobile/ill-intentions-150)
@@ -24,6 +24,7 @@
 * [exploitation/forced-puns-125](exploitation/forced-puns-125)
 * [forensics](forensics)
 * [forensics/for1-100](forensics/for1-100)
+* [forensics/for2-200](forensics/for2-200)
 * [forensics/a-cute-stegosaurus-100](forensics/a-cute-stegosaurus-100)
 * [forensics/no-big-deal-50](forensics/no-big-deal-50)
 * [forensics/no-big-deal-part-2-250](forensics/no-big-deal-part-2-250)
@@ -35,6 +36,7 @@
 * [homework/tie-dye-socks-15](homework/tie-dye-socks-15)
 * [homework/time-to-go-150](homework/time-to-go-150)
 * [homework/jekyll-15](homework/jekyll-15)
+* [homework/need-feedback-300](homework/need-feedback-300)
 * [homework/bonafortuna-1194-15](homework/bonafortuna-1194-15)
 * [homework/bonafortuna-443-15](homework/bonafortuna-443-15)
 * [homework/pound-cake-15](homework/pound-cake-15)

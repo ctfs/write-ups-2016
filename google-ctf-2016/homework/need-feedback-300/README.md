@@ -5,8 +5,6 @@
 **Solves:** 
 **Description:**
 
-
-
 ## Write-up
 
 (TODO)

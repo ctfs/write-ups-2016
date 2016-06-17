@@ -1,11 +1,10 @@
 # google-ctf-2016 : no-big-deal-part-2-250
 
 **Category:** Forensics
-**Points:** 
-**Solves:** 
+**Points:** 250
+**Solves:** 35
 **Description:**
-
-
+Prerequisites not met.  (Need help if another team made it this far)
 
 ## Write-up
 
