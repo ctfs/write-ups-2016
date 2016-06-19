@@ -21,3 +21,4 @@
 ## Other write-ups and resources
 
 * http://b0tchsec.com/2016/backdoorctf/clue
+* https://github.com/antoniovilarinholopes/Backdoor2016/tree/master/clue
