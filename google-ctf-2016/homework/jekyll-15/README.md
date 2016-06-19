@@ -1,7 +1,7 @@
 # google-ctf-2016 : jekyll-15
 
 **Category:** Homework
-**Points:** 
+**Points:** 15
 **Solves:** 
 **Description:**
 
@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/philippelaulheret/ctfs/tree/master/google_ctf_2016/jekyll
+* http://mslc.ctf.su/wp/google-ctf-jekyll-crypto/

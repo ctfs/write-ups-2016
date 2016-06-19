@@ -1,7 +1,7 @@
 # google-ctf-2016 : eastern-digital-15
 
 **Category:** Homework
-**Points:** 
+**Points:** 15
 **Solves:** 
 **Description:**
 

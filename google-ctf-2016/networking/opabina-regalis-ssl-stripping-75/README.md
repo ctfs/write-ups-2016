@@ -14,4 +14,4 @@ Listening on port 19121 on ssl-added-and-removed-here.ctfcompetition.com
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/Blystad/googlectf_writeups/tree/master/networking/opabina_regalis_ssl_stripping

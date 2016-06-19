@@ -106,3 +106,5 @@ The full source of the exploit Activity is in [ExploitActivity.java](ExploitActi
 ## Other write-ups and resources
 
 * <https://blog.lse.epita.fr/articles/78-google-capture-the-flag-2016-mobile-category.html>
+* https://github.com/yohanes/write-ups/tree/master/google-ctf/mobile-little-bobby-application
+* http://veehan.github.io/posts/google_ctf_16_little_bobby_application/

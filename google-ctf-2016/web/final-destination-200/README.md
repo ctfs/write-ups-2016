@@ -1,7 +1,7 @@
 # google-ctf-2016 : final-destination-200
 
 **Category:** Web
-**Points:** 
+**Points:** 200
 **Solves:** 
 **Description:**
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://thegoonies.rocks/google-ctf-final-destination-web/

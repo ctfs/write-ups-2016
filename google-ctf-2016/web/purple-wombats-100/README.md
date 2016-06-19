@@ -1,7 +1,7 @@
 # google-ctf-2016 : purple-wombats-100
 
 **Category:** Web
-**Points:** 
+**Points:** 100
 **Solves:** 
 **Description:**
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://buer.haus/2016/05/01/google-ctf-web-6-purple-wombats/

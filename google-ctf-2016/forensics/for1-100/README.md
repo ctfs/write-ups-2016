@@ -13,4 +13,8 @@ Find the flag
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/h4x0r/ctf-writeups/blob/master/Google-CTF-2016/For1/README.md
+* https://github.com/p4-team/ctf/blob/master/2016-05-01-googlectf/for1/README.md
+* https://www.rootusers.com/google-ctf-2016-forensic-for1-write-up/
+* https://github.com/r00ta/myWriteUps/tree/master/GoogleCTF/for1
+* https://github.com/MrMugiwara/WriteupsCTF/tree/master/Google-CTF-2016/For1

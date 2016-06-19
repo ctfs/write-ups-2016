@@ -1,7 +1,7 @@
 # google-ctf-2016 : geokitties-250
 
 **Category:** Web
-**Points:** 
+**Points:** 250
 **Solves:** 
 **Description:**
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://twitter.com/k_firsov/status/726841516174508033

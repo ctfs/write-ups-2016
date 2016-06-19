@@ -14,4 +14,5 @@ Continuing on from Eucalypt Forest - can you break Message Authentication in Wol
 
 ## Other write-ups and resources
 
-* none yet
+* https://thegoonies.rocks/google-ctf-wolf-spider-web/
+* http://mslc.ctf.su/wp/google-ctf-wolf-spider-crypto-125/

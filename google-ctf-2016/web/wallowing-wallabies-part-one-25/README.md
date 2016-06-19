@@ -14,4 +14,7 @@ Please note Please do not run automated scanners against the target - that's not
 
 ## Other write-ups and resources
 
-* none yet
+* http://buer.haus/2016/05/01/google-ctf-web-1-wallowing-wallabies-part-one/
+* https://github.com/bl4de/ctf/tree/master/2016/Google_CTF_2016/Wallowing_Wallabies_Web_25
+* http://countersite.org/83-web-writeup-googlectf-wallowing-wallabies.html
+* http://www.slideshare.net/sehanlee7/googlectf-2016-wallowing-wallabies-part-one-writeup-verkorean

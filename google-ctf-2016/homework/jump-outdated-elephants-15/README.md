@@ -1,7 +1,7 @@
 # google-ctf-2016 : jump-outdated-elephants-15
 
 **Category:** Homework
-**Points:** 
+**Points:** 15
 **Solves:** 
 **Description:**
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3291

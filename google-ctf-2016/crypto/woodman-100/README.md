@@ -15,4 +15,6 @@ Running here <https://giant-goannas.ctfcompetition.com/>
 
 ## Other write-ups and resources
 
-* none yet
+* https://gist.github.com/kalloc/b848ba3beabb9d0e34902cd1be95d3b5
+* https://github.com/r00ta/myWriteUps/blob/master/GoogleCTF/woodman/README.md
+* http://mslc.ctf.su/wp/google-ctf-woodman-crypto-100/

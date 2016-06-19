@@ -14,4 +14,4 @@ MagicCode.png
 
 ## Other write-ups and resources
 
-* none yet
+* http://fadec0d3.blogspot.com/2016/05/google-ctf-2016-magic-codes-250.html

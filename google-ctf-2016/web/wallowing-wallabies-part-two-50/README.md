@@ -1,7 +1,7 @@
 # google-ctf-2016 : wallowing-wallabies-part-two-50
 
 **Category:** Web
-**Points:** 
+**Points:** 50
 **Solves:** 
 **Description:**
 
@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://buer.haus/2016/05/01/google-ctf-web-2-wallowing-wallabies-part-two
+* http://countersite.org/83-web-writeup-googlectf-wallowing-wallabies.html
