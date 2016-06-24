@@ -16,4 +16,8 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-what-the-hex/
+* https://ctftime.org/writeup/3081
+* http://ipushino.blogspot.com/2016/04/angstromctf-2016-what-hex-crypto-15.html
+* https://github.com/ctfs/write-ups-2016/tree/master/angstromctf-2016/crypto/what-the-hex-15
+* https://github.com/MrMugiwara/WriteupsCTF/tree/master/AngstromCTF2016/What-the-Hex

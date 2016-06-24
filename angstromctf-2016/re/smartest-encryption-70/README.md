@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://ipushino.blogspot.com/2016/04/angstromctf2016-smartest-encryption-re.html

@@ -54,4 +54,4 @@ Flag: *astreetcarnameddesire*
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/jashanbhoora/write-ups-2016/tree/master/angstromctf-2016/crypto/shakespeare-60

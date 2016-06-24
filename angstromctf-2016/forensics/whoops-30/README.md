@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://ipushino.blogspot.com/2016/04/angstromctf-2016-whoops-forenscis30.html

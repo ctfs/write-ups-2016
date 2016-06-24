@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3086
+* https://github.com/MrMugiwara/WriteupsCTF/blob/master/AngstromCTF2016/Volatile90/README.md

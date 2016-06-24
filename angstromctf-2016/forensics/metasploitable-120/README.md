@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-metasploitable/

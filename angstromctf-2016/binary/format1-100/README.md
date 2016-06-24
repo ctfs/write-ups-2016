@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-format-1/
+* https://youtu.be/AGHW9nf_oVo

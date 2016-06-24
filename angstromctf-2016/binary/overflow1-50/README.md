@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-overflow-1/
+* https://www.youtube.com/watch?v=sOKaxDdxsJc

@@ -15,4 +15,7 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-artifact/
+* https://ctftime.org/writeup/3082
+* http://ipushino.blogspot.com/2016/04/angstromctf2016-artifact-crypto-20.html
+* https://ctftime.org/writeup/3199

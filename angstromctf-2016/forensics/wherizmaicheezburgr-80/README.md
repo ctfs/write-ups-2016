@@ -1,7 +1,7 @@
 # angstromCTF 2016 : wherizmaicheezburgr
 
 **Category:** Forensics
-**Points:** 
+**Points:** 80
 **Solves:** 
 **Description:**
 
@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-wher-iz-mai-cheezburgr/

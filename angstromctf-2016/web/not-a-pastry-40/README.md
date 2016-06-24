@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-not-a-pastry/
+* http://ipushino.blogspot.com/2016/04/angstromctf-2016-not-pastry-web-40.html

@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.oleaass.com/writeups/angstrom-ctf-2016-endian-of-the-world/
+* http://ipushino.blogspot.com/2016/04/angstromctf-2016-endian-of-world-binary.html
