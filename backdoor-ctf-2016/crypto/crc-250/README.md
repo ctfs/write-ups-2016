@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * https://github.com/p4-team/ctf/tree/master/2016-06-04-backdoor-ctf/crypto_crc
+* http://www.codilime.com/backdoorctf16-crc/
