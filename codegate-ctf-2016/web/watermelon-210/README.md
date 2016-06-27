@@ -1,7 +1,7 @@
 # Codegate CTF 2016 : watermelon-210
 
 **Category:** Web
-**Points:** 
+**Points:** 210
 **Solves:** 
 **Description:**
 
@@ -24,3 +24,4 @@
 * <http://r0p.club/2016/watermelon/> 
 * <https://hawaiijohn.wordpress.com/2016/03/15/codegate-2016-watermelon/>
 * [Japanese](http://shift-crops.hatenablog.com/entry/2016/03/14/194958)
+* <https://github.com/pr0v3rbs/CTF/blob/master/codegate/2016/Watermelon/exploit.py>
