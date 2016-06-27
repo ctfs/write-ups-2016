@@ -1,6 +1,7 @@
 # tjctf-2016 : guess-120
 
-**Category:** Binary**Points:** 120
+**Category:** PPC
+**Points:** 120
 **Description:** Can you guess the numbers? `nc p.tjctf.org 8007`
 
 ## Write-up
@@ -10,4 +11,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://sibears.ru/labs/TJCTF_GUESS/

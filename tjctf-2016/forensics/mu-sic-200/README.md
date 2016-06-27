@@ -10,4 +10,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://sibears.ru/labs/TJCTF-CTF-2016-music/

@@ -1,6 +1,7 @@
 # tjctf-2016 : contingency-120
 
-**Category:** Misc**Points:** 120
+**Category:** Misc
+**Points:** 120
 **Description:** Control wants some information from the irrelevant list, but you're locked out. Can you figure out Research's secret encoding scheme? `nc p.tjctf.org 8002`
 
 ## Write-up
