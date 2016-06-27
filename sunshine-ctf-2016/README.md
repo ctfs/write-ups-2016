@@ -1,7 +1,7 @@
 # Sunshine CTF 2016 write-ups
 
 * <http://ctf.bsidesorlando.org/>
-* [Scoreboard](http://ctf.bsidesorlando.org/scoreboard)
+* [Scoreboard](http://ctf.bsidesorlando.org/scoreboard) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
