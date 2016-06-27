@@ -4,6 +4,7 @@
 **Points:** 100
 **Solves:** 0
 **Description:**
+
 UPDATED: Hint updated and corrected.
 Someone corrupted my photo. Fix it for me?
 

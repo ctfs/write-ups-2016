@@ -4,6 +4,7 @@
 **Points:** 200
 **Solves:** 43
 **Description:**
+
 UPDATE: The flag format changed slightly. The extra semicolon after the network4 answer has been removed.
 
 We have a lot of friends because we're super popular, but unfortunately we have to split our set of friends into two halves so they can go into war with each other. That's just life, unfortunately.

@@ -4,6 +4,7 @@
 **Points:** 100
 **Solves:** 12
 **Description:**
+
 UPDATED: This problem now uses a grading server instead of asking for the size of the CNF.
 
 I've got a task for you involving a program language I've created! It's called Prop (short for Proposition), and as you might expect, it's a simple language for propositional logic. It consists of the following expressions (denoted `e`):

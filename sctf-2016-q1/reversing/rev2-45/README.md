@@ -4,6 +4,7 @@
 **Points:** 45
 **Solves:** 481
 **Description:**
+
 Little bit harder?
 
 The answer will not be in the typical `sctf{flag}` format, so when you do get it, you must put it into the format by doing `sctf{flag_you_found}`

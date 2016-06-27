@@ -4,6 +4,7 @@
 **Points:** 75
 **Solves:** 446
 **Description:**
+
 My mom put a password on the cookie jar :(
 
 Will you help me get a cookie?

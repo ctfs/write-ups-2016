@@ -4,6 +4,7 @@
 **Points:** 180
 **Solves:** 41
 **Description:**
+
 A couple of changes were made to the problem:
 * There are more restrictions since it's been updated.
 * Multiple solutions may work, but only one of them makes sense as a flag.

@@ -4,6 +4,7 @@
 **Points:** 70
 **Solves:** 191
 **Description:**
+
 I'll convert a first person statement to a second person statement. I even wrote it in C++ to be super-safe about my strings!
 
     nc problems2.2016q1.sctf.io 1337

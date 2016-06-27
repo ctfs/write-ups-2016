@@ -4,6 +4,7 @@
 **Points:** 100
 **Solves:** 28
 **Description:**
+
 NOTICE: Flag has been updated. Please resubmit yours if it was incorrect before.
 
 Calculate the sum of decimal digits of the number represented in big-endian by the raw pixel data of `number.png` in BGR byte order.

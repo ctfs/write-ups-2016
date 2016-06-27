@@ -4,6 +4,7 @@
 **Points:** 40
 **Solves:** 154
 **Description:**
+
 Take control... of the flag on this [admin control panel](http://cpanel.sctf.michaelz.xyz/).
 
 

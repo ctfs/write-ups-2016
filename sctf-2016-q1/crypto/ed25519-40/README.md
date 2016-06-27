@@ -4,6 +4,7 @@
 **Points:** 40
 **Solves:** 15
 **Description:**
+
 Ed25519-sign the flag with the same private key and implementation flaw used to sign the messages below. The flag is the base64 representation of the signature.
 
 Public key: `5bfcb1cd3938f3f6f3092da5f7d7a1bdb1d694a725d0585a99208787554e110d`

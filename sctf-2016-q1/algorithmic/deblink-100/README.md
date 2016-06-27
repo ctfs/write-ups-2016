@@ -4,6 +4,7 @@
 **Points:** 100
 **Solves:** 10
 **Description:**
+
 You have a device that is nearly completely bricked, but it seems to progress to a stage in boot where you can run your own code, and it conveniently has 8 LEDs. You write a small binary to read the bootlog and emit it, compressed, byte-by-byte on the LEDs. With a phone camera and a shaky hand, you record the LEDs.
 
 Decode the video.

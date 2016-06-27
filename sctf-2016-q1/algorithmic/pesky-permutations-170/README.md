@@ -4,6 +4,7 @@
 **Points:** 170
 **Solves:** 42
 **Description:**
+
 Notice: The issue with Pesky Permutations has been resolved; the flag was incorrect due to a minor bug. You should not have to run your file again, just submit your original answer.
 
 One of my favorite pastimes is solving my [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube). In fact, I've fiddled with it so much that I noticed a pattern: If you repeat the same algorithm on the cube, it will eventually return to its original state.

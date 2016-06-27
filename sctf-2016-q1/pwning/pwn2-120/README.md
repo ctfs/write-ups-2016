@@ -4,6 +4,7 @@
 **Points:** 120
 **Solves:** 56
 **Description:**
+
 Update: A system call was changed to allow the binary to work on some 32 bit systems. This doesn't change the flag or how it's solved. Only enables 32 bit compatibility on those systems.
 
 Echo servers are easy stuff, right?

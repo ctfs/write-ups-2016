@@ -4,6 +4,7 @@
 **Points:** 200
 **Solves:** 10
 **Description:**
+
 The bomb (see: bomb_squad) was pretty simple. But they hid a secret in there, and it's not solvable! Can you break in and win in the face of an unwinnable challenge?
 
     nc problems2.2016q1.sctf.io 1340

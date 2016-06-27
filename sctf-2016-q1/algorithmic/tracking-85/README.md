@@ -4,6 +4,7 @@
 **Points:** 85
 **Solves:** 172
 **Description:**
+
 [Global Positioning Systems](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS) use satellites to [trilaterate](https://en.wikipedia.org/wiki/Trilateration) a device's position on Planet Earth. You will need to use a very similar method to solve this problem. Download the description and input file to get started!
 
 

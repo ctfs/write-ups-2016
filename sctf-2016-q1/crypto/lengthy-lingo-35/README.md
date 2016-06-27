@@ -4,6 +4,7 @@
 **Points:** 35
 **Solves:** 231 
 **Description:**
+
 Can you crack the code? We intercepted this flag but can't seem to figure out how it was encrypted.
 
 

@@ -4,6 +4,7 @@
 **Points:** 20
 **Solves:** 673
 **Description:**
+
 Carter loves bananas, but I heard a rumor that he's hiding something!
 
 Can you find it?

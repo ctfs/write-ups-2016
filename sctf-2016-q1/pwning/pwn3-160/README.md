@@ -4,6 +4,7 @@
 **Points:** 160
 **Solves:** 27
 **Description:**
+
 A nice, simple blogging system. Have fun!
 
     nc problems2.2016q1.sctf.io 1339

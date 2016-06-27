@@ -4,6 +4,7 @@
 **Points:** 130
 **Solves:** 55
 **Description:**
+
 I've got another task for you involving my little language, Prop!
 
 It consists of the following expressions (denoted `e`):

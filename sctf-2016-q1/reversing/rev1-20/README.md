@@ -4,6 +4,7 @@
 **Points:** 20
 **Solves:** 685
 **Description:**
+
 Let's start out with an easy, typical reversing problem.
 
 The answer will not be in the typical `sctf{flag}` format, so when you do get it, you must put it into the format by doing `sctf{flag_you_found}`

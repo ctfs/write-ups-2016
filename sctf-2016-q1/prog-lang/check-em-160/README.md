@@ -4,6 +4,7 @@
 **Points:** 160
 **Solves:** 7
 **Description:**
+
 UPDATED: This problem now uses a grading server instead of asking for the size of the CNF.
 
 I've got this program in a language I've made called Imp (short for Imperative). It's a straightforward language. It probably amounts to a very simplified version of languages you already know. Let me tell you about it. It has all the following.

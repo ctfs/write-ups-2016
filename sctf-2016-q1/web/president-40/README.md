@@ -4,6 +4,7 @@
 **Points:** 40
 **Solves:** 109
 **Description:**
+
 I just created a [site](http://president.sctf.michaelz.xyz/) with a list of popular presidential candidates!
 
 

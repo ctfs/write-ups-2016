@@ -4,6 +4,7 @@
 **Points:** 130
 **Solves:** 48
 **Description:**
+
 Welcome to the bomb squad. Your first task is to diffuse this test bomb!
 
     nc problems2.2016q1.sctf.io 1340

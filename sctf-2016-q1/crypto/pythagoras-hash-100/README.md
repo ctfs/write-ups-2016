@@ -4,6 +4,7 @@
 **Points:** 100
 **Solves:** 9
 **Description:**
+
 You have part of the source to a really bad hash function, and an oracle that will hash anything up to 32 bytes. Hash the following string.
 
 the flag the flag the flag the flag the flag the flag the flag the game

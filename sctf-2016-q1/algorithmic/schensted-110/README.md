@@ -4,6 +4,7 @@
 **Points:** 110
 **Solves:** 125
 **Description:**
+
 Notice: The issue with Schensted has been resolved. Teams who have previously solved the problem do not need to re-enter their flags.
 Clarification: The subsequence consists of only single digit numbers.
 
