@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://sugivo.wordpress.com/2016/06/28/whitehat-contest-11-re-1/

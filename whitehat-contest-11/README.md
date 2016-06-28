@@ -9,6 +9,7 @@
 
 ## External write-ups only
 
+* [reverse/re1-100](reverse/re1-100)
 * [reverse/re2-300](reverse/re2-300)
 * [reverse/re3-100](reverse/re3-100)
 * [forensics/wyginwys-200](forensics/wyginwys-200)
@@ -19,7 +20,6 @@
 
 ## Missing write-ups
 
-* [reverse/re1-100](reverse/re1-100)
 * [crypto/puncrypto-system-200](crypto/puncrypto-system-200)
 * [crypto/arapoem-200](crypto/arapoem-200)
 * [pwnable/sleeping-barber-300](pwnable/sleeping-barber-300)
