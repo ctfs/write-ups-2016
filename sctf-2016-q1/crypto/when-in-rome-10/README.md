@@ -22,3 +22,4 @@ SHA512 Solution Hash(es):
 ## Other write-ups and resources
 
 * http://hack.carleton.team/?p=50&preview=true
+* http://bryceandress.github.io/2016/04/11/sctf2016-when-in-rome.html
