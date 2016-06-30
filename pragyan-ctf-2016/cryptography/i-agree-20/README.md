@@ -15,7 +15,8 @@
 
 ## Write-up
 
-(TODO)
+From the Hint, it can be knew that it must be a Vigenere Cipher. There is Online Decipher for that: http://www.guballa.de/vigenere-solver
+The solution would be `theforceisstrongwiththisone`
 
 ## Other write-ups and resources
 
