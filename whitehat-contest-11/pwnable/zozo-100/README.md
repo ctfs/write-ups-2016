@@ -15,3 +15,4 @@ ssh pwnguest@118.70.80.143 1094
 ## Other write-ups and resources
 
 * http://jgeralnik.github.io/writeups/2016/06/26/zozo/
+* http://www.codilime.com/whitehat11-zozo/
