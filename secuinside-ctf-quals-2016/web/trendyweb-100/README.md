@@ -15,3 +15,4 @@ Trendy~! Web~ The flag reader is on /.  http://chal.cykor.kr:8082 http://52.78.1
 ## Other write-ups and resources
 
 * https://kimiyuki.net/blog/2016/07/10/secuinside-ctf-trendyweb/
+* https://github.com/p4-team/ctf/tree/master/2016-07-09-secuinside-ctf/trendyweb

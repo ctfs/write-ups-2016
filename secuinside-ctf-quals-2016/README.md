@@ -11,6 +11,7 @@
 
 * [cgc/cykor_00002-150](cgc/cykor_00002-150)
 * [web/trendyweb-100](web/trendyweb-100)
+* [web/sbbs-250](web/sbbs-250)
 
 ## Missing write-ups
 
@@ -25,5 +26,4 @@
 * [pwnable/manager-225](pwnable/manager-225)
 * [pwnable/byhuman-300](pwnable/byhuman-300)
 * [pwnable/mbrainfuzz_returns-350](pwnable/mbrainfuzz_returns-350)
-* [web/sbbs-250](web/sbbs-250)
 * [web/webapi-150](web/webapi-150)
