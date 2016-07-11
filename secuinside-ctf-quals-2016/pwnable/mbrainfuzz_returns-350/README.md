@@ -14,4 +14,4 @@ m.....brain fuzzing   came back with NX  nc chal.cykor.kr 20022  nc 52.78.11.234
 
 ## Other write-ups and resources
 
-* none yet
++* [Chinese](http://blog.l4ys.tw/2016/07/secuinside-ctf-2016-mbrainfuzz/)
