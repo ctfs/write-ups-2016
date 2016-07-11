@@ -14,4 +14,4 @@ Gimme a patched binary for CYKOR_00002.  Service at cgc.cykor.kr:34632
 
 ## Other write-ups and resources
 
-* none yet
+* http://s0ngsari.tistory.com/entry/SECUINSIDE-2016-CYKOR00002patch

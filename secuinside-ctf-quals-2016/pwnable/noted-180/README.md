@@ -15,4 +15,4 @@ get shell and execute /flag_x  nc chal.cykor.kr 20003 nc 52.78.11.234 20003
 
 ## Other write-ups and resources
 
-* none yet
+* http://uaf.io/exploitation/2016/07/10/SECUINSIDE-Noted.html
