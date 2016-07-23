@@ -14,15 +14,19 @@ A little google-search revealed there's a easter-egg in Win98 regarding the
 developement-team's credit animation.
 
 There are two way's of accessing it, one is related to the "map hassle" and
-the other one to the solution, which is described [here](http://www.eeggs.com/items/484.html)
+the other one to the solution, which is described [here](http://www.eeggs.com/items/484.html). 
+
 I spent quite some time getting the easter egg running, but it didn't seem to work
-correctly.
-I thought they placed the flag in the team members enumeration, so managed to dump the xml-file
-which is used in the Weldata.exe...
-... but no flag in there:(
+correctly. 
+
+I thought they placed the flag in the team members enumeration, so I managed to dump the XML-file
+which is used in the Weldata.exe...  but there wasn't any flag in there:( 
+
 Finally I thought the easter-egg magic string "You_are_a_real_rascal" looks quite like a flag...
-... so tried: ABCTF{You_are_a_real_rascal} and ...
-...boom! It worked:)
+ 
+so I tried: ABCTF{You_are_a_real_rascal} and... 
+
+BOOM! It worked:)
 
 ## Other write-ups and resources
 
