@@ -13,4 +13,4 @@ If your could fix this mess I am sure there would be a flag waiting for you.
 
 ## Other write-ups and resources
 
-* none yet
+* http://junk-coken.hatenablog.com/entry/2016/07/24/030423

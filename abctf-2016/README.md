@@ -17,11 +17,13 @@
 * [crypto/ceasar-salad-10](crypto/ceasar-salad-10)
 * [recon/archive-me-50](recon/archive-me-50)
 * [recon/drive-home-50](recon/drive-home-50)
+* [recon/liorogamerdvd-300](recon/liorogamerdvd-300)
 * [web/elemental-10](web/elemental-10)
 * [web/audio-edit-200](web/audio-edit-200)
 
 ## External write-ups only
 
+* [reversing/js-pls-80](reversing/js-pls-80)
 * [reversing/frozen-recursion-250](reversing/frozen-recursion-250)
 * [reversing/java-madness-50](reversing/java-madness-50)
 * [ppc/qset1-100](ppc/qset1-100)
@@ -31,6 +33,7 @@
 * [ppc/qset3-200](ppc/qset3-200)
 * [ppc/slime-season3-60](ppc/slime-season3-60)
 * [forensic/moonwalk-60](forensic/moonwalk-60)
+* [forensic/zippy-120](forensic/zippy-120)
 * [forensic/just-open-it-15](forensic/just-open-it-15)
 * [forensic/gz-30](forensic/gz-30)
 * [forensic/best-ganondorf-50](forensic/best-ganondorf-50)
@@ -52,10 +55,7 @@
 
 ## Missing write-ups
 
-* [reversing/js-pls-80](reversing/js-pls-80)
 * [ppc/the-big-kahuna-120](ppc/the-big-kahuna-120)
-* [forensic/zippy-120](forensic/zippy-120)
 * [crypto/custom-authentication-160](crypto/custom-authentication-160)
-* [recon/liorogamerdvd-300](recon/liorogamerdvd-300)
 * [web/impenetrable-fortress-200](web/impenetrable-fortress-200)
 * [web/meteor-smash-100](web/meteor-smash-100)

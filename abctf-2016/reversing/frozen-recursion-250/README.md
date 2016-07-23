@@ -14,3 +14,4 @@ I finally learned recursion! Am I doing it right? Here it is.
 ## Other write-ups and resources
 
 * https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* https://tsunpoko.github.io/abctf2016/
