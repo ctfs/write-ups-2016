@@ -15,4 +15,4 @@ Read-in every date and use python-datetime to calculate weekday in the next year
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-30-TGIF-Programming/

@@ -72,4 +72,4 @@ Setting the visualisation to 'Sonogram' finally showed the flag:
 
 ## Other write-ups and resources
 
-* none yet
+* http://countersite.org/articles/web-vulnerability/105-audioedit-writeup.html

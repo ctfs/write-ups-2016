@@ -9,8 +9,14 @@ If you could look at our website from a while ago im sure the flag would be ther
 
 ## Write-up
 
-(TODO)
+The name gives the hint: Look over at <archive.org> to
+check for an older version of the website.
+
+You'll find this: <https://web.archive.org/web/20160510192307/http://abctf.xyz>
+
+And it contains the flag: ABCTF{Archives_are_useful!} in
 
 ## Other write-ups and resources
 
-* none yet
+* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* http://rawsec.ml/en/ABCTF-50-Archive-Me-Reconaissance/

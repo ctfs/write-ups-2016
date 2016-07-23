@@ -16,4 +16,4 @@ Opening it with any capable programm reveals the flag...
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-35-Virtual-Box-3-Virtual-Series/

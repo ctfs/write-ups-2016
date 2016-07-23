@@ -13,4 +13,4 @@ Check this out!
 
 ## Other write-ups and resources
 
-* none yet
+* https://kimiyuki.net/blog/2016/07/23/abctf-2016/

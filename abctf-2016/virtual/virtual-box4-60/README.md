@@ -18,4 +18,4 @@ Giving us the flag: ABCTF{Y0U_F0UND_ME}
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-60-Virtual-Box-4-Virtual-Series/

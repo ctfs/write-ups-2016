@@ -13,4 +13,4 @@ I think one of the users data fields holds a flag. If only you could find the us
 
 ## Other write-ups and resources
 
-* none yet
+* https://kimiyuki.net/blog/2016/07/23/abctf-2016/

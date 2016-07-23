@@ -16,4 +16,5 @@ Which revealed the flag: ABCTF{insp3ct3d_dat_3l3m3nt}
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-10-Caesar-Salad-Cryptography/
+* https://kimiyuki.net/blog/2016/07/23/abctf-2016/

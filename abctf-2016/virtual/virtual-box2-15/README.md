@@ -15,4 +15,4 @@ Or give another text color;-)
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-15-Virtual-Box-2-Virtual-Series/

@@ -13,4 +13,4 @@ Calculate an RSA private key 107.170.122.6 7773
 
 ## Other write-ups and resources
 
-* none yet
+* https://kimiyuki.net/blog/2016/07/23/abctf-2016/

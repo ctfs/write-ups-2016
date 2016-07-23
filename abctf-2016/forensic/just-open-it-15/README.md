@@ -14,4 +14,5 @@ I'm almost positive we put a flag in this file. Can you find it for me?
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-15-Just-open-it-Forensics/
+* https://ctftime.org/writeup/3572

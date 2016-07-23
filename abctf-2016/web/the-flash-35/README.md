@@ -13,4 +13,6 @@ Can you somehow get the flag from [this](http://yrmyzscnvh.abctf.xyz/web2/) webs
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-35-The-Flash-Web-Exploitation/
+* https://ctftime.org/writeup/3574
+* https://kimiyuki.net/blog/2016/07/23/abctf-2016/

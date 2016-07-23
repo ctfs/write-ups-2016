@@ -18,4 +18,4 @@ But the file flag 1.doc on the desktop contained the real flag...
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-10-Virtual-Box-1-Virtual-Series/

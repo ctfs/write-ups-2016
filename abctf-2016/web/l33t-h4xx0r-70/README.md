@@ -13,4 +13,5 @@ If you could bypass the login you could get the flag. [Link](http://yrmyzscnvh.a
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/ABCTF-70-L33t-H4xx0r-Web-Exploitation/
+* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
