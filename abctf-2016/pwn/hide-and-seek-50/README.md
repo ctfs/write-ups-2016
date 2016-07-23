@@ -9,8 +9,8 @@ There is a flag hidden somewhere in this binary. Good luck!
 
 ## Write-up
 
-The binary is in Macho-O format and we didn't had Mac around to let it run.
-So we used radare2 in order to emulated it...
+The binary is in Mach-O format and we didn't had a Mac around to let it run.
+So we used radare2 in order to do a emulated.
 
 1. Load the binary and start analysis
   * r2 -A haha1
@@ -49,14 +49,15 @@ So we used radare2 in order to emulated it...
      0x100000ec2      e875000000     call sym.imp.printf
      ```
     
-3. Conclusion
+ 3. Conclusion
   * We made a little guess here: We have an opaque predicate at 0x100000f0c, which will
-always result into false. If it would be evaluated as true, totallyNotTheFlag would be called.
-This decrypts a string in the binary and print on stdout, which might be our flag.
-
+ always result into false. If it would be evaluated as true, totallyNotTheFlag would be called.
+ This decrypts a string in the binary and print on stdout, which might be our flag.
+ 
 4. Options
-  * We could either reverse the encryption algorithm and decrypt the flag ourselfs or use
-radare2 ESIL ('Evaluable Strings Intermediate Language') functionality to emulate the algorithm.
+  * We could either reverse the encryption algorithm and decrypt the flag ourselves or use
+ radare2 ESIL ('Evaluable Strings Intermediate Language') functionality to emulate the algorithm.
+
 
 5. Solution
   * We went with the second option
@@ -87,7 +88,7 @@ radare2 ESIL ('Evaluable Strings Intermediate Language') functionality to emulat
 
   * Set breakpoint to printf after decrypt @ 0x100000ec2
     * aesu 0x100000ec2
-  * Check Paramters for printf
+  * Check parameters for printf
     * ps @ rdi
     
     ```
@@ -98,7 +99,11 @@ radare2 ESIL ('Evaluable Strings Intermediate Language') functionality to emulat
     ```
         CTF{w0w_b1NarY_1s_h@rd}
     ```
-  * Here we go!:)
+    
+Here we go!:)
+Sadly this was the only real binary challenge in ABCTF. Given that it was beginner CTF this seems
+reasonable. However in my opinion only practice makes perfect, so don't be afraid to spread some mor
+if you're ever hosting a beginner CTF,  or a CTF in general!
 
 More about ESIL can be found [here](https://radare.gitbooks.io/radare2book/content/esil.html)
 
