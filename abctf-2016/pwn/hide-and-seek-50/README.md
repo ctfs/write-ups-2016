@@ -27,7 +27,8 @@ So we used radare2 in order to emulated it...
     0x100000f3c    1 6            sym.imp.printf
     0x100000f42    1 6            sym.imp.strlen
     ```
- * V @ entry0 
+   
+  * V @ entry0 
  
     ```
     0x100000ef8      c745fc000000.  mov dword [rbp - local_4h], 0                                                                                                                                         
@@ -38,15 +39,16 @@ So we used radare2 in order to emulated it...
     0x100000f0f      0f8505000000   jne 0x100000f1a            ;[1]                                                                                                                                       
     0x100000f15      e856ffffff     call sym._totallyNotTheFlag ;[2]
     ```
-* V @ sym._totallyNotTheFlag
-* 
-    ```
-    0x100000eb0      e84bffffff     call sym._decrypt          ;[2]                                                                                                                                       
-    0x100000eb5      488d3ddc0000.  lea rdi, qword [rip + 0xdc] ;[3] ; 0x100000f98 ; "%s."                                                                                                                
-    0x100000ebc      488d75e0       lea rsi, qword [rbp - local_20h] ;[1]                                                                                                                                 
-    0x100000ec0      b000           mov al, 0                                                                                                                                                             
-    0x100000ec2      e875000000     call sym.imp.printf
-    ```
+   * V @ sym._totallyNotTheFlag
+
+     ```
+     0x100000eb0      e84bffffff     call sym._decrypt          ;[2]                                                                                                                                       
+     0x100000eb5      488d3ddc0000.  lea rdi, qword [rip + 0xdc] ;[3] ; 0x100000f98 ; "%s."                                                                                                                
+     0x100000ebc      488d75e0       lea rsi, qword [rbp - local_20h] ;[1]                                                                                                                                 
+     0x100000ec0      b000           mov al, 0                                                                                                                                                             
+     0x100000ec2      e875000000     call sym.imp.printf
+     ```
+    
 3. Conclusion
   * We made a little guess here: We have an opaque predicate at 0x100000f0c, which will
 always result into false. If it would be evaluated as true, totallyNotTheFlag would be called.
