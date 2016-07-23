@@ -5,13 +5,13 @@
 **Solves:** 5
 **Description:**
 
-[HINT 1] Use common sense. Does doxxing and hacking private accounts and information seem like the intention?
+[HINT 1] Use common sense. Does doxxing and hacking private accounts and information seem like the intention?  
 [HINT 2] Chirp Chirp.
 
 ## Write-up
 
 This one was a true recon challenge, which was heavily based
-on guessing listening to the IRC and having a ton of luck!
+on guessing,listening to the IRC and having a ton of luck!
 
 If you google liorogamer you find a lot of social accounts
 and his (potentially) realname Liam Rahav.
