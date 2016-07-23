@@ -27,6 +27,7 @@
 * [ppc/qset1-100](ppc/qset1-100)
 * [ppc/racecar-100](ppc/racecar-100)
 * [ppc/qset2-150](ppc/qset2-150)
+* [ppc/obfuscated1-130](ppc/obfuscated1-130)
 * [ppc/qset3-200](ppc/qset3-200)
 * [ppc/slime-season3-60](ppc/slime-season3-60)
 * [forensic/moonwalk-60](forensic/moonwalk-60)
@@ -53,7 +54,6 @@
 
 * [reversing/js-pls-80](reversing/js-pls-80)
 * [ppc/the-big-kahuna-120](ppc/the-big-kahuna-120)
-* [ppc/obfuscated1-130](ppc/obfuscated1-130)
 * [forensic/zippy-120](forensic/zippy-120)
 * [crypto/custom-authentication-160](crypto/custom-authentication-160)
 * [recon/liorogamerdvd-300](recon/liorogamerdvd-300)
