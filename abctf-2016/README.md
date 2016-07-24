@@ -14,12 +14,15 @@
 * [virtual/virtual-box5-75](virtual/virtual-box5-75)
 * [virtual/virtual-box2-15](virtual/virtual-box2-15)
 * [ppc/tgif-30](ppc/tgif-30)
+* [ppc/the-big-kahuna-120](ppc/the-big-kahuna-120)
 * [crypto/ceasar-salad-10](crypto/ceasar-salad-10)
 * [recon/archive-me-50](recon/archive-me-50)
 * [recon/drive-home-50](recon/drive-home-50)
 * [recon/liorogamerdvd-300](recon/liorogamerdvd-300)
 * [web/elemental-10](web/elemental-10)
 * [web/audio-edit-200](web/audio-edit-200)
+* [web/impenetrable-fortress-200](web/impenetrable-fortress-200)
+* [web/meteor-smash-100](web/meteor-smash-100)
 
 ## External write-ups only
 
@@ -55,7 +58,4 @@
 
 ## Missing write-ups
 
-* [ppc/the-big-kahuna-120](ppc/the-big-kahuna-120)
 * [crypto/custom-authentication-160](crypto/custom-authentication-160)
-* [web/impenetrable-fortress-200](web/impenetrable-fortress-200)
-* [web/meteor-smash-100](web/meteor-smash-100)

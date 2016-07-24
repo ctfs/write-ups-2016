@@ -12,7 +12,9 @@ What's the smallest amount of steps (additions, deletions, and replacing) it wou
 
 ## Write-up
 
-(TODO)
+Just use your favourite algorithm for finding the [edit distance](https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance) to obtain the answer of 28.
+
+That yields the flag: `ABCTF{28}`
 
 ## Other write-ups and resources
 
