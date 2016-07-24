@@ -47,6 +47,7 @@
 * [crypto/old-rsa-70](crypto/old-rsa-70)
 * [crypto/yummi-60](crypto/yummi-60)
 * [crypto/a-small-broadcast-125](crypto/a-small-broadcast-125)
+* [crypto/custom-authentication-160](crypto/custom-authentication-160)
 * [recon/always-so-itchy-100](recon/always-so-itchy-100)
 * [web/getem-all-80](web/getem-all-80)
 * [web/l33t-h4xx0r-70](web/l33t-h4xx0r-70)
@@ -58,4 +59,3 @@
 
 ## Missing write-ups
 
-* [crypto/custom-authentication-160](crypto/custom-authentication-160)

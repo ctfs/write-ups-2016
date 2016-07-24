@@ -18,3 +18,4 @@ o0/i0,o0/i1
 ## Other write-ups and resources
 
 * https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* http://blog.ankursundara.com/abctf/

@@ -20,3 +20,4 @@ Luckily we encrypted a bunch of other flags with the same key. Can you recover t
 ## Other write-ups and resources
 
 * https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* http://blog.ankursundara.com/abctf/
