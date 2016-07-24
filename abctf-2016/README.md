@@ -20,6 +20,8 @@
 * [recon/liorogamerdvd-300](recon/liorogamerdvd-300)
 * [web/elemental-10](web/elemental-10)
 * [web/audio-edit-200](web/audio-edit-200)
+* [web/impenetrable-fortress-200](web/impenetrable-fortress-200)
+* [web/meteor-smash-100](web/meteor-smash-100)
 
 ## External write-ups only
 
@@ -57,5 +59,3 @@
 
 * [ppc/the-big-kahuna-120](ppc/the-big-kahuna-120)
 * [crypto/custom-authentication-160](crypto/custom-authentication-160)
-* [web/impenetrable-fortress-200](web/impenetrable-fortress-200)
-* [web/meteor-smash-100](web/meteor-smash-100)
