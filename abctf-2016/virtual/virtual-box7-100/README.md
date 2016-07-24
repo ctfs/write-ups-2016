@@ -30,4 +30,4 @@ BOOM! It worked:)
 
 ## Other write-ups and resources
 
-* none yet
+* http://yuelab82.hatenablog.com/entry/2016/07/24/042028
