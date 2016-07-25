@@ -10,10 +10,11 @@ Friday is the best day of the week, and so I really want to know how many Friday
 
 ## Write-up
 
-Read-in every date and use python-datetime to calculate weekday in the next year...
+Read-in every date and use python-datetime to calculate the weekday in the next year...
 
 
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/ABCTF-30-TGIF-Programming/
 * http://yuelab82.hatenablog.com/entry/2016/07/24/042028
+* https://ctftime.org/writeup/3617
