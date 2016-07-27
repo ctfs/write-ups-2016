@@ -13,5 +13,5 @@ I just learned about encryption and tried to write my own authentication system.
 
 ## Other write-ups and resources
 
-* none yet
 * http://blog.ankursundara.com/abctf/
+* https://ctftime.org/writeup/3620
