@@ -9,6 +9,7 @@
 
 ## External write-ups only
 
+* [analysis-offensive/offensive-100](analysis-offensive/offensive-100)
 * [misc/blackjack-400](misc/blackjack-400)
 * [misc/misc-100](misc/misc-100)
 
