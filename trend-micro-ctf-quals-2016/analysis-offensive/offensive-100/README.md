@@ -14,3 +14,4 @@ Find the flag.
 ## Other write-ups and resources
 
 * https://kinyabitch.wordpress.com/2016/07/31/first-blog-post/
+* https://youtu.be/AqgzSIxTBfI
