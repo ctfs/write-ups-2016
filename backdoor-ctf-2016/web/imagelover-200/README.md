@@ -19,5 +19,5 @@
 
 ## Other write-ups and resources
 
-* https://github.com/nikhil96sher/CTF-Writeups/tree/master/Backdoor-CTF-2016/IMAGELOVER
+* https://github.com/nikhil96sher/CTF-Writeups/tree/master/Backdoor/IMAGELOVER
 * http://b0tchsec.com/2016/backdoorctf/imagelover
