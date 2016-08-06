@@ -13,4 +13,4 @@ Create a free account on Shodan.io . There is some suspicious gas tank station o
 
 ## Other write-ups and resources
 
-* none yet
+* https://youtu.be/YyHbJDmSQWc
