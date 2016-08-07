@@ -29,7 +29,7 @@ It turned out that there is an unintended bug in the redeeming procedure. Namely
 
 First, we obtain some valid data:
 
-```
+```javascript
 {
     "beacon": "V6ZqEIx3b3je7ItTnPnNDmTkAxS9WaSuAtOLxVjEmT6x2aP2fcJB5bMMuBFuwqA6a7f955rd+OHqOmrR4g7ZmiTqjM/0Eb+nkJ0W1VxsbCwQJ190PcpdyHk3n5wlWHKxJ/Tl10Rk/map75v+EWsQJANxDiHualWi7sDNuM4cyzroS/4K",
     "mac": "a8b4480d0d6c7ecae8c16e5f96480f93989e3fcd06ef3a595c172972325b5f69ca53947187056fb1fb64837f3011384bac98cdd12b8496af810651c7c7de0cab",
@@ -40,7 +40,7 @@ First, we obtain some valid data:
 
 Then we bruteforce locally nullbytes and newlines:
 
-```
+```python
 from random import randint
 from hashlib import sha1
 
@@ -56,7 +56,11 @@ while 1:
         break
 ```
 
-For example, `app = "\x00\x0a\x0a\x00\x0a\x00\x0a\x00\x0a\x00\x00\x00\x0a\x00\x0a\x00\x0a\x0a\x00\x0a\x0a\x0a\x00\x00\x00\x0a\x00\x00\x0a\x00"` works. Then we append `app` to beacon, submit it and get the flag:
+For example,
+
+`app = "\x00\x0a\x0a\x00\x0a\x00\x0a\x00\x0a\x00\x00\x00\x0a\x00\x0a\x00\x0a\x0a\x00\x0a\x0a\x0a\x00\x00\x00\x0a\x00\x00\x0a\x00"`
+
+does work. Then we append it to the beacon, submit it and get the flag:
 
 **why_mak3_7rillions_wh3n_y0u_can_m4ke_bi1li0ns**
 
