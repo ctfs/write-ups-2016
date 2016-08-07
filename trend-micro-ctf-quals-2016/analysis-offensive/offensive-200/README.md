@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/team-bitskrieg/CTF-writeups/tree/master/trendmicro/offensive200
