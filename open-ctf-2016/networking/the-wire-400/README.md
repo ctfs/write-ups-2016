@@ -10,7 +10,8 @@
 > 
 > http://172.31.1.51/
 
-## Write-up
+
+## Shortcut Write-up
 
 The challenge is some sort of a lottery. The bidding procedure is as follows:
 
@@ -72,11 +73,13 @@ So we submit the data with modified beacon and get the flag:
 
 **why_mak3_7rillions_wh3n_y0u_can_m4ke_bi1li0ns**
 
+
 ## Intended Way
 
 The intended solution was to skew the Beacon server's clock by responding to the NTP requests it was sending to every client. To find this we should have listened and looked at the network traffic.
 
 Then we could obtain beacons from the future and bruteforce the right ticket locally.
+
 
 # Other write-ups and resources
 

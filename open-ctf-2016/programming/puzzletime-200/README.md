@@ -1,11 +1,11 @@
-# DEFCON oCTF 2016 - puzzletime
+# DEFCON oCTF 2016 - PuzzleTime
 
-**Category:** Programming, Misc
+**Category:** Programming
 **Points:** 200
-**Author:** Yen
+**Author:** aaronp
 **Description:**
 
-> file: puzzle.txt
+> file: [puzzle.txt](puzzle.gz)
 
 ## Write-up
 
