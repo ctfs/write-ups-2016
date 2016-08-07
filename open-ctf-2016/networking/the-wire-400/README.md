@@ -58,9 +58,17 @@ while 1:
 
 For example,
 
-`app = "\x00\x0a\x0a\x00\x0a\x00\x0a\x00\x0a\x00\x00\x00\x0a\x00\x0a\x00\x0a\x0a\x00\x0a\x0a\x0a\x00\x00\x00\x0a\x00\x00\x0a\x00"`
+```python
+app = "\x00\x0a\x0a\x00\x0a\x00\x0a\x00\x0a\x00\x00\x00\x0a\x00\x0a\x00\x0a\x0a\x00\x0a\x0a\x0a\x00\x00\x00\x0a\x00\x00\x0a\x00"
+```
 
-does work. Then we append it to the beacon, submit it and get the flag:
+does work:
+
+```python
+SHA1(beacon + app + ';' + ticket) = "00000001832b880ef5585eb6dbcd5d48c253b49e"
+```
+
+So we submit the data with modified beacon and get the flag:
 
 **why_mak3_7rillions_wh3n_y0u_can_m4ke_bi1li0ns**
 
