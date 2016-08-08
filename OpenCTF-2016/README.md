@@ -5,7 +5,12 @@
 
 ## Completed write-ups
 
-* none yet
+* [tasks/Progressive Encryption](tasks/Progressive Encryption)
+* [tasks/neophyte_reversing](tasks/neophyte_reversing)
+* [tasks/the_wire](tasks/the_wire)
+* [tasks/Artisinal Assembly](tasks/Artisinal Assembly)
+* [tasks/ultra_encryption](tasks/ultra_encryption)
+* [tasks/PuzzleTime](tasks/PuzzleTime)
 
 ## External write-ups only
 
@@ -15,8 +20,6 @@
 
 * [tasks/enhance 25](tasks/enhance 25)
 * [tasks/i_fucking_hate_ADS](tasks/i_fucking_hate_ADS)
-* [tasks/neophyte_reversing](tasks/neophyte_reversing)
-* [tasks/Progressive Encryption](tasks/Progressive Encryption)
 * [tasks/tyro_infoleak1](tasks/tyro_infoleak1)
 * [tasks/apprentice_cgc](tasks/apprentice_cgc)
 * [tasks/Zeta Zill Zone](tasks/Zeta Zill Zone)
@@ -35,18 +38,14 @@
 * [tasks/tyro_overflow2](tasks/tyro_overflow2)
 * [tasks/master_win2](tasks/master_win2)
 * [tasks/tyro_heap](tasks/tyro_heap)
-* [tasks/the_wire](tasks/the_wire)
 * [tasks/neophyte_cgc](tasks/neophyte_cgc)
 * [tasks/hashing_the_stack](tasks/hashing_the_stack)
 * [tasks/randdumb](tasks/randdumb)
 * [tasks/tyro_rop1](tasks/tyro_rop1)
-* [tasks/Artisinal Assembly](tasks/Artisinal Assembly)
-* [tasks/ultra_encryption](tasks/ultra_encryption)
 * [tasks/forever_on_hold](tasks/forever_on_hold)
 * [tasks/ffbank_err_ffpayroll](tasks/ffbank_err_ffpayroll)
 * [tasks/tyro_infoleak2](tasks/tyro_infoleak2)
 * [tasks/the price is right](tasks/the price is right)
-* [tasks/PuzzleTime](tasks/PuzzleTime)
 * [tasks/Fleabay 250](tasks/Fleabay 250)
 * [tasks/tyro_shellcode](tasks/tyro_shellcode)
 * [tasks/apprentice_www](tasks/apprentice_www)
