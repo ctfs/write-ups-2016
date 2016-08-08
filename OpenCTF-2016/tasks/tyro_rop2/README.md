@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://bannsecurity.com/index.php/home/10-ctf-writeups/34-openctf-2016-tyro-rop2>
