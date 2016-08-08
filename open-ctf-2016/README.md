@@ -13,7 +13,7 @@
 
 ## External write-ups only
 
-* [pwning/tyro_rop2](pwning/tyro_rop2)
+* [pwning/tyro_rop2-50](pwning/tyro_rop2-50)
 
 ## Missing write-ups
 
@@ -36,17 +36,17 @@
 * [forensics/diskomatic-200](forensics/diskomatic-200)
 * [forensics/todays_secret_word_is_webmail-300](forensics/todays_secret_word_is_webmail-300)
 * [programming/ffbank_err_ffpayroll-500](programming/ffbank_err_ffpayroll-500)
-* [pwning/tyro_shellcode2](pwning/tyro_shellcode2)
-* [pwning/tyro_rop1](pwning/tyro_rop1)
-* [pwning/zeta-zill-zone](pwning/zeta-zill-zone)
-* [pwning/tyro_infoleak2](pwning/tyro_infoleak2)
-* [pwning/tyro_overflow1](pwning/tyro_overflow1)
-* [pwning/hashing_the_stack](pwning/hashing_the_stack)
-* [pwning/tyro_infoleak3](pwning/tyro_infoleak3)
-* [pwning/tyro_shellcode](pwning/tyro_shellcode)
-* [pwning/master_win2](pwning/master_win2)
-* [pwning/apprentice_www](pwning/apprentice_www)
-* [pwning/tyro_heap](pwning/tyro_heap)
-* [pwning/tyro_overflow2](pwning/tyro_overflow2)
-* [pwning/tyro_infoleak1](pwning/tyro_infoleak1)
+* [pwning/tyro_heap-50](pwning/tyro_heap-50)
+* [pwning/zeta-zill-zone-300](pwning/zeta-zill-zone-300)
+* [pwning/tyro_rop1-50](pwning/tyro_rop1-50)
+* [pwning/tyro_shellcode-50](pwning/tyro_shellcode-50)
+* [pwning/tyro_infoleak2-50](pwning/tyro_infoleak2-50)
+* [pwning/tyro_overflow1-50](pwning/tyro_overflow1-50)
+* [pwning/tyro_overflow2-50](pwning/tyro_overflow2-50)
+* [pwning/apprentice_www-300](pwning/apprentice_www-300)
+* [pwning/tyro_infoleak1-50](pwning/tyro_infoleak1-50)
+* [pwning/tyro_infoleak3-50](pwning/tyro_infoleak3-50)
+* [pwning/tyro_shellcode2-100](pwning/tyro_shellcode2-100)
+* [pwning/hashing_the_stack-300](pwning/hashing_the_stack-300)
+* [pwning/master_win2-600](pwning/master_win2-600)
 * [web/fleabay-250](web/fleabay-250)
