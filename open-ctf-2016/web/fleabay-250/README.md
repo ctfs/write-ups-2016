@@ -14,4 +14,4 @@ server: <http://172.31.1.55/>
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3642

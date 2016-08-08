@@ -9,8 +9,8 @@ Hack the (P)_____!
 
 ## Write-up
 
-(TODO)
+Hack the Planet!
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3641

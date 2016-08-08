@@ -15,4 +15,4 @@ Binary: 172.31.0.10/tyro_overflow1_0601e9d93a2ff84ae7a85dc199fa8233
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3643
