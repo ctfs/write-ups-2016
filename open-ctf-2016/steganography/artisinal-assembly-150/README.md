@@ -23,3 +23,4 @@
 # Other write-ups and resources
 
 * https://ctftime.org/writeup/3640
+* https://youtu.be/aANfumvGjPc

@@ -15,6 +15,7 @@
 
 * [pwning/tyro_rop2-50](pwning/tyro_rop2-50)
 * [forensics/diskomatic-200](forensics/diskomatic-200)
+* [web/fleabay-250](web/fleabay-250)
 
 ## Missing write-ups
 
@@ -49,4 +50,3 @@
 * [pwning/tyro_shellcode2-100](pwning/tyro_shellcode2-100)
 * [pwning/hashing_the_stack-300](pwning/hashing_the_stack-300)
 * [pwning/master_win2-600](pwning/master_win2-600)
-* [web/fleabay-250](web/fleabay-250)
