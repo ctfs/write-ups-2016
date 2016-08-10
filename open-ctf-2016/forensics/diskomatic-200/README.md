@@ -14,4 +14,4 @@ It slices, it dices, it juliennes fries!
 
 ## Other write-ups and resources
 
-* none yet
+* http://sdann-dev.blogspot.com/2016/08/openctf-2016-diskomatic-writeup.html
