@@ -14,6 +14,7 @@
 ## External write-ups only
 
 * [pwning/tyro_rop2-50](pwning/tyro_rop2-50)
+* [forensics/diskomatic-200](forensics/diskomatic-200)
 
 ## Missing write-ups
 
@@ -33,7 +34,6 @@
 * [crypto/basic_obfuscation-50](crypto/basic_obfuscation-50)
 * [steganography/qart-200](steganography/qart-200)
 * [steganography/pimp_my_png-150](steganography/pimp_my_png-150)
-* [forensics/diskomatic-200](forensics/diskomatic-200)
 * [forensics/todays_secret_word_is_webmail-300](forensics/todays_secret_word_is_webmail-300)
 * [programming/ffbank_err_ffpayroll-500](programming/ffbank_err_ffpayroll-500)
 * [pwning/tyro_heap-50](pwning/tyro_heap-50)
