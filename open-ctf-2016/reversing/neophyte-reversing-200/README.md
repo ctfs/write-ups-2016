@@ -45,4 +45,4 @@ Flag: `OpenCTF{IhopeYOUdidThisInADebuggerScript}`
 
 # Other write-ups and resources
 
-* none yet
+* <https://bannsecurity.com/index.php/home/10-ctf-writeups/36-openctf-2016-neophyte-reversing>
