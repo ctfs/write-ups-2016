@@ -17,4 +17,4 @@ Running on 172.31.1.51:5534
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3652

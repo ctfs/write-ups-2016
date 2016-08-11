@@ -15,4 +15,4 @@ Binary: 172.31.0.10/tyro_infoleak2_3a3b043ca422415917e99afdc20618e5
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3654
