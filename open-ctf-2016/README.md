@@ -13,6 +13,7 @@
 
 ## External write-ups only
 
+* [crypto/basic_obfuscation-50](crypto/basic_obfuscation-50)
 * [pwning/tyro_rop2-50](pwning/tyro_rop2-50)
 * [pwning/tyro_infoleak1-50](pwning/tyro_infoleak1-50)
 * [pwning/tyro_infoleak2-50](pwning/tyro_infoleak2-50)
@@ -35,7 +36,6 @@
 * [misc/the-price-is-right-100](misc/the-price-is-right-100)
 * [crypto/message-(partially)-received-150](crypto/message-(partially)-received-150)
 * [crypto/novice_obfuscation-100](crypto/novice_obfuscation-100)
-* [crypto/basic_obfuscation-50](crypto/basic_obfuscation-50)
 * [steganography/qart-200](steganography/qart-200)
 * [steganography/pimp_my_png-150](steganography/pimp_my_png-150)
 * [forensics/todays_secret_word_is_webmail-300](forensics/todays_secret_word_is_webmail-300)

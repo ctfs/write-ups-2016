@@ -15,4 +15,4 @@ We found this message, can you decode it?
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/3656 
