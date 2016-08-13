@@ -15,4 +15,4 @@ Binary: 172.31.0.10/apprentice_www_9cc7495fae4a9b23db4c7595865af973
 
 ## Other write-ups and resources
 
-* none yet
+* http://uaf.io/exploitation/2016/08/05/openCTF-apprentice_www.html

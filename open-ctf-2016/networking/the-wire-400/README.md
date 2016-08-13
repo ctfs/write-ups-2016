@@ -83,4 +83,4 @@ Then we could obtain beacons from the future and bruteforce the right ticket loc
 
 # Other write-ups and resources
 
-* none yet
+* https://github.com/ctfs/write-ups-2016/tree/master/open-ctf-2016/networking/the-wire-400

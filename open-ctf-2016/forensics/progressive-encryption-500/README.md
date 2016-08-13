@@ -5,6 +5,8 @@
 **Author:** Yen
 **Description:**
 
+We recovered this file from an old military public-relations server.
+I'm pretty sure it contains valuable intel, but the high-resolution details have been obfuscated somehow.
 [172.31.0.10/Kathryn_Janeway_Lace_the_Final_Brassiere-59519ec3350e728b1bd8d360c504d369](Kathryn_Janeway_Lace_the_Final_Brassiere-59519ec3350e728b1bd8d360c504d369.png)
 
 
@@ -56,4 +58,4 @@ Resulting reconstructed image:
 
 # Other write-ups and resources
 
-* none yet
+* https://github.com/ctfs/write-ups-2016/tree/master/open-ctf-2016/forensics/progressive-encryption-500
