@@ -46,3 +46,4 @@ Flag: `OpenCTF{IhopeYOUdidThisInADebuggerScript}`
 # Other write-ups and resources
 
 * <https://bannsecurity.com/index.php/home/10-ctf-writeups/36-openctf-2016-neophyte-reversing>
+* https://gist.github.com/Inndy/fb0830caca0f8557225d3e152d1f0445

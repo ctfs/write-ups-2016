@@ -15,4 +15,4 @@ Binary: 172.31.0.10/tyro_shellcode2_53af42a29d43eff55ff3adba4cf67069
 
 ## Other write-ups and resources
 
-* none yet
+* http://uaf.io/exploitation/2016/08/05/openCTF-tyro_shellcode2.html

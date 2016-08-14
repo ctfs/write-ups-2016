@@ -15,4 +15,4 @@ Server: 172.31.1.46:1622
 
 ## Other write-ups and resources
 
-* none yet
+* http://uaf.io/exploitation/2016/08/05/openCTF-neophyte_cgc.html
