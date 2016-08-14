@@ -16,3 +16,4 @@ Binary: 172.31.0.10/tyro_heap_29d1e9341f35f395475bf16aa988e29b
 ## Other write-ups and resources
 
 * <https://bannsecurity.com/index.php/home/10-ctf-writeups/35-openctf-2016-tyro-heap>
+* http://uaf.io/exploitation/2016/08/05/openCTF-tyro_heap.html
