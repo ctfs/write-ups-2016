@@ -14,7 +14,7 @@ with no end in sight.
 
 ## Write-up
 
-(TODO)
+This question was a part of the "kajer" series.  To access this question, a route for an IPv6 network would need to be injected in to the OSPFv3 area.  No teams go this far.  The question was opened, but no team was able to access the resource.
 
 ## Other write-ups and resources
 
