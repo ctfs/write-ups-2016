@@ -43,4 +43,4 @@ In this task, every chunk has a `==` padding (four hidden bits). Extracting all 
 
 # Other write-ups and resources
 
-* none yet
+* https://gist.github.com/Grazfather/cd4f8d61a2fefebea22cf5243fe97386
