@@ -2,14 +2,10 @@
 
 **Category:** PPC
 **Points:** 200
-**Solves:** 
+**Author:** [Aneesh Dogra](https://github.com/lionaneesh)
 **Description:**
 
-The service presents you a random binary every time asking you to get the correct input so as to run the "yes" condition in the binary. The game has 31 rounds. Go fight! nc 52.88.137.165 8000
-
-Operating System: ?
-
-Reported Difficulty: Medium
+The service presents you a random binary every time asking you to get the correct input so as to run the "yes" condition in the binary. The game has 31 rounds. Go fight! Scripts to generate and run the problem, is in the directory.
 
 ## Write-up
 
