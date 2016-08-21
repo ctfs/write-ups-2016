@@ -1,0 +1,21 @@
+doctype html
+html
+	head
+		title CodePasty | Register
+		style
+			include style.css
+	body
+		div(class="login")
+			div(class="heading")
+				if !message
+					h2 Register
+					form(method="POST")
+						div(class="input-group input-group-lg")
+							input(type="text", name="user", autocomplete="off", placeholder="Username or email")
+						div(class="input-group input-group-lg")
+							input(type="password", name="pass", autocomplete="off", placeholder="Password")
+						button(type="submit", class="float")
+							| Register
+
+				else
+					p=message

@@ -1,11 +1,11 @@
-# Hackcon 2016 : web-chat
+# Hackcon 2016 : WebChat
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:** 250
+**Author:** [Sambhav Satija](https://github.com/darkryder)
 **Description:**
 
-
+http://chat.hackcon.in/
 
 ## Write-up
 

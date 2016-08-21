@@ -1,0 +1,29 @@
+doctype html
+html
+	head
+		title CodePasty
+		style
+			include style.css
+	body
+		div(class="content")
+			div(class="heading")
+				h2 CodePasty
+				div(class="links")
+					ul
+						li(class="nav")
+							a(href="/login")
+								| Login/Register
+						li(class="nav")
+							a(href="/paste")
+								| Paste
+
+				h3 Recent Pasties
+					if pasties
+						ul
+							each val, index in pasties
+								if val
+									if val.content
+										a(href='/paste/' + val._id)
+											p=val._id + " by " + val.username
+					else
+						h3 Nothing to show
