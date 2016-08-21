@@ -1,0 +1,19 @@
+doctype html
+html
+	head
+		title CodePasty | Paste
+		style
+			include style.css
+	body
+		div(class="login")
+			div(class="heading")
+				if !message
+					h2 Paste
+					form(method="POST")
+						div(class="input-group input-group-lg")
+							textarea(type="text", name="pasty", autocomplete="off", placeholder="Code")
+						button(type="submit", class="float")
+							| Paste
+
+				else
+					p=message
