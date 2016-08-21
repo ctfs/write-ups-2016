@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* [ppc/army-of-binaries-200](ppc/army-of-binaries-200)
+* [ppc/army-of-binaries](ppc/army-of-binaries)
 
 ## Missing write-ups
 

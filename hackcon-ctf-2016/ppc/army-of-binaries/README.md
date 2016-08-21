@@ -1,4 +1,4 @@
-# Hackcon 2016 : army-of-binaries
+# Hackcon 2016 : ArmyOfBinaries
 
 **Category:** PPC
 **Points:** 200
