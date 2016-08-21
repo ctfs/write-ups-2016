@@ -7,7 +7,7 @@
 
 String flag available from file.
 
-![level.png](/level.png?raw=true)
+![level.png](level.png?raw=true)
 
 ## Write-up
 

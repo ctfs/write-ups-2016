@@ -12,7 +12,7 @@ Bharyan thought about using and setting up this magical system which goes by the
 
 Help him understand his fault!
 
-Generate Key-Pairs for yourself from (genKeyPair.py)[genKeyPair.py] 
+Generate Key-Pairs for yourself from [genKeyPair.py](genKeyPair.py) 
 ## Write-up
 
 (TODO)

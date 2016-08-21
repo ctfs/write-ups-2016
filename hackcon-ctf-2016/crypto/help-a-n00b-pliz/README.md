@@ -9,7 +9,7 @@ Chaman is new to RSA and he was just confirming whether he gave the right parame
 
 Can you help teach N00b Chaman a lesson plis? ;_;
 
-Link: (data_recovered)[data_recovered]
+Link: [data_recovered](data_recovered)
 
 ## Write-up
 
