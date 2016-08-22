@@ -27,3 +27,4 @@ Reported Difficulty: Easy
 ## Other write-ups and resources
 
 * https://github.com/d3rezz/HackCon2016-YouCantSeeMe
+* https://youtu.be/ECFyZV6kWEk
