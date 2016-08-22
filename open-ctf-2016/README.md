@@ -22,6 +22,7 @@
 * [pwning/tyro_shellcode2-100](pwning/tyro_shellcode2-100)
 * [pwning/tyro_heap-50](pwning/tyro_heap-50)
 * [pwning/apprentice_www-300](pwning/apprentice_www-300)
+* [pwning/master_win2-600](pwning/master_win2-600)
 * [forensics/diskomatic-200](forensics/diskomatic-200)
 * [web/fleabay-250](web/fleabay-250)
 * [misc/randdumb-150](misc/randdumb-150)
@@ -49,4 +50,3 @@
 * [pwning/tyro_overflow1-50](pwning/tyro_overflow1-50)
 * [pwning/tyro_overflow2-50](pwning/tyro_overflow2-50)
 * [pwning/hashing_the_stack-300](pwning/hashing_the_stack-300)
-* [pwning/master_win2-600](pwning/master_win2-600)

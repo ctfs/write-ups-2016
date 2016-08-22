@@ -15,4 +15,4 @@ Binary: 172.31.0.10/master_win_e87bb19c7b4c18a8f62de88cf529a448
 
 ## Other write-ups and resources
 
-* none yet
+* http://ebfe.dk/masterwin.js
