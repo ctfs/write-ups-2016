@@ -28,3 +28,4 @@ Reported Difficulty: Easy
 
 * https://github.com/d3rezz/HackCon2016-YouCantSeeMe
 * https://youtu.be/ECFyZV6kWEk
+* https://amritabi0s.wordpress.com/2016/08/21/write-up-hackcon-2016-you-cant-see-me/

@@ -10,3 +10,11 @@ Get the pwnie here: [pwnie](pwnie).
 **Server Specifics:**
 
 0x08 is a bad char. Your exploit shouldn't contain 0x08 in it to accept.
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet

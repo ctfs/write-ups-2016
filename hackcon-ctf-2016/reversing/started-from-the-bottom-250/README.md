@@ -1,7 +1,7 @@
 # Hackcon 2016 : started-from-the-bottom
 
 **Category:** Reversing
-**Points:** 200
+**Points:** 250
 **Author:** [Aneesh Dogra](https://github.com/lionaneesh)
 **Description:**
 
@@ -17,4 +17,4 @@ Only readable chars allowed at server. Password shouldn't contain any unreadable
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.youtube.com/watch?v=Z1eV-1fWwK0
