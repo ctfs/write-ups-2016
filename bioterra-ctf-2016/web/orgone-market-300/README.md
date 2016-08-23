@@ -1,6 +1,6 @@
 # BioTerra CTF 2016 : orgone-market-300
 
-**Category:** Pwn
+**Category:** Web
 **Points:** 300
 **Solves:** 
 **Description:**
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2016-08-21-bioterra-ctf/orgone_market

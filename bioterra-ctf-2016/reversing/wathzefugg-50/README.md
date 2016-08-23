@@ -15,3 +15,4 @@ Only the chosen ones have the gift to read between the lines. We got this binary
 
 * https://youtu.be/npyHJiQTLUQ
 * https://kebechet.net/post/6/BioTerra________Wathzefugg
+* https://akshayajayan.wordpress.com/2016/08/22/bioterra-ctf-2016-wathzefugg/

@@ -1,6 +1,6 @@
 # BioTerra CTF 2016 : sounds-100
 
-**Category:** Tmp
+**Category:** Web
 **Points:** 100
 **Solves:** 
 **Description:**
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.i4info.in/2016/08/22/Bio-terra-CTF/

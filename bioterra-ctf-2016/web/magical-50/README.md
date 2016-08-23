@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.i4info.in/2016/08/22/Bio-terra-CTF/
