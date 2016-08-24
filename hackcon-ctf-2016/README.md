@@ -10,7 +10,6 @@
 ## External write-ups only
 
 * [reversing/you-cant-see-me-150](reversing/you-cant-see-me-150)
-* [reversing/furtive-jack-200](reversing/furtive-jack-200)
 * [reversing/started-from-the-bottom-250](reversing/started-from-the-bottom-250)
 * [ppc/army-of-binaries-200](ppc/army-of-binaries-200)
 * [pwn/easiest-pwn-not-250](pwn/easiest-pwn-not-250)
@@ -19,6 +18,7 @@
 ## Missing write-ups
 
 * [reversing/angry-reverser-200](reversing/angry-reverser-200)
+* [reversing/furtive-jack-200](reversing/furtive-jack-200)
 * [forensic/in-rainbows-150](forensic/in-rainbows-150)
 * [forensic/note-to-self-250](forensic/note-to-self-250)
 * [misc/interesting-backdoor-150](misc/interesting-backdoor-150)
