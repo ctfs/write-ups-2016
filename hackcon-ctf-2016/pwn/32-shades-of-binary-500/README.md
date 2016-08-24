@@ -15,4 +15,4 @@ The files used to host the challenge are in the repo. [chall.py](chall.py), [gen
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/uafio/git/blob/master/scripts/hackconCTF-32-shades-of-binary.py

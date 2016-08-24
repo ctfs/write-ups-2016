@@ -17,4 +17,4 @@ Get the pwnie here: [pwnie](pwnie).
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/uafio/git/blob/master/scripts/hackconCTF-easiest-pwnie.py
