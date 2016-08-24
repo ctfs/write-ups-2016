@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/uafio/git/blob/master/scripts/bioterraCTF-snake32.py

@@ -11,6 +11,7 @@
 
 * [reversing/wathzefugg-50](reversing/wathzefugg-50)
 * [pwn/akashic-record-200](pwn/akashic-record-200)
+* [pwn/snake-400](pwn/snake-400)
 * [forensic/screensh00ter-50](forensic/screensh00ter-50)
 * [coding/zip-300](coding/zip-300)
 * [web/magical-50](web/magical-50)
@@ -21,7 +22,6 @@
 
 ## Missing write-ups
 
-* [pwn/snake-400](pwn/snake-400)
 * [pwn/luckynumber-100](pwn/luckynumber-100)
 * [misc/tutorial-100](misc/tutorial-100)
 * [crypto/for-100](crypto/for-100)
