@@ -5,14 +5,13 @@
 
 ## Completed write-ups
 
-* none yet
+* [pwn/easiest-pwn-not-250](pwn/easiest-pwn-not-250)
 
 ## External write-ups only
 
 * [reversing/you-cant-see-me-150](reversing/you-cant-see-me-150)
 * [reversing/started-from-the-bottom-250](reversing/started-from-the-bottom-250)
 * [ppc/army-of-binaries-200](ppc/army-of-binaries-200)
-* [pwn/easiest-pwn-not-250](pwn/easiest-pwn-not-250)
 * [pwn/32-shades-of-binary-500](pwn/32-shades-of-binary-500)
 
 ## Missing write-ups
