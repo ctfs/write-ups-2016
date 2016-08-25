@@ -17,12 +17,12 @@ Tools I used for this challenge include [radare2](https://github.com/radare/rada
 [gdb(-peda)](https://github.com/longld/peda), [qira](https://github.com/BinaryAnalysisPlatform/qira),
 [libc-database](https://github.com/niklasb/libc-database) and [checksec](http://www.trapkit.de/tools/checksec.html).
 This challenge was introduced with a different binary, which
-was changed close to the beginning. However we didn't noticed this changed until
-several hours later and cost us quite a lot of time, nevertheless
-it was relatively easy exploiting challenge with a wide range of hardening
+was changed close to the beginning. However we didn't noticed this change until
+several hours later and it cost us quite a lot of time. Nevertheless
+it was a relatively easy exploiting challenge with a wide range of hardening
 measures.
 
-We are starting of by analysing the binary with the file command:
+We are starting off by analysing the binary with the file command:
 	
 	$ file ./pwnie
 	pwnie: ELF 32-bit LSB executable, Intel 80386,..., dynamically linked, not stripped	
@@ -34,9 +34,10 @@ Additionally we check for potential security measures with checksec:
 	Partial RELRO   Canary found      NX enabled    No PIE          No RPATH   No RUNPATH   pwnie
 
 So we're dealing with a 32-bit executable which is armed with stack-canaries and
-a not executable stack, however lacks ASLR.	
+a not executable stack, however it lacks ASLR protection.
 
 If we let it run we're presented with a challenge:
+
 	$ ./pwnie
 	So I heard ya like livin like Fibonacci.
 	Lets See.
@@ -46,9 +47,9 @@ If we let it run we're presented with a challenge:
 	42
 	Sorry was supposed to be 0
 
-We have to serve to number's and in case of the correct combination we might be
+We have to serve two number's and in case of the correct combination we might be
 rewarded with a "gets" call. Let's have look with our favorite disassembler
-radare2 and keep in mind that it might have to do smth. with the Fibonacci series:
+radare2 and keep in mind that it might have smth. to do with the Fibonacci series:
 
 	$ r2 -A ./pwnie
 	[0x08048470]> afl
@@ -77,31 +78,31 @@ radare2 and keep in mind that it might have to do smth. with the Fibonacci serie
 
 So let's have a look at the main function:
 
-![main part I](https://github.com/ctfs/write-ups-2016/tree/master/hackcon-ctf-2016/pwn/easiest-pwn-not-250/main_part_I.png "main part I")
+![main part I](main_part_I.png "main part I")
 
-We can see that it prints the challenge and calls the sym.genf function.
-I will scipt the reversing part here and just tell you that genf potentially
+We can see that it prints the challenge and calls the `sym.genf` function.
+I skip the reversing part here and just tell you that genf potentially
 stands for "generate Fibonacci", which calculates the first 10 elements in the
 Fibonacci series and stores them into a dword array pointet to by the first
 argument, in this case `esp+0x28`.
 Afterwards we can give an input of two dwords, let's see what
 happens to them:
 
-![main part II](https://github.com/ctfs/write-ups-2016/tree/master/hackcon-ctf-2016/pwn/easiest-pwn-not-250/main_part_II.png "main part II")
+![main part II](main_part_II.png "main part II")
 
 As we can see our first value is used as an index into the Fibonacci table with
 this SIB-style access: `mov edx, dword [esp + eax*4 + 0x28]`.
-The buffer base is at esp+0x28 and we go in dword steps (4-byte) up the stack.
+The buffer base is at esp+0x28 and indexed in dword steps (4-bytes) upwards.
 If our second value equals the Fibonacci value at this index, we get our
 promised `gets` call to `esp+0x52`. In the other case we are provided with the
 expected value at the particular index and the challenge is repeated.
 
 We notice two vulnerabilities here, first of all our index isn't checked at all,
-which gives us dword memory read in the range of [`(esp+0x28)-(2**32)*4`, `(esp+0x28)+(2**32)*4`].
-Secondly we have the malicious `gets` call, in case you not that familiar with
-C language I would suggest a look into `man 3 gets` (see BUGS).
-So we have a classic buffer overflow, however we still have to overcome
-the stack canary hurdle.
+which gives us a dword memory read in the range of [`(esp+0x28)-(2**32)*4`, `(esp+0x28)+(2**32)*4`].
+Secondly we have the malicious `gets` call, in case you're not that familiar
+with C language, I would suggest you take a look into `man 3 gets` (see BUGS).
+Long story short  we have a classic buffer overflow, however we still have to
+overcome the stack canary hurdle.
 
 Thanks to our memory leak this should be feasible though. Our game plan looks
 like this:
@@ -126,7 +127,7 @@ debugger:
 
 We open the debugger view in the browser:
 
-![canary part I](https://github.com/ctfs/write-ups-2016/tree/master/hackcon-ctf-2016/pwn/easiest-pwn-not-250/canary_part_I.png "canary part I")
+![canary part I](canary_part_I.png "canary part I")
 
 I moved the eip to the point where the canary was written to the stack.
 We can see that eax holds the canary, which is 0xcecb5000 in this case and it
@@ -138,23 +139,23 @@ our offset between canary and ebp can vary between 0 and 15 bytes.
 Nevertheless we were looking for the canary index based on the Fibonacci array.
 We could calculate this offset with our static analysis, or we could have a look
 into qira, both ways are pretty straights forward. In qira we move the eip to
-the array access `moveedx, dword ptr [esp + eax*4 + 0x28]`. And we can see that
+the array access `mov edx, dword ptr [esp + eax*4 + 0x28]`. And we can see that
 index 9 gave us an access to `0xf6fff4ac -- 0x22`:
 
-![canary part II](https://github.com/ctfs/write-ups-2016/tree/master/hackcon-ctf-2016/pwn/easiest-pwn-not-250/canary_part_II.png "canary part II")
+![canary part II](canary_part_II.png "canary part II")
 
 If we take a closer look to the stack view at the bottom we can already see our
-canary, so by simple counting we can figure out the correct index: 13.
+canary, so by simple counting we can figure out the correct index is 13.
 So lets build our first exploit, which should do the following:
 
 1. Give the canary index and wrong value to the challenge -> 13 4
 2. Read the leaked canary
 3. Give a correct answer to the challenge -> 1 1
-4. Fill the whole buffer provided to gets -> esp+0x5c-esp+0x52 = 10 => 10 * 'A'
+4. Fill the whole buffer provided to gets -> (esp+0x5c)-(esp+0x52) = 10 => 10 * 'A'
 5. Overwrite the canary correctly
 6. Fill the alignment space -> "B" * 8
 7. Overwrite the ebp -> "C" * 4
-8. Overwrite the rip -> "D" * 4
+8. Overwrite the rip -> 0xdeadbeef
 
 You can find the final exploit in pwnie_pwn.py, but here is the output till this
 point:
@@ -174,7 +175,7 @@ point:
 
 So let's have a look in qira and see what was happening:
 
-![exploit part I](https://github.com/ctfs/write-ups-2016/tree/master/hackcon-ctf-2016/pwn/easiest-pwn-not-250/exploit_part_I.png "exploit part I")
+![exploit part I](exploit_part_I.png "exploit part I")
 
 We can immediately see that it worked out the way we wanted, we overwrote the
 canary correctly and the eip points to 0xdeadbeef.
@@ -185,7 +186,7 @@ the description:
 > 0x08 is a bad char. Your exploit shouldn't contain 0x08 in it to accept.
 
 This is kind of deal breaker, as 0x08 is the beginning of every code address in
-x86 on 32-bit architectures, this means leaves us a ret2libc as the only option.
+x86 on the 32-bit architecture, this leaves us a ret2libc as the only option.
 Thereby we have to identify the libc used on the target system, as well as one
 symbol we can leak in order to get the libc base address.
 
@@ -194,10 +195,11 @@ find another way. There we're different approaches used, but I try to explain
 the intended way here.
 First of all we need some kind of info about the libc base address, in order to
 do that we can have a look at the stack and see if smth. interesting is laying
-there. Obviously the return instruction pointer of the main function points back
+around there.
+Obviously the return instruction pointer of the main function points back
 into the libc, precisely into `__libc_start_main`. In order to find out which
-from the entry point of `__libc_start_main` is stored into the rip, I use gdb
-(later I noticed this is actually the return instruction of `__libc_start_main`,
+offset from the entry point of `__libc_start_main` is stored into the rip, I use
+gdb here (later I noticed this is actually the return instruction of `__libc_start_main`,
 which is already displayed by the libc-database).
 
 	$ gdb ./pwnie
@@ -218,7 +220,7 @@ which is already displayed by the libc-database).
 	...
 
 We can see that the esp points to `__libc_start_main+243`, so if we leak the
-rip of main and subtract 243 we got the address of `__libc_start_main`.
+rip of main and subtract 243 we get the address of `__libc_start_main`.
 If you have a look at the qira view above you can see the index for the canary
 was 13, we have to add 2 dwords for alignment space and 1 dword for the ebp, so
 the index for the rip is 17.
@@ -255,7 +257,7 @@ strings does this job for us:
 We can now download the libc [.deb](http://security.ubuntu.com/ubuntu/pool/main/e/eglibc/libc6-i386_2.19-0ubuntu6.9_amd64.deb)
 packet for the particular aws-image
 (http://ap-southeast-1.ec2.archive.ubuntu.com/ubuntu/ trusty-updates/main libc6 i386 2.19-0ubuntu6.9)
-(md5sum=545e272e432d8947b85d3f0beff7071f), but I also provided the libc-2.19.so.
+(md5sum=545e272e432d8947b85d3f0beff7071f), but I already provided the [libc-2.19.so](libc-2.19.so).
 
 Having the libc we can now search in the libc-database and receive our offsets:
 
@@ -276,7 +278,7 @@ Having the libc we can now search in the libc-database and receive our offsets:
 You can do the same with your local libc in order to test your exploit locally.
 With those offsets we can create our final ret2libc payload. According to the
 System-V calling convention we push system's address at the rip position and
-the address of /bin/sh on spot above. The final exploit is pwn_pwnie.py:
+the address of /bin/sh on spot above. The final exploit is in pwn_pwnie.py:
 
 	$ ./pwn_pwnie.py
 	[+] Starting local process './pwnie': Done
@@ -301,6 +303,11 @@ the address of /bin/sh on spot above. The final exploit is pwn_pwnie.py:
 	$ 
 
 Here we go \o/
+
+All in all this was quite a easy challenge, apart from the libc identification
+and the 0x08 char stuff.
+In my opinion they should have provided any hint or leak for the libc, but maybe
+there's an easier option and I simply didn't get it;-)
 
 
 
