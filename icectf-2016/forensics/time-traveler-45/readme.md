@@ -12,4 +12,5 @@ I can assure you that the flag was on this website at some point in time.
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-45-Time-Traveler-Forencics/
+* https://github.com/318BR/IceCTF/blob/master/2016/Stage-1/Time-Traveler/writeup.md
