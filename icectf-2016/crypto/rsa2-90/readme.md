@@ -12,4 +12,4 @@ I guess the 3rd time is the charm? Or not... flag.txt
 
 ## Other write-ups and resources
 
-* None yet
+* <https://github.com/WCSC/writeups/tree/master/icectf-2016/RSA2> 
