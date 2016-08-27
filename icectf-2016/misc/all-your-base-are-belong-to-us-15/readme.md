@@ -12,4 +12,4 @@ What a mess... we got a raw flag but now what do we do...
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-15-All-your-Base-are-belong-to-us-Misc/
