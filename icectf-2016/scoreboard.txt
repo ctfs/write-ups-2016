@@ -1,0 +1,1696 @@
+CS16	CODILIME	4506
+Whitehatters Academy	http://whitehatters.academy/	4506
+DlcsHrs	fun	4306
+PartOfSpectriX	SUPCOM/EURECOM	4306
+dephault	dephault	4306
+Antichat	Mother Russia	4206
+GardaDeFier	UPB	4106
+AgeOfNull	University of Maryland	3866
+eeksSpeak	Private	3791
+shellshocker	UPB	3791
+dotelite	None	3656
+Samurai	N/A	3656
+Dragon Sector	AllSafe Cybersecurity	3656
+scryptos	scryptos	3656
+0x90r00t	No affiliation	3631
+Balsn	NTU	3516
+ELT	CTF-BR	3491
+hanto	UCLA	3491
+dcua	NTUU "KPI"	3491
+r00ts	w/e	3491
+DDOS Attacks #TJHS Kids Cheat	Reykjavik University	3491
+TheGoonies	http://thegoonies.rocks	3481
+Dystopian Narwhals	DEFCON SG	3481
+DeadDudes	cicadasolvers	3451
+MegaByte	Háskóli Íslands	3406
+318br	http://318br.sh	3371
+Unary Operator	UnB	3371
+ASIS	ASIS	3361
+CaptureTheSwag	No affiliation	3351
+BatmansKitchen	University of Washington	3341
+0x13	No affiliation	3246
+0xbadf00d	UK	3166
+Raccoons	No affiliation	3146
+Segphault	Hendecaphobia	3101
+OpenToAll	No affiliation	3081
+tmtz	No affiliation	2986
+CorpOfHack	No affiliation	2981
+CTF wo Suru	school	2926
+p4	none	2926
+ThienDiaHoi	BKKQKL	2911
+Ox002147	University of Oxford	2906
+MV9rwGOf08	No affiliation	2896
+Ridge Racer	University of Western Australia	2886
+BS Labs	No affiliation	2876
+Sky's Team	Sơn Tùng MTP	2871
+khack40	LolCat Institute	2866
+Banksy	Not affiliated	2831
+HackingFromSpace	No affiliation	2826
+farmingsimulator2015	Pyongyang Girls High School	2826
+Fluxion	No affiliation	2791
+Snatch The Root	No affiliation	2701
+Delogrand	USAFA	2701
+InSecurity	INSA Lyon	2666
+castoconiglio	peori	2636
+takaki	No affiliation	2626
+not robots	none	2621
+nUl1	No affiliation	2591
+Hostbusters	No affiliation	2586
+Deadpool and Object-Oriented Programming	Háskóli Lífsins	2571
+So it goes	Cyren	2571
+Animal.OhYeah	https://www.youtube.com/watch?v=izGwDsrQ1eQ	2561
+Team Contagion	Rochester Institute of Technology	2561
+Bellman-Oxford	University of Oxford	2556
+Just Hit the Core	PL, AGH	2551
+saarsec	Saarland University	2551
+__init__.py	None	2541
+Gud3!	CCC-FFM e.V.	2541
+dust	No affiliation	2541
+pixelz	unaffiliated	2536
+tfwnoteam	NEET	2506
+derp	University of Washington	2506
+Beers4Flags	BFF#1	2451
+Cumbancha	UNLP	2441
+Team Total Security	https://www.youtube.com/watch?v=CDWR7pd_ViY	2441
+MorningDev	Chulalongkorn University	2436
+MAVISANG	Lovelyz ♡	2431
+rm /bin/rm	Amrita School of Engineering	2421
+randoom	No affiliation	2421
+v0rt3x	No affiliation	2411
+SiBears	Tomsk State University	2386
+Bugs_Bunny	isetcom	2341
+xzt	sjtu	2336
+TechSec	MIT	2321
+Transparent Hats	No affiliation	2316
+Qubit	University of Maryland	2306
+ISITDTU	No affiliation	2301
+CHC	Cornell University	2286
+pTFS	No affiliation	2281
+gogn.in	No affiliation	2276
+ALLES!	none	2251
+REU	No affiliation	2246
+Bad Switch: Do Not Use	Untethered by Affiliation	2246
+Invulnerable	No affiliation	2236
+consult_with_jeeves	No affiliation	2231
+WackMC	WackMC	2231
+zw324	No affiliation	2226
+5a på netsec!	No affiliation	2221
+OMECA	France	2206
+RATF{Rage Against The Flag}	ratf.com.br	2201
+0.5yonghwi	Korea University	2166
+~JustTheBit	No Affiliation	2166
+GeminiSec	No affiliation	2156
+RTFM	CTF-BR - rtfm-ctf.org	2141
+bicycle_overdrive	University	2136
+foxliu	SCUT	2126
+HackingForSoju	Liquid courage &amp; binary carnage	2081
+JMPer[tPORt]	No affiliation	2081
+Magic-Hat	No affiliation	2076
+CyberTeam6	Hackers	2071
+b1n4ry4rms	none	2066
+pltest	etc	2051
+Thần tiên tỉ tỉ	No affiliation	2046
+það verður ekki liðið!	ru	2046
+Fill with Ds	WCSC	2041
+PwnStar	Ineligible	2031
+Reptilian Shapeshifters	Reptilian Shapeshifters	2016
+n00bs_with_m00bs	No affiliation	2011
+BITSkrieg	BITS Pilani KK Birla Goa Campus	2011
+7yearold_script_kiddies	No affiliation	2006
+bricked	No affiliation	1996
+Some Assembly Required	GMU	1976
+noobs	Cyren	1946
+A.P.$lasH	TFS Lab.	1941
+Green Hats	No affiliation	1936
+YOLOSWAG420PWNRZ	No affiliation	1931
+dekhi	Others	1921
+56k	No affiliation	1911
+offsec	offsec.ir	1896
+SadDad420	Being your dad	1871
+Espacio	University Innopolis	1866
+bitsforeveryone	United States Military Academy	1856
+YouAreDelayingTheProject	NotMagenta	1856
+comote	comote	1856
+s0m4	ingsec	1846
+evandrix	No affiliation	1846
+ShadowB0rkers	One man team :)	1846
+My Computer Is A Potato	fresh memes	1841
+Grumpy Unicorn	Quintiq Sdn Bhd	1841
+hAIXer	No affiliation	1831
+seldon	No affiliation	1826
+Becareful - Tunisia	Supcom - ensit	1821
+0xc0d3b4b3	No affiliation	1816
+noTeamName	No affiliation	1811
+P@c0c@	None	1801
+koibasta	SSAU	1786
+zzz	No affiliation	1771
+BingoPalace	Unaffiliated	1771
+unicorn	Reykjavik University	1766
+NT	no	1756
+The Bailey's Shoe Drinkers	HR	1746
+Knights of the Eastern Calculus	lainchan.org	1736
+0xPHTeam	0xPHTeam	1736
+UglyFlowers	dinges	1726
+John Doe	finishing school	1726
+DTU Team	Mr P	1711
+iSome No affiliation  1711
+cuti	HUT	1701
+fikt	No affiliation	1696
+xil.se	xil.se	1681
+noraneco	No affiliation	1681
+Nitteam	Lab	1671
+RTeam	No affiliation	1666
+KillTac9	No affiliation	1666
+PC_CTF	No affiliation	1661
+Kůl H@rdv@r3 H@ck3rs &lt;3 :*	FIT CTU Prague	1656
+PlayFair2K16	BITS	1651
+JalluJazz	JalluJazz	1646
+TSMF	No affiliation	1641
+pwdsec	vortex	1626
+Team IA	FPT University	1626
+Lights Out	MIPT	1626
+omakase	No affiliation	1611
+dc562	dc562	1606
+igorpyan'"	etc'"	1586
+Hack8Tic	Hack8Tic	1576
+GeorgiaTechFrosh	None	1571
+objEEdump	United States Coast Guard Academy	1556
+monoteam	No affiliation	1551
+sec.se	No affiliation	1546
+Itemize	NTNU	1546
+L.E.I CTF	Ju-UIT	1541
+W1ngChun	jnu2016	1541
+upenn_sy	University of Pennsylvania	1541
+0x28	University of South Florida (WCSC)	1536
+KPMG Nubs	No affiliation	1526
+Dait	CND	1526
+user237691	Gurmoney	1521
+NaijaSecForce	No affiliation	1521
+Galaxians	Galaxy	1516
+nattypwns	Team	1511
+IrCRealWWordx	No affiliation	1506
+Syber	Sypris	1501
+entaku	Japan Mensa	1486
+Sugib30	No affiliation	1481
+Cyber Duckies	No affiliation	1481
+XFLAG-S	No affiliation	1481
+Xiia0F1aGGer$	No affliation	1471
+g0tiu5a	Rabbit House	1466
+CyBerg	Bergen County Academies	1466
+team megas	Cyren	1466
+Krew	Krewtacular	1461
+allihopa	Google &amp; Spotify	1461
+503	No affiliation	1461
+Scratch ATs!	https://scratch.mit.edu/discuss/31	1446
+zonda	No affiliation	1446
+Archive1	No affiliation	1436
+Shine	No affiliation	1431
+g3ol4d0	n0n3	1426
+joizel	joizel	1426
+Gekikara	No affiliation	1421
+Sera	dap2up_da	1406
+axfr	Technical University of Denmark, individual	1406
+RedGreenBlue	No affiliation	1406
+booms	No affiliation	1401
+Codesolvers	Vesit	1401
+flago kaptita	No affiliation	1401
+bycycle_overdrive	bycycle_overdrive	1396
+SecurityHouse	No affiliation	1396
+nhirokinet	No affiliation	1396
+Cube	etc	1391
+NoTeamNoName	No affiliation	1386
+kad	none	1386
+crayontheft	UK	1381
+Les Loustiques	OCD-VOC	1381
+1st timers	No affiliation	1381
+schiebzor	schiebzor	1376
+GeN-X	No affiliation	1376
+rmrf	No affiliation	1376
+red	No affiliation	1361
+Br@w$Cr3ck3rs	No affiliation	1361
+Abracada	MIPT	1356
+owlinux	No affiliation	1351
+bi0s	Amrita University	1341
+Edward_L	HDUISA	1336
+thefiles	No affiliation	1336
+Boolean Hunter	No Affiliation	1336
+daxorid all by himself :~(~~	No friends into this, so all alone	1331
+qwerty123	5	1326
+ConCòBéBé	###	1326
+HFF	Null	1321
+TheRenegadePwners	No affiliation	1321
+b0tch_sec	http://b0tchsec.com	1321
+IthacaSec	IthacaSec/IthacaHackers	1321
+Yozakura	Univ	1311
+StuxNet2010	Lewis &amp; Clark College	1306
+InfoSecIITR	IIT Roorkee	1301
+Nuc1e@r_BugZ	TU Kaiserslautern	1296
+Omega	Northwood High School	1291
+Tenesys	No affiliation	1281
+The Lemons	Methacton High School	1276
+Team Umbrella	FPT University	1271
+NUS Greyhats Nv Gnna G1v U Up	https://www.youtube.com/watch?v=dQw4w9WgXcQ	1266
+kwazi	No affiliation	1261
+yingy4ng	No affiliation	1261
+alpackers	No affiliation	1256
+Schrodinger-Watching Cats	UCSD	1256
+H.I.S Code 2	UIT	1256
+_nothing	No affiliation	1251
+UBUN	SecuMaster	1251
+sapphire	sapphire	1246
+taurus	No affiliation	1241
+Taint	No affiliation with the butthole (maybe slight affiliation)	1236
+Salamander Squad	Chaotic Neuteral	1231
+clear	UIT	1231
+rinon	Immunant, Inc.	1226
+Dream in Despair	Not Iceland	1226
+yeeboiz	skool	1226
+k1ss5h0t	No affiliation	1226
+WHi73ViL	Sungshin Women's University, Department of Convergence Security	1221
+unlimited_reagents	Bergen County Academies	1221
+c0x1nh4	No affiliation	1221
+I	Banana	1221
+swehack	none	1221
+hungry hippos	TJHSST	1216
+A Team has no name	A Company has no name	1216
+christrc	No affiliation	1201
+Direktoratet	swehack	1196
+shoobydoowap	No affiliation	1191
+Rule110	none	1191
+SEGFAULT	School of Science and Technology	1186
+Blank	No affiliation	1186
+@tax0rz	CP	1186
+anticore	anticore	1181
+TheExploiter	None	1181
+Team ChinaBox	Company	1181
+bbb	No affiliation	1176
+vulnhub-ctf	VulnHub	1176
+Big Dick Swingin	Personal	1171
+soomink	KAIST	1161
+mau5	mau5	1161
+dankside	No affiliation	1156
+Vieze Constructies	No affiliation	1151
+Penn	University of Pennsylvania	1151
+Leaf Pie	No affiliation	1146
+mrpnkt	No affiliation	1146
+HTS	HackThisSite.org	1141
+GrassMudHorseJr	Whitehat Society	1141
+yakir	cknife	1141
+tq	No affiliation	1126
+GoBlue	University of Michigan - Ann Arbor	1126
+ObsessiveCompulsive	No affiliation	1121
+fuck off	No affiliation	1116
+______	What is Mind? Does it matter? What is matter? Never mind!	1106
+lintile	lintile.com	1106
+Flix	No affiliation	1101
+noweb	whu	1101
+GiVeMeRoOt	BMSCE	1101
+Test12345678	none	1101
+nightworker	nightworker	1096
+3v01v3	Team	1096
+AnimalsInSpace	No affiliation	1091
+rawsec	http://rawsec.ml/	1091
+!SpamAndHex	Nothing	1086
+All the TJ Syscunts are virgins	RIT	1081
+DELSEC	No affiliation	1081
+Gibdeon	No affiliation	1081
+Kronis	No affiliation	1081
+Efiens	HCMUT	1081
+gooligans	No affiliation	1081
+Cache_Crook	No affiliation	1071
+Black Technology Royal	City University of Hong Kong	1071
+Devil_May_Cry	hack_is_fun	1066
+The A-Team	No affiliation	1061
+SiLent	Nets Uitm Shah Alam	1061
+PHTeam	MPEI	1061
+Nullfluid	No affiliation	1056
+HIS	No affiliation	1056
+MonoMini	file	1051
+Einsi	No affiliation	1051
+yharima	No affiliation	1051
+FreeWiFi	No affiliation	1041
+INFOR 29th	Taiwan No.1	1041
+Astrovus	Boerne High School	1041
+Clueless	No affiliation	1036
+Hack'N'Run	University of Sherbrooke	1036
+Goatzzz	EG	1036
+Allhex	Poland	1036
+CS-WAT	No affiliation	1031
+Hash Slinging Hackers	Cal Poly SLO	1026
+Majestic 12	University	1026
+kuteminh11	DTU	1021
+JiakLiaoBee	Dropout	1021
+NCWIT	NCWIT	1021
+bongeez	ntu	1016
+Cybrosis	No affiliation	1016
+6CTF_Hunt3r5	6CTA	1016
+Random Instructions	No affiliation	1011
+Another Bad Idea	No affiliation	1010
+helmingunarleit	University of Iceland / Reykjavik University	1006
+punkmaster	punkmaster	1006
+trebla	No affiliation	1006
+Ecx Inc.	Western Michigan University	1001
+ʇɐıʎosןıɯǝ	None	1001
+MorCoorp	No affiliation	1001
+Harimeow Malaya	UiTM	1001
+agent13	No affiliation	996
+Bono_iPad	none	996
+b00m	Friends	991
+Nabla	UPB	991
+Jellybean	nil	991
+OverDover	No affiliation	991
+mosamosa	No affiliation	986
+__crzxch	No affiliation	981
+Ívar og íkorninn	Íslandsbanki	976
+ByteBandits	IIT Indore	971
+tidgaf security	Self	966
+FaceKikVidia Labs	Friends	966
+OTTEAM	No affiliation	961
+⚡ Cyber Ops ⚡	the Derek Zoolander Center For Kids Who Can't Read Good And Wanna Learn To Do Other Stuff Good Too	956
+beameio	hack the planet!@	956
+Scorpions	No affiliation	956
+byteMe	HR	956
+Angry Peanuts	Peanuts and Co.	956
+nullbyte	.	951
+SNIPER	Private	951
+Foo	No affiliation	936
+sh3r	VNUHCM-UIT	931
+slowdayforan0day	No affiliation	931
+Paranoic Pirates	elqueleeesputo	926
+r0_ot &amp; Black-hole	r0_ot &amp; Black-hole	926
+wh03	No affiliation	926
+LeaveCat	No affiliation	921
+CU_later	Chulalongkorn University	916
+TeamJacks	No affiliation	916
+LuckDigger	No affiliation	911
+ForFun	No affiliation	911
+Squirtle Squad	Kanto	911
+2O2L2H	Too old to learn to hack	911
+ShiftCrops	TUAT	910
+legacy - can be removed	Corpo	906
+MyTeam	No affiliation	906
+Burlingpwn	University of Vermont	906
+fuckchina	fuckchina	901
+meat medley	BORG	901
+wifi free	UIT	896
+Achtung	No affiliation	896
+CAT-Security_Junior	We Just Solve Only Web and Pwn	896
+Shadow Servants	school + university	891
+CtfFuntikTeam	---	891
+squareroots	squareroots	891
+mythos	No affiliation	891
+CO2	NCTU	881
+Catbug	multiple	881
+hades	hades	881
+kwin	No affiliation	881
+wh1n07	No affiliation	871
+takisistema	kdream	871
+Turing Down For What	Millard North High School	871
+X	No affiliation	871
+UberTeam	Yamatetsu	866
+1up	Neutral Good	866
+NIS	No affiliation	866
+abcd	No affiliation	861
+Beta_securiteam	Beta group	861
+piraterappers	No affiliation	861
+BabyPhD	No affiliation	856
+SuperChief	No affiliation	856
+zairo	No affiliation	851
+Potato Warriors	None	841
+BT	Noschool	841
+mx	No affiliation	841
+Unbroken Crackers	none	841
+BeEF	No affiliation	836
+da3mon	just me	836
+bakkka	No affiliation	836
+Ascope	No affiliation	836
+shipit	No affiliation	831
+_HEX_MEX	No affiliation	831
+allalone	No affiliation	831
+NONROOT	No affiliation	826
+jfhs	none	826
+puritys	No affiliation	826
+K Corp	W-HS	816
+Potato	No affiliation	816
+botaremedio	No affiliation	816
+xatnys	wearemarching	811
+HACK#00F	Bluebolt	811
+b4cb4990181e272bfaf2bfa6	None	806
+Hackinfinity	IIT Roorkee	806
+ALONEEEEE	No affiliation	801
+CoH	No affiliation	801
+TOPKEK420	LE TOUCAN	801
+L_3ff3c7_UQ4M	UQAM	801
+omgomgomg	No affiliation	796
+IGIce	university club	796
+cysec	CySec	796
+Assembling Machine	No affiliation	791
+HCU	Phox.io	791
+Sigpwny	No affiliation	791
+TheEmperors	No affiliation	791
+InFurSec	No affiliation	786
+RnD	No affiliation	781
+void	Birla Institute of Technology, Mesra	781
+siba7eros	No affiliation	781
+dankUQAMagain	No affiliation	781
+Hexpired 0xc0ffee	York High School	776
+panopticon	No affiliation	776
+NULL	Reykjavik University	771
+tru	No affiliation	766
+WhaleTriggers	No affiliation	766
+D3siprox	No affiliation	766
+wjhc	No affiliation	766
+ung	No affiliation	766
+Migdalo	NaN	766
+0xec	No affiliation	766
+mandheling	school	761
+Loloool	A	761
+babagnush	science	756
+icectf_cgkap8p5xjgmqjau5gqf1829bkf1w3ov	GoBlue	756
+hack_the_world	hack_the_world	756
+FCU	etc	751
+Leet Haxors	The best	751
+[DATA EXPUNGED]	[DATA EXPUNGED]	751
+x10x10x10	nsar	746
+Scooters	No affiliation	746
+Rally	BITS Pilani Goa Campus	746
+packetmcpacketface	No affiliation	741
+insert_cool_name_here	No affiliation	741
+Bouboule	Nothing	741
+pyrico	CTF Hobbyist	736
+Invisible Shield	No affiliation	736
+tunatunatuna	none	731
+dreamTeam	dult	731
+Make InfoSec Great Again	None	726
+javox	No affiliation	726
+SwanginT	No affiliation	721
+exit nodes	Columbus State University	716
+St	KMA	716
+Exceeds Expectations	Unaffiliated	711
+smokeleeteveryday	No affiliation	711
+Stain Killing Primer-Sealer	Woodstock North High School	711
+nil	No affiliation	711
+Frankkung	No affiliation	711
+Team Eversec	Eversec	711
+KMA - 01	KMA	706
+Monster	No affiliation	706
+paperwhale	university	701
+5280	No affiliation	701
+The BruteForcers	Team	696
+2B || !2B	University of Iceland	696
+EVERY0NE	No affiliation	696
+Henceforth	Henceforth	696
+SSTCTF2	School of Science and Technology	696
+Georg Kreisler Memorial Team	Georg Kreisler Fan Club	696
+reboot	Null	691
+0p1um	No affiliation	691
+100% Tilt	Háskólinn í Reykjavík	691
+icmpplease	No affiliation	686
+orfeusteam	No affiliation	686
+01	abcd	681
+mongo	Unite sappers of Kinshasa and Brazaville	676
+I Accidentally 93 MegaHertz	No affiliation	676
+WhoAreWe?	No affiliation	676
+BloopBlamBlarpers	No affiliation	671
+Warelikepickles	No affiliation	671
+0utl4st	KMA	671
+Dakine	No affiliation	671
+D20	No affiliation	671
+SweetCorn	yum00	671
+HelloWD	HDUISA	666
+OneManTeam	etc	661
+t9acher	t9acher	661
+Hand	school	661
+qazwsx	No affiliation	661
+vegan zombies	Portland, OR	656
+EAnbai	National Institute of Technology, Okinawa College	656
+n00bs	No affiliation	656
+TechnoPandas	TechnoPandas	656
+SNORTMON	systemarea	656
+BORG	BORG	656
+donotwant	no	651
+Markar	No Affiliation	651
+Mr.Robot	-fsociety	651
+Justice of Chaos	No affiliation	651
+UnDirac	No affiliation	651
+zx96	No affiliation	646
+007sec	etc	646
+St4ck0v3rFl0w	KMA	641
+WAIS	No affiliation	641
+icanhazmanyflags	No affiliation	641
+Soft Bongos	No affiliation	636
+Team Reboot	Reboot	636
+ByteOfLatte	None	631
+Digital Alchemy	Personal	631
+Knight Rider	Amrita School of Engineering	631
+pwn3d	etc	626
+AAAAAAAA	AAAAAAAA	626
+974	No affiliation	626
+yolosolo	the streets	626
+Mni4m_Mni4m	No affiliation	626
+phra's corp	Bologna Tech Scene	626
+CyberUTSA	No affiliation	626
+TEAM-ICEWALL	HYU	626
+earthpig	freenode - ##earthpig	621
+bigb0y27	ATTT UIT K10	621
+happytan	No affiliation	616
+TnSpoilterz	No affiliation	616
+Just Detonia	No affiliation	611
+vlkz	No affiliation	611
+joe302130	Hobbyist	611
+dispynode2.0	ITS Surabaya	606
+Akihironiki	Akihironiki	606
+henkie	No affiliation	606
+just looking	No affiliation	606
+enZyme	biological pwn	601
+nonellldd	dd	601
+0xBADFOOD	Doof Evil Inc.	601
+MNSTR_NRG	No affiliation	601
+Noobs	No affiliation	601
+PepperoniParty	None	596
+Kerfuffle	No affiliation	596
+FlippinGoffs	Personal	586
+Sunplace	No affiliation	586
+233	36836	581
+zzang	No affiliation	581
+SiberianFrost	No affiliation	581
+ForPractice	No affiliation	576
+Hakklingarnir	No affiliation	576
+nattypwn	team	576
+OM3G4	TJHSST	571
+[Redacted]	No affiliation	571
+Pr0v1nce 0f Ch1na	No affiliation	571
+1000 Needles	N/A	566
+4815162342	DHARMA	566
+grifball	no affiliation	566
+bread	No affiliation	566
+/dev/null	uiuc	561
+dmm	No affiliation	561
+Come to Try Fortune	No affiliation	561
+Up The Cyber Pass	No affiliation	561
+vomiting	romab	561
+Terrald &amp; Sons	Booz Allen Hamilton	556
+0xBEEFCAFE	AMERICA'!!1!	556
+Pretty Powerful Popsicle Sticks	No affiliation	556
+Jeramy	AU	556
+serenity	No affiliation	556
+mkarebski	non	556
+HaXep_HaDa	HaXep_HaDa	556
+jiangyou	No affiliation	556
+WUBBALUBBADUBDUB	No affiliation	556
+Team Sloth	CSU-Pueblo	551
+TheKillingTime	None	551
+Moudame ISC	vocational college	551
+The Shield	IIT ROORKEE	551
+nullspacelabs	hacks	546
+neglect_yp	No affiliation	546
+StrikeShot	personal	541
+Team Chu	No affiliation	541
+FluxFingers	No affiliation	541
+dubs	No affiliation	541
+on my own	just for exp	541
+nyanhack	No affiliation	541
+zz	individuals	541
+cheravally &amp; co	No affiliation	541
+fs0c13ty	IIT Roorkee	536
+.ROTC	No affiliation	536
+l33t_k33tz	N/A	531
+_---| Evil Computing |---|	Private Team	531
+BreakPoint	BreakPoint	526
+crack.ERS	No affiliation	526
+TheZa̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍kMan	𝕿𝖍𝖊𝖅𝖆𝖐𝕸𝖆𝖓 is affiliated with https://ctf-br.org	521
+participe_ctf	No affiliation	521
+Hodor	No affiliation	521
+Turd Ferguson	Wossamotta U	521
+XSC	No affiliation	521
+irBodyguard	irBodyguard	516
+idis	idis	516
+Solo 399	No affiliation	516
+slackercat	nusgreyhats	516
+Virupaksha	No affiliation	516
+No Internet Access	NITK Surathkal	516
+bhaf_au	No affiliation	511
+sudo rm -r /	None	511
+mpuzz	EURECOM	511
+123	No affiliation	511
+Noob_Solo	No affiliation	511
+ChuSa&lt;3	No affiliation	511
+masqueraders	Amrita School of Engineering	511
+i pee tables	skewl	506
+4Head	Internet	506
+æouagjlanajgljkg	No affiliation	506
+TempTeam	No affiliation	506
+1nmy	No affiliation	506
+Roflpantoffelschoffel	No affiliation	506
+sol	No affiliation	506
+nmatt	No affiliation	501
+ShieldNow	ShieldNow	501
+Tailored Access Operations	No affiliation	501
+TempuraKittens	Nein	496
+uoɥʇʎPʎzɐɹC	No affiliation... to you!	496
+0xC0FF33	N/A	496
+DividedByZero	No affiliation	496
+Worstenbroodjes	None	491
+Not Easy Being Green	No affiliation	491
+Cats	No affiliation	491
+daif	No affiliation	491
+ineXHAust	UNIST HeXA	486
+syddq	nah	486
+Aethra	Reykjavík University	486
+ChangShengFC	Singapore Management University	486
+Botinators	Prison School	481
+Prob0ts	none	481
+최가영남자친구	대구대학교 정보보호영재교육원	481
+Nachos	APU	481
+kendyhikaru	None	476
+di3_h4rd3r	No affiliation	476
+What?	No affiliation	476
+FromHumanToHacker	No affiliation	476
+Chtoyatutdelau	No affiliation	476
+QQRXQ	-	476
+tanaro	No affiliation	476
+Meepwnclone	UIT	471
+MachetePwns	No affiliation	466
+Memento Mori	Faith Lutheran High School	466
+dark spike	NIL	466
+SFK	SFK	466
+D@rk-Smileys	Amrita University	466
+Newbs	USCGA	466
+^-_-^	No affiliation	466
+cyber ninja	No affiliation	466
+BonsJans	No affiliation	466
+oops	School	461
+team shake	No affiliation	461
+Something Panda	Your mom	461
+Stack	No affiliation	461
+undefined	undefined	456
+mykhonos	school	456
+Augustiner	Háskólinn í Reykjavík	451
+HACK	기타	451
+NeOLux-C1Ph3r	No affiliation	451
+Natalia	tuat	451
+h4rdF0rc3	h4rdF0rc3	446
+Alamina	dsfsdfsdgs	446
+TH3PH4R40HS	Squnity	446
+The wandering pandas	Millard North High School	446
+Hans	school	446
+just_playing_for_fun	No affiliation	446
+danger	No affiliation	441
+water_b	No affiliation	441
+VTCSec	Cyber Security Club at Virginia Tech	436
+Colorss	No affiliation	436
+zdc	school	436
+l€$ @$tiC0t	No affiliation	436
+GlorpyGlorps	NA	436
+SharLike	AltSTU	436
+NotYetButSoon	No affiliation	436
+PieEx2	S.T. University	436
+flamezzz	ROP	431
+4chan fighters	No affiliation	431
+(╯°□°)╯︵ ɟ ʇ ɔ	Grendel	431
+SOC AKL	No affiliation	431
+xagon	none	431
+JurassicTC	No affiliation	431
+cssking	school	431
+BlackDuck	No affiliation	431
+alphateam	Golgon	426
+ayyy	N/A	426
+KuBik	No affiliation	426
+eol	nah	426
+Ox002148	University of Oxford	426
+meep	rsev	426
+bot	No affiliation	426
+GD-Team	ahihi	426
+NoTeam	No affiliation	426
+Insanity	Insanity	426
+test2	No affiliation	426
+Foxy	Phox.io	421
+khaled	No affiliation	421
+logicrack	logicrack	421
+Follow me	University of California Irvine	421
+SVSU	No affiliation	421
+CyBeers	No affiliation	421
+SSTCTF1	School of Science and Technology	416
+zjet	No affiliation	416
+DnO1_1	ВГУ	416
+ott3rsquad	none	411
+HerowinB	HCMUS	411
+raven	No affiliation	411
+x10AUG2050	No affiliation	411
+NewBie	No affiliation	411
+S0lv3r5	TDU	411
+asciioverflow	University of Tulsa	406
+' OR 1==1 ; --	CSU	406
+The Firm (Burning Legion)	MSHP	406
+lemur	No affiliation	406
+Noobsquad	National Institute of Technology Karnataka	406
+Not really a team	No affiliation	406
+qqq	private	406
+M9	school	406
+toAlice	JLU	406
+lonelyMikrotikGuy	No affiliation	401
+DGS	null	401
+stevehu	No affiliation	401
+Lavis	Lavis	401
+thwam	NA	396
+HHSS	YOKOHAMA	396
+HBH	HellBoundHackers.org	396
+DG	No affiliation	396
+mirrorReflect	No affiliation	396
+WhiteHat	ITB	396
+HacknamStyle	KU Leuven	391
+Tinted	No affiliation	391
+b0ss	No affiliation	391
+CYUT	No affiliation	391
+k3y6reak	Chosun Univ.	391
+Fthat	We build imaginary planes!	391
+h4stoor	No affiliation	391
+Flaming Pandas	Suncoast High School	386
+$up3rz00	No affiliation	386
+HITDAHIT	.	386
+r00t3r	No affiliation	386
+0x0ffff5ec	NTU	381
+Bits Please	Bina Nusantara	381
+GIRAFFE	RHUL	381
+Gandalf the Hacker	Ngee Ann Polytechnic	381
+HQS	No affiliation	376
+PingTrip	No affiliation	376
+marshmallowcalpis	etc	376
+Comrades - 黑客	No affiliation	376
+BrianBo	No affiliation	376
+password	Username	376
+Elite_Scorpions	No affiliation	376
+Imba	University of information and technology	376
+イナズマイレブン	1145141919810	376
+{esotericjokehere}	Mckinney Boyd High School	371
+DefeatedRob's Pleasure Hub	No affiliation	371
+AloofCattleya	No affiliation	371
+Hazm Storm	Saudi h4x0rZ	371
+niden	No affiliation	371
+DemogorgonHunters	Advania	371
+con_panna	school	371
+MrGr3y	ulb	371
+Ctrl-F	Millard north high school	371
+danson	No affiliation	366
+glidermed	icectf_lz2ayivuefzzrvuatam98wj003hrhm00	366
+MilWestA	Millard West High School	366
+TeamNotBot	No affiliation	366
+lrn2ctfn00b	No affiliation	361
+0x09 ~ RIP Chikoko	Paris Descartes University	361
+Vanguard	Stanford	361
+The Hacking Mongooses	WITSD	361
+Stranger	HR	361
+SomeTeam	No affiliation	361
+Zer0	No affiliation	361
+robots.txt	Funz	361
+JustKidding	Learning	361
+wasamusume	etc	361
+rsad	ctf aam	361
+blehhh	No affiliation	360
+New Team	Other	356
+ezio3593	No affiliation	356
+soluna	et	356
+Pink Noise	None	356
+Team FAP	AHA	356
+Pixie	No affiliation	356
+SHU Hack Soc	Sheffield Hallam University	356
+blank	No affiliation	356
+VengaYBanzai	Herr	356
+ULX	No affiliation	356
+蛋蛋	No affiliation	356
+begood	No affiliation	355
+Stuxnets	NIT Kurukshetra	351
+e11team	none	351
+CCSF_HACKERS	City College of SF	351
+UIN HACKING	bamsarts.id	351
+Leviathan	Asia Pacific University	346
+0x6673	No affiliation	346
+Tomatosalad	University of Hyogo	346
+necomimi	No affiliation	346
+noname	No affiliation	346
+93_g	internet	346
+teamdown	No affiliation	346
+BOOTER	Chú Chim Cô Đơn	341
+TheOne	No affiliation	341
+#BFF	Beers4Flags	341
+Shi0shishi0	No affiliation	341
+kenan	No affiliation	341
+Java is not coffee	No affiliation	336
+MyLittlePwny5	No affiliation	336
+MrMugiwara	CyberSecurity Enthusiast	336
+Tryharder	No affiliation	336
+TeamOops	Various	336
+Aperture	PVI	336
+dsec13	Mongolia University	336
+matti	No affiliation	331
+soso	No affiliation	331
+mereana	No affiliation	331
+markov	No affiliation	331
+n3rr@D	n3rr@D	331
+spadesquad	FPT	326
+ChocolateFactory	No affiliation	326
+Raforninn	Reykjavik University	326
+Yamagi.com	No affiliation	326
+AlphaBit	Amity International School, Saket	326
+Yorkshire Airlines	No affiliation	321
+Killjoys	No affiliation	321
+TheRealEarthPig	earthpig	321
+Team Meri	No affiliation	321
+mortenmh	No affiliation	321
+unitydk	No affiliation	321
+A Lone Wolf	No affiliation	321
+vqxjzk	NOT NUS	321
+YoloLizards	Reykjavik University	321
+Jag	Nej	321
+.	ott3rsquad	316
+N1Team	N/A	316
+New Players	No affiliation	316
+Gecko	tamer	316
+überh4x0rß	private	316
+Icicle People	No affiliation	316
+TeamPants	No affiliation	316
+Narcosia	Narcosia	316
+icelink	UPB	316
+POp4	No team	316
+KlingKlong	No affiliation	311
+Haizi	No affiliation	311
+iTeam	Ece Paris	311
+x0fsec	No affiliation	311
+ixvw	No affiliation	311
+Iron Sight	UIT	311
+kmdk	Singapore Poly	311
+4am	None	311
+TeamSLTH	NA	311
+KanaK	ASU	311
+cyber2016	No affiliation	311
+HWED	etc	311
+0ctopus	NCYU	311
+pinguland	No affiliation	306
+bearsaw	No affiliation	306
+the fighting mongooses	nýherji	306
+darkturtle	No affiliation	306
+Millard North	Millard North	306
+DiGIMON	อ.หมีน้อย	306
+Homstarmy	Homestah Wunnuw	306
+stupid_idiots	No affiliation	301
+scan.net	University Klagenfurt	301
+M4sked Ph4ntom	M4sked Ph4ntom	301
+no team	none	301
+ThereIsNoIInTeam	No affiliation	301
+Team Jowi	Team Jowi	301
+niquetamere	No affiliation	296
+DFCI	No affiliation	296
+arago	No affiliation	296
+mronly	~~~	296
+Muvarin	No affiliation	296
+Rusty Scissors	West Coast	291
+Qwerty	None	291
+AyaqMerenDanKopi434	No affiliation	291
+Honeypot	No affiliation	291
+0l4f	No affiliation	286
+asjdw	No affiliation	286
+UnknownTypes	s0m3c0mp4ny	286
+JacobDoesNotLiveHere	No affiliation	286
+steins;gate	private	286
+DeadBeef	No affiliation	286
+BlackEnergy	APU	286
+Toast	University of Alabama at Birmingham	286
+LesMorgues	No affiliation	286
+JustTestingMyKungFu	No affiliation	285
+xX_memeteam_Xx	Memesville HS	281
+otput12	I'm playing alone and looking for a new uni :)	281
+Shielder	No affiliation	281
+k3rnel-pan1c	n/a	281
+josebeo	No affiliation	281
+SDHSROOT	No affiliation	281
+solodolo	No affiliation	281
+Optimus	No affiliation	281
+yl33t	University of Waterloo	276
+Red Cops	Supélec	276
+Phiber's Phreaks	No affiliation	276
+Kuba's cojones grandes	No affiliation	276
+Sud0	No affiliation	276
+Lazy Fool?	HR	276
+MidOrFeed	No affiliation	276
+mwr1	mwr	276
+skathgh420	ass	276
+30D_Mob	No affiliation	276
+HiT	UIT	276
+SpyDer	IITR	271
+tlis	Thang Long University	271
+Null	Cyber School	271
+Ozuru	No affiliation	271
+asdfszdfasdf	school	271
+Halfwits	Háskólinn í Reykjavík	271
+KNXSecurity Team	KNXSecurity s.r.l.	271
+Kileak	Other	271
+Biscuits n Gravy	No affiliation	271
+fraz	Na	271
+0x0BADC0DE	No affiliation	271
+Derp	No affiliation	271
+Xctf	Huaw	271
+Nouveau monde	Orange	271
+SfDTJ	MB	266
+Silver arrow	No affiliation	266
+pwnsec	EG	266
+ChronoCore	Isilon	266
+Seviour	N/A	266
+bl1ch_s0c	No affiliation	266
+PRECISE Penn	University of Pennsylvania	266
+ISB	No affiliation	266
+B&amp;C	Algeria	261
+Ven	QAQ	261
+haryas	No affiliation	261
+llanfairpwllgwyngyll	none	261
+seiyakyokai	Internet	261
+lucky5	No affiliation	261
+byte	No affiliation	261
+Elders of the Internet	No affiliation	261
+Raptors	Millard North High School	261
+dickbot	none	261
+MMM	UIT	256
+Lab RATs	No affiliation	256
+deptraivcl	hus-hsgs	256
+salesteam	closing deals	251
+teamMe	No affiliation	251
+ssooll	ntusts	251
+pipo42	No affiliation	250
+deneme	deneme	246
+0x41	No affiliation	246
+PUC-Rio	No affiliation	246
+ISPTITHCM	No affiliation	246
+Snort	No affiliation	246
+loner	No affiliation	246
+Fiddlers	Polibuda Krakowska	246
+CodeheadUK	No affiliation	246
+KnightSec	s	241
+0x152	No affiliation	241
+C521	No affiliation	241
+N00bsRus	No affiliation	241
+Bad-Gorilla	random	241
+WhatTheSheep	No affiliation	241
+MBN.0	No affiliation	241
+Doglover	RU	241
+ShadowCats	No affiliation	241
+cw_cs	cw	241
+amember	No affiliation	236
+vimvaders	School of vim	236
+n000b	No affiliation	236
+AmperTaters	No affiliation	236
+STCF0125	TW	236
+Wander Land	No affiliation	236
+lofenix	lofenix	236
+Powerpuff Girls	Reykjavík University	236
+DeezNops	No affiliation	236
+Hopeless	Myself	236
+Set_sail_for_fail	No affiliation	231
+0bfu5c4t3d	California Academy of Mathematics and Science	231
+Adeek_w_Agry	No affiliation	231
+hello_agian	sict	231
+gmu	George Mason University	231
+team reythor	No affiliation	231
+cybernewbie	IPSecure	231
+CyberMatters	No affiliation	231
+YangGuo	VNUHCM-UIT	231
+AnalogHands	No affiliation	231
+Seasonpass	No affiliation	231
+wa jang chang	No affiliation	231
+dontknow	No affiliation	226
+meh	No affiliation	226
+Bladeism	none	226
+Laks og Nødder	IceCTF{th1s_1s_n07_4_fl49}	226
+GolanTreviz	No affiliation	226
+koutori	No affiliation	226
+duguhu	nwol	226
+Glucose	school	226
+NeverGonnaGive	Independent	226
+AZbeachBumz	No affiliation	226
+Mr. Rabbit	No affiliation	226
+Reserve Class	Future Foundation	226
+TeamZAP	Teshi	226
+JustVisting	none	226
+G	G	226
+birabira	No affiliation	225
+ImHappy	No affiliation	221
+onemanpasha	no affilation	221
+icyrec	maju terus	221
+gnu-e-duck	No affiliation	220
+pokemongodb	No affiliation	216
+Team974x	974	216
+dancago	No affiliation	216
+The Boston Boys	RIT	216
+CU-S3C	Boulder	211
+Pwned by Miracle-	Q5	211
+Law_A	No affiliation	211
+Something Pithy Here	No affiliation	211
+CyberAge	No affiliation	211
+jetpacks	No affiliation	211
+liushuijian	hobbyist	211
+Freyx	Reykjavik University	206
+SecBKC	School of Benkyo	206
+RedBu11	NCU	206
+Roryhackit	IT Blanch	206
+Karmasutra	No affiliation	206
+7e4m	No affiliation	206
+Pwn&amp;Play	To Earth hacking	201
+dsicectf	No affiliation	201
+Cipher Kittens	No affiliation	201
+Team Dickslap	No affiliation	201
+404	No affiliation	201
+TwoInOne	Other	201
+rhkwpsjanaksgdkdy	No affiliation	201
+rfc123	No affiliation	201
+Infinity	private	201
+all luck no skill	Derp .CO	201
+Rohan	No affiliation	201
+GreatPig'sHome	school	201
+Chaos Legion	BGU	201
+sarmale	upb	201
+恶魔焦	hubu	196
+PhuLun	No	196
+Kidney Thieves	No affiliation	196
+Buffalo Young	KMA	196
+Beepbop	No affiliation	196
+polopopo	No affiliation	196
+1k9u3	school	196
+FyberBash	PHS	191
+RUHKS	No affiliation	191
+missingno	No affiliation	191
+Ghosts	No affiliation	191
+Fu*k All	ThienDiaHoi	191
+UPenn	No affiliation	191
+Ragnarok	NCTU	191
+gate	none	191
+Treason	University of Illinois at Urbana Champaign	191
+test	No affiliation	191
+Jenga sucks	Personal Learning inc.	191
+wessyjazzy	No affiliation	191
+nattsw	No affiliation	191
+Giveyourflagtome	Tsinghua University	191
+Team Meteor Cyber Division	Wilmington University	191
+Ra0min	No affiliation	191
+IKINN	No affiliation	191
+DME	None	191
+DuDa	no affiliation	191
+chimeackHaZa	No affiliation	191
+Black Mesa	Mission San Jose High School	191
+NoForensicsNoLife	yakinikyuu	191
+My Dixie Normus	No affiliation	191
+hydroacoustic	No affiliation	186
+justagame	No affiliation	186
+Files0phers	company	186
+hackas	me	186
+Bunnies	-	186
+Take Off Your Shoes	No affiliation	186
+Team Ahma	No Affiliation	186
+yharima2	No affiliation	186
+Gig	No affiliation	186
+f03cuss	Emporia State University	186
+nananana	No affiliation	181
+Pokemon Go to the polls	No affiliation	181
+TheWildHunt	BITS Pilani, KK Birla Goa  Campus	181
+Mao-sama	Mao-sama	181
+Beurscr@sh	werkwerk	181
+Tora Makun	None	181
+Bladers	Indivisual	181
+Cie_Cie	CTF{Y4k_83nar_5ekal1}	176
+lsfajkljfaljflajfljflafj	No affiliation	176
+Mr. Robot	BITS Goa	176
+ascii overflow	University of Tulsa	171
+D3afMut3s	No affiliation	171
+atev	asd	171
+Glidermed	cectf_lz2ayivuefzzrvuatam98wj003hrhm00	171
+Pieter1024	No affiliation	171
+None	No affiliation	171
+hxor	hxor	170
+4ckSec	No affiliation	166
+newbienewb	No affiliation	166
+TeamSG	No affiliation	166
+mr_bin	etc	161
+over9000	UQAM	161
+cavecov	shool	161
+THIS CORP	Overfelt High School	161
+vannaw	UCSD	161
+John Die	John Die	161
+Walk the Sun	No affiliation	161
+CREEP	No affiliation	161
+iamexpl0it	No affiliation	161
+BiC	No affiliation	161
+attinat	Westview High School	161
+huehue	BITS Pilani KK Birla Goa Campus	161
+interr0bang	n/a	161
+brandom	No affiliation	161
+Netheimur	Netheimur ehf	156
+TheMits	just lazy	156
+ernacktob	No affiliation	156
+fil0ry	fil0ry	156
+binhhh37	No affiliation	156
+highonsky	No affiliation	156
+Softtrack	Information Security Study Group	156
+WL	No affiliation	156
+nopdata	kgu	156
+sgehspd	No affiliation	156
+Owleyes Team	OET	156
+H3lloW0rld	NTU	156
+error_404	No affiliation	156
+TeamPlebe	31337	156
+yu-yu-	No affiliation	156
+HexaSomething	No affiliation	156
+qwerty	No Affiliation	151
+siddhanjay	No affiliation	151
+ATOMIC	@TOMIC	151
+ut	ksu	151
+Level 3	No affiliation	151
+Hello World	Háskóli Íslands	151
+Yahoo knows him	No affiliation	151
+ryo	ADD	151
+knight_riders	Amrita School of Engineering	151
+HAHA	No affiliation	151
+Indigo02	No affiliation	151
+dropins	UW	151
+dokko	No affiliation	151
+Accio, flag!	something	151
+glesgorv	No affiliation	151
+NullPointers	HellBoundHackers.org	151
+Randomteamdah	No affiliation	151
+newbie	No affiliation	151
+wd_from_home	You already know	151
+Hackers	Haileybury	151
+k_px	huaw	151
+teamme	No affiliation	151
+sdfdsf	No affiliation	151
+pi rate	No affiliation	151
+USMAatUSCGA	USCGA	151
+moBot6	No affiliation	146
+MrFatzo	None	146
+haraldurkarls	No affiliation	146
+TheAnon	No affiliation	146
+noname123	No affiliation	146
+Team Name	etc.	146
+Team	1337 H4x0r	146
+ECHO	No affiliation	146
+ABC	NewBie	146
+AAA	AAA	146
+Al -ghul Family	Hungary	146
+fast	No affiliation	146
+crushed-ice	No affiliation	141
+Absolutely Brilliant	Absolutely Brilliant	141
+A3.Storm	KMAer	141
+JRB	No affiliation	141
+cnsl	cnsl	141
+ProRuvian	No affiliation	141
+carpe_noctem	No affiliation	141
+ayamjanda69	No affiliation	141
+karma0106	No affiliation	141
+i try	No affiliation	141
+FATEC Sao Caetano	No affiliation	141
+denemecan	q	141
+Gh05tf1r3	No affiliation	141
+Random Team 1	No affiliation	136
+T00$	No affiliation	136
+icectf_mtv9bhnjjngq51s930dzc2qy1alq7pr0	icectf_mtv9bhnjjngq51s930dzc2qy1alq7pr0	131
+Wut	No affiliation	131
+SantasProphet	No affiliation	131
+Shichibukai	No affiliation	131
+HackXore	No affiliation	126
+newbiegeek	No affiliation	126
+haha	No affiliation	126
+11x256	No affiliation	126
+VTL	No affiliation	126
+JAA	No affiliation	126
+Manamana	None	126
+snop	No affiliation	126
+TheTeam	HI	126
+Lovelace	RU students and newly graduates	126
+Apostles	No affiliation	126
+badboy	No affiliation	125
+Red Muffin	Montgomery Blair HS	121
+rmza7	No affiliation	121
+escepta	escepta	121
+xTz	No affiliation	121
+Ping Of Death	Sup'com	121
+Digital Chaos	No affiliation	121
+¯\_(ツ)_/¯	WVUSD	121
+pr0v3rbs	No affiliation	121
+Trickster	No affiliation	121
+MNHSnoobs	No affiliation	121
+ooo	ooo	121
+Tölvur eru hallærislegar skiluru eheh	No affiliation	121
+Spontaneous	No affiliation	121
+NinjHack	None	121
+HelloKitty	No affiliation	121
+CyberTeam Rox	CyberTeam Rox	121
+CeilingCat	No affiliation	121
+Bachelors Anonymous	UNCC	121
+icemanteam	none	121
+greenapple.	greenapple	121
+H	HR	121
+PIKACHU GO	Asia Pacific University of Innovation and Technology	121
+BeesKnees	No affiliation	121
+Pétur Pan	HR	121
+SensAsian	No affiliation	121
+CWC	Wilmington University	121
+cybat	No affiliation	121
+jpmorris	Personal	121
+Omnomnoms	No-affilation	116
+Something_Creative	No affiliation	116
+MrPurples	Private Team	116
+l3g0n	No affiliation	116
+Mint-Air	Blue-Whale	116
+Scallywags	No affiliation	116
+Shastragar	group	116
+shinz	No affiliation	116
+NotFound	individualt	116
+abcteam	No affiliation	116
+H2O	No Affiliation	116
+Rulers	R	116
+@yomogi1993	No affiliation	116
+iceland	company	116
+1337	No affiliation	115
+IV	No affiliation	115
+test1337	No affiliation	115
+#TeamLiveBadass	BestSecretAgentEver	111
+HanoiS:	No affiliation	111
+Twat	Siminn	111
+JednoDjubre	No affiliation	111
+codejump	No affiliation	111
+nph642	nph642	111
+yadu007	No affiliation	111
+khoai	individual	111
+vshuber	USCGA	111
+aaaaaa	aaaaaa	106
+7x2n	Harbin Institute of Technology	106
+freakz	.	106
+0x0NU33	Me	106
+Cryptomaniacs	Wayzata High School	106
+Dom	none	106
+abc	No affiliation	106
+Decipher Creed	ANITS	106
+learn	No affiliation	106
+cheeta	No affiliation	106
+D3v1ls	No affiliation	106
+UltraIndex	No affiliation	106
+#STAG	SSAU	106
+musTapha	usthb	106
+nmad	No affiliation	106
+keldeo	No affiliation	106
+김밥카페	No affiliation	106
+ICS	uit	106
+unpublished	uit	106
+bhteam	No affiliation	106
+TestTestOnly	SibehJialat Company	106
+n00b_team	No affiliation	106
+ride_exploitz	none	106
+UTP Hax	No affiliation	106
+lones&lt;	No affiliation	106
+TeamVriendjeLotje	No affiliation	106
+Instant Style Pros	Developers Inc.	106
+crayon	No affiliation	106
+Lilac	No affiliation	106
+crescal	NUS	106
+DROP TABLE Users;	No affiliation	106
+BadmanTings	No affiliation	106
+em || ee	Emory University	106
+indosm	No affiliation	106
+OrangeJ	No affiliation	106
+TNNH	students	106
+LSE	No affiliation	105
+Nephilim	Noob_Solo	105
+BlackNight	No affiliation	101
+pawa	No affiliation	101
+Magos	No affiliation	101
+login_failed	No affilation	96
+Aubs	No affiliation	96
+teamBlue	No affiliation	96
+b00bar	No affiliation	96
+pewpew	GLHF	96
+apuaplha	etc	96
+TranMinhKhoa	UIT	96
+oscelot	hobby	96
+ofuton	No affiliation	96
+killers	University	96
+chm0d	No affiliation	91
+Crazy	CBG	91
+Ramolino	No affiliation	91
+sparrow	school	91
+rixonslayer	rixwin polvi	91
+Hexcartel	No affiliation	91
+hacked	No affiliation	91
+Bank Street Brawlers	na	91
+ak1t0	No affiliation	91
+HRON1	Reykjavík University	91
+Chm0d.net	No affiliation	90
+thing	No affiliation	90
+r00ter	none	90
+testtest	No affiliation	86
+UCanCMe	NFU	86
+_nderscore	No affiliation	86
+abbcccxyz	No affiliation	86
+m44ctf	HzDU	86
+Seine	No affiliation	86
+b16pimpin	No affiliation	86
+deaDLock	Amrita School of Engineering	86
+no_one's_team	None	86
+serena159	Korea serena	81
+Brine	No affiliation	81
+Acid	No affiliation	81
+D3f4c	No affiliation	81
+奶茶不加茶	useage5@gmail.com	81
+0xBU	Boston University	80
+Sexy Kambing	n/a	80
+procastinator	No affiliation	76
+TeamFinland	No affiliation	76
+quanyang	No affiliation	76
+RS2 Team	No affiliation	76
+ex3x	school	76
+kira1995	Kira	76
+JOHN CARTER	No affiliation	76
+hohoho	hhhhh	76
+n3wb13	num	76
+DTU.Solo Man	...	76
+CNSL	No affiliation	76
+VampireBBS	No affiliation	76
+The Firm (Dark Legion)	MSHP	76
+whitehat	No affiliation	76
+jujus	jujus	76
+JnJHAHA	MMU	76
+zako	No affiliation	76
+Disconnect	KMA	76
+This my team	Seneca College	76
+Girls of Mooshark Fonseca	University of Reykjavik	76
+P.Survivor	No affiliation	76
+Pwnworth	Sheffield Hallam University	76
+Gunners	No affiliation	76
+TeamA	No affiliation	76
+nohats	school	76
+EagleJump	nothing	76
+AIRAVATA	No affiliation	76
+Purple Ciphers	University City High School	76
+my.self	Iowa State University	76
+kma	No affiliation	76
+Escape.the.Night	No affiliation	76
+Neðri skaginn	Háskóli Reykjavíkur	76
+r3load	Amrita University	76
+TeamZ	No affiliation	76
+Raging Asians	No affiliation	76
+Danix Systems	Not Quite A Company	76
+Gloomies	No affiliation	76
+cambodia	ace university	76
+Team Methz	No affiliation	76
+C0D3xBreak3r	Bardo	76
+NeverLoseOnlyDontWin	No affiliation	76
+asdfghjvcx	No affiliation	76
+chr00t	Amrita	76
+Cthulhu Kate Hudson	No affiliation	76
+The Citadel	University of Arkansas at Little Rock	76
+pflyers	University of South Florida	76
+flexers	No affiliation	76
+DeadloCK	No affiliation	76
+InZeAir	No affiliation	76
+ntuscse	ntu	76
+0verfl0w's	RL	76
+harambe	No affiliation	76
+HKG	No affiliation	76
+pupu	No affiliation	76
+Ocean_Team	No affiliation	76
+Nwtm	No affiliation	76
+estudos	No affiliation	76
+rabbits	No affiliation	76
+Cryptsy124875	No affiliation	76
+capy	No affiliation	76
+icw	No affiliation	71
+ChungaChanga	School	71
+h4ck5tud	school	71
+SIT ZA007	SIT ZA007	71
+leoncitos	none	71
+TempTeam1	N/A	70
+Dispatched	No affiliation	66
+Tema maxima	No affiliation	66
+execut3	It's all about security.	66
+ilswinr	Songdo Highschool	66
+Khoa	No affiliation	66
+鸢尾	No affiliation	66
+abc123456	No affiliation	66
+Nope	Nope	66
+Carpe diem	No affiliation	66
+F0xHacker	No affiliation	66
+Ba Sing Sec	No affiliation	66
+SlackGeeks	Bahunar	66
+SDF_Tachikoma	No affiliation	66
+ErrorHandler	No affiliation	66
+fuckyouedmund	NTU	66
+curious	amrita	66
+Sailormoon	No Affiliation	66
+Many Lels	No affiliation	66
+CSC	No affiliation	66
+SemetonCyber	No affiliation	66
+wwww9999	Not	65
+NewOneMath	Omsk Academie Automobile	61
+bobth3dog	The Chinese University of Hong Kong	61
+nodab	No affiliation	61
+Merica	No affiliation	61
+Kabo-Team	No affiliation	61
+Poseidon	...	61
+xine	hdtyjujtyujk576tjur67tjh	61
+fosio	relax	61
+Fsociety	Welcome to the new world	61
+tmdahr1245	tmdahr1245	61
+HNK	No affiliation	61
+hardw0rk	No affiliation	60
+onestar	No affiliation	60
+Hack.Me	No affiliation	56
+jellyfish	No affiliation	56
+unreal	No affiliation	56
+Team31	No affiliation	56
+Sh@kt!M@@n	CybrXpert	56
+WeSecurity	company	56
+the jobs	No affiliation	56
+kumakichi	school	56
+adsfasdfasdf	asdfasdfadsf	55
+mandex	school	51
+munacaat	No affiliation	51
+lala	presentation	51
+UfoX_Team	No affiliation	46
+Beefinators	No affiliation	46
+ISITDTU1	icectf_ku5xxbd6dm55v0xelzc3547mlgrrbl11	46
+SuperPandas	No affiliation	46
+Varc00s-team	No affiliation	46
+InnerPeace	No affiliation	46
+jhcorea7	No affiliation	46
+f3n3s7ra	No affiliation	46
+Alone in the dark	No affiliation	46
+QQ.secure	University of California	46
+SpyDers	IIT Roorkee	46
+Leto	No affiliation	46
+ubikanha	La Cité	46
+RainBoom	None	46
+Bl4ck H0l3	No affiliation	46
+jb-ctf	None	46
+cjkj ntfv	solo	46
+Ninja	湖北大学	46
+S3CBR	HOME	46
+LUCAYEN	No affiliation	46
+MITAM	school	46
+Bath Salts	No affiliation	46
+asdf	asdf	46
+Patat	No affiliation	46
+Toto	No affiliation	46
+avision	nothing	46
+music2177	No affiliation	46
+toto	No affiliation	46
+PHS Iliad	No affiliation	46
+MyFirstTeam	hogeschool van amsterdam	46
+Derse Dreamers	Personal	46
+P0P3R	P0P3R	46
+NTANT	abc	46
+t3sTo	No affiliation	46
+Helllooo	UFT	46
+n00bar	Reykjavik University	46
+PTPT	PTIT	46
+krustyland	No affiliation	46
+vanhelsinqg	Mcgill	46
+Team Andri	No affiliation	46
+YouTube or bust	Summer help	46
+The Cybers Team	https://www.facebook.com/TheCybersTeam	46
+Millard West High School	No affiliation	46
+team-me	No affiliation	46
+abac00s	No affiliation	46
+grumpynerds	No affiliation	46
+lol123456	No affiliation	46
+Minorities	No affiliation	46
+Fight the world	No affiliation	46
+the reff	No affiliation	46
+arultak	amrita school of engineering	46
+Glance	Glance	46
+NotWinning	No affiliation	46
+Zz	No affiliation	46
+NoctSec	Rochester Institute of Technology	46
+Team01	Work	46
+SmallCute	No affiliation	46
+Hackcyber	company	46
+TNT_IT45	No affiliation	46
+Invader	222	45
+DOAMEANIS)	ddd	45
+yee	yee	40
+PTITHCM	PTIT	40
+thth776	icectf_jkttmr27wq6fzw9svw15n943uofyldjy	40
+new team	No affiliation	40
+0x80	NSYSU	36
+icectf_ku5xxbd6dm55v0xelzc3547mlgrrbl11	No affiliation	36
+CTFIL	No affiliation	36
+Mew2	No affiliation	36
+RTFM - Red Team Freakin Maniacs	RTFM	36
+blabla	No affiliation	36
+C0t0mate	No affiliation	36
+the black's	No affiliation	36
+muahaha	No affiliation	36
+HUEHUEHUE	No affiliation	36
+UIT Evils	No affiliation	36
+CYCC	INFOR 29th	36
+Lightnings	BITS Goa	36
+Tím	No affiliation	36
+SHT	No affiliation	36
+desiprox-team	anas	31
+ecks	University of Delaware	31
+noteam	No affiliation	31
+DarkEyeRSas	No affiliation	31
+B3AST	Amrita University	31
+0xdeadcafe	No affiliation	31
+Outofbounds	None	26
+FTC	No affiliation	26
+Tsundere's Meme Legion	Shitposting Brigade	26
+Surrender the Booty	NA	26
+Lone Cal Hacker	UC Berkeley	26
+kebabs	No affiliation	26
+Brute Squad	None	26
+wuya	n/a	26
+Cú mèo	12345678	26
+Night Walkers	No affiliation	26
+icectf_8g7v0su8ck4a7ouv86bmv2wr8hxiz2ly	icectf_8g7v0su8ck4a7ouv86bmv2wr8hxiz2ly	26
+team bolted	No affiliation	26
+0wnz	No affiliation	26
+TeaParty	No affiliation	26
+Anime trash	No affiliation	26
+Goroos	No affiliation	26
+AnAbsoluteRush	No affiliation	26
+jTf	No affiliation	26
+Newbie	No affiliation	26
+skylightss	No affiliation	26
+Night	mwr1	26
+ctf	Amrita school of Engineering	26
+fun	No affiliation	26
+hvnoname	No affiliation	26
+00100100	00100100	26
+TDG	TDG	26
+nightmare	No affiliation	26
+HelloThere!!	No affiliation	26
+jangteam	No affiliation	26
+zzzzz	fpt	26
+D_team	school	26
+tteam	Polis	26
+YunGong	No affiliation	26
+Ninja Turtles	N/A	26
+DarkArmy	No affiliation	26
+Wvs	etsmtl	21
+yeahman	No affiliation	21
+Hatrix	No affiliation	20
+Alagos	Independent	16
+bymylonesome	Wilmington University	16
+Walker	No affiliation	16
+grow	iiit allahabad	16
+C2K	No affiliation	16
+team1	No affiliation	16
+doorbell	No affiliation	16
+PWD	No affiliation	16
+MinkaSec	Minka	16
+One	Azad	16
+HueHueAgain	BITS Pilani, Goa Campus	16
+RagingBools	Reykjavik University	16
+Amrita	Amrita School of Engineering	16
+testing	No affiliation	16
+Metashell	No affiliation	16
+vnNewbieX	No affiliation	16
+5hinigami	BITS Pilani	15
+huca	huca	11
+D@rk$h3ll	None	11
+BrokeDaMout	NoMoAffiliation	11
+abc123	abc123	11
+Wild Style	etc	11
+COTIP-2	No affiliation	11
+Intruder	Amrita School of Engineering	11
+BND	No affiliation	11
+NotARobot	No affiliation	11
+Ice&amp;Fire	Cornell University	11
+lvmad	lvmad	11
+IamAlone	NITK	11
+navyy	nitk	11
+NEXAD	No affiliation	11
+amoeba	etc	11
+sun	No affiliation	11
+3lords	No affiliation	11
+AssuredSecurityNinjas	No affiliation	10
+hondaS	Affiliation	10
+Pukachi	No affiliation	10
+0xb0b0	No affiliation	1
+base64encrypted	No affiliation	1
+pornoshenko	ua	1
+beefegg	Amry	1
+mystico3	No affiliation	1
+TR134	ITU	1
+1552-Fighting	School	1
+NOP	No affiliation	1
+pirata informatica	No affiliation	1
+nejworld supreme	No affiliation	1
+LoLTeam	No affiliation	1
+jijn	No affiliation	1
+DickJones	icectf_bpcp944gmn6pvfwjfxdkvlxy3uz4ko3m	1
+ZeroRozer	UIT	1
+RATF_{Rage Against The Flag}	-	1
+tttt	a	1
+Hlunnó	None	1
+1st Years	Plano ISD high schools	1
+Attackers	aaaaaaaaa	1
+teapot	none	1
+OffensiveRaptor	No affiliation	1
+m0mmy	No affiliation	1
+Alafengfeng	No affiliation	1
+tedix	No affiliation	1
+sunrain	No affiliation	1
+candyland	No affiliation	1
+Nemesis Security	No affiliation	1
+B2BTeam	No affiliation	1
+millsec	No affiliation	1
+SCA	No affiliation	1
+겐지씹장인	school	1
+YosTa	No affiliation	1
+qwertyuiop	havard	1
+dmknght	No affiliation	1
+SecuMaster	icectf_ufkceil9zawl1wy0636dhyee2j71ymqw	1
+daz	x	1
+The Reds	rrrrhjkl;'	1
+haxor	orgzania	1
+srs	No affiliation	1
+cectf_cb4owjnt8szcga7sho2uurf5h3eheiaj	No affiliation	1
+TestTeam0908	TestTeam090807	1
+deadbeef	No affiliation	1
+lolzol	No affiliation	1
+Pro Tour	No affiliation	1
+Halt	School	1
+DeadlyGrandpas	No affiliation	1
+long	No affiliation	1
+oso	etc	1
+qwer	No affiliation	1
+Sss	UT austin	1
+begin	No affiliation	1
+Alu	No affiliation	1
+Team001	No affiliation	1
+Millard West B Team	Millard West High School	1
+woolycryptocreature	No affiliation	1
+kazkitictf	No affiliation	1
+Htw	university	1
+ASDF	No affiliation	1
+TW1INZ	MWHS	1
+sss	No affiliation	1
+Dracos-Linux	No affiliation	1
+zion	No affiliation	1
+cRUcible	Reykjavik University	1
