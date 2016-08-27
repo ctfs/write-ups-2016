@@ -1,0 +1,14 @@
+# IceCTF-2016 : round-rabins-70
+
+**Category:** Crypto
+**Points:** 70
+**Description:**
+
+John gave up on RSA and moved to Rabin. ...he still did it wrong though flag.txt. What a box!
+## Writeup
+
+(TODO)
+
+## Other write-ups and resources
+
+* None yet
