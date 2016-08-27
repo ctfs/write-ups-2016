@@ -12,4 +12,4 @@ We all want to keep our secrets secure and what is more important than our preci
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/Alpackers/CTF-Writeups/tree/master/2016/IceCTF/Stage_2/DearDiary
