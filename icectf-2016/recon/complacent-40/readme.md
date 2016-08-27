@@ -8,8 +8,8 @@ These silly bankers have gotten pretty complacent with their self signed SSL cer
 
 ## Writeup
 
-(TODO)
+Using Google Chrome, open the link the webpage. Right click the red https in the url box, click 'details', 'view certificate', 'details' and copy the flag from the data.
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-40-Complacent-Reconnaissance/
