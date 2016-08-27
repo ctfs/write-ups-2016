@@ -8,10 +8,6 @@
 
 ## External-write-ups-only
 
-* None-yet
-
-## Missing-write-ups
-
 * [misc/hello-world!-1](misc/hello-world!-1)
 * [web/spotlight-10](web/spotlight-10)
 * [misc/all-your-base-are-belong-to-us-15](misc/all-your-base-are-belong-to-us-15)
@@ -33,8 +29,6 @@
 * [pwn/dear-diary-60](pwn/dear-diary-60)
 * [web/exposed!-60](web/exposed!-60)
 * [misc/irc-ii-60](misc/irc-ii-60)
-* [crypto/rsa-60](crypto/rsa-60)
-* [pwn/smashing-profit-60](pwn/smashing-profit-60)
 * [web/miners!-65](web/miners!-65)
 * [crypto/over-the-hill-65](crypto/over-the-hill-65)
 * [web/kitty-70](web/kitty-70)
@@ -42,29 +36,36 @@
 * [forensics/corrupt-transmission-50](forensics/corrupt-transmission-50)
 * [stego/vape-nation-50](stego/vape-nation-50)
 * [misc/blue-monday-60](misc/blue-monday-60)
-* [forensics/r.i.p-transmission-65](forensics/r.i.p-transmission-65)
 * [crypto/round-rabins!-70](crypto/round-rabins!-70)
 * [web/chainedin-75](web/chainedin-75)
 * [pwn/drumpfhotels-75](pwn/drumpfhotels-75)
 * [pwn/ropo-75](pwn/ropo-75)
 * [reverse/a-strong-feeling-80](reverse/a-strong-feeling-80)
 * [stego/pretty-pixels-80](stego/pretty-pixels-80)
-* [misc/matrix-85](misc/matrix-85)
 * [pwn/so-close-85](pwn/so-close-85)
 * [crypto/l33tcrypt-90](crypto/l33tcrypt-90)
 * [pwn/quine-90](pwn/quine-90)
-* [crypto/rsa2-90](crypto/rsa2-90)
 * [web/geocities-100](web/geocities-100)
 * [forensics/intercepted-conversations-pt.1 110](forensics/intercepted-conversations-pt.1 110)
 * [forensics/intercepted-conversations-pt.2-125](forensics/intercepted-conversations-pt.2-125)
 * [crypto/contract-130](crypto/contract-130)
 * [crypto/sand-castles-on-the-beach-140](crypto/sand-castles-on-the-beach-140)
-* [crypto/flagstaff-120](crypto/flagstaff-120)
-* [pwn/quine-ii-125](pwn/quine-ii-125)
+
 * [web/imgblog-130](web/imgblog-130)
 * [pwn/slickserver-140](pwn/slickserver-140)
 * [forensics/root-of-all-evil-150](forensics/root-of-all-evil-150)
+* [pwn/slickerserver-300](pwn/slickerserver-300)
+
+
+## Missing-write-ups
+
 * [crypto/attack-of-the-hellamn-175](crypto/attack-of-the-hellamn-175)
+* [misc/matrix-85](misc/matrix-85)
 * [stego/a-e-s-t-h-e-t-i-c-200](stego/a-e-s-t-h-e-t-i-c-200)
 * [crypto/back-at-it-again!-200](crypto/back-at-it-again!-200)
-* [pwn/slickerserver-300](pwn/slickerserver-300)
+* [pwn/quine-ii-125](pwn/quine-ii-125)
+* [pwn/smashing-profit-60](pwn/smashing-profit-60)
+* [crypto/rsa2-90](crypto/rsa2-90)
+* [crypto/rsa-60](crypto/rsa-60)
+* [crypto/flagstaff-120](crypto/flagstaff-120)
+* [forensics/r.i.p-transmission-65](forensics/r.i.p-transmission-65)
