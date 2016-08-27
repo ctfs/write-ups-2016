@@ -12,4 +12,4 @@ We found this suspicous image online and it looked like it hadd been planted the
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-40-Alien-Message-Cryptography/
