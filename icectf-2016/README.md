@@ -36,6 +36,7 @@
 * [forensics/corrupt-transmission-50](forensics/corrupt-transmission-50)
 * [stego/vape-nation-50](stego/vape-nation-50)
 * [misc/blue-monday-60](misc/blue-monday-60)
+* [misc/matrix-85](misc/matrix-85)
 * [crypto/round-rabins!-70](crypto/round-rabins!-70)
 * [web/chainedin-75](web/chainedin-75)
 * [pwn/drumpfhotels-75](pwn/drumpfhotels-75)
@@ -61,7 +62,6 @@
 ## Missing-write-ups
 
 * [crypto/attack-of-the-hellamn-175](crypto/attack-of-the-hellamn-175)
-* [misc/matrix-85](misc/matrix-85)
 * [stego/a-e-s-t-h-e-t-i-c-200](stego/a-e-s-t-h-e-t-i-c-200)
 * [crypto/back-at-it-again!-200](crypto/back-at-it-again!-200)
 * [pwn/quine-ii-125](pwn/quine-ii-125)

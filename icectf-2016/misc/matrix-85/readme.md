@@ -12,4 +12,4 @@ I like to approach problems with a fresh perspective and try to visualize the pr
 
 ## Other write-ups and resources
 
-* None yet
+* [Portuguese](https://github.com/318BR/IceCTF/blob/master/2016/Stage-3/Matrix/writeup.md) 
