@@ -13,3 +13,4 @@ They managed to secure their website this time and moved the hashing to the serv
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-70-Kitty-Web/
+* https://github.com/WCSC/writeups/tree/master/icectf-2016/kitty
