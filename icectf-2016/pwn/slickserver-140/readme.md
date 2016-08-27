@@ -12,4 +12,5 @@ A smorgasbord of reversing, fixed points and ROP chains for the criminally insan
 
 ## Other write-ups and resources
 
-* None yet
+* http://blog.rewolf.pl/blog/?p=1563
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Slickserver-Pwn-140.py
