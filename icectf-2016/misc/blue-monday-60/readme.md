@@ -12,4 +12,5 @@ Those who came before me lived through their vocations From the past until compl
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-60-Blue-Monday-Misc/
+* https://0x90r00t.com/2016/08/26/icectf-2016-misc-60-blue-monday-write-up/
