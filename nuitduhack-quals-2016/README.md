@@ -1,7 +1,6 @@
 # Nuit du Hack CTF Quals write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctftime.org/event/196) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 
