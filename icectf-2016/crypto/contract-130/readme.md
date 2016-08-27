@@ -12,4 +12,4 @@ Our contractors stole the flag! They put it on their file server and challenged 
 
 ## Other write-ups and resources
 
-* None yet
+* https://nknxnc.github.io/writeup/2016/08/19/icectf-contract-writeup.html
