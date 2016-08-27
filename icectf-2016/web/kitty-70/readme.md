@@ -12,4 +12,4 @@ They managed to secure their website this time and moved the hashing to the serv
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-70-Kitty-Web/
