@@ -13,3 +13,4 @@ They went and ROTated the flag by 5 and then ROTated it by 8! The scoundrels! An
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-20-Rotated-Cryptograhy/
+* (Japanese)[https://ctftime.org/writeup/3806]
