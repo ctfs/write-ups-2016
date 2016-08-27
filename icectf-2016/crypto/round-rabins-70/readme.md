@@ -11,4 +11,4 @@ John gave up on RSA and moved to Rabin. ...he still did it wrong though flag.txt
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/WCSC/writeups/tree/master/icectf-2016/Round-Rabins
