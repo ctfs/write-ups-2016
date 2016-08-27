@@ -12,7 +12,6 @@
 
 ##-Missing-write-ups
 
-* [misc/contingency-120](misc/contingency-120)
 * [misc/hello-world!-1](misc/hello-world!-1)
 * [web/spotlight-10](web/spotlight-10)
 * [misc/all-your-base-are-belong-to-us-15](misc/all-your-base-are-belong-to-us-15)
