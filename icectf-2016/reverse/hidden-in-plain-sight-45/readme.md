@@ -12,4 +12,5 @@ Make sure you take a real close look at it, it should be right there! /home/plai
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/318BR/IceCTF/blob/master/2016/Stage-2/Hidden-In-Plain-Sight/writeup.md
+* http://rawsec.ml/en/IceCTF-45-Hidden-in-Plain-Sight-ReverseEngineering/
