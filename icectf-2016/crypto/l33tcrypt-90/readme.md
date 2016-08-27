@@ -13,3 +13,4 @@ l33tcrypt is a new and fresh encryption service. For added security it pads all 
 ## Other write-ups and resources
 
 * https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/l33tcrypt-Cryptography-90-solution.py
+* https://pastebinthehacker.blogspot.com.au/2016/08/icectf-leet-crypto.html
