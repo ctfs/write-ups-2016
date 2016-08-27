@@ -2,11 +2,11 @@
 
 * [Scoreboard](https://play.icec.tf/scoreboard/) or [local alternative](scoreboard.txt)
 
-## Repo-local-write-ups
+## Repo local write-ups
 
-* None-yet
+* None yet
 
-## External-write-ups-only
+## External write ups only
 
 * [misc/hello-world!-1](misc/hello-world!-1)
 * [web/spotlight-10](web/spotlight-10)
