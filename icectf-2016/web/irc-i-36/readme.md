@@ -12,4 +12,4 @@ There is someone sharing flags on our IRC server, ca you find him and stop him?
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-35-IRC-1-Misc/
