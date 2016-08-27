@@ -12,4 +12,5 @@ We managed to intercept more of the hacker's traffic, unfortunately since our la
 
 ## Other write-ups and resources
 
-* None yet
+* https://gist.github.com/duckythescientist/1a43e38999fadbb9aa38dc385734c1eb
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Intercepted_Conversations_Pt.2-Forensics-125.txt
