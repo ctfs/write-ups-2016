@@ -12,4 +12,7 @@ Oh no! Dr.Evil managed to get into one of ours servers, we don't know what he di
 
 ## Other write-ups and resources
 
-* None yet
+* https://chrisissing.wordpress.com/2016/08/24/icectf-root-of-all-evil-write-up/
+* https://0x90r00t.com/2016/08/26/icectf-2016-forensics-150-root-of-all-evil-write-up/
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Root_of_All_Evil-Forensics-150.txt
+* https://github.com/318BR/IceCTF/blob/master/2016/Stage-3/Root-of-All-Evil/writeup.md
