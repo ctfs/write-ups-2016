@@ -12,4 +12,7 @@ I keep getting so much spam from this website. Can you leak the admin password s
 
 ## Other write-ups and resources
 
-* None yet
+* https://chrisissing.wordpress.com/2016/08/19/icectf-chainedin-write-up/
+* https://kinyabitch.wordpress.com/2016/08/26/icectf-web-chainedin/
+* http://0xbugsbunny.blogspot.com/2016/08/icectfwriteupstage3stage4.html
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/ChainedIn-Web-75.txt
