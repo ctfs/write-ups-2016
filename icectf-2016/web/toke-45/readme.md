@@ -12,4 +12,5 @@ I have a feelign they were pretty high when they made this website...
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/WCSC/writeups/tree/master/icectf-2016/Toke
+* http://rawsec.ml/en/IceCTF-45-Toke-Web/
