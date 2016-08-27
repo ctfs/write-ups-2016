@@ -12,4 +12,4 @@ Someone turned out the lights and now we can't find anything. Send halp!
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-10-Spotlight-Web/
