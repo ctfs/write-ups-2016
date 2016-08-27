@@ -12,4 +12,6 @@ John is pretty happy with himself, he just made his first website! He used all t
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/WCSC/writeups/tree/master/icectf-2016/Exposed
+* https://mrpnkt.github.io/2016/icectf2016-exposed-writeup/
+* http://rawsec.ml/en/IceCTF-60-Exposed-Web/
