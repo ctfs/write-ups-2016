@@ -1,7 +1,6 @@
 # Codegate CTF 2016 write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctftime.org/event/299) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 
