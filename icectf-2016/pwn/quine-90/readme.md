@@ -12,4 +12,5 @@ This service is really strange... It seems to accept only C programs. Can you ge
 
 ## Other write-ups and resources
 
-* None yet
+* https://kimiyuki.net/blog/2016/08/27/icectf-2016-stage3/
+* https://ctftime.org/writeup/3728
