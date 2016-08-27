@@ -12,4 +12,5 @@ I found this awesome premium shell, but my demo version just ran out... can you 
 
 ## Other write-ups and resources
 
-* None yet
+* http://capturetheflags.blogspot.com/2016/08/icectf-2016-demo-writeup.html
+* http://rawsec.ml/en/IceCTF-55-Demo-Pwn/
