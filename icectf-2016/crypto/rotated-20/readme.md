@@ -12,4 +12,4 @@ They went and ROTated the flag by 5 and then ROTated it by 8! The scoundrels! An
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-20-Rotated-Cryptograhy/
