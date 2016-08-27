@@ -12,4 +12,4 @@ There's something about this domain... search.icec.tf, I don't see anything but 
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-40-Search-Misc/
