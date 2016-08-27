@@ -12,4 +12,10 @@ I recently stumbled onto this old geocities site, it's a miracle that it's still
 
 ## Other write-ups and resources
 
-* None yet
+* https://tsublogs.wordpress.com/2016/08/26/icectf-geocities-web100/
+* http://0xbugsbunny.blogspot.com/2016/08/icectfwriteupstage3stage4.html
+* https://chrisissing.wordpress.com/2016/08/19/icectf-geocities-write-up/
+* https://blog.squareroots.de/en/2016/08/icectf-2016-geocities-web-100/
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Geocities-Web-100.txt
+* https://github.com/318BR/IceCTF/blob/master/2016/Stage-3/Geocities/writeup.md
+* https://kinyabitch.wordpress.com/2016/08/27/icectf-web-geocities/
