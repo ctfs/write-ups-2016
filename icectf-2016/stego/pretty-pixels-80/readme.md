@@ -1,0 +1,16 @@
+# IceCTF-2016 : pretty-pixels-80
+
+**Category:** Stego
+**Points:** 80
+**Description:**
+
+Don't get me wrong, I love pretty colors as much as the next guy... but what does it mean? pretty_pixels.png
+
+## Writeup
+
+(TODO)
+
+## Other write-ups and resources
+
+* https://0x90r00t.com/2016/08/26/icectf-2016-stega-100-pretty-pixels-write-up/
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Pretty_Pixels-Stego-80.py
