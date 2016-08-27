@@ -1,4 +1,4 @@
-# IceCTF-2016 : drumpfhotels-75
+# IceCTF-2016 : drumpf-hotels-75
 
 **Category:** Pwn
 **Points:** 75
