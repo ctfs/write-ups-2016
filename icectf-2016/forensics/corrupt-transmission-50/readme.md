@@ -12,4 +12,5 @@ We intercepted this image, but it must have gotten corrupted during the transmis
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-50-Corrupt-Tansmission-Forencics/
+* http://capturetheflags.blogspot.com/2016/08/icectf-2016-corrupt-transmission.html
