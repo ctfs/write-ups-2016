@@ -1,4 +1,4 @@
-# BCTF-2016 : qaq-500
+# BCTF-2016 : qaq-350
 
 **Category:** Web
 **Points:** 350
