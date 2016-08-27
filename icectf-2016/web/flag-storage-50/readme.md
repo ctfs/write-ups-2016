@@ -12,4 +12,4 @@ What a cheat, I was promised a flag and I can't even log in. Ca you get in for m
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-50-Flag-Storage-Web/
