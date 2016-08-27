@@ -50,12 +50,10 @@
 * [forensics/intercepted-conversations-pt.2-125](forensics/intercepted-conversations-pt.2-125)
 * [crypto/contract-130](crypto/contract-130)
 * [crypto/sand-castles-on-the-beach-140](crypto/sand-castles-on-the-beach-140)
-
 * [web/imgblog-130](web/imgblog-130)
 * [pwn/slickserver-140](pwn/slickserver-140)
 * [forensics/root-of-all-evil-150](forensics/root-of-all-evil-150)
 * [pwn/slickerserver-300](pwn/slickerserver-300)
-
 
 ## Missing-write-ups
 
