@@ -12,4 +12,6 @@ A smorgasbord of reversing, fixed points and ROP chains for the criminally insan
 
 ## Other write-ups and resources
 
-* None yet
+* https://kimiyuki.net/blog/2016/08/27/icectf-2016-stage4/
+* http://blog.rewolf.pl/blog/?p=1563
+* http://maroueneboubakri.blogspot.fr/2016/08/icectf-2016-slicker-server-pwn300.html
