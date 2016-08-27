@@ -12,4 +12,6 @@ I found this amazing blog about Iceland! Did I ever tell you that I love Iceland
 
 ## Other write-ups and resources
 
-* None yet
+* https://tsublogs.wordpress.com/2016/08/26/icectf-imgblog-web130/
+* https://chrisissing.wordpress.com/2016/08/21/icectf-imgblog-write-up/
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/ImgBlog-Web-120.txt
