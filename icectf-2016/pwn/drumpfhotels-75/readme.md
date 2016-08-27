@@ -12,4 +12,6 @@ Drumpf Hotels - Making security great again! Donald Drumpf decided to move his h
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/EspacioTeam/write-ups/tree/master/2016/icectf/Drumpf%20Hotels
+* https://github.com/1amtom/writeups/tree/master/2016-08-16-IceCTF/pwn-75-drumpf-hotels
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Drumpf-Hotels-Pwn-75.txt
