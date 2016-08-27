@@ -12,4 +12,4 @@ Can you trick our IRC bot into giving you his flag? Talk to IceBot on glitch.is:
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/WCSC/writeups/tree/master/icectf-2016/IRC2
