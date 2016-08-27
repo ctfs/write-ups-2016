@@ -12,4 +12,4 @@ l33tcrypt is a new and fresh encryption service. For added security it pads all 
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/l33tcrypt-Cryptography-90-solution.py
