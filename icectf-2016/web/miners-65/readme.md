@@ -12,4 +12,4 @@ The miners website has been working on adding a login portal so that all miners 
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-65-Miners-Web/
