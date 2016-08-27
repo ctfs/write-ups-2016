@@ -12,4 +12,5 @@ Go Green!
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-50-Vape-Nation-Stego/
+* https://github.com/318BR/IceCTF/blob/master/2016/Stage-3/Vape-Nation/writeup.md
