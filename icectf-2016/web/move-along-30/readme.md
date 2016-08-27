@@ -12,4 +12,4 @@ This site seems awfully suspicious, do you think you can figure out what they're
 
 ## Other write-ups and resources
 
-* None yet
+* http://rawsec.ml/en/IceCTF-30-Move-Along-Web/
