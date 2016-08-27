@@ -12,4 +12,4 @@ Someone hid his flag here... guess we better give up. nc flagstaff.vuln.icec.tf 
 
 ## Other write-ups and resources
 
-* None yet
+* [Japanese](https://ctftime.org/writeup/3820) 

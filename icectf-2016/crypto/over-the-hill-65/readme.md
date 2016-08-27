@@ -14,3 +14,4 @@ Over the hills and far away... many times I've gazed, many times been bitten. Ma
 
 * http://rawsec.ml/en/IceCTF-65-Over-the-Hill-Cryptography/
 * https://kinyabitch.wordpress.com/2016/08/26/icectf-cryptography-hill-cipher/
+* [Japanese](https://ctftime.org/writeup/3819)

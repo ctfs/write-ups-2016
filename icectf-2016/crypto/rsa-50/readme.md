@@ -14,3 +14,4 @@ John was messing with RSA again... he encrypted our flag! I have a strong feelin
 
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/RSA1
 * https://capturetheflags.blogspot.in/2016/08/icectf-2016-rsa.html
+* [Japanese](https://ctftime.org/writeup/3811)

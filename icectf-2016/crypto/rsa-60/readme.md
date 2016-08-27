@@ -12,4 +12,4 @@ This time John managed to use RSA " correctly "... I think he still made some mi
 
 ## Other write-ups and resources
 
-* None yet
+* [Japanese](https://ctftime.org/writeup/3817) 

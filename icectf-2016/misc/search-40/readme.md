@@ -13,3 +13,4 @@ There's something about this domain... search.icec.tf, I don't see anything but 
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-40-Search-Misc/
+* [Japanese](https://ctftime.org/writeup/3810)

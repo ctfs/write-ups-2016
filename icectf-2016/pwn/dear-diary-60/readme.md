@@ -17,3 +17,4 @@ We all want to keep our secrets secure and what is more important than our preci
 * https://github.com/1amtom/writeups/tree/master/2016-08-16-IceCTF/pwn-60-dear-diary
 * https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Dear_diary-Pwn-60.txt
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/dear_diary
+* [Japanese](https://ctftime.org/writeup/3813)
