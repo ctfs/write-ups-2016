@@ -13,3 +13,4 @@ We got a substitute flag, I hear they are pretty lax on the rules
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-30-Substituted-Cryptography/
+* [Japanese](https://ctftime.org/writeup/3807)
