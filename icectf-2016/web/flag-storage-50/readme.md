@@ -13,3 +13,4 @@ What a cheat, I was promised a flag and I can't even log in. Ca you get in for m
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-50-Flag-Storage-Web/
+* https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Flag_Storage

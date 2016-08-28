@@ -12,4 +12,4 @@ We managed to intercept a flag transmission but it was encrypted :(. We got the 
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/grocid/CTF/tree/master/IceCTF/2016#attack-of-the-hellman-200-p
