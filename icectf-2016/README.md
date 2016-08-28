@@ -8,10 +8,10 @@
 
 ## External write ups only
 
-* [misc/hello-world!-1](misc/hello-world!-1)
+* [misc/hello-world-1](misc/hello-world-1)
 * [web/spotlight-10](web/spotlight-10)
 * [misc/all-your-base-are-belong-to-us-15](misc/all-your-base-are-belong-to-us-15)
-* [crypto/rotated!-20](crypto/rotated!-20)
+* [crypto/rotated-20](crypto/rotated-20)
 * [web/move-along-30](web/move-along-30)
 * [crypto/substituted-30](crypto/substituted-30)
 * [web/irc-i-35](web/irc-i-35)
@@ -60,7 +60,7 @@
 * [pwn/slickerserver-300](pwn/slickerserver-300)
 * [pwn/quine-ii-125](pwn/quine-ii-125)
 * [pwn/smashing-profit-60](pwn/smashing-profit-60)
-* [crypto/attack-of-the-hellamn-175](crypto/attack-of-the-hellamn-175)
+* [crypto/attack-of-the-hellman-175](crypto/attack-of-the-hellman-175)
 
 ## Missing-write-ups
 
