@@ -58,12 +58,12 @@
 * [pwn/slickserver-140](pwn/slickserver-140)
 * [forensics/root-of-all-evil-150](forensics/root-of-all-evil-150)
 * [pwn/slickerserver-300](pwn/slickerserver-300)
+* [pwn/quine-ii-125](pwn/quine-ii-125)
+* [pwn/smashing-profit-60](pwn/smashing-profit-60)
+* [crypto/attack-of-the-hellamn-175](crypto/attack-of-the-hellamn-175)
 
 ## Missing-write-ups
 
-* [crypto/attack-of-the-hellamn-175](crypto/attack-of-the-hellamn-175)
 * [stego/a-e-s-t-h-e-t-i-c-200](stego/a-e-s-t-h-e-t-i-c-200)
 * [crypto/back-at-it-again!-200](crypto/back-at-it-again!-200)
-* [pwn/quine-ii-125](pwn/quine-ii-125)
-* [pwn/smashing-profit-60](pwn/smashing-profit-60)
 * [forensics/r.i.p-transmission-65](forensics/r.i.p-transmission-65)
