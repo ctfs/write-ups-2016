@@ -47,7 +47,7 @@
 * [crypto/l33tcrypt-90](crypto/l33tcrypt-90)
 * [pwn/quine-90](pwn/quine-90)
 * [web/geocities-100](web/geocities-100)
-* [forensics/intercepted-conversations-pt1 110](forensics/intercepted-conversations-pt1 110)
+* [forensics/intercepted-conversations-pt1-110](forensics/intercepted-conversations-pt1-110)
 * [forensics/intercepted-conversations-pt2-125](forensics/intercepted-conversations-pt2-125)
 * [crypto/contract-130](crypto/contract-130)
 * [crypto/flagstaff-120](crypto/flagstaff-120)
