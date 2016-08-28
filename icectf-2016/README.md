@@ -39,8 +39,8 @@
 * [misc/matrix-85](misc/matrix-85)
 * [crypto/round-rabins!-70](crypto/round-rabins!-70)
 * [web/chainedin-75](web/chainedin-75)
-* [pwn/drumpfhotels-75](pwn/drumpfhotels-75)
-* [pwn/ropo-75](pwn/ropo-75)
+* [pwn/drumpf-hotels-75](pwn/drumpf-hotels-75)
+* [pwn/ropi-75](pwn/ropi-75)
 * [reverse/a-strong-feeling-80](reverse/a-strong-feeling-80)
 * [stego/pretty-pixels-80](stego/pretty-pixels-80)
 * [pwn/so-close-85](pwn/so-close-85)
@@ -61,9 +61,9 @@
 * [pwn/quine-ii-125](pwn/quine-ii-125)
 * [pwn/smashing-profit-60](pwn/smashing-profit-60)
 * [crypto/attack-of-the-hellman-175](crypto/attack-of-the-hellman-175)
+* [forensics/rip-transmission-65](forensics/r.i.p-transmission-65)
 
 ## Missing-write-ups
 
 * [stego/a-e-s-t-h-e-t-i-c-200](stego/a-e-s-t-h-e-t-i-c-200)
 * [crypto/back-at-it-again!-200](crypto/back-at-it-again!-200)
-* [forensics/r.i.p-transmission-65](forensics/r.i.p-transmission-65)
