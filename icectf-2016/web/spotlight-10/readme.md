@@ -14,3 +14,4 @@ Someone turned out the lights and now we can't find anything. Send halp!
 
 * http://rawsec.ml/en/IceCTF-10-Spotlight-Web/
 * [Japanese](https://ctftime.org/writeup/3804)
+* https://youtu.be/jrjts-2jvRo
