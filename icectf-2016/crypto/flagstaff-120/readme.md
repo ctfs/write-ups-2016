@@ -12,4 +12,5 @@ Someone hid his flag here... guess we better give up. nc flagstaff.vuln.icec.tf 
 
 ## Other write-ups and resources
 
-* [Japanese](https://ctftime.org/writeup/3820) 
+* [Japanese](https://ctftime.org/writeup/3820)
+* https://github.com/grocid/CTF/tree/master/IceCTF/2016#flagstaff-160-p

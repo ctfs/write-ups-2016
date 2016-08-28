@@ -14,3 +14,4 @@ We found this suspicous image online and it looked like it hadd been planted the
 
 * http://rawsec.ml/en/IceCTF-40-Alien-Message-Cryptography/
 * [Japanese](https://ctftime.org/writeup/3816)
+* https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/AlienMessage-Crypto-40

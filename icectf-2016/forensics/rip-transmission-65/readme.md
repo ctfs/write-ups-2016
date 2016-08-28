@@ -12,4 +12,4 @@ This seems to be recieving some sort of transmission. Our experts have been work
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/318BR/IceCTF/tree/master/2016/Stage3/RIP_Transmissions

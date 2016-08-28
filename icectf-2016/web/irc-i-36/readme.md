@@ -14,3 +14,4 @@ There is someone sharing flags on our IRC server, ca you find him and stop him?
 
 * http://rawsec.ml/en/IceCTF-35-IRC-1-Misc/
 * [Japanese](https://ctftime.org/writeup/3815)
+* https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Irc1-Misc-35

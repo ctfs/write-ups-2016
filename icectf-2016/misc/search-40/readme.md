@@ -14,3 +14,5 @@ There's something about this domain... search.icec.tf, I don't see anything but 
 
 * http://rawsec.ml/en/IceCTF-40-Search-Misc/
 * [Japanese](https://ctftime.org/writeup/3810)
+* https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Search-misc-40
+* https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Search

@@ -14,3 +14,5 @@ We intercepted this audio signal, it sounds like there could be something hidden
 
 * http://0xbugsbunny.blogspot.com/
 * https://github.com/318BR/IceCTF/blob/master/2016/Stage-3/Audio-Problems/writeup.md
+* https://github.com/grocid/CTF/tree/master/IceCTF/2016#audio-problems-45-p
+* https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/AudioProblems-Forensics-50
