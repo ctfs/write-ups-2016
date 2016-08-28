@@ -12,4 +12,4 @@ Do you think you can make this program jump to somewhere it isn't supposed to? W
 
 ## Other write-ups and resources
 
-* None yet
+* https://github.com/WCSC/writeups/tree/master/icectf-2016/Smashing-Profit
