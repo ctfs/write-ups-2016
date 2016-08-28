@@ -13,3 +13,4 @@ Do you think you can make this program jump to somewhere it isn't supposed to? W
 ## Other write-ups and resources
 
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/Smashing-Profit
+* https://bryceandress.github.io/2016/08/27/smashing-profit.html
