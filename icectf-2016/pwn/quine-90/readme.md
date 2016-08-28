@@ -14,3 +14,4 @@ This service is really strange... It seems to accept only C programs. Can you ge
 
 * https://kimiyuki.net/blog/2016/08/27/icectf-2016-stage3/
 * https://ctftime.org/writeup/3728
+* https://github.com/grocid/CTF/tree/master/IceCTF/2016#quine-iii-90p--125p
