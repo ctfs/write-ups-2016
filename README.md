@@ -1,5 +1,7 @@
 # CTF write-ups 2016
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)](https://gitter.im/ctfs/write-ups) [![Reddit](https://img.shields.io/badge/reddit-yes-blue.svg)](https://www.reddit.com/r/securityCTF) [![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/write_ups)
+
 There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
 
 * they’re scattered across the interwebs
