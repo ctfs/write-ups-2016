@@ -14,3 +14,4 @@ Go Green!
 
 * http://rawsec.ml/en/IceCTF-50-Vape-Nation-Stego/
 * https://github.com/318BR/IceCTF/blob/master/2016/Stage-3/Vape-Nation/writeup.md
+* https://bryceandress.github.io/2016/08/27/Vape-Nation.html
