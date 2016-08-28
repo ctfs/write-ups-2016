@@ -13,3 +13,4 @@ Using Google Chrome, open the link the webpage. Right click the red https in the
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-40-Complacent-Reconnaissance/
+* https://bryceandress.github.io/2016/08/27/icectf2016-complacent.html
