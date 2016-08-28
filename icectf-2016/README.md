@@ -4,11 +4,11 @@
 
 ## Repo local write-ups
 
-* None yet
+* [misc/hello-world-1](misc/hello-world-1)
+* [recon/complacent-40](recon/complacent-40)
 
 ## External write ups only
 
-* [misc/hello-world-1](misc/hello-world-1)
 * [web/spotlight-10](web/spotlight-10)
 * [misc/all-your-base-are-belong-to-us-15](misc/all-your-base-are-belong-to-us-15)
 * [crypto/rotated-20](crypto/rotated-20)
@@ -18,7 +18,6 @@
 * [crypto/alien-message-40](crypto/alien-message-40)
 * [forensics/time-traveler-45](forensics/time-traveler-45)
 * [misc/scavenger-hunt-50](misc/scavenger-hunt-50)
-* [recon/complacent-40](recon/complacent-40)
 * [misc/search-40](misc/search-40)
 * [reverse/hidden-in-plain-sight-45](reverse/hidden-in-plain-sight-45)
 * [web/toke-45](web/toke-45)
