@@ -16,3 +16,4 @@ I have a feelign they were pretty high when they made this website...
 * http://rawsec.ml/en/IceCTF-45-Toke-Web/
 * [Japanese](https://ctftime.org/writeup/3814)
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Toke-Web-45
+* https://github.com/grocid/CTF/tree/master/IceCTF/2016#toke-45-p
