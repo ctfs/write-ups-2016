@@ -8,7 +8,7 @@ There is a flag hidden somewhere on our website, do you think you can find it? G
 
 ## Writeup
 
-(TODO)
+To search for the flag manually, press Ctrl+U on each page (it's on the sponsors page) and Ctr+F search the source code for the string `IceCTF{` until you find the flag, or for a quicker method, use the Linux bash command `wget -r icec.tf | grep "IceCTF{"` to download the website and filter the results using `grep` to find this on the sponsors page: `<img class="activator" src="/static/images/logos/syndis.png" alt="IceCTF{Y0u_c4n7_533_ME_iM_h1Din9}">` which contains the flag in the alternate attribute.
 
 ## Other write-ups and resources
 
