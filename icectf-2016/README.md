@@ -7,9 +7,6 @@
 * [misc/hello-world-1](misc/hello-world-1)
 * [recon/complacent-40](recon/complacent-40)
 * [web/move-along-30](web/move-along-30)
-
-## External write ups only
-
 * [web/spotlight-10](web/spotlight-10)
 * [misc/all-your-base-are-belong-to-us-15](misc/all-your-base-are-belong-to-us-15)
 * [crypto/rotated-20](crypto/rotated-20)
@@ -21,6 +18,9 @@
 * [misc/search-40](misc/search-40)
 * [reverse/hidden-in-plain-sight-45](reverse/hidden-in-plain-sight-45)
 * [web/toke-45](web/toke-45)
+
+## External write ups only
+
 * [web/flag-storage-50](web/flag-storage-50)
 * [crypto/rsa-50](crypto/rsa-50)
 * [pwn/demo-55](pwn/demo-55)
