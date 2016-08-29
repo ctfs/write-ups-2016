@@ -18,10 +18,10 @@
 * [misc/search-40](misc/search-40)
 * [reverse/hidden-in-plain-sight-45](reverse/hidden-in-plain-sight-45)
 * [web/toke-45](web/toke-45)
+* [web/flag-storage-50](web/flag-storage-50)
 
 ## External write ups only
 
-* [web/flag-storage-50](web/flag-storage-50)
 * [crypto/rsa-50](crypto/rsa-50)
 * [pwn/demo-55](pwn/demo-55)
 * [misc/thors-a-hacker-now-55](misc/thors-a-hacker-now-55)
