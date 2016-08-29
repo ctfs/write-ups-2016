@@ -1,7 +1,6 @@
 # Boston Key Party CTF write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](score.txt)
+* [Scoreboard](TODO) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 
