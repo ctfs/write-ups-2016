@@ -1,7 +1,6 @@
 # Sthack 2016 write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](scoreboard)
+* [Scoreboard](TODO) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 
