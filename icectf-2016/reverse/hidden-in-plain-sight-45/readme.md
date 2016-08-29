@@ -4,11 +4,18 @@
 **Points:** 45
 **Description:**
 
-Make sure you take a real close look at it, it should be right there! /home/plain_sight/ or download it here
+Make sure you take a real close look at it, it should be right there! [/home/plain_sight/]()
 
 ## Writeup
 
-(TODO)
+Open the file with a hex editor, and in the ASCII should be
+```
+..P.8.......I.c.
+e.C.T.F.{.l.o.o.
+k._.m.o.m._.I._.
+f.o.u.n.d._.i.t.
+}.E....../...j..
+```
 
 ## Other write-ups and resources
 
