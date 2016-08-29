@@ -1,7 +1,7 @@
 # HITB CTF Amsterdam 2016 write-ups
 
 * <https://conference.hitb.org/hitbsecconf2016ams/capture-the-flag/>
-* [Scoreboard](TODO) or [local alternative](scoreboard)
+* [Scoreboard](TODO) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 
