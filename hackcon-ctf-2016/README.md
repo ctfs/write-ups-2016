@@ -1,7 +1,7 @@
 # Hackcon 2016 write-ups
 
 * <http://hackcon.in/>
-* [scoreboard](scoreboard)
+* [scoreboard](scoreboard.txt)
 
 ## Completed write-ups
 
