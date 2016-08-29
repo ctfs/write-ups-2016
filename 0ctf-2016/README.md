@@ -1,7 +1,7 @@
 # 0CTF write-ups
 
 * [https://ctf.0ops.sjtu.cn/](https://ctf.0ops.sjtu.cn/)
-* [Scoreboard](https://ctf.0ops.sjtu.cn/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.0ops.sjtu.cn/scoreboard) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 

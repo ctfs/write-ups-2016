@@ -1,7 +1,7 @@
 # Security Fest 2016 write-ups
 
 * <https://securityfest.ctf.rocks/>
-* [Scoreboard](TODO) or [local alternative](scoreboard)
+* [Scoreboard](TODO) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 

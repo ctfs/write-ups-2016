@@ -1,7 +1,6 @@
 # Def Con CTF Qualifiers write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](TODO) or [local alternative](scoreboard.txt)
 
 ## Repo-local write-ups
 
