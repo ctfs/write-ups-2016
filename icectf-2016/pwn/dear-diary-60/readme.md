@@ -19,3 +19,5 @@ We all want to keep our secrets secure and what is more important than our preci
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/dear_diary
 * [Japanese](https://ctftime.org/writeup/3813)
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Dear_Diary
+* https://youtu.be/oFscG4xsDXY
+* http://dylanfw.com/blog/2016/08/27/format-string-exploitation-icectf-2016/
