@@ -19,16 +19,16 @@
 * [reverse/hidden-in-plain-sight-45](reverse/hidden-in-plain-sight-45)
 * [web/toke-45](web/toke-45)
 * [web/flag-storage-50](web/flag-storage-50)
+* [crypto/rsa-50](crypto/rsa-50)
+* [web/exposed-60](web/exposed-60)
+* [web/miners-65](web/miners-65)
 
 ## External write ups only
 
-* [crypto/rsa-50](crypto/rsa-50)
 * [pwn/demo-55](pwn/demo-55)
 * [misc/thors-a-hacker-now-55](misc/thors-a-hacker-now-55)
 * [pwn/dear-diary-60](pwn/dear-diary-60)
-* [web/exposed-60](web/exposed-60)
 * [misc/irc-ii-60](misc/irc-ii-60)
-* [web/miners-65](web/miners-65)
 * [crypto/over-the-hill-65](crypto/over-the-hill-65)
 * [web/kitty-70](web/kitty-70)
 * [forensics/audio-problems-50](forensics/audio-problems-50)
