@@ -14,3 +14,4 @@ This time John managed to use RSA " correctly "... I think he still made some mi
 
 * [Japanese](https://ctftime.org/writeup/3817)
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#rsa-60-p
+* https://github.com/Ctf-Trinidad/WRITEUPS/tree/master/2016.08.IceCTF/RSA
