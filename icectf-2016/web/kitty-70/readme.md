@@ -8,7 +8,8 @@ They managed to secure their website this time and moved the hashing to the serv
 
 ## Writeup
 
-(TODO)
+Before running against known hashes, use [a hash identifier](http://www.onlinehashcrack.com/hash-identification.php)
+to get some good guesses at the has algorithm. Start with the most popular hashing algorithms like `SHA-256` and `Haval` because to find a known hash, you'd need a commonly used hash. The website [MD5decrypt](http://md5decrypt.net/en/Sha256/) has a SHA-256 hash cracker so paste the hash into the input. Solve the CAPTCHAs and it should output `Vo83*`. Use this to login to the website as `admin`, and the cracked password for the password, and the flag `IceCTF{i_guess_hashing_isnt_everything_in_this_world}` should appear.
 
 ## Other write-ups and resources
 
