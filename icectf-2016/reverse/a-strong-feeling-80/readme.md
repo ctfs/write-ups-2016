@@ -13,3 +13,4 @@ Do you think you could defeat this password checker for us? It's making me real 
 ## Other write-ups and resources
 
 * https://github.com/EspacioTeam/write-ups/tree/master/2016/icectf/A%20Strong%20Feeling
+* http://vulnerablespace.blogspot.co.uk/2016/08/ctf-writeup-icectf-2016-strong-feeling.html
