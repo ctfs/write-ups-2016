@@ -1,7 +1,7 @@
 # CTFx : little-crypto-gambler-150
 
 **Category:** Crypto
-**Points:** 
+**Points:** 150
 **Solves:** 
 **Description:**
 
