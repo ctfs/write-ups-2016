@@ -1,7 +1,7 @@
 # CTFx : crash-50
 
 **Category:** Forensics
-**Points:** 
+**Points:** 50
 **Solves:** 
 **Description:**
 
