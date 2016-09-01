@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * https://github.com/73696e65/ctf-notes/blob/master/2016-ctfx/Forensics-100-password.txt
+* https://github.com/bobacadodl/ctfx-problems/blob/master/forensics/password-100/writeup.txt
