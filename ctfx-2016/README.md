@@ -1,7 +1,7 @@
 # CTFx write-ups
 
 * <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](TODO) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 
