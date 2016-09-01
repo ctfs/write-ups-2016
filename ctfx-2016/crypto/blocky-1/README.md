@@ -1,7 +1,7 @@
 # CTFx : blocky-1
 
 **Category:** Crypto
-**Points:** 
+**Points:** 1
 **Solves:** 
 **Description:**
 
