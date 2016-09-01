@@ -1,7 +1,7 @@
 # CTFx : north-korea-50
 
 **Category:** Web
-**Points:** 
+**Points:** 50
 **Solves:** 
 **Description:**
 
