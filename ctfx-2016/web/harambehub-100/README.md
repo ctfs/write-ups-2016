@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * http://megabeets.net/ctfx-2016-web-harambehub-100-pts/
+* (French) https://0x90r00t.com/fr/2016/08/29/ctfx-2016-web-100-harambehub-write-up/
