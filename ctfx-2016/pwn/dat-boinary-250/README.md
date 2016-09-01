@@ -1,7 +1,7 @@
 # CTFx : dat-boinary-250
 
 **Category:** Pwn
-**Points:** 
+**Points:** 250
 **Solves:** 
 **Description:**
 
