@@ -1,0 +1,28 @@
+# CTFx : iTrash-100
+
+**Category:** Forensics
+**Points:** 
+**Solves:** 
+**Description:**
+
+> I got locked out of my iTrash :(
+> 
+> 
+> 
+> 1 2 3
+> 
+> 4 5 6
+> 
+> 7 8 9
+> 
+> 
+> 
+> Flag format: ctf(n-n-...-n)
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
