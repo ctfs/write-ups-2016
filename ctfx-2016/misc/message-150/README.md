@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/bobacadodl/ctfx-problems/blob/master/misc/message-100/sol.py
