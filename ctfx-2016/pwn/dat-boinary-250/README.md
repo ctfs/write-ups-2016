@@ -18,3 +18,4 @@
 
 * http://nandynarwhals.org/2016/08/29/ctfx-2016-dat-boinary-binary/
 * https://github.com/bobacadodl/ctfx-problems/blob/master/crypto/customauth-100/writeup.txt
+* https://github.com/bobacadodl/ctfx-problems/blob/master/binary/dat_boinary-250/soln_datboi.py
