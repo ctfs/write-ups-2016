@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://nandynarwhals.org/2016/08/29/ctfx-2016-guesslength-binary/
