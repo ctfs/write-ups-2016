@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/bobacadodl/ctfx-problems/blob/master/forensics/pgp-200/writeup.txt
