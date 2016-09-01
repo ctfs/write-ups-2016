@@ -1,7 +1,7 @@
 # CTFx : lambda-50
 
 **Category:** Crypto
-**Points:** 
+**Points:** 50
 **Solves:** 
 **Description:**
 
