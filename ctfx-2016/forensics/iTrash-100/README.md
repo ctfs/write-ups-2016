@@ -25,4 +25,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://kinyabitch.wordpress.com/2016/08/29/ctfx-forensics-itrash-100-points/
