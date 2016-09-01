@@ -26,3 +26,4 @@
 ## Other write-ups and resources
 
 * https://kinyabitch.wordpress.com/2016/08/29/ctfx-forensics-itrash-100-points/
+* https://github.com/bobacadodl/ctfx-problems/blob/master/forensics/iTrash-100/writeup.txt
