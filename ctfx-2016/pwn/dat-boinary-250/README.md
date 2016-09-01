@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * http://nandynarwhals.org/2016/08/29/ctfx-2016-dat-boinary-binary/
+* https://github.com/bobacadodl/ctfx-problems/blob/master/crypto/customauth-100/writeup.txt
