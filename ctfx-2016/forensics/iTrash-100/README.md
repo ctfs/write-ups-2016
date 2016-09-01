@@ -1,7 +1,7 @@
 # CTFx : iTrash-100
 
 **Category:** Forensics
-**Points:** 
+**Points:** 100
 **Solves:** 
 **Description:**
 
