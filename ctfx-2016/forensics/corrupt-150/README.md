@@ -1,7 +1,7 @@
 # CTFx : corrupt-150
 
 **Category:** Forensics
-**Points:** 
+**Points:** 150
 **Solves:** 
 **Description:**
 
