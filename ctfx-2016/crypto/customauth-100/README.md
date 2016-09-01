@@ -1,7 +1,7 @@
 # CTFx : customauth-100
 
 **Category:** Crypto
-**Points:** 
+**Points:** 100
 **Solves:** 
 **Description:**
 
