@@ -8,7 +8,7 @@ There's something about this domain... search.icec.tf, I don't see anything but 
 
 ## Writeup
 
-(TODO)
+This challenge requires DNS lookup knowledge. DNS (Domain Name System) provides computers information about a specific domain. It is somewhat recognizable as a DNS record, as `TXT` is one of many DNS record types. Using `dig`, we can run `dig -t TXT search.icec.tf/` to search that domain for TXT records in the DNS. For the long output of the query, check out rawsec's write-up linked below, where you will see the flag is `IceCTF{flag5_all_0v3r_the_Plac3}`
 
 ## Other write-ups and resources
 
@@ -16,3 +16,4 @@ There's something about this domain... search.icec.tf, I don't see anything but 
 * [Japanese](https://ctftime.org/writeup/3810)
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Search-misc-40
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Search
+* https://mrpnkt.github.io/2016/icectf-2016-search/

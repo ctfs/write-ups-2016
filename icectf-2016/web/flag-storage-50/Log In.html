@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://flagstorage.vuln.icec.tf/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Log In</title>
+    <link rel="stylesheet" href="./Log In_files/skeleton.min.css">
+</head>
+<body>
+    <div class="container">
+ <form method="post" action="http://flagstorage.vuln.icec.tf/login.php" id="form">
+<label for="username">Username: </label>
+<input class="u-full-width" type="text" name="username" placeholder="Username">
+<label for="password">Password: </label>
+<input id="password_plain" class="u-full-width" type="password" name="password_plain" placeholder="Password">
+<input id="password" type="hidden" name="password">
+<input type="submit" value="Log In">
+</form>
+</div>
+<script src="./Log In_files/jquery.min.js"></script>
+<script src="./Log In_files/sha.js"></script>
+<script>
+$(function(){
+    var updatePassword = function(e){
+        // hash client side for better security, never leak the pw over the wire
+        var sha = new jsSHA("SHA-256", "TEXT");
+        sha.update($(this).val());
+        $("#password").val(sha.getHash("HEX"));
+    };
+    $("#password_plain").on("change", updatePassword);
+    $("#form").on("submit", updatePassword);
+});
+</script>
+
+
+</body></html>
