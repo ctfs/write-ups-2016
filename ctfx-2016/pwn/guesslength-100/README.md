@@ -1,7 +1,7 @@
 # CTFx : guesslength-100
 
 **Category:** Pwn
-**Points:** 
+**Points:** 100
 **Solves:** 
 **Description:**
 
