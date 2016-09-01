@@ -1,7 +1,7 @@
 # CTFx : harambehub-100
 
 **Category:** Web
-**Points:** 
+**Points:** 100
 **Solves:** 
 **Description:**
 
@@ -9,8 +9,8 @@
 
 ## Write-up
 
-(TODO)
+* none yet
 
 ## Other write-ups and resources
 
-* none yet
+* http://megabeets.net/ctfx-2016-web-harambehub-100-pts/
