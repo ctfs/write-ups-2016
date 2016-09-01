@@ -13,3 +13,4 @@ Right click on the main image and open the image in a new link. Then change the 
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-30-Move-Along-Web/
+* https://youtu.be/d0kPGb_5CeQ

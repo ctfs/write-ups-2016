@@ -8,7 +8,7 @@ I can assure you that the flag was on this website at some point in time.
 
 ## Writeup
 
-(TODO)
+This challenge indicates that it is necessary to find a previous version, or snapshot of this site. The most common website archiving service is [archive.org WaybackMachine](https://archive.org/web/). Searching for their domain `icec.tf` brings open a calendar of all their caches of the website. One of them has the flag on the front page: `IceCTF{Th3y'11_n3v4r_f1|\|d_m4h_fl3g_1n_th3_p45t}`
 
 ## Other write-ups and resources
 

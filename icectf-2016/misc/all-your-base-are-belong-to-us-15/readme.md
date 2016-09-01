@@ -8,7 +8,7 @@ What a mess... we got a raw flag but now what do we do...
 
 ## Writeup
 
-(TODO)
+Looking at the flag, it contains only zeros and ones, pointing towards binary. Using an online binary to ASCII converter (or a Python script like rawsec). The ASCII result is the flag: `IceCTF{al1_my_bases_are_yours_and_all_y0ur_bases_are_mine}`
 
 ## Other write-ups and resources
 

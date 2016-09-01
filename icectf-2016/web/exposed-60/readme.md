@@ -8,7 +8,7 @@ John is pretty happy with himself, he just made his first website! He used all t
 
 ## Writeup
 
-(TODO)
+While NginX and PHP have their vulnerabilities, any experienced web developer can tell you that Git, when incorrectly secured, is an exploit waiting to happen. Chances are, this site's repository on GitHub is public. This is testable by running `git clone http://exposed.vuln.icec.tf/.git`. View the list of commits and use `git diff` for each commit to view the changes made. The commit `added colors` contains the following flag: `IceCTF{secure_y0ur_g1t_repos_pe0ple}`
 
 ## Other write-ups and resources
 

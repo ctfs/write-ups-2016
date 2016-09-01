@@ -8,7 +8,7 @@ They went and ROTated the flag by 5 and then ROTated it by 8! The scoundrels! An
 
 ## Writeup
 
-(TODO)
+The most classic cipher is ceasar cipher, and with the keyword rotate (ROT), there's a good chance it's a ceasar cipher. Because cipher rotations add up, 5 and 8 combine to make 13. ROT13 is also a very common rotation for ceasar ciphers based on a shift of 1/2 the length of the alphabet. Using an online ceasar cipher solver with a shift of 13 (or a Python script like rawsec), you'll get the result `IceCTF{wait_one_plus_1_is_3?}`
 
 ## Other write-ups and resources
 

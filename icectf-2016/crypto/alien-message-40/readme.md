@@ -8,7 +8,7 @@ We found this suspicous image online and it looked like it hadd been planted the
 
 ## Writeup
 
-(TODO)
+By Googling `alien message cipher key` and looking at images, the first result contained a dictionary of the sybmols found in the cipher image, and their English translation. Either do this by hand, or as rawsec suggests, check out [this decryption tool](http://www.gotfuturama.com/Interactive/AlienCodec/) online. The image decrypts to form the flag: `IceCTF{good_n3wz_3veryon3_1_l1k3_fu7ur4ma_4nd_th3ir_4maz1ng_3as7er_39g5}`
 
 ## Other write-ups and resources
 

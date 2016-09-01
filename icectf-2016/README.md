@@ -7,9 +7,6 @@
 * [misc/hello-world-1](misc/hello-world-1)
 * [recon/complacent-40](recon/complacent-40)
 * [web/move-along-30](web/move-along-30)
-
-## External write ups only
-
 * [web/spotlight-10](web/spotlight-10)
 * [misc/all-your-base-are-belong-to-us-15](misc/all-your-base-are-belong-to-us-15)
 * [crypto/rotated-20](crypto/rotated-20)
@@ -20,17 +17,20 @@
 * [misc/scavenger-hunt-50](misc/scavenger-hunt-50)
 * [misc/search-40](misc/search-40)
 * [reverse/hidden-in-plain-sight-45](reverse/hidden-in-plain-sight-45)
+* [web/kitty-70](web/kitty-70)
 * [web/toke-45](web/toke-45)
 * [web/flag-storage-50](web/flag-storage-50)
 * [crypto/rsa-50](crypto/rsa-50)
+* [web/exposed-60](web/exposed-60)
+* [web/miners-65](web/miners-65)
+
+## External write ups only
+
 * [pwn/demo-55](pwn/demo-55)
 * [misc/thors-a-hacker-now-55](misc/thors-a-hacker-now-55)
 * [pwn/dear-diary-60](pwn/dear-diary-60)
-* [web/exposed-60](web/exposed-60)
 * [misc/irc-ii-60](misc/irc-ii-60)
-* [web/miners-65](web/miners-65)
 * [crypto/over-the-hill-65](crypto/over-the-hill-65)
-* [web/kitty-70](web/kitty-70)
 * [forensics/audio-problems-50](forensics/audio-problems-50)
 * [forensics/corrupt-transmission-50](forensics/corrupt-transmission-50)
 * [stego/vape-nation-50](stego/vape-nation-50)

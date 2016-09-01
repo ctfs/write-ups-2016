@@ -132,3 +132,5 @@ We have found the flag `IceCTF{this_thing_is_just_sitting_here}`.
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/dear_diary
 * [Japanese](https://ctftime.org/writeup/3813)
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Dear_Diary
+* https://youtu.be/oFscG4xsDXY
+* http://dylanfw.com/blog/2016/08/27/format-string-exploitation-icectf-2016/
