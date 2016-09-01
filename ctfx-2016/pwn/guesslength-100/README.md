@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * http://nandynarwhals.org/2016/08/29/ctfx-2016-guesslength-binary/
+* https://github.com/bobacadodl/ctfx-problems/blob/master/binary/guesslength-100/solution.py
