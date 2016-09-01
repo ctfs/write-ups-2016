@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/phamhuudanh96/CTF_WriteUp/blob/master/ctfx_2016_lambda.py
