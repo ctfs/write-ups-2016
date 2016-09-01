@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * https://github.com/phamhuudanh96/CTF_WriteUp/blob/master/ctfx_2016_lambda.py
+* http://rawsec.ml/en/CTFx-50-lambda-cryptography/
