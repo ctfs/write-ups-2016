@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/bobacadodl/ctfx-problems/tree/master/crypto/blocky-200
