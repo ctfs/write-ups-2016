@@ -24,3 +24,4 @@ Oh and for your records my name is IceCTF{always_listen_to_your_substitute_flags
 
 * http://rawsec.ml/en/IceCTF-30-Substituted-Cryptography/
 * [Japanese](https://ctftime.org/writeup/3807)
+* https://youtu.be/xQJ4Ndke9HM
