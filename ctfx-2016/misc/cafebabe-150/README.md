@@ -1,7 +1,7 @@
 # CTFx : cafebabe-150
 
 **Category:** Misc
-**Points:** 
+**Points:** 150
 **Solves:** 
 **Description:**
 
