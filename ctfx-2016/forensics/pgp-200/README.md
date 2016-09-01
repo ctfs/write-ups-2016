@@ -1,7 +1,7 @@
 # CTFx : pgp-200
 
 **Category:** Forensics
-**Points:** 
+**Points:** 200
 **Solves:** 
 **Description:**
 
