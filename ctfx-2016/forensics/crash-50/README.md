@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/3921
+* http://rawsec.ml/en/CTFx-50-crash-forensics/
