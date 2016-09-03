@@ -13,4 +13,4 @@ Binary: [yolomolo](yolomolo)
 
 ## Other write-ups and resources
 
-* none yet
+* P1kachu: <http://p1kachu.pluggi.fr/writeup/re/2016/09/01/hackcon2016-angry-reverser-writeup/>
