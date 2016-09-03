@@ -11,12 +11,12 @@
 
 * [reversing/you-cant-see-me-150](reversing/you-cant-see-me-150)
 * [reversing/started-from-the-bottom-250](reversing/started-from-the-bottom-250)
+* [reversing/angry-reverser-200](reversing/angry-reverser-200)
 * [ppc/army-of-binaries-200](ppc/army-of-binaries-200)
 * [pwn/32-shades-of-binary-500](pwn/32-shades-of-binary-500)
 
 ## Missing write-ups
 
-* [reversing/angry-reverser-200](reversing/angry-reverser-200)
 * [reversing/furtive-jack-200](reversing/furtive-jack-200)
 * [forensic/in-rainbows-150](forensic/in-rainbows-150)
 * [forensic/note-to-self-250](forensic/note-to-self-250)
