@@ -13,6 +13,7 @@ Looking at the flag, it contains only zeros and ones, pointing towards binary. U
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-15-All-your-Base-are-belong-to-us-Misc/
-* [Japanese](https://ctftime.org/writeup/3805)
 * https://youtu.be/vB0YqkvIhto
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/AllYourBaseAreBelongToUs
+* http://5k33tz.com/icectf-all-your-base-are-belong-to-us/
+* [Japanese](https://ctftime.org/writeup/3805)

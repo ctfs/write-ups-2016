@@ -17,3 +17,4 @@ To search for the flag manually, press Ctrl+U on each page (it's on the sponsors
 * https://capturetheflags.blogspot.in/2016/08/icectf-2016-scavenger-hunt-writeup.html
 * https://youtu.be/CyvjUXW5quE
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/ScavengerHunt-Misc-50
+* http://5k33tz.com/icectf-scavenger-hunt/
