@@ -15,4 +15,5 @@ By Googling `alien message cipher key` and looking at images, the first result c
 * http://rawsec.ml/en/IceCTF-40-Alien-Message-Cryptography/
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/AlienMessage-Crypto-40
 * https://www.youtube.com/watch?v=RYgENiSRbpM
+* http://5k33tz.com/icectf-alien-message/
 * [Japanese](https://ctftime.org/writeup/3816)
