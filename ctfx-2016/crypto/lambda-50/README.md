@@ -19,3 +19,4 @@
 * http://rawsec.ml/en/CTFx-50-lambda-cryptography/
 * https://github.com/73696e65/ctf-notes/blob/master/2016-ctfx/Cryptography-50-%CE%BB.txt
 * https://github.com/bobacadodl/ctfx-problems/blob/master/crypto/lambda-50/writeup.txt
+* https://leictf.blogspot.in/2016/08/write-upctfx-crypto50-lambda.html
