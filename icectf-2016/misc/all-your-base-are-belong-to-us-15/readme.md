@@ -16,4 +16,5 @@ Looking at the flag, it contains only zeros and ones, pointing towards binary. U
 * https://youtu.be/vB0YqkvIhto
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/AllYourBaseAreBelongToUs
 * http://5k33tz.com/icectf-all-your-base-are-belong-to-us/
+* https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Misc/All%20your%20Base%20are%20belong%20to%20us
 * [Japanese](https://ctftime.org/writeup/3805)
