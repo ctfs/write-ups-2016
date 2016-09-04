@@ -19,3 +19,4 @@ Go Green!
 * https://github.com/JosiahPierce/writeups/blob/master/IceCTF2016:Vape_Nation.md
 * https://github.com/Ctf-Trinidad/WRITEUPS/tree/master/2016.08.IceCTF/VapeNation
 * https://github.com/bburky/mathematica-ctf-writeups/blob/master/LSB%20image/
+* http://wumb0.in/icectf-2016-vape-nation.html
