@@ -17,3 +17,4 @@ Do you think you can make this program jump to somewhere it isn't supposed to? W
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Smashing_Profit
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#smashing-profit-60-p
 * http://nexusdroid.blogspot.com/2016/08/icectf-stage-2-smashing-profit-writeup.html
+* http://hyp3rv3locity.com/content/icectf-2016-smashing-profit-pwn-60-pt
