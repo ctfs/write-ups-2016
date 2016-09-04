@@ -16,3 +16,4 @@ The description indicates the victim's machine is the intended target. From ther
 * https://chrisissing.wordpress.com/2016/08/21/icectf-imgblog-write-up/
 * https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/ImgBlog-Web-120.txt
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage4/ImgBlog
+* https://github.com/TeamContagion/CTF-Write-Ups/blob/master/icectf-2016/Web/ImgBlog
