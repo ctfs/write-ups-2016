@@ -15,5 +15,6 @@ to get some good guesses at the has algorithm. Start with the most popular hashi
 
 * http://rawsec.ml/en/IceCTF-70-Kitty-Web/
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/kitty
-* [Japanese](https://ctftime.org/writeup/3812)
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#kitty-80-p
+* https://github.com/TeamContagion/CTF-Write-Ups/blob/master/icectf-2016/Web/Kitty
+* [Japanese](https://ctftime.org/writeup/3812)
