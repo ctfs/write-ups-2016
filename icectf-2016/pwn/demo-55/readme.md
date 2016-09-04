@@ -17,3 +17,4 @@ I found this awesome premium shell, but my demo version just ran out... can you 
 * [Japanese](https://ctftime.org/writeup/3809)
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#demo-55-p
 * http://nexusdroid.blogspot.com/2016/08/icectf-stage-2-smashing-profit-writeup.html
+* http://wumb0.in/icectf-2016-demo.html
