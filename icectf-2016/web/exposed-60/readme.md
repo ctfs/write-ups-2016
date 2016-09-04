@@ -16,3 +16,4 @@ While NginX and PHP have their vulnerabilities, any experienced web developer ca
 * https://mrpnkt.github.io/2016/icectf2016-exposed-writeup/
 * http://rawsec.ml/en/IceCTF-60-Exposed-Web/
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Exposed-Web-60
+* http://hyp3rv3locity.com/content/icectf-2016-exposed-web-60-pt
