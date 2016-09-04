@@ -17,4 +17,5 @@ This challenge requires DNS lookup knowledge. DNS (Domain Name System) provides 
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Search
 * https://mrpnkt.github.io/2016/icectf-2016-search/
 * https://www.youtube.com/watch?v=gjUlI310_mA
+* https://github.com/TeamContagion/CTF-Write-Ups/blob/master/icectf-2016/Misc/Search
 * [Japanese](https://ctftime.org/writeup/3810)
