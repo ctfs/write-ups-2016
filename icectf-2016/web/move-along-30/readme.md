@@ -15,3 +15,4 @@ Right click on the main image and open the image in a new link. Then change the 
 * http://rawsec.ml/en/IceCTF-30-Move-Along-Web/
 * https://youtu.be/d0kPGb_5CeQ
 * http://5k33tz.com/icectf-move-along/
+* https://github.com/TeamContagion/CTF-Write-Ups/blob/master/icectf-2016/Web/Move%20Along

@@ -16,4 +16,5 @@ By opening developer tools on the webpage, it is apparent that there is a script
 * https://youtu.be/jrjts-2jvRo
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Spotlight-web-10
 * http://5k33tz.com/icectf-spotlight/
+* https://github.com/TeamContagion/CTF-Write-Ups/blob/master/icectf-2016/Web/Spotlight
 * [Japanese](https://ctftime.org/writeup/3804)
