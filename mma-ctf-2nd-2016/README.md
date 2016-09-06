@@ -9,12 +9,13 @@
 
 ## External write-ups only
 
-* none yet
+* [pwn/greeting-150](pwn/greeting-150)
+* [web/get-the-admin-password-100](web/get-the-admin-password-100)
+* [ppc/make-a-palindrome-50](ppc/make-a-palindrome-50)
 
 ## Missing write-ups
 
 * [pwn/shadow-400](pwn/shadow-400)
-* [pwn/greeting-150](pwn/greeting-150)
 * [pwn/judgement-50](pwn/judgement-50)
 * [pwn/diary-300](pwn/diary-300)
 * [pwn/interpreter-200](pwn/interpreter-200)
@@ -38,7 +39,6 @@
 * [reverse/unpackgo-350](reverse/unpackgo-350)
 * [reverse/steganographer-400](reverse/steganographer-400)
 * [web/tsurai-web-300](web/tsurai-web-300)
-* [web/get-the-admin-password-100](web/get-the-admin-password-100)
 * [web/hastur-850](web/hastur-850)
 * [web/global-page-50](web/global-page-50)
 * [web/poems-100](web/poems-100)
@@ -48,6 +48,5 @@
 * [ppc/private-local-comment-220](ppc/private-local-comment-220)
 * [ppc/rescue-data-2-defective-raid-300](ppc/rescue-data-2-defective-raid-300)
 * [ppc/lights-out-400](ppc/lights-out-400)
-* [ppc/make-a-palindrome-50](ppc/make-a-palindrome-50)
 * [forensic/rescue-data-1-deadnas-50](forensic/rescue-data-1-deadnas-50)
 * [forensic/broken-ntfs-500](forensic/broken-ntfs-500)
