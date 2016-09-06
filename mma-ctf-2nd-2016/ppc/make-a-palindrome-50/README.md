@@ -39,4 +39,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://bamboofox.github.io/2016/09/05/MMA-CTF-2nd-2016-Make-a-Palindrome-50/
