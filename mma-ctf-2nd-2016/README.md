@@ -11,6 +11,7 @@
 * [pwn/greeting-150](pwn/greeting-150)
 * [web/get-the-admin-password-100](web/get-the-admin-password-100)
 * [ppc/make-a-palindrome-50](ppc/make-a-palindrome-50)
+* [forensic/rescue-data-1-deadnas-50](forensic/rescue-data-1-deadnas-50)
 
 ## Missing write-ups
 
@@ -47,5 +48,4 @@
 * [ppc/private-local-comment-220](ppc/private-local-comment-220)
 * [ppc/rescue-data-2-defective-raid-300](ppc/rescue-data-2-defective-raid-300)
 * [ppc/lights-out-400](ppc/lights-out-400)
-* [forensic/rescue-data-1-deadnas-50](forensic/rescue-data-1-deadnas-50)
 * [forensic/broken-ntfs-500](forensic/broken-ntfs-500)

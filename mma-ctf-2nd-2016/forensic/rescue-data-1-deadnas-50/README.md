@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/tothi/ctfs/tree/master/mma-ctf-2016/deadnas
