@@ -12,7 +12,7 @@
 > 
 > openssl aes-256-cbc -e -in /tmp/flag.jpg -out /mnt/flag:flag -pass file:<(openssl aes-256-cbc -e -in ./key -pass pass:`pwd`/key -nosalt)
 > 
-> Please recover flag from [[problem.7z](./problem.7z)]([problem.7z](./problem.7z)).
+> Please recover flag from [problem.7z](https://twctf7qygt6ujk.azureedge.net/uploads/problem.7z-5c486dcd3b71cf9e7d91167837ba4cadd4f2bb8a75d34bc637d7495fa05165e6)
 > 
 > 
 > Note: the ntfs.dd is mounted to /mnt.
