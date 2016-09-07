@@ -1,7 +1,6 @@
 # MMA CTF 2nd 2016 write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://score.ctf.westerns.tokyo/ranking?locale=en) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
