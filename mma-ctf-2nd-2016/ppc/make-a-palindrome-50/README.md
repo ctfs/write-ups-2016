@@ -40,3 +40,4 @@
 ## Other write-ups and resources
 
 * https://bamboofox.github.io/2016/09/05/MMA-CTF-2nd-2016-Make-a-Palindrome-50/
+* http://kabla.me/blog/writeups/MMA-2016.html
