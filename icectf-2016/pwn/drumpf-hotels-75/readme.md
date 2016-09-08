@@ -16,3 +16,4 @@ Drumpf Hotels - Making security great again! Donald Drumpf decided to move his h
 * https://github.com/1amtom/writeups/tree/master/2016-08-16-IceCTF/pwn-75-drumpf-hotels
 * https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Drumpf-Hotels-Pwn-75.txt
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage3/Drumpf_Hotels
+* https://nexusdroid.blogspot.sg/2016/09/icectf-stage-3-drumpf-hotels-writeup.html
