@@ -17,3 +17,4 @@ I keep getting so much spam from this website. Can you leak the admin password s
 * http://0xbugsbunny.blogspot.com/2016/08/icectfwriteupstage3stage4.html
 * https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/ChainedIn-Web-75.txt
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage3/ChainedIn
+* https://gitlab.com/fraf0/writeups/tree/master/IceCTF/2016/chainedin
