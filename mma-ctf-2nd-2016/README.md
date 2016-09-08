@@ -12,7 +12,9 @@
 * [web/get-the-admin-password-100](web/get-the-admin-password-100)
 * [ppc/make-a-palindrome-50](ppc/make-a-palindrome-50)
 * [forensic/rescue-data-1-deadnas-50](forensic/rescue-data-1-deadnas-50)
-
+* [reverse/reverse-box-50](reverse/reverse-box-50)
+* [misc/ninth-100](misc/ninth-100)
+* [pwn/judgement-50](pwn/judgement-50)
 ## Missing write-ups
 
 * [pwn/shadow-400](pwn/shadow-400)
