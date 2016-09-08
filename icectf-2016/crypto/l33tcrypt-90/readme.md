@@ -17,3 +17,4 @@ l33tcrypt is a new and fresh encryption service. For added security it pads all 
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#l33tcrypt-90-p
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Crypto/l33tcrypt
 * [Japanese](https://ctftime.org/writeup/3818)
+* https://gitlab.com/fraf0/writeups/tree/master/IceCTF/2016/l33tcrypt
