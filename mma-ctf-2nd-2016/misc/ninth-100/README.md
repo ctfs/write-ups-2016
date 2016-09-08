@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://kabla.me/blog/writeups/MMA-2016.html
