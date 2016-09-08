@@ -12,10 +12,13 @@
 * [web/get-the-admin-password-100](web/get-the-admin-password-100)
 * [ppc/make-a-palindrome-50](ppc/make-a-palindrome-50)
 * [forensic/rescue-data-1-deadnas-50](forensic/rescue-data-1-deadnas-50)
-
+* [reverse/reverse-box-50](reverse/reverse-box-50)
+* [misc/ninth-100](misc/ninth-100)
+* [pwn/judgement-50](pwn/judgement-50)
 ## Missing write-ups
 
 * [pwn/shadow-400](pwn/shadow-400)
+* [pwn/judgement-50](pwn/judgement-50)
 * [pwn/diary-300](pwn/diary-300)
 * [pwn/interpreter-200](pwn/interpreter-200)
 * [pwn/candy-store-300](pwn/candy-store-300)
@@ -27,9 +30,11 @@
 * [crypto/neo-saitama-agency-300](crypto/neo-saitama-agency-300)
 * [crypto/backpackers-cipher-extra-mode-450](crypto/backpackers-cipher-extra-mode-450)
 * [crypto/twin-primes-50](crypto/twin-primes-50)
+* [misc/ninth-100](misc/ninth-100)
 * [misc/glance-50](misc/glance-50)
 * [misc/welcome-10](misc/welcome-10)
 * [misc/cocktail-200](misc/cocktail-200)
+* [reverse/reverse-box-50](reverse/reverse-box-50)
 * [reverse/whiteout-mathmatics-200](reverse/whiteout-mathmatics-200)
 * [reverse/backdoored-crypto-system-400](reverse/backdoored-crypto-system-400)
 * [reverse/cello-rule-250](reverse/cello-rule-250)
