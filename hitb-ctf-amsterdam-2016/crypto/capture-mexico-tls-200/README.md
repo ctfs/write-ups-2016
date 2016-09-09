@@ -15,4 +15,3 @@ A file containing 101 TLS handshakes. One of them has an error: RSA-CRT fault at
 ## Other write-ups and resources
 
 * https://www.cryptologie.net/article/371/fault-attacks-on-rsas-signatures/
-* https://github.com/zack-lau/WriteUps/blob/master/HITB-Facebook-CTF-2016/capture_Mexico-tls/README.md
