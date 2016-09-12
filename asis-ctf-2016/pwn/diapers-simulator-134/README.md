@@ -16,4 +16,6 @@ nc diapers.asis-ctf.ir 1343
 
 ## Other write-ups and resources
 
-* none yet
+* https://nuc13us.wordpress.com/2016/09/12/asisctf-finals2016diapers-simulator-pwn/
+* https://github.com/grzegorz225/ASIS-CTF-Finals-2016-Diapers-Simulator-Writeup
+* https://github.com/ByteBandits/writeups/tree/master/asis-ctf-finals-2016/pwn/diapers-simulator/sudhackar

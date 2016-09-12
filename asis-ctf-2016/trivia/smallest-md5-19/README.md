@@ -14,4 +14,6 @@ Now the other guy is pissed off and wants to know where have I got this hash fro
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.megabeets.net/asis-ctf-smallest-md5/
+* https://0x90r00t.com/fr/2016/09/11/asis-finals-2016-trivia-19-smallest-md5-write-up/
+* https://ctftime.org/writeup/4077

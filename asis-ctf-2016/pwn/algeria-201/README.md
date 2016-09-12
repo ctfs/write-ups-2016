@@ -15,4 +15,5 @@ nc alegria.asis-ctf.ir 8282
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/eaglePwn/CTFwriteup/blob/master/asis2016_final/alegria/solve.py
+* https://github.com/kitctf/writeups/blob/master/asis-finals-2016/shadow/solve.py

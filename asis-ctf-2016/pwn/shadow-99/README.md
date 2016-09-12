@@ -15,4 +15,5 @@ nc shadow.asis-ctf.ir 31337
 
 ## Other write-ups and resources
 
-* none yet
+* https://amritabi0s.wordpress.com/2016/09/12/asis-finals-2016-shadow-write-up/
+* https://github.com/kitctf/writeups/blob/master/asis-finals-2016/shadow/solve.py

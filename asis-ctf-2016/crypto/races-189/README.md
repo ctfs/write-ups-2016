@@ -13,4 +13,5 @@ Find the flag by using the given [file](RACES.txz).
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.ankursundara.com/asis-ctf-finals-2016-races/
+* https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/races

@@ -13,4 +13,4 @@ Why is the [sky blue](blue.txz)?
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.megabeets.net/asis-ctf-skyblue/
