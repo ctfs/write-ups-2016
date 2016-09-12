@@ -1,0 +1,45 @@
+# ASIS CTF Finals 2016 write-ups
+
+* <https://asis-ctf.ir>
+* [Scoreboard](https://asis-ctf.ir/scoreboard/) or [local alternative](scoreboard)
+
+## Completed write-ups
+
+* none yet
+
+## External write-ups only
+
+* none yet
+
+## Missing write-ups
+
+* [pwn/diapers-simulator-134](pwn/diapers-simulator-134)
+* [pwn/semanager-279](pwn/semanager-279)
+* [pwn/algeria-201](pwn/algeria-201)
+* [pwn/heapstar-259](pwn/heapstar-259)
+* [pwn/shadow-99](pwn/shadow-99)
+* [pwn/car-market-177](pwn/car-market-177)
+* [ppc/secuprim-65](ppc/secuprim-65)
+* [reverse/licensable-121](reverse/licensable-121)
+* [reverse/trinity-247](reverse/trinity-247)
+* [reverse/internet-of-what-163](reverse/internet-of-what-163)
+* [reverse/oracle-354](reverse/oracle-354)
+* [reverse/my-cat-323](reverse/my-cat-323)
+* [reverse/pretty-shallow-133](reverse/pretty-shallow-133)
+* [forensic/one-bad-son-127](forensic/one-bad-son-127)
+* [forensic/sky-blue-73](forensic/sky-blue-73)
+* [forensic/p1ng-121](forensic/p1ng-121)
+* [forensic/typo-131](forensic/typo-131)
+* [forensic/raw-vaganism-89](forensic/raw-vaganism-89)
+* [trivia/ctf-101-3](trivia/ctf-101-3)
+* [trivia/smallest-md5-19](trivia/smallest-md5-19)
+* [crypto/dam-277](crypto/dam-277)
+* [crypto/the-imitation-game-84](crypto/the-imitation-game-84)
+* [crypto/races-189](crypto/races-189)
+* [crypto/srpp-231](crypto/srpp-231)
+* [crypto/rsa-113](crypto/rsa-113)
+* [crypto/dsa-333](crypto/dsa-333)
+* [crypto/only9-380](crypto/only9-380)
+* [web/php-asm-366](web/php-asm-366)
+* [web/master-page-315](web/master-page-315)
+* [web/pentest-298](web/pentest-298)
