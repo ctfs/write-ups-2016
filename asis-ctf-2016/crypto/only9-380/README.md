@@ -15,4 +15,4 @@ nc only9.asis-ctf.ir 42953
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/kitctf/writeups/blob/master/asis-finals-2016/only9/solve.py

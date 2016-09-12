@@ -13,4 +13,4 @@ Cooking the files reduces their nutritious value. Consume your [files](raw_vegan
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/4075

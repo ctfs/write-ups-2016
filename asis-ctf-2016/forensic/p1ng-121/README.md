@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://amritabi0s.wordpress.com/2016/09/12/asis-finals-2016-p1ng-write-up/

@@ -15,4 +15,4 @@ nc heapstar.asis-ctf.ir 1337
 
 ## Other write-ups and resources
 
-* none yet
+* https://kimiyuki.net/blog/2016/09/12/asis-ctf-finals-2016-heapstar/
