@@ -26,10 +26,10 @@
 * [crypto/rsa-113](crypto/rsa-113)
 * [crypto/only9-380](crypto/only9-380)
 * [web/pentest-298](web/pentest-298)
+* [reverse/licensable-121](reverse/licensable-121)
 
 ## Missing write-ups
 
-* [reverse/licensable-121](reverse/licensable-121)
 * [reverse/trinity-247](reverse/trinity-247)
 * [reverse/internet-of-what-163](reverse/internet-of-what-163)
 * [reverse/oracle-354](reverse/oracle-354)

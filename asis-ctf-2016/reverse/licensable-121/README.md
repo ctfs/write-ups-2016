@@ -14,4 +14,4 @@ Generate a [license](licensable.txz) for admin@asis-ctf.ir. Flag format is ASIS{
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/TeamContagion/CTF-Write-Ups/blob/master/ASIS-Finals-2016/Licensable/readme.md
