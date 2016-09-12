@@ -24,3 +24,4 @@ We have `N`, `e`, and `c` from [`flag.txt`](flag.txt). We call see that `e` is `
 * https://capturetheflags.blogspot.in/2016/08/icectf-2016-rsa.html
 * [Japanese](https://ctftime.org/writeup/3811)
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#rsa-50-p
+* https://www.youtube.com/watch?v=k9hiLH3i9Rw&feature=youtu.be

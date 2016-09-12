@@ -19,3 +19,4 @@ I found this awesome premium shell, but my demo version just ran out... can you 
 * http://nexusdroid.blogspot.com/2016/08/icectf-stage-2-smashing-profit-writeup.html
 * http://wumb0.in/icectf-2016-demo.html
 * http://hyp3rv3locity.com/content/icectf-2016-demo-pwn-55-pt
+* https://www.youtube.com/watch?v=qmIZMibXJ20&feature=youtu.be
