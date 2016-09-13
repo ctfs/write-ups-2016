@@ -15,4 +15,4 @@ By using given [code](DSA.txz) and [file](params.txt) and [pubkey](pubkey), find
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/dsa

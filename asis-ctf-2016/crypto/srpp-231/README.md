@@ -15,4 +15,4 @@ nc srpp.asis-ctf.ir 22778
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/srpp

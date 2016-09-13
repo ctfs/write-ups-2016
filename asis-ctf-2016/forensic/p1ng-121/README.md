@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * https://amritabi0s.wordpress.com/2016/09/12/asis-finals-2016-p1ng-write-up/
+* https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/p1ng
