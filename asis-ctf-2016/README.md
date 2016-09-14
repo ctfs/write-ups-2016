@@ -5,7 +5,8 @@
 
 ## Completed write-ups
 
-* none yet
+* [reverse/internet-of-what-163](reverse/internet-of-what-163)
+* [reverse/oracle-354](reverse/oracle-354)
 
 ## External write-ups only
 
@@ -35,8 +36,6 @@
 ## Missing write-ups
 
 * [reverse/trinity-247](reverse/trinity-247)
-* [reverse/internet-of-what-163](reverse/internet-of-what-163)
-* [reverse/oracle-354](reverse/oracle-354)
 * [reverse/my-cat-323](reverse/my-cat-323)
 * [reverse/pretty-shallow-133](reverse/pretty-shallow-133)
 * [forensic/typo-131](forensic/typo-131)
