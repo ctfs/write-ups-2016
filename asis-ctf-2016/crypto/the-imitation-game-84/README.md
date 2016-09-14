@@ -19,4 +19,4 @@ Knowing the names of the **airline** and **movies** will help you solve this cha
 
 ## Other write-ups and resources
 
-* none yet
+* https://ctftime.org/writeup/4101
