@@ -194,7 +194,7 @@ description size check in the add_one function. Precisely to the false branch:
 
 Instead of returning an error or looping, the add_one function is called
 recursively. When such a recursive call occurs, the return address is pushed
-onto the shadow-stack, letting it grow upwards. You might already know where
+onto the shadow-stack, letting it grow downwards. You might already know where
 this is heading... If we manage to trigger enough recursive calls we will
 overflow the mapped shadow-stack area and land right in our heap section.
 Thereby we're able to overwrite a beerstruct with return addresses from the
