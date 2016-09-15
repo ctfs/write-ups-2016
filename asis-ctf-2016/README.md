@@ -7,6 +7,7 @@
 
 * [reverse/internet-of-what-163](reverse/internet-of-what-163)
 * [reverse/oracle-354](reverse/oracle-354)
+* [pwn/shadow-99](pwn/shadow-99)
 
 ## External write-ups only
 
@@ -14,7 +15,6 @@
 * [pwn/semanager-279](pwn/semanager-279)
 * [pwn/algeria-201](pwn/algeria-201)
 * [pwn/heapstar-259](pwn/heapstar-259)
-* [pwn/shadow-99](pwn/shadow-99)
 * [pwn/car-market-177](pwn/car-market-177)
 * [ppc/secuprim-65](ppc/secuprim-65)
 * [forensic/sky-blue-73](forensic/sky-blue-73)
