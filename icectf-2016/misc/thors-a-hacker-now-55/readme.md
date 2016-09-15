@@ -18,3 +18,4 @@ Thor has been staring at this for hours and he can't make any sense out of it, c
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/ThorsAHackerNow-misc-55
 * http://wumb0.in/icectf-2016-thor-is-a-hacker-now.html
 * https://github.com/burlingpwn/writeups/tree/master/IceCTF-2016/thor
+* https://www.youtube.com/watch?v=MkhlHoU8Szg
