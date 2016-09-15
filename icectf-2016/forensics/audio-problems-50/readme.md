@@ -19,3 +19,4 @@ We intercepted this audio signal, it sounds like there could be something hidden
 * https://github.com/Ctf-Trinidad/WRITEUPS/tree/master/2016.08.IceCTF/AudioProblems
 * http://countersite.org/articles/steganography/110-audio-problems.html
 * https://github.com/bburky/mathematica-ctf-writeups/blob/master/Spectrogram%20image/
+* https://www.youtube.com/watch?v=9HeoqHNwGm4
