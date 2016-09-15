@@ -86,8 +86,8 @@ and grows towards smaller addresses.
 You can find the base address of the shadow-stack in the shadow_stack variable
 residing at 0x0804a4c0.
 
-Second of all you might notic an out-of-bounds memory read in the sym.beerdesc
-function, where the choice of the desired beer to be viewed is read in as:
+Second of all you might notice an out-of-bounds memory read in the sym.beerdesc
+function, where the choice of the desired beer is read into memory as:
 	
     lea eax, dword [ebp - local_70h] ;[b]
     push eax
@@ -299,7 +299,7 @@ memory.
 
 Finally we have the following game plan:
 
-* For the nickname we insert our shellcode, padded with some NOPs at the beginning
+* In the nickname we insert our shellcode, padded with some NOPs at the beginning
 * We create a new beer and chose a description size big enough to be mmaped
   right below our shadow-stack
 * We call add_one recurisvely by adding another beer and giving an invalid size
