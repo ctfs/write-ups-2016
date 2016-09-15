@@ -25,6 +25,7 @@ I won't give a detailed description of the reversing process itself and
 just mention the important parts.
 
 Let's start of by running the binary itself:
+
 	$ ./shadow
 	Hey, what's your name?
 	mightymo
@@ -35,6 +36,7 @@ Let's start of by running the binary itself:
 
 Ok it seems like we have to do a litte bit of reversing here...
 So we fire up radare:
+
 	$ r2 -A shadow
 	...
 	[0x08048660]> ! checksec --file shadow
@@ -68,7 +70,7 @@ it of your own, as I will now concentrate on the exploitation part of the game.
 
 The first thing you'll notice are the weird looking function calls:
 	
-	push sym.beer_counter ; sym.beer_counter  |
+	push sym.beer_counter ; sym.beer_counter
 	call fcn.08048e28 ;[c]
 
 Which result from the usage of a shadow-stack. This means instead of the
@@ -88,9 +90,9 @@ residing at 0x0804a4c0.
 Second of all you might notic an out-of-bounds memory read in the sym.beerdesc
 function, where the choice of the desired beer to be viewed is read in as:
 	
-	lea eax, dword [ebp - local_70h] ;[b]                 |
-    push eax                                              |
-    push str._255s ; str._255s                            |
+    lea eax, dword [ebp - local_70h] ;[b]
+    push eax
+    push str._255s ; str._255s
     push sym.imp.__isoc99_scanf ; sym.imp.__isoc99_scanf
 
 Which basically reads 0xff (255) bytes from stdin to the stack 0x70 above ebp.
@@ -101,8 +103,8 @@ canaries... Damn it!
 The next thing that leaps out is the huge description size you're allowed to 
 allocate in the sym.add_one function:
 
-	mov eax, dword [ebp - local_34h] |           |
-    cmp eax, 0x100000                |           |
+    mov eax, dword [ebp - local_34h]
+    cmp eax, 0x100000 
     jbe 0x8048919 ;[h] 
 
 This is one of the crucial parts of this exploit and you should test this by
@@ -238,35 +240,35 @@ ebp/rip. If we have a look at the code above starting with instruction at
 
 1. 0x0804890c add esp, 0x10
 
-	+0x4	|  rip		|
-	ebp ->	|  ebp		|
-	-0x4	|			|
-	-0x8	|			|
-	-0xc	| canary	|
-	...		|			|
-	-0x70	| scanf buf | <- esp
-	-0x74	|			|
-	-0x78	|			|
-	-0x7c	|			|
-	-0x80	| &ret_func	|  
-	-0x7c	|	rip		|
+		+0x4	|  rip		|
+		ebp ->	|  ebp		|
+		-0x4	|			|
+		-0x8	|			|
+		-0xc	| canary	|
+		...		|			|
+		-0x70	| scanf buf | <- esp
+		-0x74	|			|
+		-0x78	|			|
+		-0x7c	|			|
+		-0x80	| &ret_func	|  
+		-0x7c	|	rip		|
 
 2. 0x080489ff leave
 
-	ebp -> (points to next frame) 
+		ebp -> (points to next frame) 
 
-	+0x4	|  rip		| <- esp
+		+0x4	|  rip		| <- esp
 			|  ebp		| 
-	-0x4	|			|
-	-0x8	|			|
-	-0xc	| canary	|
-	...		|			|
-	-0x70	| scanf buf |
-	-0x74	|			|
-	-0x78	|			|
-	-0x7c	|			|
-	-0x80	| &ret_func	|  
-	-0x7c	|	rip		|
+		-0x4	|			|
+		-0x8	|			|
+		-0xc	| canary	|
+		...		|			|
+		-0x70	| scanf buf |
+		-0x74	|			|
+		-0x78	|			|
+		-0x7c	|			|
+		-0x80	| &ret_func	|  
+		-0x7c	|	rip		|
 
 
 3. 0x08048a00 ret
