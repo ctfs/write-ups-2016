@@ -11,10 +11,9 @@ nc shadow.asis-ctf.ir 31337
 
 ## Write-up
 
-This was rather unusual exploitation challenge, nevertheless it's quite
-refreshing and was still a lot of fun to solve.
-However it was marked as a "warm-up" challenge, which sounds more harmless
-than it turned out to be! 
+This was a rather unusual exploitation challenge, nevertheless was quite
+refreshing and still a lot of fun to solve.
+However marking it as a "warm-up" challenge seems a little bit optimistic in my opinion! 
 
 As always here are my tools used in this challenge:
 * [radare2](https://github.com/radare/radare2)
@@ -48,7 +47,7 @@ Alright no PIE and no NX, seems like our lucky day!
 With a little bit of further reversing we find out that the binary is all about
 beers. In the menu we can chose between creating a new beer via '1' or
 viewing/modifying an existing beer via '2'. A beer itself is represented with a
-struct looking similar to this:
+struct looking smth. like this:
 
 	struct beerstruct {
 		int description_size;
@@ -66,7 +65,7 @@ randomly assigned one of four predefined funtions:
 	0x08048815    1 30           sym.heinz
  
 I encourage you to play around with the binary a little bit further and reverse
-it of your own, as I will now concentrate on the exploitation part of the game.
+it of your own, as I will now concentrate on the exploiting part of the game.
 
 The first thing you'll notice are the weird looking function calls:
 	
@@ -77,8 +76,8 @@ Which result from the usage of a shadow-stack. This means instead of the
 placing the return instruction pointer (rip) on the regular stack-frame,
 it is saved in special memory region called shadow-stack and the address of a
 special return-function is placed on the regular stack in it's place.
-When a return happens the original rip is fetched by the return
-function from the shadow stack again and the execution continues.
+When a return happens the original rip is fetched from the shadow stack by the return
+function and the execution continues.
 This is used as a potential counter measure against e.g. buffer
 overflow vulnerabilities and kind of the first setback to our lucky day,
 but we will see...
@@ -97,7 +96,7 @@ function, where the choice of the desired beer to be viewed is read in as:
 
 Which basically reads 0xff (255) bytes from stdin to the stack 0x70 above ebp.
 You should see the buffer overflow here immediately, remember the executable
-stack and get exited for a short moment! ... And then realize you forgot the
+stack and get excited for a short moment! ... And then realize you forgot the
 canaries... Damn it!
 
 The next thing that leaps out is the huge description size you're allowed to 
@@ -110,7 +109,7 @@ allocate in the sym.add_one function:
 This is one of the crucial parts of this exploit and you should test this by
 yourself! The first thing you might be wondering is that this description size
 looks suspiciously big and you might be thinking what happens when you choose
-such a description size... So let's try it out:
+such a description size... So let's just try it:
 	
 	$ gdb -q ./shadow
 	gdb-peda$ break *0x080488f8
@@ -175,9 +174,9 @@ we wanted to allocate was bigger than the top chunk of the heap could provide.
 Thereby a memory region adjacent to the shadow stack is mmaped and returned to
 the malloc call.
 So we got our heap region just above the shadow-stack, but don't have any
-overflow in the beestruct... Does this help us in any way? 
-It turns out it does, but we have to take a closer look to the check for the
-description size of the add_one function. Precisely to the false branch:
+overflow in the beestruct... So the question remains, does this help us in any way? 
+It turns out it does, but we have to take a closer look to
+description size check in the add_one function. Precisely to the false branch:
 	
 	0x80488ff
 	0x080488ff sub esp, 0xc
@@ -191,7 +190,7 @@ description size of the add_one function. Precisely to the false branch:
 		...
 	0x80489ff        
 	0x080489ff leave              
-    0x08048a00 ret                
+    	0x08048a00 ret                
 
 Instead of returning an error or looping, the add_one function is called
 recursively. When such a recursive call occurs, the return address is pushed
@@ -204,7 +203,7 @@ that complicated in practice. Also if you remember correctly the beerstruct
 contained a function pointer and this one is called in the sym.beerdesc
 function:
 	
-	mov eax, dword [ebp - local_78h]      
+    mov eax, dword [ebp - local_78h]      
     mov eax, dword [eax*4 + obj.beerlist] 
     mov eax, dword [eax + 4]              
     sub esp, 0xc                          
@@ -212,25 +211,25 @@ function:
     call fcn.08048e28 ;[a]
 
 
-Alright so by overflowing into the heap we're able to overwrite the function
+Alright, by overflowing into the heap we're able to overwrite the function
 pointer with a rip and with a subsequent "view" of the particular
-beer we can trigger a call to this rip.
+beer we can trigger a call to this overwritten function pointer.
 So how is this scenario exploitable by us?
 In order to understand this, let's have a look at the stack right before the
 call:
 
-	+0x4	|  rip		|
-	ebp ->	|  ebp		|
-	-0x4	|			|
-	-0x8	|			|
-	-0xc	| canary	|
-	...		|			|
-	-0x70	| scanf buf |
-	-0x74	|			|
-	-0x78	|			|
-	-0x7c	|			|
-	-0x80	| &ret_func	| <- esp
-	-0x7c	|	rip		|
+	+0x4	|     rip	|
+	ebp ->	|     ebp	|
+	-0x4	|		|
+	-0x8	|		|
+	-0xc	|    canary	|
+	...	|		|
+	-0x70	|  scanf buf    |
+	-0x74	|		|
+	-0x78	|		|
+	-0x7c	|		|
+	-0x80	|  &ret_func	| <- esp
+	-0x7c	|      rip	|
 
 The return-function, which I haven't covered in detail, is responsible for the
 top of the stack, but this isn't important for us.
@@ -240,35 +239,35 @@ ebp/rip. If we have a look at the code above starting with instruction at
 
 1. 0x0804890c add esp, 0x10
 
-		+0x4	|  rip		|
-		ebp ->	|  ebp		|
-		-0x4	|			|
-		-0x8	|			|
-		-0xc	| canary	|
-		...		|			|
-		-0x70	| scanf buf | <- esp
-		-0x74	|			|
-		-0x78	|			|
-		-0x7c	|			|
-		-0x80	| &ret_func	|  
-		-0x7c	|	rip		|
+		+0x4	|    rip	|
+		ebp ->	|    ebp	|
+		-0x4	|		|
+		-0x8	|		|
+		-0xc	|   canary	|
+		...	|		|
+		-0x70	|  scanf buf 	| <- esp
+		-0x74	|		|
+		-0x78	|		|
+		-0x7c	|		|
+		-0x80	|  &ret_func	|  
+		-0x7c	|    rip	|
 
 2. 0x080489ff leave
 
 		ebp -> (points to next frame) 
 
-		+0x4	|  rip		| <- esp
-			|  ebp		| 
-		-0x4	|			|
-		-0x8	|			|
-		-0xc	| canary	|
-		...		|			|
-		-0x70	| scanf buf |
-		-0x74	|			|
-		-0x78	|			|
-		-0x7c	|			|
-		-0x80	| &ret_func	|  
-		-0x7c	|	rip		|
+		+0x4	|    rip	| <- esp
+			|    ebp	| 
+		-0x4	|		|
+		-0x8	|		|
+		-0xc	|    canary	|
+		...	|		|
+		-0x70	|   scanf buf 	|
+		-0x74	|		|
+		-0x78	|		|
+		-0x7c	|		|
+		-0x80	|   &ret_func	|  
+		-0x7c	|    rip	|
 
 
 3. 0x08048a00 ret
@@ -289,7 +288,7 @@ The stack is randomized, so we have two possibilities:
 I know that the latter sounds some kind of unlikely, but I didn't mention it
 without reason! It turns out the bss segment is executable and because it's our
 lucky day, the username we get asked for at the beginning is stored exactly
-there, with a size of 64 bytes:
+in there, with a max. size of 64 bytes:
 
 	:> is~nickname
 	vaddr=0x0804a520 paddr=0x00001520 ord=095 fwd=NONE sz=64 bind=GLOBAL type=OBJECT name=nickname
@@ -300,20 +299,19 @@ memory.
 
 Finally we have the following game plan:
 
-* For the nickname we insert our shellcode padded with some NOPs at the beginning
+* For the nickname we insert our shellcode, padded with some NOPs at the beginning
 * We create a new beer and chose a description size big enough to be mmaped
   right below our shadow-stack
-* Call add_one recurisvely by adding another beer and giving a invalid size
+* We call add_one recurisvely by adding another beer and giving an invalid size
   until we overflow the first beerchunk's function pointer.
 * We choose the view option from the menu and when the beerdesc function asks
   for the index, we give an input that sets index 0 and replaces the rip with
-  our nickname address (+4) 0x0804A524
-* Sit back and wait for the return
+  our nickname's address (+4): 0x0804A524
+* Finally we sit back and wait for the call
 
 And here is our final exploit in action:
 
 	$ p2 beer_pwn.py
-	p2 asis.py                                                                                                                                                                   01:32:18  
 	[+] Starting local process './shadow': Done
 	[3522]
 	[*] Paused (press any to continue)
