@@ -21,3 +21,4 @@ Go Green!
 * https://github.com/bburky/mathematica-ctf-writeups/blob/master/LSB%20image/
 * http://wumb0.in/icectf-2016-vape-nation.html
 * https://github.com/bburky/mathematica-ctf-writeups/blob/master/LSB%20image/
+* https://www.youtube.com/watch?v=rOY4SMmTYQI

@@ -17,3 +17,4 @@ Those who came before me lived through their vocations From the past until compl
 * https://github.com/bburky/mathematica-ctf-writeups/blob/master/MIDI%20notes/
 * http://wumb0.in/icectf-2016-blue-monday.html
 * https://github.com/bburky/mathematica-ctf-writeups/blob/master/MIDI%20notes/
+* https://www.youtube.com/watch?v=jYfBWmPERXs
