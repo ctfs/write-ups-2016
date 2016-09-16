@@ -14,3 +14,4 @@ The description of this challenge indicates the database is empty (no accounts).
 
 * http://rawsec.ml/en/IceCTF-65-Miners-Web/
 * http://hyp3rv3locity.com/content/icectf-2016-miners-web-65-pt
+* https://www.youtube.com/watch?v=jHwwpDInSWk
