@@ -20,3 +20,4 @@ This challenge indicates that it is necessary to find a previous version, or sna
 * http://5k33tz.com/icectf-time-traveler/
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Forensics/Time%20Traveler
 * [Japanese](https://ctftime.org/writeup/3808)
+* https://gitlab.com/Babache/writeups/tree/master/CTF/IceCTF2k16/Stage-1/Time_Traveler

@@ -18,3 +18,4 @@ By opening developer tools on the webpage, it is apparent that there is a script
 * http://5k33tz.com/icectf-spotlight/
 * https://github.com/TeamContagion/CTF-Write-Ups/blob/master/icectf-2016/Web/Spotlight
 * [Japanese](https://ctftime.org/writeup/3804)
+* https://gitlab.com/Babache/writeups/tree/master/CTF/IceCTF2k16/Stage-1/Spotlight

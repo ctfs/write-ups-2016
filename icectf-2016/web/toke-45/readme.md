@@ -18,3 +18,4 @@ The use of the word `toke` hints the challenge may refer to tokens used in web a
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Toke-Web-45
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#toke-45-p
 * https://youtu.be/ACsakftX2L4
+* https://gitlab.com/Babache/writeups/tree/master/CTF/IceCTF2k16/Stage-2/Toke
