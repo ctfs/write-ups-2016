@@ -1,0 +1,22 @@
+$ # vim: ft=wtf
+$ source user_functions.sh
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/std.css" >
+</head>
+$ if contains 'user' ${!URL_PARAMS[@]} && file_exists "users/${URL_PARAMS['user']}"
+$ then
+$   local username=$(head -n 1 users/${URL_PARAMS['user']});
+$   echo "<h3>${username}'s posts:</h3>";
+$   echo "<ol>";
+$   get_users_posts "${username}" | while read -r post; do
+$       post_slug=$(awk -F/ '{print $2 "#" $3}' <<< "${post}");
+$       echo "<li><a href=\"/post.wtf?post=${post_slug}\">$(nth_line 2 "${post}" | htmlentities)</a></li>";
+$   done 
+$   echo "</ol>";
+$   if is_logged_in && [[ "${COOKIES['USERNAME']}" = 'admin' ]] && [[ ${username} = 'admin' ]]
+$   then
+$       get_flag1
+$   fi
+$ fi
+</html>

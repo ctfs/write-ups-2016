@@ -1,0 +1,32 @@
+$ # vim: ft=wtf
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/std.css" >
+    <link rel="stylesheet" type="text/css" href="/css/post.css" >
+</head>
+<body>
+$ source user_functions.sh
+$ if contains 'post' ${!URL_PARAMS[@]} && file_exists "posts/${URL_PARAMS['post']}"
+$ then
+$   post_id=${URL_PARAMS['post']};
+$   for post_file in $(ls posts/${post_id}/* | sort --field-separator='/' --key=3 -n); do
+$       echo "<div class=\"post\">";
+$       poster=$(nth_line 1 ${post_file} | htmlentities);
+$       title=$(nth_line 2 ${post_file} | htmlentities);
+$       body=$(tail -n +3 ${post_file} | htmlentities 2> /dev/null);
+$       echo "<span class=\"post-poster\">Posted by <a href=\"/profile.wtf?user=$(basename $(find_user_file "${poster}"))\">${poster}</a></span>";
+$       echo "<span class=\"post-title\">$title</span>";
+$       echo "<span class=\"post-body\">$body</span>";
+$       echo "</div>";
+$   done
+$ else
+$   echo "Pls give a (valid) post id";
+$ fi;
+
+<div class="action-btns">
+$   echo "<a href=\"/reply.wtf?post=${post_id}\">Reply</a>"
+<a href="/">Back</a>
+</div>
+
+</body>
+</html>

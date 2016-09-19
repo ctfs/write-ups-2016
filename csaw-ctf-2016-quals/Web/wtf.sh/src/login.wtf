@@ -1,0 +1,36 @@
+$ # vim: ft=wtf
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/std.css" >
+</head>
+$ source user_functions.sh
+$ if [[ $method = 'POST' ]]
+$ then
+$   local username=${POST_PARAMS['username']};
+$   local password=${POST_PARAMS['password']};
+$   local userfile=$(find_user_file ${username});
+$   if [[ ${userfile} != 'NONE' ]]
+$   then 
+$       # User exists, try to login
+$       if $(check_password ${username} ${password})
+$       then
+$           # correct pass
+$           set_cookie "USERNAME" ${username};
+$           set_cookie "TOKEN" $(nth_line 3 ${userfile});
+$           redirect "/";
+$       else 
+$           # incorrect pass
+$           echo "<h3>Sorry, wrong password for user ${username}:(<br>Try again?</h3>";
+$       fi
+$   else
+$       # user doesn't exist
+$       echo "<h3>Sorry, user ${username} doesn't exist :(<br>Try again?</h3>"
+$   fi
+$ fi
+<h3>Login</h3>
+<form method=POST>
+<input type=text name=username placeholder="username"></input><br>
+<input type=password name=password placeholder="password"></input><br>
+<button type=submit name=submit>Submit</button>
+</form>
+</html>
