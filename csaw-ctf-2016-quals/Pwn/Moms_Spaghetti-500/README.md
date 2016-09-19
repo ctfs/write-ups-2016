@@ -39,4 +39,4 @@ you probably don't want to recompile if we want it reproducibly exploitable
 
 ## Other write-ups and resources
 
-* none yet
+* https://pastebinthehacker.blogspot.de/2016/09/csaw-2016-pwn-500-momspaghetti-draft.html?m=1

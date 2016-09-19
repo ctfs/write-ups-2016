@@ -11,4 +11,5 @@ See [./solution/README](solution/README)
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/pwn-100-aul.md
+* https://github.com/ret2libc/ctfs/tree/master/csaw2016/aul

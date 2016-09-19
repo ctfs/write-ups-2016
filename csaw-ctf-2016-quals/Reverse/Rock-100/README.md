@@ -16,4 +16,6 @@ See [solution.cpp](solution.cpp)
 
 ## Other write-ups and resources
 
-* none yet
+* https://youtu.be/ijOK8LLZwLg
+* https://eugenekolo.com/blog/csaw-qual-ctf-2016/#therock
+* https://guiltyspork.ca/csaw-reverse-100-rock-e53291a3a367

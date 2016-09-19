@@ -38,4 +38,6 @@ b'flag{We are fsociety, we are finally free, we are finally awake!}'
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/krx/CTF-Writeups/tree/master/CSAW%2016%20Quals/for250%20-%20Watchword
+* https://shankaraman.wordpress.com/2016/09/18/csaw-ctf-2016-watchword-250-forensics/
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/forensics-250-watchword.md

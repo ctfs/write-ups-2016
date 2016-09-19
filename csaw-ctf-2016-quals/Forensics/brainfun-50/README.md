@@ -14,4 +14,4 @@ Scrambled Fun for Everyone!
 
 ## Other write-ups and resources
 
-* none yet
+* https://gist.github.com/Lense/a8e94e96f886cb773f646b8aaea806fc

@@ -32,4 +32,6 @@ Finally the program will spit out:
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.megabeets.net/csaw-2016-gametime-writeup/
+* https://youtu.be/MoGtAHvagJw
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/reversing-50-gametime.md

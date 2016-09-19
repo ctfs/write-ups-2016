@@ -26,4 +26,4 @@ cat flag.txt
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/krx/CTF-Writeups/tree/master/CSAW%2016%20Quals/for150%20-%20Yaar%20Haar%20Fiddle%20Dee%20Dee
