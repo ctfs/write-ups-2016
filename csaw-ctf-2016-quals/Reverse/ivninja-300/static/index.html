@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>IV Ninja</title>
+
+		<link rel="stylesheet" type="text/css" href="/css/ivninja.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.2.0/css/bootstrap-slider.min.css">
+</head>
+<body>
+	<!-- Static navbar -->
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">IV Ninja</a>
+			</div>
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="/">Home</a></li>
+					<!-- <li><a href="/admin.html">Admin</a></li> -->
+					<li data-toggle="modal" data-target="#aboutModal"><a id="aboutButton" href="#">About</a></li>
+				</ul>
+			</div><!--/.nav-collapse -->
+		</div><!--/.container-fluid -->
+	</nav>
+
+	<div class="container">
+		<div class="well">Welcome to the IV Ninja Calculator. It's been reported that wild creatures are appearing all over the world.  You might wonder about their various hidden abilities. Well, wonder no more as IV Ninja will suss out the secrets within and calculate just how good your special creature is. Of course, it's up to you to suss out the secret within IV Ninja itself...</div>
+
+		<div class="row">
+			<div class="col-md-4">
+				<label for="image-upload" id="image-label">Choose File</label>
+				<div id="image-preview">
+					<form enctype="multipart/form-data">
+						<input type="file" name="image" id="image-upload" accept="image/*" required />
+					</form>
+					<div id="results">
+						<div id="pname">Name</div>
+						<div>Level: <span id="plevel">00</span> | CP: <span id="pcp">0000</span> </div>
+						<div>HP: <span id="php">00</span> | CP %: <span id="pcpp">100%</span></div>
+						<div id="pstars">⭐⭐⭐⭐⭐</div>
+						<div id="prating">Very Good</div>
+						<div>Battle IV: <span id="pbivmin">00</span>/<span id="pbivmax">00</span> | HP IV: <span id="phpivmin">00</span>/<span id="phpivmax">00</span></div>
+					</div>
+				</div>
+				<div id="level">Level</div>
+				<div id="levelSlider"><input id="slider" data-slider-id='levelSlider' type="text" data-slider-min="0" data-slider-max="40" data-slider-step="1" data-slider-value="20"/></div>
+				<div id="analyze">Analyze</div>
+
+			</div>
+			<div class="col-md-8">
+				<img src="img/ivninja.png" />
+			</div>
+		</div>
+	</div>
+
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.2.0/bootstrap-slider.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<script src="/js/jquery.uploadPreview.min.js"></script>
+	<script src="/js/ivninja.js"></script>
+
+<div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="aboutModalLabel">About IV Ninja</h4>
+      </div>
+      <div class="modal-body">
+		<div>IV Ninja is a creation of <a href="https://vector35.com/">Vector 35™</a>.</div>
+		<div>You can <a href="/ivninja.zip">download</a> the very FAST binary that does the processing if you'd like to study it, or you can try a <a href="/img/sample.png">sample image</a> (from a level 20 trainer).</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="errorModal" tabindex="-1" role="dialog" aria-labelledby="errorModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="errorModalLabel">Error</h4>
+      </div>
+      <div class="modal-body">
+		<div id="errorMessage"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

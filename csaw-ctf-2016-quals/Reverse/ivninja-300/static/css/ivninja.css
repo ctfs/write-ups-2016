@@ -1,0 +1,57 @@
+html, body {
+	height: 100%;
+}
+
+#image-preview {
+  /*width: 414px;*/
+  width: 207px;
+  /*height: 736px;*/
+  height: 368px;
+  position: relative;
+  overflow: hidden;
+  background-color: #eeeeee;
+  color: #ecf0f1;
+}
+
+#image-preview input {
+    line-height: 200px;
+    font-size: 200px;
+    position: absolute;
+    opacity: 0;
+    z-index: 10; }
+
+#results {
+	position: absolute;
+	z-index: 10;
+	opacity: 0.7;
+	width: 207px;
+	height: 207px;
+	color: #fff;
+	background-color: #000;
+	top: 190px;
+	display: none;
+	padding: 10px;
+}
+
+#analyze, #level, label {
+	position: relative;
+    z-index: 5;
+    opacity: 0.8;
+    cursor: pointer;
+    background-color: #bdc3c7;
+    width: 207px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    text-transform: uppercase;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+	font-weight: bold;
+}
+
+#pname {
+	text-align: center;
+}
