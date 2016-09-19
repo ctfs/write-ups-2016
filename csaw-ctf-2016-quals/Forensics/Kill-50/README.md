@@ -20,3 +20,4 @@ Is kill can fix? Sign the autopsy file?
 * https://github.com/krx/CTF-Writeups/tree/master/CSAW%2016%20Quals/for50%20-%20kill
 * http://www.megabeets.net/csaw-2016-kill/
 * https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/forensics-50-kill.md
+* https://bannsecurity.com/index.php/home/10-ctf-writeups/38-csaw-2016-kill
