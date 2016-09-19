@@ -20,4 +20,7 @@ Unzipping the clam, there is an `image0.gif` inside of `ppt/media` that is MaxiC
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.megabeets.net/csaw-2016-clams-dont-dance-writeup/
+* https://github.com/krx/CTF-Writeups/tree/master/CSAW%2016%20Quals/for100%20-%20Clams%20Dont%20Dance
+* http://s0ngsari.tistory.com/entry/CSAW-2016-Clams-Dont-Dance
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/forensics-100-clams_dont_dance.md

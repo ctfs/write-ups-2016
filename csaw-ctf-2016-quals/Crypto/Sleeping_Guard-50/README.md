@@ -31,4 +31,8 @@ Solution Script:
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/grocid/CTF/tree/master/CSAW/2016
+* http://www.megabeets.net/csaw-2016-sleeping-guard-writeup/
+* https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/sleeping_guard
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/crypto-50-sleeping_guard.md
+* https://github.com/grocid/CTF/tree/master/CSAW/2016#sleeping-guard-50-p

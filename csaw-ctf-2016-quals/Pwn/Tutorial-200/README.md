@@ -16,4 +16,10 @@ See [tutorial.py](tutorial.py)
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/xPowerz/CTF-Writeups/tree/master/2016/CSAW/Tutorial
+* https://pastebinthehacker.blogspot.com.au/2016/09/csaw-2016-tutorial-pwn-200-draft.html
+* https://github.com/aweinstock314/aweinstock-ctf-writeups/tree/master/csaw_quals_2016/pwn200_tutorial
+* https://github.com/ByteBandits/writeups/tree/master/csaw-quals-2016/pwn/tutorial/sudhackar
+* http://s0ngsari.tistory.com/entry/CSAW-2016-tutorial
+* https://github.com/InfoSecIITR/write-ups/tree/master/2016/csaw-quals-2016/pwn/tutorial
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/pwn-200-tutorial.md

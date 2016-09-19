@@ -17,4 +17,6 @@ See [solution.py](solution.py)
 
 ## Other write-ups and resources
 
-* none yet
+* https://eugenekolo.com/blog/csaw-qual-ctf-2016/#key
+* http://www.megabeets.net/csaw-2016-key-writeup/
+* https://github.com/ispoleet/ctf-writeups/tree/master/csaw_ctf_2016/key

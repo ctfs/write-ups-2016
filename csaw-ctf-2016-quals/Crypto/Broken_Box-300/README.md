@@ -18,4 +18,5 @@ flag{br0k3n_h4rdw4r3_l34d5_70_b17_fl1pp1n6}
 
 ## Other write-ups and resources
 
-* none yet
+* http://mslc.ctf.su/wp/csaw-quals-2016-broken-box-crypto-300-400/
+* https://github.com/grocid/CTF/tree/master/CSAW/2016
