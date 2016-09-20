@@ -23,3 +23,6 @@ See [tutorial.py](tutorial.py)
 * http://s0ngsari.tistory.com/entry/CSAW-2016-tutorial
 * https://github.com/InfoSecIITR/write-ups/tree/master/2016/csaw-quals-2016/pwn/tutorial
 * https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/pwn-200-tutorial.md
+* http://anee.me/tutorial-csaw-ctf-2016-writeup/
+* https://tsunpoko.github.io/CSAW2016/
+* https://github.com/ernw/ctf-writeups/tree/master/csaw2016/tutorial

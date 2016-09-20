@@ -19,3 +19,4 @@ See [solution.cpp](solution.cpp)
 * https://youtu.be/ijOK8LLZwLg
 * https://eugenekolo.com/blog/csaw-qual-ctf-2016/#therock
 * https://guiltyspork.ca/csaw-reverse-100-rock-e53291a3a367
+* https://github.com/ernw/ctf-writeups/tree/master/csaw2016/rock

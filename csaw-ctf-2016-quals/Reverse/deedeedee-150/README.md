@@ -14,4 +14,5 @@ Flag: `flag{t3mplat3_met4pr0gramming_is_gr8_4_3very0n3}`
 
 ## Other write-ups and resources
 
-* none yet
+* http://ift.tt/2cDVxQC
+* https://quanyang.github.io/csaw-ctf-quals-2016-deedeedee/
