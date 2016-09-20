@@ -21,4 +21,4 @@ MD5 (key/solution.txt) = `2c8cd31daeba8753815851f13e6370b3`
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.incertia.net/blog/csaw-quals-2016-tar-tar-binks-400/

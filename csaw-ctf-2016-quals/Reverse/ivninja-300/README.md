@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/4151
+* https://github.com/Jinmo/ctfs/tree/master/csaw16/ivninja

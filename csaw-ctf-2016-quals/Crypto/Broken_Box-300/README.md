@@ -20,3 +20,5 @@ flag{br0k3n_h4rdw4r3_l34d5_70_b17_fl1pp1n6}
 
 * http://mslc.ctf.su/wp/csaw-quals-2016-broken-box-crypto-300-400/
 * https://github.com/grocid/CTF/tree/master/CSAW/2016
+* https://github.com/grocid/CTF/tree/master/CSAW/2016#broken-box-300-p
+* https://github.com/ernw/ctf-writeups/tree/master/csaw2016/broken_box

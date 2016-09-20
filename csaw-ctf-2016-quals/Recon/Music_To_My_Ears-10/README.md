@@ -93,4 +93,4 @@ Going to `https://soundcloud.com/breadchris` you get:
 
 ## Other write-ups and resources
 
-* none yet
+* http://rawsec.ml/en/CSAW-2016-10-Music-to-my-ears-Recon/

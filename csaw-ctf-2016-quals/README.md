@@ -29,15 +29,14 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
-* [Web/wtf.sh](Web/wtf.sh)
+* [Web/wtf.sh-150](Web/wtf.sh-150)
 * [Web/MFW](Web/MFW)
 * [Web/I_Got_Id-200](Web/I_Got_Id-200)
+* [Web/wtf2.sh-400](Web/wtf2.sh-400)
 * [Reverse/Tar-Tar-Binks-400](Reverse/Tar-Tar-Binks-400)
 * [Reverse/ivninja-300](Reverse/ivninja-300)
 * [Pwn/Hungman-300](Pwn/Hungman-300)
 * [Pwn/Moms_Spaghetti-500](Pwn/Moms_Spaghetti-500)
 * [Crypto/Neo-200](Crypto/Neo-200)
+
+## Missing write-ups

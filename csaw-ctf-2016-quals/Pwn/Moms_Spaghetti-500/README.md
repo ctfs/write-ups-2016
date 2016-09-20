@@ -40,3 +40,5 @@ you probably don't want to recompile if we want it reproducibly exploitable
 ## Other write-ups and resources
 
 * https://pastebinthehacker.blogspot.de/2016/09/csaw-2016-pwn-500-momspaghetti-draft.html?m=1
+* http://pastebin.com/GEwz7WqZ
+* https://github.com/eaglePwn/CTFwriteup/blob/master/csaw2016/mom_spagetti/solve_pl.py
