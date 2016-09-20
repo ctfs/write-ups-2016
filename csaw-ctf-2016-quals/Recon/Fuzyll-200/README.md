@@ -37,3 +37,4 @@ end
 
 * https://github.com/xPowerz/CTF-Writeups/tree/master/2016/CSAW/Fuzyll
 * https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/fuzyll
+* http://rotimiakinyele.com/csaw-ctf-quals-2016-writeups.jsp

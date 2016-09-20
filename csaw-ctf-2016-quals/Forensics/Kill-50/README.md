@@ -25,3 +25,4 @@ Is kill can fix? Sign the autopsy file?
 * http://rawsec.ml/en/CSAW-2016-50-kill-forensics/
 * https://crackinglandia.wordpress.com/2016/09/19/csaw-ctf-2016-forensics-kill-50-pts-write-up/
 * http://ift.tt/2d5LSWf
+* http://rotimiakinyele.com/csaw-ctf-quals-2016-writeups.jsp
