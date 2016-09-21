@@ -1,0 +1,15 @@
+$ # vim: ft=wtf
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/std.css" >
+</head>
+$ source user_functions.sh
+$ if is_logged_in
+$ then 
+$   remove_cookie 'USERNAME';
+$   remove_cookie 'TOKEN';
+$   redirect "/";
+$ else
+$   echo "<h3>You need to be logged in to log out, bud.</h3>";
+$ fi
+</html>

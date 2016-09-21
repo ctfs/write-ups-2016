@@ -115,4 +115,4 @@ $ ./knock.sh 138.68.152.88 4025 10619 31337 22207; wget -O - 138.68.152.88
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/ctfs/write-ups-2016/tree/master/asis-ctf-2016/reverse/internet-of-what-163

@@ -1,0 +1,29 @@
+BOBBY SCRIPTY
+=============
+
+This challenge is meant to exercise the player's knowledge of LUA and some deductive skills. It is an injection vulnerability where the attacker has the ability to insert a LUA script to gain control of the process.
+
+Initially the player is presented with a console game. The game itself is irrelevant, all it does it allow the player to rotate a square and simulate balls rolling around based on some rules. However the command used to control the square is actually an interpreted string. The string is assumed to be a function name which implements the command. The code is careful as it check to make sure that no injection attack is executed by ensuring that the word 'function' does not appear in the command string. This, of course, is not enough.
+
+
+SETUP
+-----
+
+The set up of the challenge is simple. First, run build.sh to build the code. NOTE: modify build.sh if you're not running it on mac. The LUA make script will require a target name. Then, execute run.sh which will use socat to forward a TCP socket to the executable. Then provide the listening socket information to the player. IMPORTANT: Do not provide anything else. Do not provide the binary or the server.lua script to the player.
+
+
+SOLUTION
+--------
+
+The player is expected to follow a deductive path:
+
+1. Connect and try the commands.
+2. Discover that 'help' actually return some binary data.
+3. Upon analysis the player realizes that binary data is compiled LUA script.
+4. The LUA script will not decompile because it is corrupt.
+5. Comparing is own trials, the player will discover that the header is missing the first byte.
+6. Once the header is fixed the player uses unluac tool to decompile.
+7. After auditing the code, the player noticed the injection.
+8. use `load('lines = io.lines("flag")\n for l in lines do writeline(l) end') -- ` string to obtain the key. There maybe more be more than one solution.
+
+Difficulty: medium.
