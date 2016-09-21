@@ -18,3 +18,4 @@ Flag: See `flag.txt`
 * https://github.com/grocid/CTF/tree/master/CSAW/2016#coinslot-25-p
 * https://github.com/ernw/ctf-writeups/tree/master/csaw2016/coinslot
 * http://rawsec.ml/en/CSAW-2016-25-coinslot-misc/
+* https://github.com/JonathanSinger/ctf-solutions/blob/master/csaw-2016-quals_coinslot.py
