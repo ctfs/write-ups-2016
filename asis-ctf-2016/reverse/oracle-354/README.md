@@ -148,4 +148,4 @@ invert_burrows(fu,start)
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/ctfs/write-ups-2016/tree/master/asis-ctf-2016/reverse/oracle-354

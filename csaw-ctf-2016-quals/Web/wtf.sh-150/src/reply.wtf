@@ -1,0 +1,39 @@
+$ # vim: ft=wtf
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/std.css" >
+</head>
+$ source user_functions.sh
+$ source post_functions.sh
+$ if [[ $method = 'POST' ]]
+$ then
+$   if is_logged_in
+$   then
+$       if [[ ${POST_PARAMS['text']} != '' && ${URL_PARAMS['post']} != '' ]]
+$       then
+$           reply "${URL_PARAMS['post']}" "${COOKIES['USERNAME']}" "${POST_PARAMS['text']}"
+$           redirect "/post.wtf?post=${URL_PARAMS['post']}#${next_post_id}";
+$       else
+$           redirect "/reply.wtf?post=${URL_PARAMS['post']}";
+$       fi
+$   else
+$      redirect "/login.wtf"
+$   fi
+$ fi
+
+$ if [[ ${URL_PARAMS['post']} = '' ]] 
+$ then
+$   echo "u need to be replying to a post, you dumdum";
+$ fi
+
+$ if is_logged_in
+$ then
+$   echo "u r logged in, s0 gib reply"
+$ else
+$   redirect "/login.wtf"
+$ fi
+<form method=POST>
+<textarea name=text placeholder="Reply Text"></textarea><br>
+<button type=submit name=submit>Submit</button>
+</form>
+</html>
