@@ -1,4 +1,4 @@
-# CSAW CTF 2016 Quals: wtf.sh(2)
+﻿# CSAW CTF 2016 Quals: wtf.sh(2)
 
 **Category:** Web
 **Points:** 400
@@ -64,3 +64,4 @@ CSAW 2016           September 2016          WTF.SH(2)
 * http://cybersecurity.cci.fsu.edu/csaw-ctf-2016-wtfsh-writeup/
 * https://thegoonies.rocks/csaw-2016-wtf-sh-web/
 * https://github.com/ernw/ctf-writeups/tree/master/csaw2016/wtf.sh
+* http://corb3nik.github.io/csaw%20quals%202016/wtf2/

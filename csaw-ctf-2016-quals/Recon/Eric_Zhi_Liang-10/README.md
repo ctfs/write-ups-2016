@@ -27,4 +27,4 @@ Allen Lau is a founder of Wattpad, which is a site where users can post their st
 
 ## Other write-ups and resources
 
-* none yet
+* https://utdcsg.github.io/csaw-quals16/recon/ericzhilang.html
