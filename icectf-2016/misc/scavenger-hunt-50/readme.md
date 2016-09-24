@@ -18,3 +18,4 @@ To search for the flag manually, press Ctrl+U on each page (it's on the sponsors
 * https://youtu.be/CyvjUXW5quE
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/ScavengerHunt-Misc-50
 * http://5k33tz.com/icectf-scavenger-hunt/
+* https://github.com/Beers4Flags/writeups/tree/master/IceCTF2016/misc/scavenger_hunt
