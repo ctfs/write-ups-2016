@@ -27,3 +27,4 @@ See [warmup.py](warmup.py)
 * https://github.com/ernw/ctf-writeups/tree/master/csaw2016/warmup
 * http://ropgadget.com/posts/4.html#csaw16_pwn_warmup
 * https://crackinglandia.wordpress.com/2016/09/19/csaw-ctf-2016-qualification-round-pwn-warmup-50-pts-write-up/
+* https://github.com/WCSC/writeups/tree/master/csaw2016-quals/warmup
