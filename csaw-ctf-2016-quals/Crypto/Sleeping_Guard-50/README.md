@@ -36,3 +36,5 @@ Solution Script:
 * https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/sleeping_guard
 * https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/crypto-50-sleeping_guard.md
 * https://github.com/grocid/CTF/tree/master/CSAW/2016#sleeping-guard-50-p
+* https://crackinglandia.wordpress.com/2016/09/21/csaw-ctf-2016-qualification-round-crypto-sleeping-guard-50-pts/
+* https://binarystud.io/csaw-2016-sleeping-guard-writeup.html
