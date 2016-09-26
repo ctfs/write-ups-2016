@@ -6,7 +6,7 @@
 **Description:**
 
 > Decrypt it.
-> 
+>
 > [[twin-primes.7z](./twin-primes.7z)]([twin-primes.7z](./twin-primes.7z))
 
 
@@ -16,4 +16,9 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/TeamContagion/CTF-Write-Ups/tree/master/TokyoWesterns-2016/Twin%20Primes
+* http://countersite.org/articles/cryptography/113-twin-primes-writeup.html
+* http://hamidx9.ir/solutions/2016/tw_mma_ctf/twin_primes/sol.py
+* http://shpik.tistory.com/71
+* https://github.com/ByteBandits/writeups/tree/master/mma-ctf-2016/crypto/twin-primes/sudhackar
+* http://megabeets.net/twctf-2016-crypto-twin-primes/

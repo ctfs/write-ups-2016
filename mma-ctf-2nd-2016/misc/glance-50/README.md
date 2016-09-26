@@ -14,4 +14,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://0xbugsbunny.blogspot.com/2016/09/twctfwriteup-tokyo-westernsmma-ctf-2nd.html?m=1
+* http://megabeets.net/twctf-2016-misc-glance/
+* http://www.johnfren.ch/Tokyo-Westerns/#glance
