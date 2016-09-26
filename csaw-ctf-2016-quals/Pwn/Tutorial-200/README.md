@@ -26,3 +26,4 @@ See [tutorial.py](tutorial.py)
 * http://anee.me/tutorial-csaw-ctf-2016-writeup/
 * https://tsunpoko.github.io/CSAW2016/
 * https://github.com/ernw/ctf-writeups/tree/master/csaw2016/tutorial
+* https://www.incertia.net/blog/csaw-quals-2016-tutorial-200/
