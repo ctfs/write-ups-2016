@@ -1,12 +1,12 @@
 # DefCamp CTF 2016 : b4s14l
 
 **Category:** misc
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
-> Dive into this, it's a terrorist transmission, they can't know too much about encoding &|| cryptography. 
-> 
+> Dive into this, it's a terrorist transmission, they can't know too much about encoding &|| cryptography.
+>
 > It was sent hundreds of times to all their supporters. We really think it s actually the same message.
 
 ## Write-up
@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2016-09-24-dctf/misc150

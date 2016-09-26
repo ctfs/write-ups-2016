@@ -1,8 +1,8 @@
 # DefCamp CTF 2016 : decoy-300
 
 **Category:** revcrypt
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
 > <no description>
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/blob/master/2016-09-24-dctf/revcrypt300/README.md
