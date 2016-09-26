@@ -9,10 +9,6 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * [stem-ctf-2016/crypto/not-50](stem-ctf-2016/crypto/not-50)
 * [stem-ctf-2016/grab-bag/welcome-10](stem-ctf-2016/grab-bag/welcome-10)
 * [stem-ctf-2016/grab-bag/alien-contact-200](stem-ctf-2016/grab-bag/alien-contact-200)
@@ -23,3 +19,7 @@
 * [stem-ctf-2016/incident-response/pcap-examination-100](stem-ctf-2016/incident-response/pcap-examination-100)
 * [stem-ctf-2016/web/crisscross-100](stem-ctf-2016/web/crisscross-100)
 * [stem-ctf-2016/web/welcome-home-150](stem-ctf-2016/web/welcome-home-150)
+
+## Missing write-ups
+
+* none yet
