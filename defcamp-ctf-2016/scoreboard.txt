@@ -1,0 +1,519 @@
+P4			3162
+LosFuzzys			1956
+Khack40			1954
+Dcua			1953
+The			1907
+Scryptos			1706
+NUS Greyhats			1652
+Alone			1602
+OpenToAll			1551
+Magnum			1550
+Shellphish			1505
+HackingForSoju			1500
+Dragon Sector			1453
+217			1404
+Balsn			1400
+TokyoWesterns			1304
+Depipi			1200
+Fourchette Bombe			1150
+CS16			1150
+BitsForEveryone			1150
+TeamAardvark			1003
+KITCTF			1001
+Bushwhackers			1000
+We_0wn_Y0u			1000
+Pdgn			1000
+ASIS			1000
+Pwn.ro			950
+Greunion			900
+PKTeam			900
+0x90r00t			800
+REST			754
+LC↯BC			701
+MV9rwGOf08			603
+Samurai			601
+Infoseciitr1			600
+Distcc			600
+Flack3r			600
+StraightOuttaPhila			600
+#NugLyf			600
+Sw1ssfr13nds			600
+_HEX_MEX			600
+Shielder			600
+P00p2016			600
+Noraneco			600
+Hackability			500
+0xb453b411			500
+It4l14n00b5			500
+Dust			500
+RATF{Rage Against The Flag}			500
+X44			500
+Yonghwi			403
+0xc0ffee			400
+Snatch The Root			400
+NIS			400
+TheGoonies			400
+2nit			400
+XSTF			302
+MAVISANG			300
+Ais3_NewHands			300
+Jang Seon Ung			300
+SecurityFirst			300
+DATA_EXPUNGED			300
+[TechnoPandas]			300
+Jfhs			300
+Igorpyan			300
+ShakalCTF			300
+Jackdaw			300
+Xatnys			300
+Raccoons			300
+Lupii băăăăăăăăăăă			300
+Zork			300
+HackXore			300
+CTF-infinit			300
+Invader			300
+UCCU			300
+Pwn93			300
+RPISEC			300
+Bi0s			300
+Cumbancha			300
+471804			203
+Critical Section			200
+Bitnuts			200
+Antichat			200
+TJUNSA			200
+SpyDer7			200
+Pandemic			200
+ELT			200
+BHG			200
+ObjEEdump			200
+SystemOfAPwn			200
+DC21321			200
+Dodododo			200
+R00ters			200
+WhiteCat			200
+B01lers			200
+Ingsec			200
+C00kies@venice			200
+G3ol4d0			200
+Hanto			200
+Smoke leet everyday			200
+Swampers			103
+Kakkak			103
+B			101
+Pseud0randomness			100
+Moostache			100
+BambooFox			100
+No Internet Access			100
+#STAG			100
+W0pr			100
+ACTU			100
+Beers4Flags			100
+Joe			100
+PPP			100
+Pwndevils			100
+Interr0bang			100
+MrAdmin			100
+Imagouille			0
+Hertz			0
+Sef_de_chef			0
+TuX			0
+Rmrf			0
+Potato			0
+Mickael9			0
+BlueTeam			0
+Wight			0
+4815162342			0
+Koibasta			0
+CCSF_HACKERS			0
+Haizi			0
+Ihateccnp			0
+PentL@BS			0
+OldSport			0
+Newbiess			0
+BUCSS			0
+Rainbow auberginesView Team Stats			0
+Knightsecwolf			0
+Joshibeast			0
+123213			0
+Dystopian Narwhals			0
+D@rkSmilaye's			0
+0xbadf00d			0
+Icedvovos			0
+Vimvaders			0
+Hertz			0
+Sef_de_chef			0
+TuX			0
+Whirling Bacon Zone			0
+GUET-Pokart			0
+Bbht			0
+Przno			0
+De4db1t			0
+Fntech			0
+Mongreel			0
+GNU-e-Ducks			0
+Imagouille			0
+Zonda			0
+Nothink h3r3			0
+Beche_ha_khobi_iut			0
+Aaaa			0
+Ms3c			0
+Hackademics			0
+Stonestr33t			0
+Krsna			0
+Fxoit			0
+Yozik			0
+SadSec			0
+Omnious			0
+804k0			0
+Tempo			0
+"""><script>alert(1)</script>"			0
+TeamTaintView Team Stats			0
+WhiteHat			0
+Ilswinr			0
+Ntrocubane			0
+Joizel			0
+SmallBits			0
+DVH			0
+KMA WARRIORS			0
+Zee			0
+Da9EJ1aNy0u			0
+SARAH_CONNOR			0
+WhiteKing			0
+Rmza7			0
+GH2N			0
+S0lv3r5			0
+1Man_Army			0
+Mpsdo			0
+SwissTroopers			0
+FAUST			0
+Fluffy white bunnies			0
+Unf			0
+Fs0c13ty			0
+N/a			0
+H0ax			0
+Bagejake			0
+For_fun			0
+PixelVR			0
+IrBodyguard			0
+StratumAuhuur			0
+Vacanta Mare			0
+Iridescent			0
+GHU			0
+0ops			0
+DefCamp Staff			0
+MetaMelange			0
+CaptureTheSwag			0
+0xBA55			0
+Mark			0
+GuiltySpork			0
+Paid2penetrate			0
+N0pthez			0
+Whiteboard			0
+0x61			0
+Live_sandwiches			0
+Hexfact0r			0
+Saracie			0
+H@cked_by_n00bs			0
+Darkspik3			0
+N00bquest			0
+NeOLux-C1Ph3r			0
+DCIETS			0
+DonDon			0
+NoPoints			0
+WackMCView Team Stats			0
+TLIS			0
+M3tapreter			0
+DiGIMON			0
+Strange_U			0
+Army Hackz			0
+X$r			0
+Hoc			0
+Probelka			0
+Pabibabum srl			0
+Pwnium			0
+X_hunter_x			0
+Bellbird			0
+elipsisp			0
+Mcmoor			0
+Lokey's_Staff			0
+New_LucA			0
+Umpilampi			0
+Inspired			0
+CaptureTheSwag			0
+Unco Arcanum			0
+Lmtxk			0
+Snsv			0
+ParadoxicalTheory			0
+Giaplv			0
+Rawsec			0
+Cache_Crook			0
+ImHappy			0
+Luminos Sec			0
+Hehaichi			0
+NewBrain			0
+Zw324			0
+Seiyakyokai			0
+Mlp			0
+B04Ka::G3ng			0
+Thedevilhacks			0
+Inj3ct0r			0
+3v01v3			0
+Espresso			0
+Elders of the Internet			0
+Come to Try Fortune			0
+H4x0r			0
+Newbieqq			0
+4cksec			0
+Z0mbie			0
+Wabisabi			0
+Bga4e			0
+Potato			0
+Mickael9			0
+BlueTeam			0
+Icedvovos			0
+Vimvaders			0
+Ihateccnp			0
+PentL@BS			0
+OldSport			0
+Newbiess			0
+BUCSS			0
+Rainbow aubergines			0
+Knightsecwolf			0
+Joshibeast			0
+123213			0
+Dystopian Narwhals			0
+D@rkSmilaye's			0
+0xbadf00d			0
+GNU-e-Ducks			0
+Imagouille			0
+Hertz			0
+Sef_de_chef			0
+TuX			0
+Whirling Bacon Zone			0
+GUET-Pokart			0
+Bbht			0
+Przno			0
+De4db1t			0
+Fntech			0
+Mongreel			0
+SadSec			0
+SDHSroot			0
+UIN HACKING			0
+Memes			0
+Renegades			0
+Infektion			0
+Team ChinaBox			0
+Corrupted Reflection			0
+Popup Observers			0
+Gecko			0
+Bopoznpvt			0
+4L0n3L34d3r			0
+The One Horseman			0
+2O2L2H			0
+Ello			0
+Jul			0
+Solitaire			0
+Datboi			0
+XevD			0
+FFXZ			0
+Resp3ct			0
+Orfeusteam			0
+Alphateam			0
+Psycho_ROOT			0
+N00b			0
+A			0
+Bgm			0
+Chaos Legion			0
+NTFBR			0
+Pwned			0
+Taurus			0
+L.E.I.			0
+D4rkc0de			0
+H4rdF0rc3			0
+Shady Hats			0
+CblC			0
+Wedontgiveup			0
+GeeksSpeak			0
+Rm /bin/rm			0
+DonquioxteFamily			0
+EquationGroup			0
+Yozakura			0
+Unbroken Crackers			0
+Careless			0
+C014			0
+Canyoupwnme			0
+ByteBandits			0
+RTFM - Red Team Freakin' Maniacs			0
+BITSkrieg			0
+Tank1st99			0
+ISITDTU1			0
+FAUST			0
+Sonshine			0
+SARAH_CONNOR			0
+WhiteKing			0
+Rmza7			0
+GH2N			0
+S0lv3r5			0
+1Man_Army			0
+Mpsdo			0
+SwissTroopers			0
+Hy00un			0
+JnJHAHA			0
+Ku Klux Klan			0
+BSIDESCO			0
+G0tiu5a			0
+K0lkly			0
+HDUISA			0
+Samaritean			0
+C21h30o2			0
+BootHack0x55AA			0
+Insanity			0
+N00bCTF			0
+Dojo0x01			0
+Bigb0y27			0
+LC			0
+Шуурга			0
+Orz			0
+Boolshift			0
+Multihunter			0
+Groov			0
+IBAS			0
+SoloYolo			0
+PoisonedBytes			0
+Bugs_Bunny			0
+H4ppy h4ckerz			0
+Yonk0			0
+Hackira			0
+CodeScrapers			0
+10N3W01F			0
+GD-Team			0
+Omakase			0
+SoftTrack			0
+SpbCtf			0
+Thomas			0
+BNHacking			0
+Sundries			0
+H978072@mvrht.com			0
+BatmansKitchen			0
+HackITGuys			0
+Test123			0
+Team DarkArmy			0
+MeePwn			0
+Ukk1337			0
+Pixels			0
+Execut3			0
+E-Vapers			0
+FourtyTwo			0
+RANDOMIZERView Team Stats			0
+Papaigloo			0
+GalhacktictrendsettersView Team Stats			0
+Lazy_bones			0
+HackThePlanet			0
+KernelPanic			0
+Vanhelsing			0
+G0blin			0
+BlackTR			0
+BLnGR			0
+Faxtorial			0
+HackInfinity			0
+VPV			0
+Nmatt			0
+No131			0
+UnderGaylord			0
+Trolltest2			0
+0x0000			0
+IrGeeks			0
+Tenesys			0
+Tapiiri			0
+##earthpig			0
+Off by wonders			0
+HAIXer			0
+KB-82			0
+Codernate			0
+Bono_iPad			0
+Stack			0
+Hawk1n5			0
+GinVlad			0
+Team Harambe			0
+NamelessKAT			0
+Death			0
+JBTteam			0
+Nulltester			0
+Pwnladin			0
+404			0
+LeaveCat			0
+Dotyar			0
+Smecherie			0
+Motherhackers			0
+Wolfpack			0
+Ginger.Tea			0
+X$r			0
+Hoc			0
+Probelka			0
+Pabibabum srl			0
+Pwnium			0
+X_hunter_x			0
+Bellbird			0
+Strange_U			0
+Mcmoor			0
+Lokey's_Staff			0
+New_LucA			0
+Another Bad Idea			0
+Gusteri_Tristi			0
+Und3rSt4nd			0
+BDCATeamView Team Stats			0
+The_colossus			0
+elipsisp			0
+Gecko			0
+Bopoznpvt			0
+K4t0r1			0
+Low Performance			0
+SharLike			0
+Files0phers			0
+SDHSroot			0
+UIN HACKING			0
+Memes			0
+Renegades			0
+Infektion			0
+Team ChinaBox			0
+Corrupted Reflection			0
+SoloMan			0
+Reboot			0
+Shinobi Clan			0
+DjigIT			0
+Hackgyver			0
+D@rk$h3ll			0
+Phoenix			0
+1up			0
+IdontKnow			0
+IneXHAust			0
+Crit3ri4			0
+Virus69			0
+CCSF_HACKERS			0
+Haizi			0
+H121h			0
+Zodiac			0
+Crumbs@venice			0
+ECX Inc.			0
+Rmrf			0
+Potato			0
+Mickael9			0
+BlueTeam			0
+Wight			0
+4815162342			0
+Koibasta			0
+Vimvaders			0
+Ihateccnp			0
+PentL@BS			0
+OldSport			0
+Newbiess			0
+RJ45			0
+HackingFromSpace			0
+Disgrace			0
+L.E.I.			0
+D4rkc0de			0
+H4rdF0rc3			0
+Shady Hats			0
+CblC			0
+Wedontgiveup			0
