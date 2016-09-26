@@ -6,11 +6,11 @@
 **Description:**
 
 > Get the flag.
-> 
-> 
+>
+>
 > [[bcs.7z](./bcs.7z)]([bcs.7z](./bcs.7z))
-> 
-> 
+>
+>
 > $ nc bcs.chal.ctf.westerns.tokyo 3971
 
 
@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://mslc.ctf.su/wp/tokyo-westernsmma-ctf-2016-backdoored-crypto-system-reversecrypto-400/

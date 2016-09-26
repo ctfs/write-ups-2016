@@ -6,10 +6,10 @@
 **Description:**
 
 > Last year, you have to win fifty games in a row to get the flag. In this year, you have to win forty games.
-> 
-> 
+>
+>
 > nc ppc1.chal.ctf.westerns.tokyo 15376
-> 
+>
 > [[rps-ng.7z](./rps-ng.7z)]([rps-ng.7z](./rps-ng.7z))
 
 
@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.johnfren.ch/Tokyo-Westerns/#rps-ng

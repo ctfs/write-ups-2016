@@ -26,4 +26,4 @@ See [tutorial.py](tutorial.py)
 * http://anee.me/tutorial-csaw-ctf-2016-writeup/
 * https://tsunpoko.github.io/CSAW2016/
 * https://github.com/ernw/ctf-writeups/tree/master/csaw2016/tutorial
-* https://github.com/WCSC/writeups/tree/master/csaw2016-quals/coinslot
+* https://www.incertia.net/blog/csaw-quals-2016-tutorial-200/
