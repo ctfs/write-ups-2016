@@ -1,7 +1,7 @@
 # DefCamp CTF 2016 : decoy-300
 
 **Category:** revcrypt
-**Points:**
+**Points:** 300
 **Solves:**
 **Description:**
 

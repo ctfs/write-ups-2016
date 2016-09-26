@@ -1,7 +1,7 @@
 # DefCamp CTF 2016 : evil-farmers-400
 
 **Category:** misc
-**Points:**
+**Points:** 400
 **Solves:**
 **Description:**
 

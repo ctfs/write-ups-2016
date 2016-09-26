@@ -1,7 +1,7 @@
-# DefCamp CTF 2016 : b4s14l
+# DefCamp CTF 2016 : b4s14l-150
 
 **Category:** misc
-**Points:**
+**Points:** 150
 **Solves:**
 **Description:**
 

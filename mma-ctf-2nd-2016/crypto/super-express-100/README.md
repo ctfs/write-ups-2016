@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/ByteBandits/writeups/tree/master/mma-ctf-2016/crypto/super-express/sudhackar

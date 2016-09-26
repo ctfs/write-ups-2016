@@ -1,7 +1,7 @@
 # DefCamp CTF 2016 : musicetry-200
 
 **Category:** misc
-**Points:**
+**Points:** 200
 **Solves:**
 **Description:**
 

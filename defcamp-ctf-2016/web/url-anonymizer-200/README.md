@@ -1,7 +1,7 @@
 # DefCamp CTF 2016 : url-anonymizer-200
 
 **Category:** web
-**Points:**
+**Points:** 200
 **Solves:**
 **Description:**
 

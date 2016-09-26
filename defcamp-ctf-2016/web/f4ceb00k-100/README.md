@@ -1,7 +1,7 @@
 # DefCamp CTF 2016 : f4ceb00k-100
 
 **Category:** web
-**Points:**
+**Points:** 100
 **Solves:**
 **Description:**
 

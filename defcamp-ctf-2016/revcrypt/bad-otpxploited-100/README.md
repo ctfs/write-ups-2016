@@ -1,7 +1,7 @@
 # DefCamp CTF 2016 : bad-otpxploited-100
 
 **Category:** revcrypt
-**Points:**
+**Points:** 100
 **Solves:**
 **Description:**
 

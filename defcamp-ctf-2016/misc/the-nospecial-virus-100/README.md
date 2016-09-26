@@ -1,7 +1,7 @@
 # DefCamp CTF 2016 : the-nospecial-virus-100
 
 **Category:** misc
-**Points:**
+**Points:** 100
 **Solves:**
 **Description:**
 
