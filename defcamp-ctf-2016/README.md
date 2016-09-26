@@ -1,7 +1,6 @@
 # DefCamp CTF 2016 write-ups
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://dctf.def.camp/ranks) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 
