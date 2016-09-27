@@ -11,7 +11,7 @@ Kyrgyzstan
 
 ## Write-up
 
-(TODO)
+Googline "email protocol" should reveal two types of email protocol. Although there are two protocols for email transmission (IMAP and SMTP), they are looking for IMAP.
 
 ## Other write-ups and resources
 

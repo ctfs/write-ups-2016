@@ -9,7 +9,11 @@
 
 ## External write-ups only
 
-* none yet
+* [h4ckit-ctf-2016/quiz/american-hacker-10](h4ckit-ctf-2016/quiz/american-hacker-10)
+* [h4ckit-ctf-2016/quiz/emails-10](h4ckit-ctf-2016/quiz/emails-10)
+* [h4ckit-ctf-2016/quiz/code-name-10](h4ckit-ctf-2016/quiz/code-name-10)
+* [h4ckit-ctf-2016/quiz/programming-language-10](h4ckit-ctf-2016/quiz/programming-language-10)
+* [h4ckit-ctf-2016/quiz/decode-2-10](h4ckit-ctf-2016/quiz/decode-2-10)
 
 ## Missing write-ups
 
@@ -27,19 +31,14 @@
 * [h4ckit-ctf-2016/network/r341m4710n-100](h4ckit-ctf-2016/network/r341m4710n-100)
 * [h4ckit-ctf-2016/forensics/p13c3-0f-c4k3-100](h4ckit-ctf-2016/forensics/p13c3-0f-c4k3-100)
 * [h4ckit-ctf-2016/quiz/decoding-10](h4ckit-ctf-2016/quiz/decoding-10)
-* [h4ckit-ctf-2016/quiz/programming-language-10](h4ckit-ctf-2016/quiz/programming-language-10)
-* [h4ckit-ctf-2016/quiz/emails-10](h4ckit-ctf-2016/quiz/emails-10)
-* [h4ckit-ctf-2016/quiz/decode-3-10](h4ckit-ctf-2016/quiz/decode-3-10)
 * [h4ckit-ctf-2016/quiz/subnet-10](h4ckit-ctf-2016/quiz/subnet-10)
 * [h4ckit-ctf-2016/quiz/virus-3-10](h4ckit-ctf-2016/quiz/virus-3-10)
-* [h4ckit-ctf-2016/quiz/decode-2-10](h4ckit-ctf-2016/quiz/decode-2-10)
+* [h4ckit-ctf-2016/quiz/decode-3-10](h4ckit-ctf-2016/quiz/decode-3-10)
 * [h4ckit-ctf-2016/quiz/virus-10](h4ckit-ctf-2016/quiz/virus-10)
 * [h4ckit-ctf-2016/quiz/hosts-10](h4ckit-ctf-2016/quiz/hosts-10)
-* [h4ckit-ctf-2016/quiz/code-name-10](h4ckit-ctf-2016/quiz/code-name-10)
 * [h4ckit-ctf-2016/quiz/decode-10](h4ckit-ctf-2016/quiz/decode-10)
 * [h4ckit-ctf-2016/quiz/first-hackit-ukraine-10](h4ckit-ctf-2016/quiz/first-hackit-ukraine-10)
 * [h4ckit-ctf-2016/quiz/internet-10](h4ckit-ctf-2016/quiz/internet-10)
-* [h4ckit-ctf-2016/quiz/american-hacker-10](h4ckit-ctf-2016/quiz/american-hacker-10)
 * [h4ckit-ctf-2016/quiz/name-10](h4ckit-ctf-2016/quiz/name-10)
 * [h4ckit-ctf-2016/quiz/protocols-10](h4ckit-ctf-2016/quiz/protocols-10)
 * [h4ckit-ctf-2016/quiz/virus-2-10](h4ckit-ctf-2016/quiz/virus-2-10)

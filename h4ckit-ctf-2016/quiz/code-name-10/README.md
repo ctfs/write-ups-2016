@@ -11,7 +11,7 @@ Columbia
 
 ## Write-up
 
-(TODO)
+Those familiar with common vulnerabilities and CVE identifiers may be able to recognize it on the spot, but Googling "CVE-2015-0160" leads you to the CVE entry, which in the description is labeled as Heartbleed.
 
 ## Other write-ups and resources
 

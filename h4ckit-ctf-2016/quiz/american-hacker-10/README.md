@@ -11,7 +11,7 @@ Finland
 
 ## Write-up
 
-(TODO)
+By Googling "hacked Pacific Bell, Nokia, IBM, Motorola networks" many results come up with relevant results. The description indicates you only need the last name, so after some brief skimming, you will see the man labeled "most notorious hacker", Kevin Mitnick.
 
 ## Other write-ups and resources
 

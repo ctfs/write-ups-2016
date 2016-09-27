@@ -5,13 +5,13 @@
 **Solves:**
 **Description:**
 
-Pery
+Peru
 
 > Decode it: 68 101 99 105 109 97 108 h4ck1t{decode}
 
 ## Write-up
 
-(TODO)
+Recognizing these numbers as decimal, translating them to ASCII (try asciitohex.com) reveals the flag is "Decimal"
 
 ## Other write-ups and resources
 

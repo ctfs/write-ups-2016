@@ -11,7 +11,7 @@ Bangladesh
 
 ## Write-up
 
-(TODO)
+Though many recognize it, Googling programming languages and skimming a Wikipedia article should reveal the syntax belongs to the esoteric programming language "brainfuck"
 
 ## Other write-ups and resources
 
