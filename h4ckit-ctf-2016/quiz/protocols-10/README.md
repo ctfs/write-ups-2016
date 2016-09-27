@@ -5,6 +5,8 @@
 **Solves:**
 **Description:**
 
+Svalbard and Jan Mayen
+
 > IRC mod SSH  h4ck1t{protocol(uppercase)}
 
 ## Write-up

@@ -5,6 +5,8 @@
 **Solves:**
 **Description:**
 
+Uzbekistsan
+
 > What is the self-propagating virus?  h4ck1t{virus(lowercase)}
 
 ## Write-up

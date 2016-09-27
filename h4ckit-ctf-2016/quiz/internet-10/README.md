@@ -5,6 +5,8 @@
 **Solves:**
 **Description:**
 
+Cote d'Ivoire
+
 > What was before INTERnet?  h4ck1t{answer(lowercase)}
 
 ## Write-up

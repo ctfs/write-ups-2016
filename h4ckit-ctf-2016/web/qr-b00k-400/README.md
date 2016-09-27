@@ -5,6 +5,8 @@
 **Solves:**
 **Description:**
 
+Russia
+
 > The secured messenger was developed in Russia, it's using systems with qr keys for communicating, it allows to read other people's messages only to this key holders. But id it true? And you have to figure it out ... <http://hack-quest.com> (Link1)[<http://hack-quest.com>/]
 
 ## Write-up
