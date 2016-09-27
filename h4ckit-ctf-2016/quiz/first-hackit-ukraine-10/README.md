@@ -1,6 +1,6 @@
 # H4ckIT CTF 2016 : first-hackit-ukraine-10
 
-**Category:** H4Ckit-Ctf-2016
+**Category:** quiz
 **Points:** 10
 **Solves:**
 **Description:**

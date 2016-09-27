@@ -1,6 +1,6 @@
 # H4ckIT CTF 2016 : ninja-scheme-195
 
-**Category:** H4Ckit-Ctf-2016
+**Category:** crypto
 **Points:**
 **Solves:**
 **Description:**
