@@ -18,3 +18,4 @@ You can connect with nc 107.170.122.6 7765 and the source can be found here.
 * http://blog.ankursundara.com/abctf/
 * https://ctftime.org/writeup/3622
 * https://www.doyler.net/security-not-included/ecb-chosen-plaintext-attack
+* https://p-te.fr/2016/07/23/abctf-encryption-service/

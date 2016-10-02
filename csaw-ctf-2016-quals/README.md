@@ -1,4 +1,4 @@
-# ASIS CTF Finals 2016 write-ups
+# CSAW CTF Quals 2016 write-ups
 
 * <https://ctf.csaw.io>
 * [Scoreboard](https://ctf.csaw.io/scoreboard) or [local alternative](TODO)
