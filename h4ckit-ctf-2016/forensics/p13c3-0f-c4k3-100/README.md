@@ -15,4 +15,4 @@ Brazil
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/JosiahPierce/writeups/blob/master/h4ck1t_ctf_2016/brazil_forensics_p13c3_0f_c4k3.md
