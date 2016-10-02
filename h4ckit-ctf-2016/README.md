@@ -1,6 +1,6 @@
 # H4ckIT CTF 2016 write-ups
 
-* <TODO>
+* ctf.com.ua
 * [Scoreboard](TODO) or [local alternative](TODOLOCAL)
 
 ## Completed write-ups
