@@ -1,6 +1,10 @@
 # H4ckIT CTF 2016 write-ups
 
+<<<<<<< HEAD
 * ctf.com.ua
+=======
+* <TODO>
+>>>>>>> 48cd3dde0b4b572b79a6042d7d839f3a5ea94ebf
 * [Scoreboard](TODO) or [local alternative](TODOLOCAL)
 
 ## Completed write-ups
