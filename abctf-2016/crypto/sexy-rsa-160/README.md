@@ -16,3 +16,4 @@ Check this out!
 * https://kimiyuki.net/blog/2016/07/23/abctf-2016/
 * http://blog.ankursundara.com/abctf/
 * https://ctftime.org/writeup/3621
+* https://p-te.fr/2016/07/23/abctf-sexy-rsa/
