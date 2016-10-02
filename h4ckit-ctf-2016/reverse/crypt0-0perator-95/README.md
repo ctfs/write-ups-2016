@@ -15,4 +15,4 @@ Ethiopia
 
 ## Other write-ups and resources
 
-* none yet
+* https://crackinglandia.wordpress.com/2016/10/02/h4ck1t-ctf-2016-quals-crypt00perator-ethiopia-95-revere-write-up/
