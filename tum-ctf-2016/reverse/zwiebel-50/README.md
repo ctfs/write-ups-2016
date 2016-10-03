@@ -16,3 +16,4 @@ https://www.youtube.com/watch?v=LowwCyZHBBk
 
 * http://www.codilime.com/tumctf-2016-zwiebel/
 * http://anee.me/
+* https://losfuzzys.github.io/writeup/2016/10/03/tumctf-zwiebel50/

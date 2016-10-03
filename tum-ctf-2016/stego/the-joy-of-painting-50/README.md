@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * http://duksctf.github.io/TUMCTF2016-thejoyofpainting/
+* https://github.com/p4-team/ctf/tree/master/2016-10-01-tum/joy_stegano_50
