@@ -16,3 +16,4 @@ Russia
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/4308
+* http://insecurity-insa.fr/writeUp
