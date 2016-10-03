@@ -16,3 +16,4 @@ Mozambique
 ## Other write-ups and resources
 
 * http://blacktr.org/2016/10/h4ck1t-mozambique-150pts/
+* https://github.com/Beers4Flags/writeups/tree/master/hackit2016/stego/mozambique-1magePr1son

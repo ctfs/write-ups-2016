@@ -15,7 +15,8 @@ Paraguay
 
 ## Other write-ups and resources
 
-* https://crackinglandia.wordpress.com/2016/10/02/h4ck1t-ctf-2016-quals-hex0gator-paraguay-250-ppc-write-up/
 * https://ctftime.org/writeup/4301
-* http://www.megabeets.net/h4ck1t-2016-hex0gator-paraguay/
 * https://blog.michaelz.xyz/h4ck1t-ctf-2016/
+* http://www.megabeets.net/h4ck1t-2016-hex0gator-paraguay/
+* http://aukezwaan.nl/2016/10/03/h4ck1t-ctf-2016-paraguay-hex0gator/
+* https://crackinglandia.wordpress.com/2016/10/02/h4ck1t-ctf-2016-quals-hex0gator-paraguay-250-ppc-write-up/

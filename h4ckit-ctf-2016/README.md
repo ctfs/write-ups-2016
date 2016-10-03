@@ -13,6 +13,7 @@
 
 ## External write-ups only
 
+* [h4ckit-ctf-2016/pwn/ju57d017](h4ckit-ctf-2016/pwn/ju57d017)
 * [h4ckit-ctf-2016/web/hash-150](h4ckit-ctf-2016/web/hash-150)
 * [h4ckit-ctf-2016/joy/t3legr4m-50](h4ckit-ctf-2016/joy/t3legr4m-50)
 * [h4ckit-ctf-2016/web/qr-b00k-400](h4ckit-ctf-2016/web/qr-b00k-400)
