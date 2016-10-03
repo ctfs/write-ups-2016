@@ -15,4 +15,4 @@ Argentina
 
 ## Other write-ups and resources
 
-* none yet
+* https://blog.michaelz.xyz/h4ck1t-ctf-2016/

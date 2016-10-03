@@ -15,4 +15,4 @@ Ukraine
 
 ## Other write-ups and resources
 
-* none yet
+* none yethttp://blacktr.org/2016/10/h4ck1t-fullyd00m3d-50pts/

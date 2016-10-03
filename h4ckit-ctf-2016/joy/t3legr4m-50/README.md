@@ -15,4 +15,5 @@ United States
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.megabeets.net/h4ck1t-2016-t3legr4m-united-states-writeup/
+* https://blog.michaelz.xyz/h4ck1t-ctf-2016/
