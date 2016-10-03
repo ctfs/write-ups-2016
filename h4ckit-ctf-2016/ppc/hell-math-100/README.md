@@ -17,3 +17,4 @@ Mongolia
 
 * http://www.megabeets.net/h4ck1t-2016-hellmath-mongolia-writeup/
 * (French) http://insecurity-insa.fr/writeUp
+* https://blog.michaelz.xyz/h4ck1t-ctf-2016/
