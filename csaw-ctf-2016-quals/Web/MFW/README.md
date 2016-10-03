@@ -22,3 +22,4 @@
 * https://galhacktictrendsetters.wordpress.com/2016/09/19/csaw-quals-2016-mfw/
 * http://ropgadget.com/posts/4.html#csaw16_web_mfw
 * http://rotimiakinyele.com/csaw-ctf-quals-2016-writeups.jsp
+* https://blog.michaelz.xyz/csaw-ctf-2016-quals/

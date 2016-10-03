@@ -16,3 +16,4 @@ Greenland
 ## Other write-ups and resources
 
 * https://github.com/JosiahPierce/writeups/blob/master/h4ck1t_ctf_2016/greenland_network_7r0ubl3.md
+* http://blacktr.org/2016/10/h4ck1t-7r0bl3-200pts/

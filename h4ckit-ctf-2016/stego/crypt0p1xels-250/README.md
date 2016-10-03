@@ -16,3 +16,6 @@ Algeria
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/4307
+* http://blacktr.org/2016/10/h4ck1t-rtfspy-150pts/
+* (French) http://insecurity-insa.fr/writeUp
+* https://blog.michaelz.xyz/h4ck1t-ctf-2016/

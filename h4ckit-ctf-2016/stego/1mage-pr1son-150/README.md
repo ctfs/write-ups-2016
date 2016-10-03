@@ -15,4 +15,4 @@ Mozambique
 
 ## Other write-ups and resources
 
-* none yet
+* http://blacktr.org/2016/10/h4ck1t-mozambique-150pts/
