@@ -15,4 +15,5 @@ China
 
 ## Other write-ups and resources
 
-* none yet
+* http://blacktr.org/2016/10/h4ck1t-rtfspy-150pts/
+* https://blog.michaelz.xyz/h4ck1t-ctf-2016/

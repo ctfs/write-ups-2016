@@ -1,8 +1,8 @@
 # TUM CTF 2016 : lolcpp-250
 
 **Category:** Tum-Ctf-2016
-**Points:** 
-**Solves:** 
+**Points:** 250
+**Solves:**
 **Description:**
 
 > (TODO)
