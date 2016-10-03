@@ -16,3 +16,4 @@ Kenya
 ## Other write-ups and resources
 
 * http://maroueneboubakri.blogspot.fr/2016/10/hackit-ctf-2016-kenya-t2yh4rd-pwn200.html
+* http://www.pwnium.tn/hackit-2016-ctf-kenya-t2yh4rd-pwn200-writeup/
