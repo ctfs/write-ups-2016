@@ -1,8 +1,8 @@
 # TUM CTF 2016 : l1br4ry-300
 
 **Category:** pwn
-**Points:** 
-**Solves:** 
+**Points:** 300
+**Solves:**
 **Description:**
 
 > (TODO)
