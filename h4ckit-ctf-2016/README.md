@@ -13,6 +13,9 @@
 
 ## External write-ups only
 
+* [h4ckit-ctf-2016/pwn/httpd](h4ckit-ctf-2016/pwn/httpd)
+* [h4ckit-ctf-2016/pwn/space-add-250](h4ckit-ctf-2016/pwn/space-add-250)
+* [h4ckit-ctf-2016/pwn/pixel0ver](h4ckit-ctf-2016/pwn/pixel0ver)
 * [h4ckit-ctf-2016/pwn/ju57d017](h4ckit-ctf-2016/pwn/ju57d017)
 * [h4ckit-ctf-2016/web/hash-150](h4ckit-ctf-2016/web/hash-150)
 * [h4ckit-ctf-2016/joy/t3legr4m-50](h4ckit-ctf-2016/joy/t3legr4m-50)
@@ -41,6 +44,7 @@
 * [h4ckit-ctf-2016/forensics/1n51d3r'5-job-300](h4ckit-ctf-2016/forensics/1n51d3r'5-job-300)
 * [h4ckit-ctf-2016/network/v01c3_0f_7h3_fu7ur3-300](h4ckit-ctf-2016/network/v01c3_0f_7h3_fu7ur3-300)
 * [h4ckit-ctf-2016/web/fucking-russian-programmers-100](h4ckit-ctf-2016/web/fucking-russian-programmers-100)
+* [h4ckit-ctf-2016/crypto/handmade-encryption-standard-250](h4ckit-ctf-2016/crypto/handmade-encryption-standard-250)
 
 ## Missing write-ups
 
