@@ -15,5 +15,6 @@ Ethiopia
 
 ## Other write-ups and resources
 
-* https://crackinglandia.wordpress.com/2016/10/02/h4ck1t-ctf-2016-quals-crypt00perator-ethiopia-95-revere-write-up/
 * http://blacktr.org/2016/10/h4ck1t-crypt00perator-95pts/
+* http://www.megabeets.net/h4ck1t-2016-crypt00perator-ethiopia-writeup
+* https://crackinglandia.wordpress.com/2016/10/02/h4ck1t-ctf-2016-quals-crypt00perator-ethiopia-95-revere-write-up/

@@ -24,3 +24,4 @@ France
 ## Other write-ups and resources
 
 * http://maroueneboubakri.blogspot.fr/2016/10/hackit-2016-l4br4t-france-reverse-375_2.html
+* http://www.pwnium.tn/hackit-2016-l4br4t-france-reverse-375-writeup/

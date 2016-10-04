@@ -16,3 +16,4 @@ Iran
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/4310
+* https://github.com/migdalo/writeups/tree/master/h4ck1t-2016/pngk1ll3r
