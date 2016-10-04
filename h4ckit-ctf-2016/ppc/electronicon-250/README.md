@@ -16,3 +16,4 @@ Belarus
 ## Other write-ups and resources
 
 * http://www.megabeets.net/h4ck1t-2016-belarus-electronicon/
+* https://github.com/JulesDT/ctfWriteUps/tree/master/Hackit%20Quals%202016/Electronicon%20-%20PPC%20-%20250%20pts
