@@ -15,4 +15,4 @@ Japan
 
 ## Other write-ups and resources
 
-* none yet
+* https://twitter.com/clement_hammel/status/779798803784339456

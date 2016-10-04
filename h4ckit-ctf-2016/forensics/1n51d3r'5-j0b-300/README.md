@@ -15,6 +15,7 @@ Canada
 
 ## Other write-ups and resources
 
-* https://github.com/JosiahPierce/writeups/blob/master/h4ck1t_ctf_2016/canada_forensics_1n51d3r'5_j0b.md
-* http://www.megabeets.net/h4ck1t-2016-1n51d3r5-j0b-canada/
 * https://blog.michaelz.xyz/h4ck1t-ctf-2016/
+* http://www.megabeets.net/h4ck1t-2016-1n51d3r5-j0b-canada/
+* http://aukezwaan.nl/2016/10/03/h4ck1t-ctf-2016-canada-1n51d3r5-j0b-300-points/
+* https://github.com/JosiahPierce/writeups/blob/master/h4ck1t_ctf_2016/canada_forensics_1n51d3r'5_j0b.md

@@ -16,3 +16,4 @@ Chile
 ## Other write-ups and resources
 
 * https://blog.michaelz.xyz/h4ck1t-ctf-2016/
+* https://ctftime.org/writeup/4374

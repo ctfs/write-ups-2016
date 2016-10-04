@@ -17,3 +17,4 @@ China
 
 * http://blacktr.org/2016/10/h4ck1t-rtfspy-150pts/
 * https://blog.michaelz.xyz/h4ck1t-ctf-2016/
+* http://aukezwaan.nl/2016/10/03/h4ck1t-ctf-2016-china-rtfspy-150-points/
