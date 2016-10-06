@@ -19,3 +19,4 @@ Russia
 * https://ctftime.org/writeup/4308
 * http://insecurity-insa.fr/writeUp
 * http://www.megabeets.net/h4ck1t-2016-qrb00k-russia-writeup/
+* http://www.fiorixxx.com/2016/10/05/h4ck1t-ctf-2016-russia-qrb00k-400-points/
