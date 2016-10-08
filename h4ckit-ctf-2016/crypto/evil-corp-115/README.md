@@ -15,4 +15,5 @@ Senegal
 
 ## Other write-ups and resources
 
+* https://github.com/b1n4ry4rms/CTFs/tree/master/2016/ctf.com.ua/Evil_Corps
 * https://github.com/Beers4Flags/writeups/tree/master/hackit2016/crypto/senegal-evil-corp
