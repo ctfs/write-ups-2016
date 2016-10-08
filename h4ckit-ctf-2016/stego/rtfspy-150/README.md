@@ -15,6 +15,8 @@ China
 
 ## Other write-ups and resources
 
-* http://blacktr.org/2016/10/h4ck1t-rtfspy-150pts/
 * https://blog.michaelz.xyz/h4ck1t-ctf-2016/
+* http://blacktr.org/2016/10/h4ck1t-rtfspy-150pts/
+* https://github.com/Migdalo/writeups/tree/master/h4ck1t-2016/rtfspy
 * http://aukezwaan.nl/2016/10/03/h4ck1t-ctf-2016-china-rtfspy-150-points/
+* http://www.fiorixxx.com/2016/10/05/h4ck1t-ctf-2016-china-rtfspy-150-points/
