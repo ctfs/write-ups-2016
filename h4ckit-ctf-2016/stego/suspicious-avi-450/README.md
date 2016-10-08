@@ -15,5 +15,7 @@ Azerbaijan
 
 ## Other write-ups and resources
 
+* https://git.io/vPsEh
 * https://ctftime.org/writeup/4314
+* http://jmp3r.livejournal.com/1777.html
 * https://github.com/Beers4Flags/writeups/tree/master/hackit2016/stego/azerbaijan-suspicious-avi
