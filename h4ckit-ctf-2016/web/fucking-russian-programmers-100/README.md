@@ -16,3 +16,4 @@ North Korea
 ## Other write-ups and resources
 
 * http://blacktr.org/2016/10/h4ck1t-fucking-russian-programmers-100pts/
+* http://www.fiorixxx.com/2016/10/06/h4ck1t-ctf-2016-north-korea-fucking-russian-programmers-100pts/
