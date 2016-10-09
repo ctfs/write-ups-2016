@@ -1,8 +1,8 @@
 # HITCON CTF 2016 : heart-attack-400
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** pwn
+**Points:** 400
+**Solves:**
 **Description:**
 
 > Let's play Heart Attack together! nc 52.196.222.23 5566

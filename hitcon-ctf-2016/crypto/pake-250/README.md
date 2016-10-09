@@ -1,8 +1,8 @@
 # HITCON CTF 2016 : pake-250
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** crypto
+**Points:** 250
+**Solves:**
 **Description:**
 
 > nc 52.197.112.79 20431

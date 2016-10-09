@@ -1,8 +1,8 @@
 # HITCON CTF 2016 : leaking-200
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** reverse
+**Points:** 200
+**Solves:**
 **Description:**
 
 > Remote Code Execution! <http://52.198.115.130:3000/>

@@ -1,8 +1,8 @@
 # HITCON CTF 2016 : secure-posts-50
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** web
+**Points:** 50
+**Solves:**
 **Description:**
 
 > Here is a service that you can store any posts. Can you hack it? <http://52.69.126.212/>

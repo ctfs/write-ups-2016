@@ -1,8 +1,8 @@
 # HITCON CTF 2016 : hackpad-150
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** forensics
+**Points:** 150
+**Solves:**
 **Description:**
 
 > My site was hacked. The secret was leaked.

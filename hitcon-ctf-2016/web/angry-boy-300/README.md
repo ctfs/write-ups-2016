@@ -1,11 +1,13 @@
 # HITCON CTF 2016 : angry-boy-300
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** reverse
+**Points:** 300
+**Solves:**
 **Description:**
 
-> Why my teammate, Angelboy, is so angry? <http://52.196.144.8:8080/> \n\n $ java -version java version '1.7.0_111' OpenJDK Runtime Environment (IcedTea 2.6.7) (7u111-2.6.7-0ubuntu0.14.04.3) OpenJDK 64-Bit Server VM (build 24.111-b01, mixed mode)
+> Why my teammate, Angelboy, is so angry? <http://52.196.144.8:8080/>
+> HINT:
+> $ java -version java version '1.7.0_111' OpenJDK Runtime Environment (IcedTea 2.6.7) (7u111-2.6.7-0ubuntu0.14.04.3) OpenJDK 64-Bit Server VM (build 24.111-b01, mixed mode)
 
 
 ## Write-up

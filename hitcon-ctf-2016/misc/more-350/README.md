@@ -1,8 +1,8 @@
 # HITCON CTF 2016 : more-350
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** misc
+**Points:** 350
+**Solves:**
 **Description:**
 
 > Hi, our RegExpert, I know you want moRE. nc 52.69.125.71 2172

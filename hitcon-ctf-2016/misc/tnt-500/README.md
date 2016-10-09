@@ -1,8 +1,8 @@
 # HITCON CTF 2016 : tnt-500
 
-**Category:** Hitcon-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** misc
+**Points:** 500
+**Solves:**
 **Description:**
 
 > Explode this service nc 52.198.231.5 22222
