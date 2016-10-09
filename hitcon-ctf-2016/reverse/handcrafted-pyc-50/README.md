@@ -1,0 +1,17 @@
+# HITCON CTF 2016 : handcrafted-pyc-50
+
+**Category:** Hitcon-Ctf-2016
+**Points:** 
+**Solves:** 
+**Description:**
+
+> Can your brain be a Python VM? (Please use Python 2.7)
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
