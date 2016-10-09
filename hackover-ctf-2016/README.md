@@ -1,7 +1,7 @@
 # Hackover CTF 2016 write-ups
 
 * ctf.hackover.de
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.hackover.de/ranking/) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 
@@ -10,6 +10,7 @@
 ## External write-ups only
 
 * [hackover-ctf-2016/binary/ping_gnop](hackover-ctf-2016/binary/ping_gnop)
+* [hackover-ctf-2016/binary/bookshelf](hackover-ctf-2016/binary/bookshelf)
 * [hackover-ctf-2016/crypto/roll-the-dice](hackover-ctf-2016/crypto/roll-the-dice)
 
 ## Missing write-ups
@@ -19,7 +20,6 @@
 * [hackover-ctf-2016/crypto/guessr](hackover-ctf-2016/crypto/guessr)
 * [hackover-ctf-2016/web/rusty-cats](hackover-ctf-2016/web/rusty-cats)
 * [hackover-ctf-2016/crypto/vigenere](hackover-ctf-2016/crypto/vigenere)
-* [hackover-ctf-2016/binary/bookshelf](hackover-ctf-2016/binary/bookshelf)
 * [hackover-ctf-2016/crypto/lets-dance](hackover-ctf-2016/crypto/lets-dance)
 * [hackover-ctf-2016/crypto/semsecrace](hackover-ctf-2016/crypto/semsecrace)
 * [hackover-ctf-2016/binary/robot-captcha](hackover-ctf-2016/binary/robot-captcha)
