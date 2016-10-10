@@ -15,4 +15,4 @@ Egypt
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/MetaMelange/H4ckIT-CTF-2016/tree/master/F1r3d%26H4ck3d%20-%20Egypt
