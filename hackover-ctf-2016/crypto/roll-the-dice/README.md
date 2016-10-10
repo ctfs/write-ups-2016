@@ -16,4 +16,5 @@
 ## Other write-ups and resources
 
 * https://gist.github.com/c3c/f5b4dc1988c334b5c01b67870d7fc35e
+* https://github.com/grocid/CTF/tree/master/Hackover/2016#rollthedice
 * https://github.com/team-bitskrieg/CTF-writeups/blob/master/hackover/crypto/rollthedice/README.md
