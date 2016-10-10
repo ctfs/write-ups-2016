@@ -19,3 +19,4 @@ Mozambique
 * http://www.megabeets.net/h4ck1t-2016-1magepr1son-mozambique-writeup/
 * http://aukezwaan.nl/2016/10/03/h4ck1t-ctf-2016-mozambique-1magepr1son-150-points/
 * https://github.com/Beers4Flags/writeups/tree/master/hackit2016/stego/mozambique-1magePr1son
+* https://github.com/JulesDT/ctfWriteUps/tree/master/Hackit%20Quals%202016/1magePr1son-%20Misc%20-%20150%20pts
