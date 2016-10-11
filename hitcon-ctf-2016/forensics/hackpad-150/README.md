@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://gophers-in-the-shell.herokuapp.com/hitcon-2016-hackpad-crypto-forensics-150pts/

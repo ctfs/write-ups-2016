@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.clark.re/2016/10/hitcon-2016-otp-writeup.html

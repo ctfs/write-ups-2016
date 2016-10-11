@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://0xecute.com/index.php/2016/10/10/baby-trick/

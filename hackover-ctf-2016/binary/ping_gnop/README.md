@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
+* http://anee.me/hackover-ctf-ping-gnop/
 * https://gist.github.com/c3c/1407e165d925026e018662b7d7d4d5c6

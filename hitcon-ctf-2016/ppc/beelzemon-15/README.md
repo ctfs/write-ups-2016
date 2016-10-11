@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/ret2libc/ctfs/tree/master/hitcon2016quals/shellingfolder
+* https://github.com/JulesDT/ctfWriteUps/tree/master/Hitcon%20Quals%202016/Beelzemon%20-%20PPC%20-%20150%20pts

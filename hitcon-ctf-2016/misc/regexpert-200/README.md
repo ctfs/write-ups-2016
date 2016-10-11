@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/JulesDT/ctfWriteUps/tree/master/Hitcon%20Quals%202016/RegExpert%20-%20Misc%20-%20200%20pts

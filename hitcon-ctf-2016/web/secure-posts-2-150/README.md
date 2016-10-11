@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.abdilahrf.me/hitcon%202016/hitcon-secure-post
+* https://www.eugenekolo.com/blog/hitcon-ctf-2016-writeups/

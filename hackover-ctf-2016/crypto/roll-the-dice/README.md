@@ -15,6 +15,8 @@
 
 ## Other write-ups and resources
 
+* http://insecurity-insa.fr/writeUp
 * https://gist.github.com/c3c/f5b4dc1988c334b5c01b67870d7fc35e
 * https://github.com/grocid/CTF/tree/master/Hackover/2016#rollthedice
+* https://github.com/JulesDT/ctfWriteUps/tree/master/Hackover%202016/RollTheDice%20-%20Crypto%20-%2015%20pts
 * https://github.com/team-bitskrieg/CTF-writeups/blob/master/hackover/crypto/rollthedice/README.md

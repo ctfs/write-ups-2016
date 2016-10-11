@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/ret2libc/ctfs/tree/master/hitcon2016quals/shellingfolder
