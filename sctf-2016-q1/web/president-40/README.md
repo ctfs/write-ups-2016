@@ -21,4 +21,4 @@ Where do you think the names are being stored?
 
 ## Other write-ups and resources
 
-* http://blog.oleaass.com/writeups/sctf-2016-presidents/
+* none yet

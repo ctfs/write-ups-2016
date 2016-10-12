@@ -19,6 +19,5 @@ SHA512 Solution Hash(es):
 
 ## Other write-ups and resources
 
-* http://blog.oleaass.com/writeups/sctf-2016-rev2/
 * https://www.youtube.com/watch?v=Gz_lMIqLjfo
 * http://bryceandress.github.io/2016/04/12/sctf2016-rev2.html
