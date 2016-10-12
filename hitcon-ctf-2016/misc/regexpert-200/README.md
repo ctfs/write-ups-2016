@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* http://moraprogramming.hateblo.jp/entry/2016/10/11/171148
 * https://github.com/JulesDT/ctfWriteUps/tree/master/Hitcon%20Quals%202016/RegExpert%20-%20Misc%20-%20200%20pts

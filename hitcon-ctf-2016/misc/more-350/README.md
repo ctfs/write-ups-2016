@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://moraprogramming.hateblo.jp/entry/2016/10/11/171148
