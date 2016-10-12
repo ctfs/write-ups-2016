@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * https://github.com/Blaklis/write-ups/tree/master/hitcon
+* http://vnprogramming.com/index.php/2016/10/10/web500-hitconctf-2016-and-exploit-cve-2013-2165/
