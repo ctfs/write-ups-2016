@@ -13,5 +13,4 @@ Time for something harder.. write a program to calculate the square root of an i
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
-* http://blog.ankursundara.com/abctf/
+* none yet
