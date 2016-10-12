@@ -18,7 +18,7 @@
 * [crypto/what-the-hex-15](crypto/what-the-hex-15)
 * [crypto/brute-force-40](crypto/brute-force-40)
 * [crypto/spqr-10](crypto/spqr-10)
-* [forensics/wherizmaicheezburgr](forensics/wherizmaicheezburgr)
+* [forensics/wherizmaicheezburgr-80](forensics/wherizmaicheezburgr-80)
 * [forensics/volatile-90](forensics/volatile-90)
 * [forensics/whoops-30](forensics/whoops-30)
 * [forensics/metasploitable-120](forensics/metasploitable-120)
