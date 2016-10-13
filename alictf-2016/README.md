@@ -13,9 +13,9 @@
 * [reversing/ColorOverflow-100](reversing/ColorOverflow-100)
 * [pwn/fb-100](pwn/fb-100)
 * [web/Homework-400](web/Homework-400)
+* [pwn/fb-100](pwn/fb-100)
 
 ## Missing write-ups
 
-* [pwn/fb-100](pwn/fb-100)
 * [crypto/showmethemoney-50](crypto/showmethemoney-50)
 * [web/FinalBook-100](web/FinalBook-100)
