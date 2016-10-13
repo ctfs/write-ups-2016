@@ -9,20 +9,20 @@
 
 ## External write-ups only
 
-* [hackover-ctf-2016/binary/ping_gnop](hackover-ctf-2016/binary/ping_gnop)
-* [hackover-ctf-2016/binary/bookshelf](hackover-ctf-2016/binary/bookshelf)
-* [hackover-ctf-2016/crypto/roll-the-dice](hackover-ctf-2016/crypto/roll-the-dice)
+* [binary/ping_gnop](binary/ping_gnop)
+* [binary/bookshelf](binary/bookshelf)
+* [crypto/roll-the-dice](crypto/roll-the-dice)
 
 ## Missing write-ups
 
-* [hackover-ctf-2016/web/brpnd](hackover-ctf-2016/web/brpnd)
-* [hackover-ctf-2016/binary/ez-pz](hackover-ctf-2016/binary/ez-pz)
-* [hackover-ctf-2016/crypto/guessr](hackover-ctf-2016/crypto/guessr)
-* [hackover-ctf-2016/web/rusty-cats](hackover-ctf-2016/web/rusty-cats)
-* [hackover-ctf-2016/crypto/vigenere](hackover-ctf-2016/crypto/vigenere)
-* [hackover-ctf-2016/crypto/lets-dance](hackover-ctf-2016/crypto/lets-dance)
-* [hackover-ctf-2016/crypto/semsecrace](hackover-ctf-2016/crypto/semsecrace)
-* [hackover-ctf-2016/binary/robot-captcha](hackover-ctf-2016/binary/robot-captcha)
-* [hackover-ctf-2016/binary/tiny-backdoor-v1](hackover-ctf-2016/binary/tiny-backdoor-v1)
-* [hackover-ctf-2016/misc/secure-coding-rules](hackover-ctf-2016/misc/secure-coding-rules)
-* [hackover-ctf-2016/reversing/are-you-serialz](hackover-ctf-2016/reversing/are-you-serialz)
+* [web/brpnd](web/brpnd)
+* [binary/ez-pz](binary/ez-pz)
+* [crypto/guessr](crypto/guessr)
+* [web/rusty-cats](web/rusty-cats)
+* [crypto/vigenere](crypto/vigenere)
+* [crypto/lets-dance](crypto/lets-dance)
+* [crypto/semsecrace](crypto/semsecrace)
+* [binary/robot-captcha](binary/robot-captcha)
+* [binary/tiny-backdoor-v1](binary/tiny-backdoor-v1)
+* [misc/secure-coding-rules](misc/secure-coding-rules)
+* [reversing/are-you-serialz](reversing/are-you-serialz)
