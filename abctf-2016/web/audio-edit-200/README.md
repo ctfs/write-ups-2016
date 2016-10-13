@@ -84,4 +84,4 @@ Setting the visualization to 'Sonogram' finally showed us the flag:
 
 ## Other write-ups and resources
 
-* http://countersite.org/articles/web-vulnerability/105-audioedit-writeup.html
+* (Russian) http://countersite.org/articles/web-vulnerability/105-audioedit-writeup.html
