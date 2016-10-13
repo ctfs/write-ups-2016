@@ -6,8 +6,8 @@
 **Description:**
 
 > Description: My friend sent me this file. He told that if I manage to reverse it, I'll have access to all his devices. My misfortune that I don't know anything about reversing :/
-> 
-> 
+>
+>
 > Attachment: [rev60.zip](./rev60.zip)
 
 
@@ -27,4 +27,3 @@
 * <https://www.youtube.com/watch?v=DKYRt34sagg>
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/re60>
 * <http://poning.me/2016/02/26/file-checker/>
-* <https://www.youtube.com/watch?v=mzueu4qoPms>
