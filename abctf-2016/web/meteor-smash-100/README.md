@@ -23,4 +23,3 @@ Looking for `meteor user.profile admin exploit` shows us the [3rd link](https://
 ## Other write-ups and resources
 
 * none yet
-* http://blog.ankursundara.com/abctf/

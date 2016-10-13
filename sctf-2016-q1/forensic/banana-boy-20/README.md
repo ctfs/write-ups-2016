@@ -22,4 +22,4 @@ Is it really just an image?
 
 ## Other write-ups and resources
 
-* http://blog.oleaass.com/writeups/sctf-2016-banana-boy/
+* none yet

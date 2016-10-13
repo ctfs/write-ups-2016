@@ -1,6 +1,6 @@
 # Hackover CTF 2016 : guessr
 
-**Category:** Hackover-Ctf-2016
+**Category:** crypto
 **Points:**
 **Solves:**
 **Description:**

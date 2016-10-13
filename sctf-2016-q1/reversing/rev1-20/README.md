@@ -18,7 +18,6 @@ SHA512 Solution Hash(es):
 
 ## Other write-ups and resources
 
-* http://blog.oleaass.com/writeups/sctf-2016-rev1/
 * https://github.com/HackThisCode/CTF-Writeups/tree/master/2016/SCTF/rev1
 * https://www.youtube.com/watch?v=Gz_lMIqLjfo
 * http://bryceandress.github.io/2016/04/11/sctf2016-rev1.html

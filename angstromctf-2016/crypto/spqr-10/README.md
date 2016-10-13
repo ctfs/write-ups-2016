@@ -1,12 +1,12 @@
 # angstromCTF 2016 : spqr-10
 
 **Category:** Crypto
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
 > We found this message written on a piece of parchment in the ruins of ancient Rome. What could it mean?
-> 
+>
 > uxptkx_max_bwxl_hy_ftkva
 
 
@@ -16,7 +16,6 @@
 
 ## Other write-ups and resources
 
-* http://blog.oleaass.com/writeups/angstrom-ctf-2016-spqr/
 * https://ctftime.org/writeup/3080
 * http://ipushino.blogspot.com/2016/04/angstromctf-2016-spqr-crypto-10.html
 * https://github.com/qux-bbb/AngstromCTF-2016.git

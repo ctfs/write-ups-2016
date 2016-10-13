@@ -2,7 +2,7 @@
 
 **Category:** Pwn
 **Points:** 420
-**Solves:** 
+**Solves:**
 **Description:**
 
 dmail is dealermail, its super secret email for only the top dealers
@@ -20,4 +20,3 @@ Host is ubuntu 14.04
 
 * https://0xabe.io/ctf/exploit/2016/04/24/BlazeCTF-dmail.html
 * https://github.com/TeamBP/write-ups/tree/master/2016/blazectf/dmail
-* http://www.hamidx9.ir/blog/2016/01/19/blazectf-2016-writeups.html

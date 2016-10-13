@@ -1,6 +1,6 @@
 # Hackover CTF 2016 : ping_gnop
 
-**Category:** Hackover-Ctf-2016
+**Category:** binary
 **Points:**
 **Solves:**
 **Description:**

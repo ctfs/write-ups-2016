@@ -20,7 +20,6 @@
 * [misc/earphones-155](misc/earphones-155)
 * [misc/gravity-mud-90](misc/gravity-mud-90)
 * [crypto/financial-transaction-60](crypto/financial-transaction-60)
-* [crypto/rsa2-90](crypto/rsa2-90)
 * [crypto/cipher-font-50](crypto/cipher-font-50)
 * [crypto/rsa1-60](crypto/rsa1-60)
 * [crypto/curvature-200](crypto/curvature-200)
@@ -38,12 +37,13 @@
 * [web/use-the-force-80](web/use-the-force-80)
 * [web/super-questionable-luggage-service-30](web/super-questionable-luggage-service-30)
 * [web/sketchy-airlines-100](web/sketchy-airlines-100)
+* [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
 
 
 ## Missing write-ups
 
 * [misc/contingency-120](misc/contingency-120)
 * [misc/flag-seeker-90](misc/flag-seeker-90)
+* [crypto/rsa2-90](crypto/rsa2-90)
 * [misc/time-travel-90](misc/time-travel-90)
-* [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
 * [web/luvmarkdown-200](web/luvmarkdown-200)

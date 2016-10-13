@@ -1,6 +1,7 @@
 # Hackover CTF 2016 : roll-the-dice
 
-**Category:** Hackover-Ctf-2016
+
+**Category:** crypto
 **Points:**
 **Solves:**
 **Description:**

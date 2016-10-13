@@ -16,4 +16,3 @@ The challenge is available at http://static.quals.nuitduhack.com/whoami.zip
 ## Other write-ups and resources
 
 * https://github.com/hexpresso/WU-2016/tree/master/nuit-du-hack-ctf-quals-2016/forensic/WhoAmI
-* https://www.youtube.com/watch?v=2783ko3OXdU
