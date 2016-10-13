@@ -14,7 +14,7 @@
 * [tum-ctf-2016/crypto/haggis-100](tum-ctf-2016/crypto/haggis-100)
 * [tum-ctf-2016/web/free-as-in-bavarian-beer-50](tum-ctf-2016/web/free-as-in-bavarian-beer-50)
 * [tum-ctf-2016/web/totp-100](tum-ctf-2016/web/totp-100)
-* [tum-ctf-2016/stego/the-joy-of-paintin-50](tum-ctf-2016/stego/the-joy-of-paintin-50)
+* [tum-ctf-2016/stego/the-joy-of-painting-50](tum-ctf-2016/stego/the-joy-of-painting-50)
 * [tum-ctf-2016/crypto/hiecss-150](tum-ctf-2016/crypto/hiecss-150)
 * [tum-ctf-2016/exploit/c0py-pr073c710n-200](tum-ctf-2016/exploit/c0py-pr073c710n-200)
 * [tum-ctf-2016/pwn/boot-2-brainfuck-150](tum-ctf-2016/pwn/boot-2-brainfuck-150)
