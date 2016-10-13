@@ -38,6 +38,7 @@
 * [web/use-the-force-80](web/use-the-force-80)
 * [web/super-questionable-luggage-service-30](web/super-questionable-luggage-service-30)
 * [web/sketchy-airlines-100](web/sketchy-airlines-100)
+* [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
 
 
 ## Missing write-ups
@@ -45,5 +46,4 @@
 * [misc/contingency-120](misc/contingency-120)
 * [misc/flag-seeker-90](misc/flag-seeker-90)
 * [misc/time-travel-90](misc/time-travel-90)
-* [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
 * [web/luvmarkdown-200](web/luvmarkdown-200)
