@@ -31,7 +31,6 @@
 * [reversing/java-madness-50](reversing/java-madness-50)
 * [ppc/qset1-100](ppc/qset1-100)
 * [ppc/racecar-100](ppc/racecar-100)
-* [ppc/qset2-150](ppc/qset2-150)
 * [ppc/obfuscated1-130](ppc/obfuscated1-130)
 * [ppc/qset3-200](ppc/qset3-200)
 * [ppc/slime-season3-60](ppc/slime-season3-60)
@@ -59,3 +58,4 @@
 
 ## Missing write-ups
 
+* [ppc/qset2-150](ppc/qset2-150)
