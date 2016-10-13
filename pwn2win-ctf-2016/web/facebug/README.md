@@ -1,8 +1,8 @@
 # Pwn2Win CTF : facebug
 
 **Category:** Web
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
 
@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * http://security.szurek.pl/pwn2win-ctf-2016-facebug-writeup.html
+* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
