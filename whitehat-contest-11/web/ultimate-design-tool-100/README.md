@@ -14,4 +14,4 @@ http://118.70.80.143:8104/
 ## Other write-ups and resources
 
 * https://tsublogs.wordpress.com/2016/06/25/whitehat-contest-11-ultimate-design-tool-web100/
-* https://blog.nhiroki.net/2016/06/25/whitehat-wargame-contest-11-writeup
+* (Japanese) https://blog.nhiroki.net/2016/06/25/whitehat-wargame-contest-11-writeup
