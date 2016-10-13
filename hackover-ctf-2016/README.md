@@ -11,6 +11,7 @@
 
 * [binary/ez-pz](binary/ez-pz)
 * [crypto/guessr](crypto/guessr)
+* [crypto/qr-code](crypto/qr-code)
 * [crypto/vigenere](crypto/vigenere)
 * [binary/ping_gnop](binary/ping_gnop)
 * [binary/bookshelf](binary/bookshelf)
