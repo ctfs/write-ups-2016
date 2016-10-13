@@ -20,7 +20,6 @@
 * [misc/earphones-155](misc/earphones-155)
 * [misc/gravity-mud-90](misc/gravity-mud-90)
 * [crypto/financial-transaction-60](crypto/financial-transaction-60)
-* [crypto/rsa2-90](crypto/rsa2-90)
 * [crypto/cipher-font-50](crypto/cipher-font-50)
 * [crypto/rsa1-60](crypto/rsa1-60)
 * [crypto/curvature-200](crypto/curvature-200)
@@ -45,5 +44,6 @@
 
 * [misc/contingency-120](misc/contingency-120)
 * [misc/flag-seeker-90](misc/flag-seeker-90)
+* [crypto/rsa2-90](crypto/rsa2-90)
 * [misc/time-travel-90](misc/time-travel-90)
 * [web/luvmarkdown-200](web/luvmarkdown-200)
