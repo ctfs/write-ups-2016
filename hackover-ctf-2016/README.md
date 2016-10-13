@@ -18,6 +18,7 @@
 * [binary/ping_gnop](binary/ping_gnop)
 * [binary/bookshelf](binary/bookshelf)
 * [crypto/semsecrace](crypto/semsecrace)
+* [reversing/mixer-box](reversing/mixer-box)
 * [crypto/roll-the-dice](crypto/roll-the-dice)
 * [binary/tiny-backdoor-v1](binary/tiny-backdoor-v1)
 * [binary/tiny-backdoor-v2](binary/tiny-backdoor-v2)
