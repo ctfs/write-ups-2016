@@ -3,10 +3,11 @@
 **Category:** Network
 **Author:** julien
 **Difficulty:** Easy
+**Solves:** 18
 **Description:**
 
-> Our smartcat was not so secure so we decided to add a powerful homemade smart IPS. No chance for you to have a flag now! :-) 
-> 
+> Our smartcat was not so secure so we decided to add a powerful homemade smart IPS. No chance for you to have a flag now! :-)
+>
 > smartips
 
 ## Write-up

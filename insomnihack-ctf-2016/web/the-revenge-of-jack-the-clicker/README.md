@@ -1,8 +1,9 @@
 # Insomni'hack CTF 2016 : The revenge of jack the clicker
 
 **Category:** Web
-**Author:** clZ 
+**Author:** clZ
 **Difficulty:** Medium
+**Solves:** 7
 **Description:**
 
 > You might remember Jack from last year? Well he's still in a clicking mood!
