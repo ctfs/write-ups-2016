@@ -24,4 +24,3 @@
  * <https://secgroup.github.io/2016/03/14/0ctf-writeup-monkey/>
  * <http://zepvn.com/2016-03-14-0ctf-2016-monkey.html>
  * <https://w00tsec.blogspot.de/2016/03/0ctf-2016-write-up-monkey-web-4.html>
- * <http://www.isecer.com/ctf/0ctf_2016_web_writeup_monkey.html>

@@ -14,5 +14,4 @@
 
 ## Other write-ups and resources
 
-* <https://github.com/p4-team/ctf/tree/master/2016-03-12-0ctf/piapiapia> 
-* [Chineese](http://www.isecer.com/ctf/0ctf_2016_web_writeup_piapiapia.html)
+* <https://github.com/p4-team/ctf/tree/master/2016-03-12-0ctf/piapiapia>

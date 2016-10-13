@@ -14,6 +14,7 @@
 
 ## Other write-ups and resources
 
+* https://ctftime.org/writeup/4445
 * https://dinhbaoluciusteam.wordpress.com/2016/10/10/hitcon-2016/
 * https://nacayoshi00.wordpress.com/2016/10/09/hitcon-2016-writeup/
 * https://0x90r00t.com/2016/10/10/hitcon-2016-reverse-50-handcrafted-pyc-write-up/

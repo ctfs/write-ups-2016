@@ -18,10 +18,8 @@
 * [crypto/what-the-hex-15](crypto/what-the-hex-15)
 * [crypto/brute-force-40](crypto/brute-force-40)
 * [crypto/spqr-10](crypto/spqr-10)
-* [forensics/wherizmaicheezburgr](forensics/wherizmaicheezburgr)
 * [forensics/volatile-90](forensics/volatile-90)
 * [forensics/whoops-30](forensics/whoops-30)
-* [forensics/metasploitable-120](forensics/metasploitable-120)
 * [forensics/recovery-10](forensics/recovery-10)
 * [re/smartest-encryption-70](re/smartest-encryption-70)
 * [re/java-is-the-best-50](re/java-is-the-best-50)
@@ -31,8 +29,10 @@
 
 ## Missing write-ups
 
+* [forensics/metasploitable-120](forensics/metasploitable-120)
 * [binary/answer-machine-110](binary/answer-machine-110)
 * [binary/shellcode-60](binary/shellcode-60)
+* [forensics/wherizmaicheezburgr-80](forensics/wherizmaicheezburgr-80)
 * [binary/rop2libc-160](binary/rop2libc-160)
 * [crypto/actf-casino-120](crypto/actf-casino-120)
 * [crypto/randomized-cipher-250](crypto/randomized-cipher-250)

@@ -16,5 +16,4 @@ The challenge is available at http://toil33t.quals.nuitduhack.com
 ## Other write-ups and resources
 
 * https://www.asafety.fr/cryptologie/ctf-ndh-2016-quals-write-up-cryptography-toil33t/
-* https://poisonedbytes.com/files/sp4nky_writeup_CTF_NDH_2016_Quals_Toil33t.txt
 * https://github.com/TechSecCTF/writeups/blob/master/NuitDuHack2016/toil33t.md

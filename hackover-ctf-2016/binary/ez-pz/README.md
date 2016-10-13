@@ -1,6 +1,6 @@
 # Hackover CTF 2016 : ez-pz
 
-**Category:** Hackover-Ctf-2016
+**Category:** binary
 **Points:**
 **Solves:**
 **Description:**

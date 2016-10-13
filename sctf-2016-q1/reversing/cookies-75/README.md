@@ -23,5 +23,4 @@ She left something in the code for debugging purposes... maybe that will help?
 
 ## Other write-ups and resources
 
-* http://blog.oleaass.com/writeups/sctf-2016-cookies/
 * https://sardinachanx.gitbooks.io/sctf-2016q1-write-ups/content/cookies_75_pts.html

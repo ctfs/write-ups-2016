@@ -1,6 +1,6 @@
 # HITCON CTF 2016 : secure-posts-2-150
 
-**Category:** reverse
+**Category:** web
 **Points:** 150
 **Solves:**
 **Description:**

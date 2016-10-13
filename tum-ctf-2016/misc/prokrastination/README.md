@@ -1,6 +1,6 @@
 # TUM CTF 2016 : prokrastination
 
-**Category:** web
+**Category:** misc
 **Points:**
 **Solves:**
 **Description:**

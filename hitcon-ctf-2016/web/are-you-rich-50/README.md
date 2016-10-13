@@ -1,6 +1,6 @@
 # HITCON CTF 2016 : are-you-rich-50
 
-**Category:** reverse
+**Category:** web
 **Points:** 50
 **Solves:**
 **Description:**

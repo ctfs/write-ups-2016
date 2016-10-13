@@ -17,5 +17,5 @@
 * http://solorab.net/blog/2016/05/02/google-ctf-2016-spotted-quoll/
 * https://github.com/bl4de/ctf/tree/master/2016/Google_CTF_2016/Spotted_Quoll_Web_50
 * http://b0tchsec.com/2016/googlectf/spotted-quoll
-* http://countersite.org/articles/web-vulnerability/85-web-googlecft2016-spotted-quoll.html
+* (Russian) http://countersite.org/articles/web-vulnerability/85-web-googlecft2016-spotted-quoll.html
 * http://fadec0d3.blogspot.com/2016/05/google-ctf-2016-various-no-big-deal-pt.html

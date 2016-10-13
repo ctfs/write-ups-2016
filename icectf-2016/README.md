@@ -23,12 +23,12 @@
 * [crypto/rsa-50](crypto/rsa-50)
 * [web/exposed-60](web/exposed-60)
 * [web/miners-65](web/miners-65)
+* [pwn/dear-diary-60](pwn/dear-diary-60)
 
 ## External write ups only
 
 * [pwn/demo-55](pwn/demo-55)
 * [misc/thors-a-hacker-now-55](misc/thors-a-hacker-now-55)
-* [pwn/dear-diary-60](pwn/dear-diary-60)
 * [misc/irc-ii-60](misc/irc-ii-60)
 * [crypto/over-the-hill-65](crypto/over-the-hill-65)
 * [forensics/audio-problems-50](forensics/audio-problems-50)
