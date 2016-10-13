@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* [mctf-quals-2016/web/web200-200](mctf-quals-2016/web/web200-200)
+* [web/web200-200](web/web200-200)
 
 ## Missing write-ups
 
