@@ -1,6 +1,6 @@
 # HITCON CTF 2016 : angry-seam-500
 
-**Category:** reverse
+**Category:** web
 **Points:** 500
 **Solves:**
 **Description:**

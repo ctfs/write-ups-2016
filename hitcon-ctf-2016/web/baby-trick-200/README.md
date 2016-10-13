@@ -1,6 +1,6 @@
 # HITCON CTF 2016 : baby-trick-200
 
-**Category:** reverse
+**Category:** web
 **Points:** 200
 **Solves:**
 **Description:**
