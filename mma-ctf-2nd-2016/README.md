@@ -15,6 +15,7 @@
 * [reverse/reverse-box-50](reverse/reverse-box-50)
 * [misc/ninth-100](misc/ninth-100)
 * [pwn/judgement-50](pwn/judgement-50)
+
 ## Missing write-ups
 
 * [pwn/shadow-400](pwn/shadow-400)
