@@ -10,6 +10,8 @@
 ## External write-ups only
 
 * [binary/ez-pz](binary/ez-pz)
+* [crypto/ish_1](crypto/ish_1)
+* [crypto/ish_2](crypto/ish_2)
 * [crypto/guessr](crypto/guessr)
 * [crypto/qr-code](crypto/qr-code)
 * [crypto/vigenere](crypto/vigenere)
