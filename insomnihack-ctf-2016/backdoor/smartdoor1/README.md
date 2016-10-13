@@ -3,6 +3,7 @@
 **Category:** Backdoor
 **Author:** clZ
 **Difficulty:** Easy
+**Solves:** 42
 **Description:**
 
 > Your neighbor Fred has just installed this new connected front door. He has been bragging about how he can open it from far away and all... Who cares right?

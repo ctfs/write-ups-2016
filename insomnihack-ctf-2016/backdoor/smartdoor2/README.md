@@ -3,6 +3,7 @@
 **Category:** Backdoor
 **Author:** clZ
 **Difficulty:** Medium
+**Solves:** 8
 **Description:**
 
 > Your other neighbor Julia has decided to install another kind of smart door! Wtf is happening to your neighborhood?

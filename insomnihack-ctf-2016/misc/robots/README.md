@@ -3,6 +3,7 @@
 **Category:** Misc
 **Author:** awe
 **Difficulty:** Medium
+**Solves:** 8
 **Description:**
 
 > Survive the robot uprising and steal their secret flag!
