@@ -20,4 +20,3 @@
 * <http://rex.sex/ctf/2016/bkp/cookbook.py>
 * <https://gist.github.com/LiveOverflow/dadc75ec76a4638ab9ea#file-cookbook-py> (including 3 part video write-up)
 * <http://pwnexpoit.hol.es/2016/03/07/boston-key-party-ctf-2016-cookbook/>
-* <https://github.com/unamer/ctf/blob/master/bkpctf2016/cookbook.py>
