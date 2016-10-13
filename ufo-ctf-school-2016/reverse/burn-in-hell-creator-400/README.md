@@ -2,7 +2,7 @@
 
 **Category:** Reverse
 **Points:** 400
-**Solves:** 
+**Solves:**
 **Description:**
 
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/thekidcrash/ctf-writeups/tree/master/2016/UFO%20School%20CTF
+* none yet

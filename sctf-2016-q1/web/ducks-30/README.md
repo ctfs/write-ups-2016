@@ -25,4 +25,3 @@ If you've remember HSF, you'll know that The Ducks is unsolvable.
 * http://www.sateam.net/2016/04/sctf-2016-q1.html
 * https://youtu.be/wcYcb5ogJoo
 * https://github.com/HackThisCode/CTF-Writeups/tree/master/2016/SCTF/Ducks
-* http://blog.oleaass.com/writeups/sctf-2016-ducks/

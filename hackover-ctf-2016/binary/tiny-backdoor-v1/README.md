@@ -1,6 +1,6 @@
 # Hackover CTF 2016 : tiny-backdoor-v1
 
-**Category:** Hackover-Ctf-2016
+**Category:** binary
 **Points:**
 **Solves:**
 **Description:**

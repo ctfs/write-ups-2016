@@ -1,6 +1,6 @@
 # HITCON CTF 2016 : angry-boy-300
 
-**Category:** reverse
+**Category:** web
 **Points:** 300
 **Solves:**
 **Description:**

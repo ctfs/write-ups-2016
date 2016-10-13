@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/bitsforeveryone/write-ups/tree/master/HITCON-Quals-2016/Flame

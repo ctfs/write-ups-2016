@@ -1,6 +1,6 @@
 # Hackover CTF 2016 : are-you-serialz
 
-**Category:** Hackover-Ctf-2016
+**Category:** reversing
 **Points:**
 **Solves:**
 **Description:**

@@ -11,10 +11,8 @@
 * [pwn/worst-pwn-ever-100](pwn/worst-pwn-ever-100)
 * [pwn/enter-the-matrix-350](pwn/enter-the-matrix-350)
 * [ppc/isolve-200](ppc/isolve-200)
-* [misc/debug-30](misc/debug-30)
 * [misc/jigsaw-150](misc/jigsaw-150)
 * [misc/incomplete-600](misc/incomplete-600)
-* [misc/truncate-600](misc/truncate-600)
 * [crypto/mindblown-150](crypto/mindblown-150)
 * [crypto/crc-250](crypto/crc-250)
 * [crypto/baby-200](crypto/baby-200)
@@ -31,4 +29,5 @@
 
 ## Missing write-ups
 
-* none yet
+* [misc/debug-30](misc/debug-30)
+* [misc/truncate-600](misc/truncate-600)

@@ -9,13 +9,11 @@
 
 ## External write-ups only
 
-* [reversing/bomb-squad-130](reversing/bomb-squad-130)
 * [reversing/cookies-75](reversing/cookies-75)
 * [reversing/secure-text-saver-60](reversing/secure-text-saver-60)
 * [reversing/unbrewed-85](reversing/unbrewed-85)
 * [reversing/rev1-20](reversing/rev1-20)
 * [reversing/rev2-45](reversing/rev2-45)
-* [forensic/banana-boy-20](forensic/banana-boy-20)
 * [forensic/rain-or-shine-35](forensic/rain-or-shine-35)
 * [forensic/musical-penguins-45](forensic/musical-penguins-45)
 * [forensic/failed-compression-80](forensic/failed-compression-80)
@@ -34,7 +32,6 @@
 * [pwning/pwn3-160](pwning/pwn3-160)
 * [prog-lang/i-cant-get-no-satisfaction-130](prog-lang/i-cant-get-no-satisfaction-130)
 * [prog-lang/check-em-160](prog-lang/check-em-160)
-* [web/president-40](web/president-40)
 * [web/obfuscation-180](web/obfuscation-180)
 * [web/ducks-30](web/ducks-30)
 * [web/control-panel-40](web/control-panel-40)
@@ -45,7 +42,10 @@
 * [forensic/corruption-100](forensic/corruption-100)
 * [crypto/pythagoras-hash-100](crypto/pythagoras-hash-100)
 * [algorithmic/schensted-110](algorithmic/schensted-110)
+* [forensic/banana-boy-20](forensic/banana-boy-20)
 * [pwning/kobayashi-maru-200](pwning/kobayashi-maru-200)
+* [reversing/bomb-squad-130](reversing/bomb-squad-130)
+* [web/president-40](web/president-40)
 * [prog-lang/whats-that-type-190](prog-lang/whats-that-type-190)
 * [prog-lang/can-nerds-fly-100](prog-lang/can-nerds-fly-100)
 * [web/scrambled-crypt2-135](web/scrambled-crypt2-135)

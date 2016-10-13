@@ -1,8 +1,8 @@
 # Def Con CTF Qualifiers : 334, 666, 1000 cuts
 
 **Category:** Cgc
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
 
@@ -14,4 +14,3 @@
 ## Other write-ups and resources
 
 * https://ctf.rip/defcon-2016-cgc/
-* http://bof.kr/220717191628

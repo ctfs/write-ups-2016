@@ -5,10 +5,10 @@
 **Solves:** 198
 **Description:**
 
-> We have hidden a message in png file using jar file. Flag is hidden message. Flag is in this format: 
-> 
+> We have hidden a message in png file using jar file. Flag is hidden message. Flag is in this format:
+>
 > SharifCTF{flag}
-> 
+>
 > Download [cheetah.tar.gz](./cheetah.tar.gz)
 
 
@@ -23,4 +23,4 @@
 * <http://www.codehead.co.uk/sharifctf-2016-asian-cheetah-misc-50-points/>
 * <https://www.youtube.com/watch?v=_O_tbiHF7Qg>
 * <http://err0r-451.ru/sharifctf-misc-asian-cheetah-50pts/>
-* [Russian](http://countersite.org/articles/steganography/59-asiancheetah.html)
+* (Russian) http://countersite.org/articles/steganography/59-asiancheetah.html)

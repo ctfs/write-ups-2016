@@ -2,16 +2,15 @@
 
 **Category:** misc
 **Points:** 200
-**Solves:** ?
+**Solves:** 
 **Description:**
 
-> Description: 
-> 
->  
+> (TODO)
 
 ## Write-up
 
-<TODO>
+(TODO)
 
 ## Other write-ups and resources
 
+* none yet

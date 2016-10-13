@@ -19,7 +19,6 @@ f.o.u.n.d._.i.t.
 
 ## Other write-ups and resources
 
-* https://github.com/318BR/IceCTF/blob/master/2016/Stage-2/Hidden-In-Plain-Sight/writeup.md
 * http://rawsec.ml/en/IceCTF-45-Hidden-in-Plain-Sight-ReverseEngineering/
 * https://bryceandress.github.io/2016/08/27/hidden-in-plain-sight.html
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/HiddenInPlainSight-Rev-45

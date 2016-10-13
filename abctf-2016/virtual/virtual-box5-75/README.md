@@ -17,4 +17,4 @@ Decoded: ABCTF{ITS_C00L_L00KING_BACK}
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/ABCTF-75-Virtual-Box-5-Virtual-Series/
-* http://yuelab82.hatenablog.com/entry/2016/07/24/042028
+* (Japanese) http://yuelab82.hatenablog.com/entry/2016/07/24/042028

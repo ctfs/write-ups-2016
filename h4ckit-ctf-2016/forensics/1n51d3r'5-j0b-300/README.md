@@ -1,4 +1,4 @@
-# H4ckIT CTF 2016 : ch17ch47-300
+# H4ckIT CTF 2016 : 1n51d3r5-j0b-300
 
 **Category:** forensics
 **Points:** 300
