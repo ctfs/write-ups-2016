@@ -9,20 +9,20 @@
 
 ## External write-ups only
 
+* [binary/ez-pz](binary/ez-pz)
+* [crypto/guessr](crypto/guessr)
+* [crypto/vigenere](crypto/vigenere)
 * [binary/ping_gnop](binary/ping_gnop)
 * [binary/bookshelf](binary/bookshelf)
+* [crypto/semsecrace](crypto/semsecrace)
 * [crypto/roll-the-dice](crypto/roll-the-dice)
+* [binary/tiny-backdoor-v1](binary/tiny-backdoor-v1)
+* [reversing/are-you-serialz](reversing/are-you-serialz)
 
 ## Missing write-ups
 
 * [web/brpnd](web/brpnd)
-* [binary/ez-pz](binary/ez-pz)
-* [crypto/guessr](crypto/guessr)
 * [web/rusty-cats](web/rusty-cats)
-* [crypto/vigenere](crypto/vigenere)
 * [crypto/lets-dance](crypto/lets-dance)
-* [crypto/semsecrace](crypto/semsecrace)
 * [binary/robot-captcha](binary/robot-captcha)
-* [binary/tiny-backdoor-v1](binary/tiny-backdoor-v1)
 * [misc/secure-coding-rules](misc/secure-coding-rules)
-* [reversing/are-you-serialz](reversing/are-you-serialz)
