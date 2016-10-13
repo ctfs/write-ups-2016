@@ -23,6 +23,7 @@
 * [web/are-you-rich-2-100](web/are-you-rich-2-100)
 * [web/secure-posts-2-150](web/secure-posts-2-150)
 * [pwn/shelling-folder-200](pwn/shelling-folder-200)
+* [crypto/lets-decrypt-100](crypto/lets-decrypt-100)
 * [reverse/handcrafted-pyc-50](reverse/handcrafted-pyc-50)
 
 ## Missing write-ups
