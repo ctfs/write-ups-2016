@@ -25,6 +25,7 @@
 * [pwn/shelling-folder-200](pwn/shelling-folder-200)
 * [crypto/lets-decrypt-100](crypto/lets-decrypt-100)
 * [reverse/handcrafted-pyc-50](reverse/handcrafted-pyc-50)
+* [web/%%%-100](web/%%%-100)
 
 ## Missing write-ups
 
