@@ -17,6 +17,7 @@
 * [crypto/semsecrace](crypto/semsecrace)
 * [crypto/roll-the-dice](crypto/roll-the-dice)
 * [binary/tiny-backdoor-v1](binary/tiny-backdoor-v1)
+* [binary/tiny-backdoor-v2](binary/tiny-backdoor-v2)
 * [reversing/are-you-serialz](reversing/are-you-serialz)
 
 ## Missing write-ups
