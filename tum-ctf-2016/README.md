@@ -10,7 +10,6 @@
 ## External write-ups only
 
 * [pwn/l1br4ry-300](pwn/l1br4ry-300)
-* [pwn/lolcpp-250](pwn/lolcpp-250)
 * [crypto/haggis-100](crypto/haggis-100)
 * [web/free-as-in-bavarian-beer-50](web/free-as-in-bavarian-beer-50)
 * [web/totp-100](web/totp-100)
@@ -22,4 +21,4 @@
 
 ## Missing write-ups
 
-* none yet
+* [pwn/lolcpp-250](pwn/lolcpp-250)
