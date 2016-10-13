@@ -14,6 +14,5 @@ This traffic was picked up by one of our agents. We think this might be a conver
 
 * http://www.cyberteam6.net/2016/08/26/icectf-2016-n1d3n-2/#more-35
 * http://lab.insightsecurity.com.br/writeup-intercepted-conversations-pt-1-icectf-2016/
-* https://github.com/73696e65/ctf-notes/blob/master/2016-IceCTF/Intercepted_Conversations_Pt.1-Forensi...
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/intercepted_1
 * (Russian) http://countersite.org/articles/net/111-intercepted-conversations-pt1.html
