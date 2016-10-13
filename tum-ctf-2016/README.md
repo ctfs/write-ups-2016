@@ -18,6 +18,7 @@
 * [exploit/c0py-pr073c710n-200](exploit/c0py-pr073c710n-200)
 * [pwn/boot-2-brainfuck-150](pwn/boot-2-brainfuck-150)
 * [web/f8901da0-300](web/f8901da0-300)
+* [misc/prokrastination](misc/prokrastination)
 
 ## Missing write-ups
 
