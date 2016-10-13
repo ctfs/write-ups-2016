@@ -9,6 +9,7 @@
 
 ## External write-ups only
 
+* [ppc/flame-150](ppc/flame-150)
 * [misc/more-350](misc/more-350)
 * [crypto/otp-150](crypto/otp-150)
 * [ppc/beelzemon-15](ppc/beelzemon-15)
@@ -27,7 +28,6 @@
 ## Missing write-ups
 
 * [misc/tnt-500](misc/tnt-500)
-* [ppc/flame-150](ppc/flame-150)
 * [web/leaking-200](web/leaking-200)
 * [crypto/pake-250](crypto/pake-250)
 * [misc/im-here-200](misc/im-here-200)
