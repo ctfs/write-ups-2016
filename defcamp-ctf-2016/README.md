@@ -11,7 +11,7 @@
 * [misc/the-nospecial-virus-100](misc/the-nospecial-virus-100)
 * [misc/evil-farmers-400](misc/evil-farmers-400)
 * [misc/musicetry-200](misc/musicetry-200)
-* [misc/b4s14l](misc/b4s14l)
+* [misc/b4s14l-150](misc/b4s14l-150)
 * [revcrypt/rucksack-200](revcrypt/rucksack-200)
 * [revcrypt/decoy-300](revcrypt/decoy-300)
 * [revcrypt/bad-otpxploited-100](revcrypt/bad-otpxploited-100)
