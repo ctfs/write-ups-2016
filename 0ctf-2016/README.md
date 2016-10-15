@@ -5,11 +5,10 @@
 
 ## Repo-local write-ups
 
-* none yet
+* [crypto/equation-2](crypto/equation-2)
 
 ## External write-ups only
 
-* [crypto/equation-2](crypto/equation-2)
 * [crypto/rsa-2](crypto/rsa-2)
 * [exploit/warumup-2](exploit/warumup-2)
 * [exploit/zerostorage-6](exploit/zerostorage-6)
