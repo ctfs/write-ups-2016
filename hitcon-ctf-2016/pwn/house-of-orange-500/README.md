@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://4ngelboy.blogspot.tw/2016/10/hitcon-ctf-qual-2016-house-of-orange.html
