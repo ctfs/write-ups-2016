@@ -26,6 +26,7 @@
 * [crypto/lets-decrypt-100](crypto/lets-decrypt-100)
 * [reverse/handcrafted-pyc-50](reverse/handcrafted-pyc-50)
 * [web/%%%-100](web/%%%-100)
+* [pwn/house-of-orange-500](pwn/house-of-orange-500)
 
 ## Missing write-ups
 
@@ -40,6 +41,5 @@
 * [misc/log-center-300](misc/log-center-300)
 * [pwn/heart-attack-400](pwn/heart-attack-400)
 * [pwn/sleepy-holder-300](pwn/sleepy-holder-300)
-* [pwn/house-of-orange-500](pwn/house-of-orange-500)
 * [crypto/pake-plus-plus-150](crypto/pake-plus-plus-150)
 * [forensics/swamp-machine-400](forensics/swamp-machine-400)
