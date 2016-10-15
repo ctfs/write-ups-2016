@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+[https://ctfs.ghost.io/hello-hitcon-2016-ctf/#leaking](https://ctfs.ghost.io/hello-hitcon-2016-ctf/#leaking)
