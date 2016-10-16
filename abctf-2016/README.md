@@ -22,6 +22,7 @@
 * [web/elemental-10](web/elemental-10)
 * [web/audio-edit-200](web/audio-edit-200)
 * [web/impenetrable-fortress-200](web/impenetrable-fortress-200)
+* [forensic/just-open-it-15](forensic/just-open-it-15)
 * [web/meteor-smash-100](web/meteor-smash-100)
 
 ## External write-ups only
@@ -36,7 +37,6 @@
 * [ppc/slime-season3-60](ppc/slime-season3-60)
 * [forensic/moonwalk-60](forensic/moonwalk-60)
 * [forensic/zippy-120](forensic/zippy-120)
-* [forensic/just-open-it-15](forensic/just-open-it-15)
 * [forensic/gz-30](forensic/gz-30)
 * [forensic/best-ganondorf-50](forensic/best-ganondorf-50)
 * [forensic/passwordpdf-80](forensic/passwordpdf-80)
