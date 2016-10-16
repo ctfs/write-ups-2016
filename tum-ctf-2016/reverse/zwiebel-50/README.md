@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=LowwCyZHBBk
 
 ## Other write-ups and resources
 
-* http://www.codilime.com/tumctf-2016-zwiebel/
 * http://anee.me/
+* http://www.codilime.com/tumctf-2016-zwiebel/
+* https://cinsects.de/tum-ctf-2016-zwiebel.html
 * https://losfuzzys.github.io/writeup/2016/10/03/tumctf-zwiebel50/
