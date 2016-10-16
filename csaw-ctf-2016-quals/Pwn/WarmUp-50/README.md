@@ -17,7 +17,7 @@ See [warmup.py](warmup.py)
 
 ## Other write-ups and resources
 
-* https://glennmcgui.re/blog/2016/csaw-ctf-2016-warmup/
+* https://glennmcgui.re/articles/csaw-ctf-2016-warmup/
 * http://www.megabeets.net/csaw-2016-pwn-warmup-writeup/
 * https://github.com/xPowerz/CTF-Writeups/tree/master/2016/CSAW/Warmup
 * http://pastebinthehacker.blogspot.com/2016/09/csaw-2016-warmup-pwn-50.html
