@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://gist.github.com/anthraxx/f6433a1e8418c934b2467c93cb2d94fd
