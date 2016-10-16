@@ -21,6 +21,8 @@
 * [recon/liorogamerdvd-300](recon/liorogamerdvd-300)
 * [web/elemental-10](web/elemental-10)
 * [web/audio-edit-200](web/audio-edit-200)
+* [web/the-flash-35](web/the-flash-35)
+* [web/the-chocolate-50](web/the-chocolate-50)
 * [web/impenetrable-fortress-200](web/impenetrable-fortress-200)
 * [forensic/just-open-it-15](forensic/just-open-it-15)
 * [web/meteor-smash-100](web/meteor-smash-100)
@@ -53,8 +55,6 @@
 * [web/safety-first-95](web/safety-first-95)
 * [web/reunion-150](web/reunion-150)
 * [web/inj3ction-170](web/inj3ction-170)
-* [web/the-chocolate-50](web/the-chocolate-50)
-* [web/the-flash-35](web/the-flash-35)
 
 ## Missing write-ups
 
