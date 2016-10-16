@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * http://abaptista.github.io/2016/10/09/hackover-writeup-rev
+* https://pony7.fr/doku.php?id=ctf:public:hackover2016:are_you_serialz

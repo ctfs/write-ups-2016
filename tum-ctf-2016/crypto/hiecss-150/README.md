@@ -17,3 +17,4 @@
 * https://ctftime.org/writeup/4290
 * https://github.com/dqi/ctf_writeup/tree/master/2016/tumctf/hiecss
 * https://github.com/p4-team/ctf/tree/master/2016-10-01-tum/hiecss_crypto_150
+* https://cinsects.de/tum-ctf-2016-hiecss.html
