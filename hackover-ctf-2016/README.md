@@ -23,6 +23,7 @@
 * [binary/tiny-backdoor-v1](binary/tiny-backdoor-v1)
 * [binary/tiny-backdoor-v2](binary/tiny-backdoor-v2)
 * [reversing/are-you-serialz](reversing/are-you-serialz)
+* [misc/secure-coding-rules](misc/secure-coding-rules)
 
 ## Missing write-ups
 
@@ -30,4 +31,3 @@
 * [web/rusty-cats](web/rusty-cats)
 * [crypto/lets-dance](crypto/lets-dance)
 * [binary/robot-captcha](binary/robot-captcha)
-* [misc/secure-coding-rules](misc/secure-coding-rules)
