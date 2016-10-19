@@ -5,8 +5,10 @@
 ## Repo-local write-ups
 
 * [misc/r-u-insane-5](misc/r-u-insane-5)
+* [crypto/cipher-font-50](crypto/cipher-font-50)
 * [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
 * [crypto/one-time-subtraction-20](crypto/one-time-subtraction-20)
+* [crypto/financial-transaction-60](crypto/financial-transaction-60)
 
 ## External write-ups only
 
@@ -20,8 +22,6 @@
 * [misc/interesting-telegrams-100](misc/interesting-telegrams-100)
 * [misc/earphones-155](misc/earphones-155)
 * [misc/gravity-mud-90](misc/gravity-mud-90)
-* [crypto/financial-transaction-60](crypto/financial-transaction-60)
-* [crypto/cipher-font-50](crypto/cipher-font-50)
 * [crypto/rsa1-60](crypto/rsa1-60)
 * [crypto/curvature-200](crypto/curvature-200)
 * [forensics/corruption-130](forensics/corruption-130)
