@@ -1,8 +1,8 @@
 # Hack.lu CTF 2016 : maze-200
 
-**Category:** Hack-Lu-Ctf-2016
-**Points:** 
-**Solves:** 
+**Category:** programming
+**Points:**
+**Solves:**
 **Description:**
 
 > You just have to solve the maze here: Sounds easy, doesn't it ? <https://cthulhu.fluxfingers.net:1507/>
