@@ -9,6 +9,7 @@
 * [crypto/znzarmt-mvd-hproo-10](crypto/znzarmt-mvd-hproo-10)
 * [crypto/one-time-subtraction-20](crypto/one-time-subtraction-20)
 * [crypto/financial-transaction-60](crypto/financial-transaction-60)
+* [web/super-questionable-luggage-service-30](web/super-questionable-luggage-service-30)
 
 ## External write-ups only
 
@@ -35,7 +36,6 @@
 * [forensics/roverctl-100](forensics/roverctl-100)
 * [web/java-sandbox-100](web/java-sandbox-100)
 * [web/use-the-force-80](web/use-the-force-80)
-* [web/super-questionable-luggage-service-30](web/super-questionable-luggage-service-30)
 * [web/sketchy-airlines-100](web/sketchy-airlines-100)
 
 
