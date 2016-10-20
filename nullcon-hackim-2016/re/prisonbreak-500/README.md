@@ -2,7 +2,7 @@
 
 **Category:** Reverse Engineering
 **Points:** 500
-**Solves:** 
+**Solves:**
 **Description:**
 
 > Break it Free.
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* [Partial writeup](https://github.com/raccoons-team/ctf/tree/master/2016-01-30-nullcon-hackim/re_500_prison_break)
+* (Incomplete) https://github.com/raccoons-team/ctf/tree/master/2016-01-30-nullcon-hackim/re_500_prison_break

@@ -6,8 +6,8 @@
 **Description:**
 
 > Description: Sniffing traffic is fun. I saw a wired shark. Isn't that strange?
-> 
-> 
+>
+>
 > Attachment: [misc70.zip](./misc70.zip)
 
 
@@ -26,5 +26,4 @@
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc70.md>
 * <https://github.com/tuvshuud/1up/blob/master/internetwache/misc60.md>
 * <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/misc_70>
-* <https://www.youtube.com/watch?v=zZEpql4LErY>
 * <https://github.com/raccoons-team/ctf/tree/master/2016-02-20-internetwache-ctf/misc70>

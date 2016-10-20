@@ -1,0 +1,243 @@
+{% extends "base.html" %}
+
+{% block style %}
+<style>
+img {
+	width: 50%;
+    max-width: 400px;
+	margin: 0 35%;
+}
+.form-horizontal .form-actions {
+    padding-left: 100px;
+}
+.btn-info {
+    background-color: #00F !important;
+    background-image: linear-gradient(to bottom,#00f,#00f);
+}
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+#letters-wrapper {
+  -webkit-perspective: 1390;
+}
+
+.letters {
+  position: absolute;
+  text-align: center;
+  width: 24px;
+  opacity: 1;
+  text-shadow: 0px -6px 7px green;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -moz-transform: translate3d(0px, 0px, 0px);
+}
+
+.letter-cover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -moz-transform: translate3d(0px, 0px, 0px);
+  background-image: linear-gradient(black 33%, black, transparent 65%, black 66%);
+  width: 100%;
+}
+
+.letter {
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+  font-family: 'matrix_code_nfiregular';
+  line-height: 24px;
+  color: greenyellow;
+}
+
+@font-face {
+  font-family: museo-slab, Georgia, 'Times New Roman', Times, serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+a { 
+  text-decoration: none;
+}
+a:hover { 
+  text-decoration: none;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+
+{% if not flag %}
+<div class="row">
+    <h1 class="colorfy">Neo, visit the Oracle</h1>
+    {% if error %}
+    <div class="alert alert-error">
+        <center>{{error}}</center>
+    </div>
+    {% endif %}
+    <div class="span6 offset3">
+	    <form method="POST" action="/" class="form-horizontal well">
+	        <fieldset>
+	          <legend>Decrypt the Matrix</legend>
+	          <div class="control-group">
+	            <label class="control-label" for="matrix-id">Edit your Matrix ID</label>
+	            <div class="controls">
+	              <input type="text" class="input-xlarge" id="matrix-id" name="matrix-id" value="{{ matrix_id }}">
+	              <p class="help-block">The Matrix is a system Neo, get access to the system.</p>
+	            </div>
+	          </div>
+	          <div class="form-actions">
+	            <button type="submit" class="btn btn-danger">Take the Red Pill</button>
+	            <a onclick="alert('You cannot take the blissful ignorance of illusion, you have to face the sometimes painful truth of reality.')" class="btn btn-info">Take the Blue Pill</a>
+	          </div>
+	        </fieldset>
+	      </form>
+	</div>
+        <img src="https://i.imgur.com/CEH5suf.jpg" />
+    </a>
+</div>
+{% else %}
+<div id="letters-wrapper"></div>
+{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
+{% if flag %}
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+<script>
+document.body.style.background = "none";
+document.body.style.backgroundColor = "black";
+var n = document.getElementsByClassName("navbar")[0]
+document.getElementsByTagName("body")[0].removeChild(n);
+var doc = document,
+  lettersStr = '{{ flag }}',
+  curLetter = -1,
+  charactersArray = lettersStr.split('');
+
+var letterSize = 24,
+  lettersWrapper = doc.getElementById('letters-wrapper'),
+  letterColsArray,
+  colTotal,
+  zRange = 250,
+  lettersMatrix = [],
+  letterCoversArray,
+  totalCovers;
+
+createLetters();
+
+function getLetter() {
+    curLetter += 1;
+    return charactersArray[curLetter % lettersStr.length];
+}
+
+function createLetters() {
+  var iw = window.innerWidth,
+    ih = window.innerHeight,
+    w = iw / letterSize | 0,
+    h = ih / letterSize | 0;
+
+  w *= 3;
+
+  for (var i = 0; i < w; i++) {
+    var col = doc.createElement('div');
+
+    //            col.xPos = i * (letterSize / 3);
+    col.xPos = Math.random() * iw | 0;
+    col.yPos = 0;
+    col.zPos = Math.random() * (zRange * 2) - zRange;
+
+    col.className = 'letters';
+    //            col.style.webkitFilter = 'blur(' + Math.abs(col.zPos / zRange) * 3 + 'px)';
+
+    col.style.opacity = 1 - Math.abs(col.zPos / zRange);
+
+    var ranStart = Math.random() * 8;
+
+    TweenMax.to(col, 8, {
+      yPos: ih,
+      delay: ranStart,
+      repeat: -1,
+      ease: Quad.easeIn
+    });
+
+    lettersWrapper.appendChild(col);
+
+    var letterCover = doc.createElement('div');
+    letterCover.className = 'letter-cover';
+
+    letterCover.yPos = -ih * 2;
+    letterCover.style.height = ih * 3 + 'px';
+    TweenMax.to(letterCover, 4, {
+      yPos: 0,
+      delay: ranStart,
+      repeatDelay: 4,
+      repeat: -1,
+      ease: Quad.easeIn
+    });
+    letterCover.style.webkitTransform = 'translate3d(0px, ' + letterCover.yPos + 'px, 0px)';
+    letterCover.style.transform = 'translate3d(0px, ' + letterCover.yPos + 'px, 0px)';
+
+    col.appendChild(letterCover);
+
+    for (var j = 0; j < h; j++) {
+      var letter = doc.createElement('div');
+      letter.className = "letter";
+      letter.textContent = getLetter();
+      col.appendChild(letter);
+    }
+  }
+
+  letterColsArray = doc.getElementsByClassName('letters');
+  letterCoversArray = doc.getElementsByClassName('letter-cover');
+
+  colTotal = letterColsArray.length;
+  totalCovers = letterCoversArray.length;
+
+  for (i = 0; i < colTotal; i++) {
+    var col = letterColsArray[i];
+
+    var colArray = col.getElementsByClassName('letter');
+
+    var colLength = colArray.length;
+
+    lettersMatrix.push([]);
+
+    for (var j = 0; j < colLength; j++) {
+      lettersMatrix[i].push(colArray[j]);
+    }
+  }
+}
+
+function tick() {
+  //
+  // move cols
+  var col,
+    letterCover;
+
+  for (var i = 0; i < colTotal; i++) {
+    col = letterColsArray[i];
+    col.style.webkitTransform = 'translate3d(' + col.xPos + 'px, ' + col.yPos + 'px, ' + col.zPos + 'px)';
+    col.style.transform = 'translate3d(' + col.xPos + 'px, ' + col.yPos + 'px, ' + col.zPos + 'px)';
+
+    letterCover = letterCoversArray[i];
+    letterCover.style.webkitTransform = 'translate3d(0px, ' + letterCover.yPos + 'px, 0px)';
+    letterCover.style.transform = 'translate3d(0px, ' + letterCover.yPos + 'px, 0px)';
+  }
+
+  //
+  // update letters in a random column
+  var currentLetterUpdatePos = Math.random() * lettersMatrix.length | 0,
+    l = lettersMatrix[currentLetterUpdatePos].length;
+
+  for (var i = 0; i < l; i++) {
+    lettersMatrix[currentLetterUpdatePos][i].firstChild.nodeValue = getLetter();
+  }
+}
+
+TweenMax.ticker.addEventListener('tick', tick);
+</script>
+{% endif %}
+{% endblock %}

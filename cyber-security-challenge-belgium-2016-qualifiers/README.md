@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 ### Cryptography
-* [BSOD Quote](Cryptography/BSOD-quote) 
+* [BSOD Quote](Cryptography/BSOD-quote)
 * [In a jiffy](Cryptography/In-a-jiffy)
 * [This looks random](Cryptography/This-looks-random)
 * [What did he say?](Cryptography/What-did-he-say)
@@ -19,9 +19,9 @@
 * [exFat is not fat](Digital%20Forensics/exFat-is-not-Fat)
 
 
-### Mobile Security 
+### Mobile Security
 * [Phishing is not a crime](Mobile%20Security/Phishing-is-not-a-crime)
-* [Dexter](Mobile%20Security/dexter)
+* [Dexter](Mobile%20Security/Dexter)
 
 ### Network Security
 * [The Smokescreen Challenge](Network%20Security/Smoke-Screen-Challenge)

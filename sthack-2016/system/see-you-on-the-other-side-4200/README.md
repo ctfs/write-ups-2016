@@ -2,7 +2,7 @@
 
 **Category:** System
 **Points:** 4200
-**Solves:** 
+**Solves:**
 **Description:**
 
 Translated from french.
@@ -17,4 +17,4 @@ Find the teleporter code to access his secret garden.
 
 ## Other write-ups and resources
 
-* https://securite.intrinsec.com/2016/04/13/write-up-sthack/
+* (French) https://securite.intrinsec.com/2016/04/13/write-up-sthack/

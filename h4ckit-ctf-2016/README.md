@@ -1,0 +1,67 @@
+# H4ckIT CTF 2016 write-ups
+
+* ctf.com.ua
+* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+
+## Completed write-ups
+
+* [quiz/emails-10](quiz/emails-10)
+* [quiz/decode-2-10](quiz/decode-2-10)
+* [quiz/code-name-10](quiz/code-name-10)
+* [quiz/american-hacker-10](quiz/american-hacker-10)
+* [quiz/programming-language-10](quiz/programming-language-10)
+
+## External write-ups only
+
+* [pwn/httpd](pwn/httpd)
+* [pwn/space-add-250](pwn/space-add-250)
+* [stego/pixel0ver](stego/pixel0ver)
+* [pwn/ju57d017](pwn/ju57d017)
+* [web/hash-150](web/hash-150)
+* [joy/t3legr4m-50](joy/t3legr4m-50)
+* [web/qr-b00k-400](web/qr-b00k-400)
+* [stego/rtfspy-150](stego/rtfspy-150)
+* [pwn/t2y-h4rd-200](pwn/t2y-h4rd-200)
+* [ppc/hell-math-100](ppc/hell-math-100)
+* [joy/strange-songs](joy/strange-songs)
+* [ppc/hex0gator-250](ppc/hex0gator-250)
+* [joy/ph0t0-b00th-50](joy/ph0t0-b00th-50)
+* [reverse/l4br4t-375](reverse/l4br4t-375)
+* [pwn/c4n-y0u-533-100](pwn/c4n-y0u-533-100)
+* [reverse/bitwins-135](reverse/bitwins-135)
+* [network/7r0ubl3-200](network/7r0ubl3-200)
+* [forensics/pngk1ll3r](forensics/pngk1ll3r)
+* [joy/fully-d00m3d-50](joy/fully-d00m3d-50)
+* [crypto/evil-corp-115](crypto/evil-corp-115)
+* [ppc/electronicon-250](ppc/electronicon-250)
+* [crypto/interceptor-95](crypto/interceptor-95)
+* [network/r341m4710n-100](network/r341m4710n-100)
+* [admin/f1r3d-h4ck3d-200](admin/f1r3d-h4ck3d-200)
+* [forensics/ch17ch47-200](forensics/ch17ch47-200)
+* [web/remote-pentest-150](web/remote-pentest-150)
+* [stego/crypt0p1xels-250](stego/crypt0p1xels-250)
+* [reverse/phparanoid-225](reverse/phparanoid-225)
+* [stego/1mage-pr1son-150](stego/1mage-pr1son-150)
+* [stego/suspicious-avi-450](stego/suspicious-avi-450)
+* [reverse/crypt0-0perator-95](reverse/crypt0-0perator-95)
+* [forensics/p13c3-0f-c4k3-100](forensics/p13c3-0f-c4k3-100)
+* [forensics/1n51d3r'5-job-300](forensics/1n51d3r'5-j0b-300)
+* [network/v01c3_0f_7h3_fu7ur3-300](network/v01c3_0f_7h3_fu7ur3-300)
+* [web/fucking-russian-programmers-100](web/fucking-russian-programmers-100)
+* [crypto/handmade-encryption-standard-250](crypto/handmade-encryption-standard-250)
+
+## Missing write-ups
+
+* [quiz/name-10](quiz/name-10)
+* [quiz/virus-10](quiz/virus-10)
+* [quiz/hosts-10](quiz/hosts-10)
+* [quiz/decode-10](quiz/decode-10)
+* [quiz/subnet-10](quiz/subnet-10)
+* [quiz/virus-2-10](quiz/virus-2-10)
+* [quiz/virus-3-10](quiz/virus-3-10)
+* [quiz/decoding-10](quiz/decoding-10)
+* [quiz/decode-3-10](quiz/decode-3-10)
+* [quiz/internet-10](quiz/internet-10)
+* [quiz/protocols-10](quiz/protocols-10)
+* [crypto/ninja-scheme-195](crypto/ninja-scheme-195)
+* [quiz/first-hackit-ukraine-10](quiz/first-hackit-ukraine-10)

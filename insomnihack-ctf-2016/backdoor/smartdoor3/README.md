@@ -3,6 +3,7 @@
 **Category:** Backdoor
 **Author:** clZ
 **Difficulty:** Medium
+**Solves:** 5
 **Description:**
 
 > Looks like despite all your hacking, people are still buying smart connected doors. The latest super secure version has been installed at Frank's place.

@@ -1,4 +1,4 @@
-# Nuit du Hack CTF Quals : matriochka-step3-300
+# Nuit du Hack CTF Quals : matriochka-step4-300
 
 **Category:** Crack-Me
 **Points:** 300
@@ -33,3 +33,4 @@ You must solve steps 1 and 2 first.
 * https://github.com/JDIS/write-ups/tree/master/nuitduhack/Matriochka%20-%20Step%203
 * https://github.com/p4-team/ctf/tree/master/2016-04-01-nuitduhack-quals/matryoshka
 * http://vulnerablespace.blogspot.co.uk/2016/04/ctf-writeup-nuit-du-hack-ctf-quals-2016.html
+* https://losfuzzys.github.io/writeup/2016/04/04/ndhquals2016-matriochka/

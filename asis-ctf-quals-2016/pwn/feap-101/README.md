@@ -17,4 +17,4 @@ yet another [dramatical](https://github.com/ctfs/write-ups-2016/tree/master/asis
 
 ## Other write-ups and resources
 
-* https://blahcat.github.io/2016/05/09/asis-ctf-2016-feap.html
+* none yet

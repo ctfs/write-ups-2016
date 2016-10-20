@@ -1,0 +1,28 @@
+$ # vim: ft=wtf
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/std.css" >
+</head>
+$ source user_functions.sh
+$ if [[ $method = 'POST' ]]
+$ then
+$   local username=${POST_PARAMS['username']};
+$   local password=${POST_PARAMS['password']};
+$   if [[ $(find_user_file "${username}") = 'NONE' ]]
+$   then 
+$       # create user
+$       echo "ok, gonna go make that user... ${username}";
+$       local user_id=$(create_user "${username}" "${password}");
+$       redirect "/login.wtf";
+$   else
+$       # user already exists
+$       echo "<h3>Sorry, user ${username} already exists :(<br>Try again?</h3>"
+$   fi
+$ fi
+<h3>Register</h3>
+<form method=POST>
+<input type=text name=username placeholder="username"></input><br>
+<input type=password name=password placeholder="password"></input><br>
+<button type=submit name=submit>Submit</button>
+</form>
+</html>

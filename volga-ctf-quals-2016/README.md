@@ -1,6 +1,6 @@
 # Volga CTF Quals 2016 write-ups
 
-The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. During the competition we will add new tasks. Flag format is always `VolgaCTF{[\x20-\x7F]+}` if not stated otherwise. 
+The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. During the competition we will add new tasks. Flag format is always `VolgaCTF{[\x20-\x7F]+}` if not stated otherwise.
 
 ## Repo-local write-ups
 
@@ -13,7 +13,6 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [pwn/web_of_science-250](pwn/web_of_science-250)
 * [pwn/web_of_science_2-350](pwn/web_of_science_2-350)
 * [pwn/web_of_science_3-400](pwn/web_of_science_3-400)
-* [reverse/multiple_shift-500](reverse/multiple_shift-500)
 * [crypto/lazy-250](crypto/lazy-250)
 * [ppc/yacst2-350](ppc/yacst2-350)
 * [web/optional_cats-150](web/optional_cats-150)
@@ -32,4 +31,3 @@ The contest starts on March 25 at 19:00 SAMT/15:00 UTC and lasts for 48 hours. D
 * [crypto/ask_the_oracle-400](crypto/ask_the_oracle-400)
 * [admin/shiver_pc-100](admin/shiver_pc-100)
 * [reverse/multiple_shift-500](reverse/multiple_shift-500)
-

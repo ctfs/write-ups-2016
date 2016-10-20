@@ -325,3 +325,4 @@ SATISFIABLE
 ## Other write-ups and resources
 
 * [Challenge source code](https://github.com/epicleet/timekeeperslock)
+* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf

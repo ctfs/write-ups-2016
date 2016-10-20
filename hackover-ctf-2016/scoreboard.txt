@@ -1,0 +1,175 @@
+217                            858.000 
+dcua                           543.000 
+H4x0rPsch0rr                   516.000 
+HackingForSoju                 377.000 
+Snatch The Root                347.000 
+du1iqvw                        326.000 
+Antichat                       305.000 
+Pwnium                         256.000 
+LosFuzzys                      237.000 
+0x90r00t                       186.000 
+kopipacket                     181.000 
+WE_0WN_Y0U                     177.000 
+tmtz                           172.000 
+igorPyan                       165.000 
+p4                             155.000 
+dust                           147.000 
+Shady Hats                     143.000 
+CyKor15                        139.000 
+shakalCTF                      133.000 
+pony7                          109.000 
+.elite                         106.000 
+MV9rwGOf08                     92.000  
+xSTF                           91.000  
+jinmo123                       90.000  
+ASIS                           87.000  
+UglyFlowers                    82.000  
+0x8F                           80.000  
+redMuffin                      76.000  
+PKTeam                         76.000  
+ISITDTU                        76.000  
+HiddenDweller                  75.000  
+khack40                        72.000  
+InSecurity                     69.000  
+swehack                        69.000  
+OpenToAll                      69.000  
+p00p2016                       68.000  
+KMA WARRIORS                   68.000  
+magnum                         60.000  
+P_TE                           59.000  
+Cybernauts                     59.000  
+Batman&#39;s Kitchen           54.000  
+TheGoonies                     54.000  
+C43S4RS                        54.000  
+Team Römer                    54.000  
+commune41++                    52.000  
+totof                          50.000  
+OPT                            48.000  
+CTF-infinit                    48.000  
+Beers4Flags                    46.000  
+pm-hibernate                   46.000  
+Hanoiati                       45.000  
+8bit                           45.000  
+noraneco                       44.000  
+Dancing Simpletons             43.000  
+Capture the Swag               39.000  
+FOREBEARS                      39.000  
+xil.se                         39.000  
+N/A                            39.000  
+RATF{Rage Against The Flag}    39.000  
+nooby-doo                      39.000  
+ThunderChickens                39.000  
+318br                          39.000  
+zsh1y                          37.000  
+d4rkc0de                       35.000  
+farmingsimulator2015           33.000  
+zork                           33.000  
+magicalUnicorns                33.000  
+noop2go                        33.000  
+Magic Hat                      31.000  
+Just Hit the Core              30.000  
+dubs                           30.000  
+Retr0id                        30.000  
+fd                             30.000  
+Founders                       30.000  
+StratumAuhuur                  30.000  
+ingsec                         30.000  
+BERKE1337                      30.000  
+saarsec                        30.000  
+SiBears                        30.000  
+wolverinesec                   24.000  
+Fourchette Bombe               24.000  
+THCrew                         24.000  
+hanto                          24.000  
+hacktheplanet                  24.000  
+IBAS                           24.000  
+Wronnav                        24.000  
+At Least We&#39;re Pretty      24.000  
+milliways                      24.000  
+smoke leet everyday            24.000  
+9SOC                           24.000  
+BITSkrieg                      24.000  
+BabyPhD                        22.000  
+w0pr                           22.000  
+ByteBandits                    20.000  
+2nd-timers                     15.000  
+m$3                            15.000  
+N00b                           15.000  
+YoloSw4g                       15.000  
+0xc0ffee                       15.000  
+pygmypuff                      15.000  
+pompi                          15.000  
+atx2600                        15.000  
+data_expunged                  15.000  
+satsuma                        15.000  
+taurus                         15.000  
+THCS Chu Van An                15.000  
+EpicTeam                       9.000   
+TeamName                       9.000   
+Migdalo                        9.000   
+dafuq_is_login_on              9.000   
+IngloriousMonkeys              9.000   
+BlueTeam                       9.000   
+g3ol4d0                        9.000   
+RTFM                           9.000   
+espresso                       9.000   
+justTesting                    9.000   
+MetaMelange                    9.000   
+The DHARMA Initiative          9.000   
+Gud3!                          9.000   
+Los Gallitos                   9.000   
+KAAMELOT                       9.000   
+LeaveCat                       9.000   
+Insanity                       9.000   
+irBodyguard                    9.000   
+omakase                        9.000   
+team_banana                    9.000   
+Samaritan                      9.000   
+SK-IT                          9.000   
+ctffuntikteam                  9.000   
+DFM                            9.000   
+Biggles                        9.000   
+spam0day                       9.000   
+Grumpy Narwhal                 9.000   
+fat_tire                       9.000   
+D3siprox                       9.000   
+0xBA55                         9.000   
+BitsPlz                        9.000   
+Contagion                      9.000   
+hy00un                         9.000   
+ECX Inc.                       9.000   
+AVP                            9.000   
+Black Technology Royal         9.000   
+Mimo_krokodil                  9.000   
+FreeWiFi                       9.000   
+Cache_Crook                    9.000   
+BroCTF                         9.000   
+NaijaSecForce                  9.000   
+Dakine                         9.000   
+fsociety                       9.000   
+harambe_ftw                    9.000   
+localghost                     9.000   
+Dev_null                       9.000   
+bicycle_overdrive              9.000   
+OmsK28team                     9.000   
+PartaiPenghibur                9.000   
+GiVeMeRoOt                     9.000   
+sexyplatypussies               9.000   
+hAIXer                         9.000   
+Yacine101                      9.000   
+C521                           9.000   
+CactusField                    9.000   
+fandando.noir                  9.000   
+1up                            9.000   
+Subconscious Arithmetics       9.000   
+HappyHacking                   9.000   
+DC21321                        9.000   
+##earthpig                     9.000   
+Fm0x03                         9.000   
+NIS                            9.000   
+shijima                        9.000   
+M57                            9.000   
+SwissTroopers                  9.000   
+paperwhale                     9.000   
+n3tboy                         9.000   
+team geil                      9.000   

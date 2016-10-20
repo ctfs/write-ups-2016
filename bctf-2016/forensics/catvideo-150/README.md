@@ -1,6 +1,6 @@
 #bctf 2016 cat video writeup
 
-###*Category:* Forensics *Points:* 150 
+###*Category:* Forensics *Points:* 150
 
 ###How we used ffmpeg and java to do a simple video forensics analysis.
 
@@ -24,14 +24,12 @@ Once that was done we could reassemble it into a video with ffmpeg:
 
 written by Alexander Kjäll
 
-published here: https://projects.hackeriet.no/news/16
 
 
 ## Other write-ups and resources
 * <http://veganzombies.org/writeups/2016/03/21/BCtf-catvideo.html>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/BCTF/Forensics150.md>
-* <https://projects.hackeriet.no/news/16>
 * <http://fadec0d3.blogspot.com/2016/03/bctf-2016-catvideo-150.html>
 * <https://github.com/DMArens/CTF-Writeups/tree/master/2016/BCTF/Forensics150>
 * <http://err0r-451.ru/2016-bctf-forensic-catvideo-150-pts/>
-* [Russian](http://countersite.org/articles/steganography/68-bctf-2016-stego-catvideo.html)
+* (Russian) http://countersite.org/articles/steganography/68-bctf-2016-stego-catvideo.html)

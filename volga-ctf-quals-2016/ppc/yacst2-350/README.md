@@ -28,7 +28,7 @@ Yes, imagemagick.
 Let's look at captcha [spectrogram](https://en.wikipedia.org/wiki/Spectrogram):
 
 ```
-sox new.wav -n spectrogram -Y 130 -l -r -o new.wav.png 
+sox new.wav -n spectrogram -Y 130 -l -r -o new.wav.png
 ```
 
 ![Histogram](new.wav.png)
@@ -39,7 +39,7 @@ This way, we can work with spectrogram like with usual captcha.
 At the bottom of the image you can see some low-frequency noise. We have to cut it and with imagemagick it's really easy. Moreover, sound vary in length.
 Now you can use your favourite captcha solver or continue reading.
 
-First of all, we have to cut the spectrogram and binarize it. 
+First of all, we have to cut the spectrogram and binarize it.
 
 ```
 convert new.wav.png -colorspace gray  -colors 2  -normalize -crop 100000x80+0+0 gray.new.wav.png
@@ -70,7 +70,7 @@ Then, I listened to few captchas and made a symbol table (from zero to nine):
 ![S6](S6.png) ![S7](S7.png)
 ![S8](S8.png) ![S9](S9.png)
 
-The easiest part! We have to compare the splitted image to all the templates. Images are compared by calculating a difference image: 
+The easiest part! We have to compare the splitted image to all the templates. Images are compared by calculating a difference image:
 
   * Create the difference image
   * Count the number of white pixels on it
@@ -95,7 +95,7 @@ That's it! Captcha is broken. There is an exploit code:
 
 It took about 3 hours to break through 3000 cycles. Every captcha was downloaded in about 2 seconds and recognitized in about a half on my laptop.
 
-    CURL() { curl -L -H 'Cookie: JSESSIONID=05e2AjABG9POA_Hgl6lwP1lzeyD3lIVFQKi5cNeU' $@; } 
+    CURL() { curl -L -H 'Cookie: JSESSIONID=05e2AjABG9POA_Hgl6lwP1lzeyD3lIVFQKi5cNeU' $@; }
     while :; do
       # recieve new captcha
       CURL http://yacst2.2016.volgactf.ru:8090/captcha > new.wav
@@ -109,6 +109,5 @@ It took about 3 hours to break through 3000 cycles. Every captcha was downloaded
 ## Other write-ups and resources
 
 * <https://github.com/EspacioTeam/write-ups/tree/master/2016/volga/YACST2>
-* <http://corb3nik.github.io/2016/03/25/YACST2/>
 * <https://github.com/p4-team/ctf/tree/master/2016-03-26-volga2016-quals/yacs2>
 * <https://der.ttyh.ru/blag/post/yacst-writeup/>
