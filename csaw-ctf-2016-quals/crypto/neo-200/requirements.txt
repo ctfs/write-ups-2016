@@ -1,0 +1,6 @@
+Flask
+Jinja2
+Werkzeug
+gunicorn
+itsdangerous
+pycrypto

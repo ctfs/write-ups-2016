@@ -16,5 +16,4 @@ The challenge is available at http://static.quals.nuitduhack.com/simpsons.wav
 ## Other write-ups and resources
 
 * https://www.asafety.fr/cryptologie/ctf-ndh-2016-quals-write-up-steganalysis-stegano-sound/
-* https://www.youtube.com/watch?v=NJLyMSiNgNo
 * https://wiki.zenk-security.com/doku.php?id=ndhquals2016:stegano-sound

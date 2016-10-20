@@ -3,13 +3,14 @@
 **Category:** Pwn
 **Author:** drp3ab0dy
 **Difficulty:** Easy
+**Solves:** 14
 **Description:**
 
 > Baby's first to warm up your night!
-> 
-> Service running on microwave.insomni.hack:1337 
-> 
-> Get the file [microwave](./microwave_61f50dba931bb10ab3089215b2e188f4.tgz) 
+>
+> Service running on microwave.insomni.hack:1337
+>
+> Get the file [microwave](./microwave_61f50dba931bb10ab3089215b2e188f4.tgz)
 
 ## Write-up
 

@@ -85,3 +85,4 @@ After all required HTTP requests are made, the script returns the flag
 ## Other write-ups and resources
 
 * [Challenge source code](https://github.com/epicleet/bathing-and-grooming)
+* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf

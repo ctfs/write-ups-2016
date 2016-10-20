@@ -40,10 +40,10 @@
 * [web/oldpersian-250](web/oldpersian-250)
 * [web/photoblog-100](web/photoblog-100)
 * [web/technews-200](web/technews-200)
+* [reverse/hi-200](reverse/hi-200)
 
 ## Missing write-ups
 
 * [crypto/the-russian-attack-500](crypto/the-russian-attack-500)
 * [pwn/echo-200](pwn/echo-200)
-* [reverse/hi-200](reverse/hi-200)
 * [reverse/wincc-300](reverse/wincc-300)

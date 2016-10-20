@@ -1,0 +1,124 @@
+#include <memory>
+#include <iostream>
+#include <vector>
+#include <set>
+#include <string>
+#include <fstream>
+#include <cstdio>
+
+extern "C" {
+#include <unistd.h>
+}
+
+using std::string;
+using std::vector;
+using std::cout;
+using std::endl;
+using std::cin;
+using std::getline;
+
+
+int main() noexcept {
+	setbuf(stdout, NULL);
+    alarm(10);
+    cout << "+===========================================+" << endl;
+    cout << "|  Guidelines for writing 100% secure code  |" << endl;
+    cout << "|               artisanally crafted by mxn  |" << endl;
+    cout << "+===========================================+" << endl;
+    cout << endl;
+    cout << "(using modern C++, like the cool kids)" << endl;
+    cout << endl;
+    cout << "Lesson #0: how to filter and santize input." << endl;
+    cout << endl;
+    cout << "\tRule #0: Hand-rolling stuff is fun, don't let those Nay-sayers take that from you. It's not as hard as they say." << endl;
+    cout << "\tRule #1: If you aren't sure your code is secure, add more input filtering." << endl;
+    cout << "\tRule #2: If you still aren't sure your code is secure, sanitize harder." << endl;
+    cout << "\tRule #3: Make your buffers bigger, RAM is cheap, better safe than sorry." << endl;
+    cout << "\tRule #4: Goto rule #1" << endl;
+    cout << "\tRule #5: If you arrive here, your code is 100% secure against hackers." << endl;
+    cout << endl;
+    cout << "To prove this concept to you, I'll allow you to give me some shell commands and I'll execute whatever looks fine to me on my server." << endl;
+    cout << "For more useful hands-on advice, pre-order my secure coding handbook and you too can learn to write bulletproof services and charge tons of money for it." << endl;
+
+    vector<string> user_commands;
+    vector<string> failures;
+    vector<string> commands;
+    const size_t max = 100; /* We're never gonna need that many commands!
+                             * Anyways, C++ is a modern safe language,
+                             * so nothing bad can happen if we make our
+                             * buffer too small.. right? riiight?
+                             */
+    //commands.reserve(max);
+    commands.reserve(max+1);   // 1999-03-02: protect against off-by-ones
+
+    string cmd;
+    while (cin) {
+        // gets(cmd.c_str()) // 2002-02-02: apparently this isnt modern C++ :(
+        getline(cin, cmd);
+        if (cmd.size() > 1) user_commands.push_back(cmd);
+        if (cmd == "exit")
+            break;
+    }
+
+    auto is_safe = [] (const string &cmd) -> bool {
+        // whitelisting is boring, let's have some fun
+        const string badchars {"&#;`|*?~<!>\\_(ツ)_/¯[]{}$,\x0A\xff\t\"'"};
+        // pretty sure I didn't miss anything.
+        if(cmd.find_first_of(badchars) != string::npos) {
+            return false;
+        }
+        // ooookay, just to be safe, at least not every command should be allowed
+        const vector<string> whitelist = {"echo", "id","ls","pwd"};
+        for (const string goodstart: whitelist) {
+            if (cmd.compare(0, goodstart.size(), goodstart) == 0) {
+                if (cmd.size() == goodstart.size()) return true;
+                char nextch = cmd.at(goodstart.size());
+                if (string(" \t\n").find(nextch) != string::npos) return true;
+            }
+        }
+        return false;
+    };
+
+    auto safe_add = [&](auto &cmd, auto& user, auto& safe_fallback) {
+        cmd.push_back("echo lets try your command...");
+        if (is_safe(user)) {
+            cmd.push_back(user);
+        } else {
+            failures.push_back(user);
+            cmd.push_back(safe_fallback);
+        }
+    };
+    commands.push_back("echo no mak hak plz, okay? We\\'re all friends here.");
+    for (auto &c: user_commands) {
+        safe_add(commands, c, commands[0]);
+    }
+    if (failures.size() > 0) {
+        cout << "the following commands are illegal and were filtered:" << endl;
+        for (auto &f: failures) {
+            cout << f << endl;
+        }
+    }
+    cout << "\nOkay, now for the juicy parts, let's see if our filter is safe!" << endl;
+
+    auto sanitize = [] (string cmd) -> string {
+        string replacement = "<SANITIZED>";
+        for (const string bad: {"cat", "flag", "rm", "rundll32", "gdb", "phalanx", "nc", "netcat", "irssi", "cargo", "rustc", "sh", "python", ".exe", "perl", "nmap", "ruby", "irb", "satsuma.c", ":(){:|:}", "gcc", "metasploit", "morloch", "qmail", "ghc", "stopreading", "there", "is", "literally", "nothing", "unsafe", "anyone", "could", "do", "(:"})
+        {
+            size_t start_pos = 0;
+            while((start_pos = cmd.find(bad, start_pos)) != string::npos) {
+                cmd.replace(start_pos, bad.length(), replacement);
+                start_pos += replacement.length();
+            }
+        }
+        return cmd;
+    };
+
+    for (auto &c: commands) {
+        // Hmmm.. I found a backdoor in /tmp/.../ and removed it. pretty sure
+        // it wasn't my code's fault, but better be extra safe by sanitizing
+        // all commands, even if they passed filtering, you never know...
+        system(sanitize(c).c_str());
+    }
+    cout << "\nHope you got what you came for... (I bet not, the sanitizer is even more failsafe than the is_safe check!) goodbye!" << endl;
+}
+

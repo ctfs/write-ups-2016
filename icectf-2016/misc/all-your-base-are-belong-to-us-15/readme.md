@@ -18,3 +18,4 @@ Looking at the flag, it contains only zeros and ones, pointing towards binary. U
 * http://5k33tz.com/icectf-all-your-base-are-belong-to-us/
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Misc/All%20your%20Base%20are%20belong%20to%20us
 * [Japanese](https://ctftime.org/writeup/3805)
+* https://gitlab.com/Babache/writeups/tree/master/CTF/IceCTF2k16/Stage-1/All_your_Base_are_belong_to_us

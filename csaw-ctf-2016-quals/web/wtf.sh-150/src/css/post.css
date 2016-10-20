@@ -1,0 +1,24 @@
+.post {
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    width: 1000px;
+
+    display: block;
+    background-color: #141420;
+    border: 2px solid #202020;
+}
+
+.post-poster {
+    display: block;
+}
+
+.post-title {
+    display: block;
+}
+
+.post-body {
+    display: block;
+    padding-left: 10px;
+}

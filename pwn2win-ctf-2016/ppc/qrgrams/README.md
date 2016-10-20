@@ -1,8 +1,8 @@
 # Pwn2Win CTF : qrgrams
 
 **Category:** Ppc
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
 
@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * https://www.xil.se/post/pwn2win-2016-qrgrams-kbeckmann/
+* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf

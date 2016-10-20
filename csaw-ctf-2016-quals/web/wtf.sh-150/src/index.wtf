@@ -1,0 +1,31 @@
+$ # vim: ft=wtf
+<html>
+$ source user_functions.sh
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/std.css" >
+</head>
+<body>
+    <h1>Welcome to the wtf.sh Forums!</h1>
+$ if is_logged_in
+$ then
+$   echo "<p>Hi, ${COOKIES['USERNAME']}. <a href='/logout.wtf'>Logout</a> <a href='/profile.wtf?user=$(basename $(find_user_file ${COOKIES['USERNAME']}))'>Profile</a></p>"
+$   echo "<a href=/new_post.wtf>New Post</a>";
+$ else
+$   echo "<p>You're not logged in. <a href='/login.wtf'>Login</a> <a href='/new_user.wtf'>Register</a></p>"
+$ fi
+    <h3>Posts:</h3>
+    <ol>
+$ if [[ -e .index_cache.html ]]
+$ then
+$   cat .index_cache.html;
+$ else
+$   for post_file in posts/*; do
+$       post_file=$(basename $post_file);
+$       post_title=$(nth_line 2 < posts/$post_file | htmlentities);
+$       post_user=$(nth_line 1 < posts/$post_file | htmlentities);
+$       echo "<li><a href=\"/post.wtf?post=$post_file\">$post_title</a> by ${post_user}</li>";
+$   done;
+$ fi
+    </ol>
+</body>
+</html>

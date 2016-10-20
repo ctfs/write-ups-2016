@@ -14,6 +14,7 @@
 * [web/irc-i-35](web/irc-i-36)
 * [crypto/alien-message-40](crypto/alien-message-40)
 * [forensics/time-traveler-45](forensics/time-traveler-45)
+* [stego/vape-nation-50](stego/vape-nation-50)
 * [misc/scavenger-hunt-50](misc/scavenger-hunt-50)
 * [misc/search-40](misc/search-40)
 * [reverse/hidden-in-plain-sight-45](reverse/hidden-in-plain-sight-45)
@@ -23,17 +24,16 @@
 * [crypto/rsa-50](crypto/rsa-50)
 * [web/exposed-60](web/exposed-60)
 * [web/miners-65](web/miners-65)
+* [pwn/dear-diary-60](pwn/dear-diary-60)
 
 ## External write ups only
 
 * [pwn/demo-55](pwn/demo-55)
 * [misc/thors-a-hacker-now-55](misc/thors-a-hacker-now-55)
-* [pwn/dear-diary-60](pwn/dear-diary-60)
 * [misc/irc-ii-60](misc/irc-ii-60)
 * [crypto/over-the-hill-65](crypto/over-the-hill-65)
 * [forensics/audio-problems-50](forensics/audio-problems-50)
 * [forensics/corrupt-transmission-50](forensics/corrupt-transmission-50)
-* [stego/vape-nation-50](stego/vape-nation-50)
 * [misc/blue-monday-60](misc/blue-monday-60)
 * [misc/matrix-85](misc/matrix-85)
 * [crypto/round-rabins-70](crypto/round-rabins-70)

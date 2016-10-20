@@ -13,5 +13,5 @@ I just learned about encryption and tried to write my own authentication system.
 
 ## Other write-ups and resources
 
-* http://blog.ankursundara.com/abctf/
 * https://ctftime.org/writeup/3620
+* https://p-te.fr/2016/07/23/abctf-custom-authentication/

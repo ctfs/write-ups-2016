@@ -13,10 +13,10 @@ This challenge indicates that it is necessary to find a previous version, or sna
 ## Other write-ups and resources
 
 * http://rawsec.ml/en/IceCTF-45-Time-Traveler-Forencics/
-* https://github.com/318BR/IceCTF/blob/master/2016/Stage-1/Time-Traveler/writeup.md
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/TimeTraveler-Forensic-45
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#time-traveler-45-p
 * https://www.youtube.com/watch?v=DsB0ij5pO8w
 * http://5k33tz.com/icectf-time-traveler/
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Forensics/Time%20Traveler
 * [Japanese](https://ctftime.org/writeup/3808)
+* https://gitlab.com/Babache/writeups/tree/master/CTF/IceCTF2k16/Stage-1/Time_Traveler

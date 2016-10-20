@@ -9,7 +9,7 @@ Can you somehow get the flag from [this](http://yrmyzscnvh.abctf.xyz/web2/) webs
 
 ## Write-up
 
-(TODO)
+Being a web problem, the best first step is to check out the source code of the page, either by using the browser's built in developer tools, or I pressed `Ctrl + U` to view the source code in Google Chrome. You should see a comment with base64 text inside: `<!--c3RvcHRoYXRqcw==-->`. Decoding the base64 reveals the string `stopthatjs`. Submitting that decoded string as a password brings you to a page where the flag is displayed for a short time, however the flag text is in the page's source code: `ABCTF{no(d3)_js_is_s3cur3_dasjkhadbkjfbjfdjbfsdajfasdl}`
 
 ## Other write-ups and resources
 

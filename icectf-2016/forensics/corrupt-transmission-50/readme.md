@@ -17,4 +17,3 @@ We intercepted this image, but it must have gotten corrupted during the transmis
 * https://bryceandress.github.io/2016/08/27/Corrupt-Transmission.html
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/CorruptTransmission-Forensic-50
 * http://wumb0.in/icectf-2016-corrupt-transmission.html
-* [Portuguese](https://github.com/318BR/IceCTF/blob/master/2016/Stage-3/Corrupt-Transmission/writeup.md)

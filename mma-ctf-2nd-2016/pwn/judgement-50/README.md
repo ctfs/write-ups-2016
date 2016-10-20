@@ -6,10 +6,10 @@
 **Description:**
 
 > Host : pwn1.chal.ctf.westerns.tokyo
-> 
+>
 > Port : 31729
-> 
-> 
+>
+>
 > [[judgement](./judgement)]([judgement](./judgement))
 
 
@@ -20,3 +20,7 @@
 ## Other write-ups and resources
 
 * http://kabla.me/blog/writeups/MMA-2016.html
+* https://github.com/ispoleet/ctf-writeups/tree/master/mma_ctf_2016/judgement
+* (Russian) http://countersite.org/articles/reverse_engineering/117-judgement-writeup.html
+* https://kebechet.net/post/7/Fuzzing_simple_listeners
+* http://www.megabeets.net/twctf-2016-pwn-judgement/

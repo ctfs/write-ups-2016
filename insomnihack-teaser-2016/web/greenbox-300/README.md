@@ -7,11 +7,11 @@
 **Description:**
 
 > [GreenBox](http://greenbox.insomnihack.ch/) is a new generation of remotely controlled and programmed plants !
-> 
+>
 > Be creative and control behaviour of your plant to get an unique beautiful eccentric plant !
-> 
+>
 > Your creds to manage your plant: Your team name / <password>
-> 
+>
 > You need a shell to solve this task
 
 
@@ -21,7 +21,6 @@
 
 ## Other write-ups and resources
 
-* [b01lers](https://b01lers.net/challenges/Insomni%27hack%202016/Greenbox/85/)
 * <https://gist.github.com/elliptic-shiho/25b73b40df0125e5b12a>
 * <https://gist.github.com/HoLyVieR/f19387f9531c627ec135>
 * <http://pastebin.com/ahN71qVK>

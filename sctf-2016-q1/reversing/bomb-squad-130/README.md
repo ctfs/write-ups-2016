@@ -20,4 +20,4 @@ SHA512 Solution Hash(es):
 
 ## Other write-ups and resources
 
-* https://scylla.pw/bomb_squad/
+* none yet

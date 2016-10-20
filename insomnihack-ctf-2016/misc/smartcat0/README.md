@@ -3,10 +3,11 @@
 **Category:** Misc
 **Author:** grimmlin
 **Difficulty:** Easy
+**Solves:** 55
 **Description:**
 
 > This is yet another follow-up to our smartcat challenge at the Insomni'hack Teaser.
-> 
+>
 > URL: http://smartcat0.insomni.hack
 
 ## Write-up

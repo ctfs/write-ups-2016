@@ -1,11 +1,11 @@
 # angstromCTF 2016 : overflow1-50
 
 **Category:** Binary
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
-> This program is vulnerable to a buffer overflow! Can you exploit it to run a shell and get the flag? You can solve this problem on our shell server at /problems/[overflow1](./overflow1), and the binary and source are provided. 
+> This program is vulnerable to a buffer overflow! Can you exploit it to run a shell and get the flag? You can solve this problem on our shell server at /problems/[overflow1](./overflow1), and the binary and source are provided.
 
 
 ## Write-up
@@ -14,5 +14,4 @@
 
 ## Other write-ups and resources
 
-* http://blog.oleaass.com/writeups/angstrom-ctf-2016-overflow-1/
 * https://www.youtube.com/watch?v=sOKaxDdxsJc
