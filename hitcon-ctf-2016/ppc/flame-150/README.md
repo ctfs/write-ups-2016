@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * https://github.com/bitsforeveryone/write-ups/tree/master/HITCON-Quals-2016/Flame
+* http://kabla.me/blog/writeups/Hitcon-2016.html#flame
