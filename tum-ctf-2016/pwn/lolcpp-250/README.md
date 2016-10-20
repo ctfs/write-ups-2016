@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+http://kabla.me/blog/writeups/TUM-2016.html#lolcpp
