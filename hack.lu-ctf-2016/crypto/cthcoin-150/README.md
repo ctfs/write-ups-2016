@@ -1,4 +1,4 @@
-# hack.lu CTF 2016 : cthcoin-150
+# Hack.lu CTF 2016 : cthcoin-150
 
 **Category:** Crypto
 **Points:** 150 (+100)

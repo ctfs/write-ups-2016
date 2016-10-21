@@ -1,4 +1,4 @@
-# hack.lu CTF 2016 : cthulhusoft-350
+# Hack.lu CTF 2016 : cthulhusoft-350
 
 **Category:** Reversing
 **Points:** 350 (-35)

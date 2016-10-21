@@ -1,4 +1,4 @@
-# hack.lu CTF 2016 : cornelius1-200
+# Hack.lu CTF 2016 : cornelius1-200
 
 **Category:** Crypto
 **Points:** 200 (-29)
