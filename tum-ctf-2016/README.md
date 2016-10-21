@@ -19,7 +19,8 @@
 * [pwn/boot-2-brainfuck-150](pwn/boot-2-brainfuck-150)
 * [web/f8901da0-300](web/f8901da0-300)
 * [misc/prokrastination](misc/prokrastination)
+* [pwn/lolcpp-250](pwn/lolcpp-250)
 
 ## Missing write-ups
 
-* [pwn/lolcpp-250](pwn/lolcpp-250)
+* none
