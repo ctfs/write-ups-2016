@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://gist.github.com/doegox/af5f2713c96c8d3191d4978747d685d6

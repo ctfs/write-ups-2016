@@ -1,6 +1,6 @@
 # Def Con CTF Qualifiers : easy-prasky
 
-**Category:** Cgc
+**Category:** CGC
 **Points:** 
 **Solves:** 
 **Description:**
