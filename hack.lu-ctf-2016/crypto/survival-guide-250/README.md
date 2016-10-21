@@ -1,4 +1,4 @@
-# hack.lu CTF 2016 : survival-guide-250
+# Hack.lu CTF 2016 : survival-guide-250
 
 **Category:** Crypto
 **Points:** 250 (+100)

@@ -1,6 +1,6 @@
 # Def Con CTF Qualifiers : LEGIT_00002
 
-**Category:** Cgc
+**Category:** CGC
 **Points:** 
 **Solves:** 
 **Description:**
