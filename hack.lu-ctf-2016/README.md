@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/cthcoin-150](crypto/cthcoin-150)
 
 ## External write-ups only
 
@@ -22,4 +22,4 @@
 * [reversing/cthulhus-treasure-300](reversing/cthulhus-treasure-300)
 * [reversing/call-of-cthulhu-350](reversing/call-of-cthulhu-350)
 * [crypto/survival-guide-250](crypto/survival-guide-250)
-* [crypto/cthcoin-150](crypto/cthcoin-150)
+
