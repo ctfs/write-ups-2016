@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://van.prooyen.com/cryptography/2016/10/20/cryptolocker-Writeup.html
+* https://gophers-in-the-shell.herokuapp.com/hack-lu-2016-cryptolock-crypto-200-pts/

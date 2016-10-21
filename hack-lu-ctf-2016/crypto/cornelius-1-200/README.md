@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://hugodelval.com/writeup/2016%2010%2019%20-%20hack.lu/Cornelius1%20-%20Cryptography%20-%20171pts
