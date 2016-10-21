@@ -12,7 +12,14 @@
 
 ## Write-up
 
-(TODO)
+If we change "x"->"A" in given base64data and decode it, we get a broken asn1 structure. I've also changed "x" -> "/", base64 decoded, xor'ed it with the first binary structure and got a mask of unknown bits. From the asn1 structure we can extract N, P, Q, e, d,... (i've generated a new key with ssh-keygen and used it as an example) but all numbers except e have broken bits. N has big areas of broken bits, P and Q have less broken bits.
+
+Sinse it's RSA N should be equal to P * Q. So we can recover P and Q bit-by-bit, starting from the lowerst bits!
+
+The algorithm bases on the fact that k lowerst bits of N depend only on k lowers bit of both P and Q. So we can take the lowerst unknown bit of any of P or Q (let's say it's k-th bit of P), try both 0 and 1 values and check which one gives the right k-th bit of N. If k-th bit of N is unknown, we just save both possible values of P and proceed to the next unknow bit.
+
+Having e, P, Q we can reconstruct all RSA parameters. The code is in [recoverer.py](recoverer.py)
+
 
 ## Other write-ups and resources
 
