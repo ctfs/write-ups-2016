@@ -27,3 +27,4 @@ Is kill can fix? Sign the autopsy file?
 * http://ift.tt/2d5LSWf
 * http://rotimiakinyele.com/csaw-ctf-quals-2016-writeups.jsp
 * https://utdcsg.github.io/csaw-quals16/forensics/kill.html
+* http://blog.indonesiancoder.com/write-up-csaw-ctf-qualification-round-2016
