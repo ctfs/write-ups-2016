@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://www.arneswinnen.net/2016/10/hack-lu-2016-ctf-cthcoin-writeup/
