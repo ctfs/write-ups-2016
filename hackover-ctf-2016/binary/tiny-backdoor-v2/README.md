@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * http://karabut.com/hackover-ctf-2016-tiny_backdoor-writeup.html
+* https://pony7.fr/ctf:public:hackover2016:tiny_backdoor_v2
