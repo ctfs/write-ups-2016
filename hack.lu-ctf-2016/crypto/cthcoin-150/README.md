@@ -49,4 +49,5 @@ P.S. debugcoins hint wasn't needed really, but it helped somehow.
 
 ## Other write-ups and resources
 
-* none yet
+* https://dinhbaoluciusteam.wordpress.com/2016/10/24/cthcoinweb100-hacklu2016/
+* https://github.com/ctfs/write-ups-2016/tree/master/hack.lu-ctf-2016/crypto/cthcoin-150
