@@ -24,3 +24,4 @@ Having e, P, Q we can reconstruct all RSA parameters. The code is in [recoverer.
 ## Other write-ups and resources
 
 * http://duksctf.github.io/Hack.lu2016-redacted/
+* https://github.com/ctfs/write-ups-2016/tree/master/hack.lu-ctf-2016/crypto/redacted-200
