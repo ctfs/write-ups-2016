@@ -1,7 +1,7 @@
 # HITCON CTF 2016 write-ups
 
 * https://ctf2016.hitcon.org
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctftime.org/event/355) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 
