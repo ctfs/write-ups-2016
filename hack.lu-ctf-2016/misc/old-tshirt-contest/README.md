@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://manylostticks.blogspot.lu/2016/10/hacklu-ctf-2016-old-tshirt-contest.html

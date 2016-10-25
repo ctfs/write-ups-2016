@@ -12,7 +12,7 @@
 
 >- Cthulu-Tek
 
->Attachment: [cthulhu](cthulusoft)
+>Attachment: [cthulhusoft](cthulhusoft)
 >Fingerprint: SHA256 D4:D9:8F:83:0E:20:2A:30:39:21:CB:06:76:E4:EF:BE:C5:CD:AB:71:1F:8C:7E:34:58:34:AC:82:E1:2C:2D:1D
 
 ## Hint
