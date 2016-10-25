@@ -1,12 +1,13 @@
 # Hack.lu CTF 2016 : cornelius-1-200
 
-**Category:** crypto
-**Points:**
+**Category:** Crypto
+**Points:** 200 (-29)
 **Solves:**
 **Description:**
 
-> Please find Cthulhu's magic here: <https://cthulhu.fluxfingers.net:1505/>
-
+> Please find Cthulhu's magic [here](https://cthulhu.fluxfingers.net:1505/).
+> Attachment: [server.rb](server.rb)
+> P.S.: flag is the content of the file and is not in flagformat!
 
 ## Write-up
 
@@ -14,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* http://hugodelval.com/writeup/2016%2010%2019%20-%20hack.lu/Cornelius1%20-%20Cryptography%20-%20171pts
+* http://anee.me/hack-lu-ctf-2016-cornelius1-writeup/
