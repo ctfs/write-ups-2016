@@ -1,0 +1,24 @@
+{
+	"standings": [
+		{"pos": 1, "team": "scryptos", "score": 900 },
+		{"pos": 2, "team": "p4","score": 800 },
+		{"pos": 3, "team": "dcua","score": 750 },
+		{"pos": 4, "team": "d4rkc0de","score": 650 },
+		{"pos": 5, "team": "pdgn","score": 600 },
+		{"pos": 6, "team": "Samurai","score": 550 },
+		{"pos": 7, "team": "OpenToAll","score": 550 },
+		{"pos": 8, "team": "BatmansKitchen","score": 500 },		
+		{"pos": 9, "team": "Gophers in the Shell","score": 450 },
+		{"pos": 10, "team": "SpyVsCAT5","score": 450 },
+		{"pos": 11, "team": "Artificial Truth","score": 250 },
+		{"pos": 12, "team": "pipbuck","score": 150 },
+		{"pos": 13, "team": "shiet","score": 150 },
+		{"pos": 14, "team": "KernelPanic","score": 150 },
+		{"pos": 15, "team": "devcraft","score": 150 },
+		{"pos": 16, "team": "H4x0r","score": 50 },
+		{"pos": 17, "team": "slashx61","score": 50 },
+		{"pos": 18, "team": "Invulnerable","score": 50 },
+		{"pos": 19, "team": "JohnDoe","score": 50 },
+		{"pos": 20, "team": "rainbow kittens","score": 50 }	
+	]
+}
