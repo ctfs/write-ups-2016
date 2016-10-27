@@ -1,0 +1,42 @@
+# EKOPARTY CTF 2016 write-ups
+
+* <https://ctf.ekoparty.org/>
+* [Scoreboard](https://ctf.ekoparty.org/scoreboard) or [local alternative](TODOLOCAL)
+
+## Completed write-ups
+
+* [web/mr-robot-25](web/mr-robot-25)
+* [fbi/welcome-to-the-dark-side-25](fbi/welcome-to-the-dark-side-25)
+
+## External write-ups only
+
+* none yet
+
+## Missing write-ups
+
+* [reversing/f#ck-50](reversing/f#ck-50)
+* [reversing/quacks-like-a-duck-200](reversing/quacks-like-a-duck-200)
+* [reversing/old-times-100](reversing/old-times-100)
+* [reversing/jvm-25](reversing/jvm-25)
+* [reversing/rreeggeexx-75](reversing/rreeggeexx-75)
+* [reversing/back-again-150](reversing/back-again-150)
+* [forensics/alice-secret-message-175](forensics/alice-secret-message-175)
+* [forensics/knock-knock-125](forensics/knock-knock-125)
+* [forensics/damaged-75](forensics/damaged-75)
+* [forensics/certified-excel-hacker-50](forensics/certified-excel-hacker-50)
+* [forensics/vsftpd-dejavu-150](forensics/vsftpd-dejavu-150)
+* [forensics/hacker-in-disguise-100](forensics/hacker-in-disguise-100)
+* [web/carder-150](web/carder-150)
+* [web/rfc-7230-50](web/rfc-7230-50)
+* [web/super-duper-advanced-attack-100](web/super-duper-advanced-attack-100)
+* [misc/hidden-inside-eko-50](misc/hidden-inside-eko-50)
+* [misc/lsso-200](misc/lsso-200)
+* [misc/congested-service-100](misc/congested-service-100)
+* [misc/x-flag-150](misc/x-flag-150)
+* [pwning/bubble-250](pwning/bubble-250)
+* [pwning/bleeding-50](pwning/bleeding-50)
+* [pwning/my-first-service-i-100](pwning/my-first-service-i-100)
+* [pwning/ultra-baby-25](pwning/ultra-baby-25)
+* [fbi/metadata-50](fbi/metadata-50)
+* [fbi/secure-upload-hidden-service-200](fbi/secure-upload-hidden-service-200)
+* [fbi/find-me-100](fbi/find-me-100)
