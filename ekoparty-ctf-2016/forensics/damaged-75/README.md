@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : damaged-75
 
 **Category:** Forensics
-**Points:**
+**Points:** 75
 **Solves:**
 **Description:**
 
-> All you have to do is to see this damaged image!  Attachment for75_165560e4a08b23f7.zip
-
+> All you have to do is to see this damaged image!
+> [Attachment](for75.zip)
 
 ## Write-up
 

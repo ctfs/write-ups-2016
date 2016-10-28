@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : f#ck-50
 
 **Category:** Reversing
-**Points:**
+**Points:** 50
 **Solves:**
 **Description:**
 
-> The miracle of the expressive functional programming, is it really functional?  Attachment rev50_3511a8cd66b371eb.zip
-
+> The miracle of the expressive functional programming, is it really functional?
+> [Attachment](rev50.zip)
 
 ## Write-up
 

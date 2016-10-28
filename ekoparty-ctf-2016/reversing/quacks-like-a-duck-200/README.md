@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : quacks-like-a-duck-200
 
 **Category:** Reversing
-**Points:**
+**Points:** 200
 **Solves:**
 **Description:**
 
-> We just built a super embedded flag sender system, can you capture it?  Attachment rev200_f52f34653a9ea7ac.zip
-
+> We just built a super embedded flag sender system, can you capture it?
+> [Attachment](rev200.zip)
 
 ## Write-up
 

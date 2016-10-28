@@ -1,11 +1,13 @@
 # EKOPARTY CTF 2016 : ultra-baby-25
 
 **Category:** Pwning
-**Points:**
+**Points:** 25
 **Solves:**
 **Description:**
 
-> Reach the flag function!  nc 9a958a70ea8697789e52027dc12d7fe98cad7833.ctf.site 55000  Attachment pwn25_5ae6e58885e7cd75.zip
+> Reach the flag function!
+> `nc 9a958a70ea8697789e52027dc12d7fe98cad7833.ctf.site 55000`
+> [Attachment](pwn25.zip)
 
 
 ## Write-up

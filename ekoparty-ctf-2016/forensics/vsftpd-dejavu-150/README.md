@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : vsftpd-dejavu-150
 
 **Category:** Forensics
-**Points:**
+**Points:** 150
 **Solves:**
 **Description:**
 
-> Oh snap! A backdoor from real life.  Attachment for150_be7f058db204834e.zip
-
+> Oh snap! A backdoor from real life.
+> [Attachment](for150.zip)
 
 ## Write-up
 

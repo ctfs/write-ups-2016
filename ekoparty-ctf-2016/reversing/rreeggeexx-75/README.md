@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : rreeggeexx-75
 
 **Category:** Reversing
-**Points:**
+**Points:** 75
 **Solves:**
 **Description:**
 
-> State-of-the-art on authentication mechanisms.  Attachment rev75_79816641bfd11577.zip
-
+> State-of-the-art on authentication mechanisms.
+> [Attachment](rev75.zip)
 
 ## Write-up
 

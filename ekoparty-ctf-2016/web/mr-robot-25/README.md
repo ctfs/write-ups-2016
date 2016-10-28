@@ -1,12 +1,11 @@
 # EKOPARTY CTF 2016 : mr-robot-25
 
 **Category:** Web
-**Points:**
+**Points:** 25
 **Solves:**
 **Description:**
 
 > Disallow it!
-
 
 ## Write-up
 
