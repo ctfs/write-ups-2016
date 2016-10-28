@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : jvm-25
 
 **Category:** Reversing
-**Points:**
+**Points:** 25
 **Solves:**
 **Description:**
 
-> Bytecodes everywhere, reverse them.  Attachment rev25_3100aa76fca4432f.zip
-
+> Bytecodes everywhere, reverse them.
+> [Attachment](rev25.zip)
 
 ## Write-up
 

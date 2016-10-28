@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : alice-secret-message-175
 
 **Category:** Forensics
-**Points:**
+**Points:** 175
 **Solves:**
 **Description:**
 
-> There is something fishy here!  Attachment for175_8ea180f3d676d67d.zip
-
+> There is something fishy here!
+> [Attachment](for175.zip)
 
 ## Write-up
 

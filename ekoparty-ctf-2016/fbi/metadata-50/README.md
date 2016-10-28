@@ -1,12 +1,12 @@
 # EKOPARTY CTF 2016 : metadata-50
 
 **Category:** FBI
-**Points:**
+**Points:** 50
 **Solves:**
 **Description:**
 
-> Help me to find some metadata!  <https://silkroadzpvwzxxv.onion>
-
+> Help me to find some metadata!
+> `https://silkroadzpvwzxxv.onion`
 
 ## Write-up
 

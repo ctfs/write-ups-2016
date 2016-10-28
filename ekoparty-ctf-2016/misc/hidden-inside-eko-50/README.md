@@ -7,7 +7,6 @@
 
 > Find the hidden flag in the EKO pixels!
 
-
 ## Write-up
 
 (TODO)

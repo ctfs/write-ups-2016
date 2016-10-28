@@ -1,11 +1,12 @@
 # EKOPARTY CTF 2016 : welcome-to-the-dark-side-25
 
 **Category:** FBI
-**Points:**
+**Points:** 25
 **Solves:**
 **Description:**
 
-> At Silk Road, every precaution is made to ensure your anonymity and security, from connecting to the site, to making your transactions, to receiving your items. <https://silkroadzpvwzxxv.onion>
+> At Silk Road, every precaution is made to ensure your anonymity and security, from connecting to the site, to making your transactions, to receiving your items.
+> `https://silkroadzpvwzxxv.onion`
 
 
 ## Write-up
