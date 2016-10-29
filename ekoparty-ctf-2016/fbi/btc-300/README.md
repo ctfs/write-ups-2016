@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://w0y.at/writeup/2016/10/28/ekoparty-ctf-2016-fbi-300.html
