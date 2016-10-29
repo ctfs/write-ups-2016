@@ -19,4 +19,4 @@ pub  1024R/5EB7CB21 2008-10-30 Fake Satoshi EKOPARTY12 (TEAMNAMEHERE) <satoshin@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/duc-le/ctf-writeups/blob/master/2016_EKOPARTY_CTF/writeup.md
