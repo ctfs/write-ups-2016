@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Web/Super%20duper%20advanced%20attack
