@@ -10,7 +10,7 @@
 
 ## Write-up
 
-(TODO)
+Some quick Googling reveals `.onion` domains can only be opened with `Tor`. Downloading, installing, and running Tor and navigating to the provided URL gets us to this fake Silk Road website. Metadata is always found in the developer tools, so pressing `Ctrl + Shift + Q` opens this toolbar, and browsing through different components should reveal their certificate contains the flag.
 
 ## Other write-ups and resources
 

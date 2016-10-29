@@ -1,21 +1,22 @@
 # EKOPARTY CTF 2016 write-ups
 
 * <https://ctf.ekoparty.org/>
-* [Scoreboard](https://ctf.ekoparty.org/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.ekoparty.org/scoreboard) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 
 * [web/mr-robot-25](web/mr-robot-25)
+* [web/rfc-7230-50](web/rfc-7230-50)
+* [fbi/metadata-50](fbi/metadata-50)
+* [reversing/jvm-25](reversing/jvm-25)
+* [misc/hidden-inside-eko-50](misc/hidden-inside-eko-50)
 * [fbi/welcome-to-the-dark-side-25](fbi/welcome-to-the-dark-side-25)
 
 ## External write-ups only
 
 * [web/carder-150](web/carder-150)
 * [misc/x-flag-150](misc/x-flag-150)
-* [fbi/metadata-50](fbi/metadata-50)
-* [web/rfc-7230-50](web/rfc-7230-50)
 * [web/forensht-400](web/forensht-400)
-* [reversing/jvm-25](reversing/jvm-25)
 * [reversing/f#ck-50](reversing/f#ck-50)
 * [pwning/bleeding-50](pwning/bleeding-50)
 * [forensics/damaged-75](forensics/damaged-75)
@@ -25,7 +26,6 @@
 * [reversing/old-times-100](reversing/old-times-100)
 * [reversing/rreeggeexx-75](reversing/rreeggeexx-75)
 * [reversing/back-again-150](reversing/back-again-150)
-* [misc/hidden-inside-eko-50](misc/hidden-inside-eko-50)
 * [misc/congested-service-100](misc/congested-service-100)
 * [forensics/vsftpd-dejavu-150](forensics/vsftpd-dejavu-150)
 * [pwning/my-first-service-i-100](pwning/my-first-service-i-100)
