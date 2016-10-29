@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 150
-**Solves:**
+**Solves:** 20
 **Description:**
 
 > There are no disassemblers for this kind of program or this is what we think, can you proof otherwise?

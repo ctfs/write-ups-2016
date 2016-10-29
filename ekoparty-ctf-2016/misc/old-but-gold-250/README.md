@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 250
-**Solves:**
+**Solves:** 76
 **Description:**
 
 > These QR codes look weird
@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/misc_250/README.md
+* https://github.com/team-bitskrieg/CTF-writeups/tree/master/EKOctf/misc/250-Old%20but%20gold

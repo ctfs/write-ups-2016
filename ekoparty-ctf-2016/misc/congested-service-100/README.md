@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 100
-**Solves:**
+**Solves:** 44
 **Description:**
 
 > Try to connect to the NULL service and retrieve the flag!

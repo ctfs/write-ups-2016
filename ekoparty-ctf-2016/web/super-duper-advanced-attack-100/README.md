@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 100
-**Solves:**
+**Solves:** 103
 **Description:**
 
 > Can you find the flag?
@@ -14,4 +14,6 @@
 
 ## Other write-ups and resources
 
+* https://0day.work/ekoparty-ctf-2016-writeups/
+* https://github.com/p4-team/ctf/tree/master/2016-10-26-ekoparty/web_100
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Web/Super%20duper%20advanced%20attack

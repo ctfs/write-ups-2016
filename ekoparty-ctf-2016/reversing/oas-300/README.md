@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 300
-**Solves:**
+**Solves:** 1
 **Description:**
 
 > Run it and get the flag!

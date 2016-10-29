@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 300
-**Solves:**
+**Solves:** 5
 **Description:**
 
 > Мы нашли эту страницу из Кремля, вы можете найти секрет?

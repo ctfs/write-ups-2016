@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 150
-**Solves:**
+**Solves:** 20
 **Description:**
 
 > Oh snap! A backdoor from real life.

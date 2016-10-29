@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 25
-**Solves:**
+**Solves:** 583
 **Description:**
 
 > Disallow it!
@@ -20,4 +20,5 @@ If you then go to that link `https://ctf.ekoparty.org/static/wIMti7Z27b.txt` you
 
 ## Other write-ups and resources
 
+* https://youtu.be/lxUsxc2WX3w
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
