@@ -14,4 +14,5 @@ I first began by downloading the nearest EKOPARTY image (the tasks page [backgro
 ## Other write-ups and resources
 
 * https://youtu.be/Z2WmykMRNTQ
+* http://specterdev.blogspot.ca/2016/10/write-up-ekoparty-2016-ctf-misc-50pt.html#more
 * https://0day.work/ekoparty-ctf-2016-writeups/

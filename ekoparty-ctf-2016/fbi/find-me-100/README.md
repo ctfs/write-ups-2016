@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://blog.dragonsector.pl/2016/10/ekoparty-ctf-2016-fbi-100.html
