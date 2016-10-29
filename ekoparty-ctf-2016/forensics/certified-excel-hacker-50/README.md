@@ -15,5 +15,6 @@
 
 ## Other write-ups and resources
 
+* https://youtu.be/-AiVLoS9_yg
 * https://0day.work/ekoparty-ctf-2016-writeups/
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Reversing/Back%20again
