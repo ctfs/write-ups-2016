@@ -16,3 +16,4 @@ Using Google, you can read up on `.onion` domains. In short, these domains can o
 ## Other write-ups and resources
 
 * https://0day.work/ekoparty-ctf-2016-writeups/
+* http://specterdev.blogspot.ca/2016/10/write-up-ekoparty-2016-ctf-misc-50pt.html
