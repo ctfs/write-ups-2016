@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 150
-**Solves:**
+**Solves:** 119
 **Description:**
 
 > The fastest carder from the far west.
@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://0day.work/ekoparty-ctf-2016-writeups/

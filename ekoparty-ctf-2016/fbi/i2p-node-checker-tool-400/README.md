@@ -2,7 +2,7 @@
 
 **Category:** FBI
 **Points:** 400
-**Solves:**
+**Solves:** 1
 **Description:**
 
 > A unique tool to check IPs from the i2P network! Check those IPs and send us the IP behind the service with the EKO{IP} format.

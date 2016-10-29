@@ -2,7 +2,7 @@
 
 **Category:** FBI
 **Points:** 200
-**Solves:**
+**Solves:** 24
 **Description:**
 
 > This will not be a so secure hidden service, please find the real IP behind the service and use EKO{IP} as the answer.

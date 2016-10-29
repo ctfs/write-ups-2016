@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 25
-**Solves:**
+**Solves:** 515
 **Description:**
 
 > Bytecodes everywhere, reverse them.

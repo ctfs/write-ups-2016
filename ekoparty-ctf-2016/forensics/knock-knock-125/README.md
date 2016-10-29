@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 125
-**Solves:**
+**Solves:** 9
 **Description:**
 
 > What are they talking about?

@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 25
-**Solves:**
+**Solves:** 261
 **Description:**
 
 > Reach the flag function!

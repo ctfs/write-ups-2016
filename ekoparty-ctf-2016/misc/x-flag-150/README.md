@@ -1,8 +1,8 @@
 # EKOPARTY CTF 2016 : x-flag-150
 
 **Category:** Misc
-**Points:**
-**Solves:**
+**Points:** 150
+**Solves:** 54
 **Description:**
 
 > Can you see the flag?

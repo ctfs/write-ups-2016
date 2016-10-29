@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 250
-**Solves:**
+**Solves:** 47
 **Description:**
 
 > Hundreds of conditions to be meet, will you be able to surpass them?

@@ -2,7 +2,7 @@
 
 **Category:** Pwning
 **Points:** 300
-**Solves:**
+**Solves:** 7
 **Description:**
 
 > Did you get the binary from the first service (pwn100)? Keep going!

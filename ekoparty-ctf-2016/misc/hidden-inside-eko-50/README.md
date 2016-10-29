@@ -1,8 +1,8 @@
 # EKOPARTY CTF 2016 : hidden-inside-eko-50
 
 **Category:** Misc
-**Points:**
-**Solves:**
+**Points:** 50
+**Solves:** 442
 **Description:**
 
 > Find the hidden flag in the EKO pixels!
@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://youtu.be/Z2WmykMRNTQ
+* https://0day.work/ekoparty-ctf-2016-writeups/
