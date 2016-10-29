@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
+* https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Pwning/Ultra%20baby
