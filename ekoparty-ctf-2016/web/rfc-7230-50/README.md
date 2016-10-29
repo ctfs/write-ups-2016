@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 50
-**Solves:**
+**Solves:** 533
 **Description:**
 
 > Get just basic information from this server (ctf.ekoparty.org).
@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://0day.work/ekoparty-ctf-2016-writeups/
+* https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/

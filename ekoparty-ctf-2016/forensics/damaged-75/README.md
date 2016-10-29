@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 75
-**Solves:**
+**Solves:** 243
 **Description:**
 
 > All you have to do is to see this damaged image!
@@ -14,4 +14,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
+* https://github.com/team-bitskrieg/CTF-writeups/tree/master/EKOctf/forensics/75-Damaged
+* https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Forensics/Damaged

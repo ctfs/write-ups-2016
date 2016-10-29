@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 400
-**Solves:**
+**Solves:** 5
 **Description:**
 
 > Y U NO GET THOSE FILES?

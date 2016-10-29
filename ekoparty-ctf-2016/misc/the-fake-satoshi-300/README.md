@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 300
-**Solves:**
+**Solves:** 19
 **Description:**
 
 > Hello Mr. Giarc, upload again your false PGP key to pgp.mit.edu and send us any file you want with its signature to prove you are the fake Satoshi!

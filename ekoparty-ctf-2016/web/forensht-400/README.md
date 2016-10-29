@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 400
-**Solves:**
+**Solves:** 9
 **Description:**
 
 > Help us beta-test our new startup service.
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://hugodelval.com/writeup/2016%2010%2028%20-%20ekoparty/Forenshit%20-%20Web%20-%20400pts

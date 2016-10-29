@@ -2,7 +2,7 @@
 
 **Category:** FBI
 **Points:** 300
-**Solves:**
+**Solves:** 2
 **Description:**
 
 > There has been some strange transactions on this blockchain! Let's do some research.

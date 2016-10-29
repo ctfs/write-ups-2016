@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 50
-**Solves:**
+**Solves:** 169
 **Description:**
 
 > Can you wait for the answer?
@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://0day.work/ekoparty-ctf-2016-writeups/
+* https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Reversing/Back%20again

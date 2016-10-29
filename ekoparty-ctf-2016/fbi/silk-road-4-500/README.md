@@ -2,7 +2,7 @@
 
 **Category:** FBI
 **Points:** 500
-**Solves:**
+**Solves:** 0
 **Description:**
 
 > "We will never make the same mistakes again, we challenge you to read our messages!" - DRP  

@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 200
-**Solves:**
+**Solves:** 1
 **Description:**
 
 > A co-worker has lost a very sensitive information from our company. Please go through all the encrypted layers and query all the information.
