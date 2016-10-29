@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * https://0day.work/ekoparty-ctf-2016-writeups/
+* https://github.com/team-bitskrieg/CTF-writeups/tree/master/EKOctf/web/150-carder
