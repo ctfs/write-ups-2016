@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 300
-**Solves:**
+**Solves:** 0
 **Description:**
 
 > It is well known that you always have to do remote backups and even more with encrypted disks.

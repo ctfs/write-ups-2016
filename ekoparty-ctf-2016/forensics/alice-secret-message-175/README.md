@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 175
-**Solves:**
+**Solves:** 8
 **Description:**
 
 > There is something fishy here!

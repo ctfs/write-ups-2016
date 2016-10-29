@@ -1,8 +1,8 @@
 # EKOPARTY CTF 2016 : lsso-200
 
 **Category:** Misc
-**Points:**
-**Solves:**
+**Points:** 200
+**Solves:** 11
 **Description:**
 
 > All my passwords are safely stored, or not?

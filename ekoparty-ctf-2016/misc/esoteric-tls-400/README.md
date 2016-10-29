@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 400
-**Solves:**
+**Solves:** 4
 **Description:**
 
 > Where we are going we don't need roads! Connect to the service and get the flag.

@@ -1,8 +1,8 @@
 # EKOPARTY CTF 2016 : bleeding-50
 
 **Category:** Pwning
-**Points:**
-**Solves:**
+**Points:** 50
+**Solves:** 93
 **Description:**
 
 > Let's bleed some bytes!
@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/tree/master/2016-10-26-ekoparty/pwn_50

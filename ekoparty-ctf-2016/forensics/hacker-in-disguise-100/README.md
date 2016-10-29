@@ -2,7 +2,7 @@
 
 **Category:** Forensics
 **Points:** 100
-**Solves:**
+**Solves:** 27
 **Description:**
 
 > We have captured these codes in a secret communication, please tell us its meaning.
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/for_100/README.md

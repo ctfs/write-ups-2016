@@ -2,7 +2,7 @@
 
 **Category:** FBI
 **Points:** 25
-**Solves:**
+**Solves:** 360
 **Description:**
 
 > At Silk Road, every precaution is made to ensure your anonymity and security, from connecting to the site, to making your transactions, to receiving your items.
@@ -15,4 +15,4 @@ Using Google, you can read up on `.onion` domains. In short, these domains can o
 
 ## Other write-ups and resources
 
-* none yet
+* https://0day.work/ekoparty-ctf-2016-writeups/

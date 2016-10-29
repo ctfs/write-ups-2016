@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 200
-**Solves:**
+**Solves:** 1
 **Description:**
 
 > We just built a super embedded flag sender system, can you capture it?

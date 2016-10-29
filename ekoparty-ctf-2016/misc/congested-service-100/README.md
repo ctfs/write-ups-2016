@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 100
-**Solves:**
+**Solves:** 44
 **Description:**
 
 > Try to connect to the NULL service and retrieve the flag!
@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Misc/Congested%20service
