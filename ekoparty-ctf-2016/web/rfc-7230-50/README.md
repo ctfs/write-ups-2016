@@ -9,7 +9,13 @@
 
 ## Write-up
 
-(TODO)
+This challenge asks you to get basic information on the server `ctf.ekoparty.org`. After Googling `Web server information online`, you should be directed to [this site](http://browserspy.dk/webserver.php), which allows you to enter the hostname given in the description and get server, address, encoding, etc. The first line of results list is:
+
+```
+Web server        EKO{this_is_my_great_server}
+```
+
+I personally used Maltego from Kali Linux on the domain and ran all the transforms on entities relating to that server, and serached for `EKO{` where the same flag was listed in the `Server Type` property.
 
 ## Other write-ups and resources
 

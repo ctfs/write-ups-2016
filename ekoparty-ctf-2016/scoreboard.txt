@@ -1,0 +1,721 @@
+Dragon Sector	6692
+dcua	6096
+0daysober	5422
+LC/BC	3728
+Samurai	3682
+LosFuzzys	3660
+PiggyBird	3316
+p4team	3305
+Antichat	3234
+ELT	3034
+Plaid Parliament of Pwning	3025
+scryptos	2922
+WE_0WN_Y0U	2863
+amn3s1a	2850
+TokyoWesterns	2600
+khack40	2501
+ACM-ICPHP	2450
+BatmansKitchen	2400
+Balsn	2350
+BabyPhD	2300
+ASIS	2300
+InSecurity	2265
+Tasteless	2225
+farmingsimulator2015	2141
+Ireallytrulylikeheap	2100
+CS16	2082
+OpenToAll	1955
+!SpamAndHex	1950
+greunion	1950
+saarsec	1908
+LEGOFAN	1850
+d4rkc0de	1850
+0xbadf00d	1850
+w0pr	1850
+bitsforeveryone	1800
+ALLES	1800
+b1n4ry4rms	1708
+Colonel 0x20	1707
+Just Hit the Core	1702
+blackbunny	1702
+TheGoonies	1700
+Bushwhackers	1700
+xSTF	1700
+Swampers	1685
+du1iqvw	1650
+bi0s	1650
+wasamusume	1650
+Squareroots	1625
+Insanity	1614
+nobbd	1608
+knightsec	1606
+m1z0r3	1600
+jbz	1600
+0x90r00t	1551
+csalazar	1550
+H4x0rPsch0rr	1500
+217	1500
+#RemoteExecution	1500
+LoST CTF	1450
+FAUST	1450
+Hanoiati	1402
+f4lrik	1400
+1NTB0	1375
+0xCB3	1353
+Burlingpwn	1350
+FFCrew	1350
+STT	1300
+Northbeastern	1279
+NYUSEC	1250
+AsssassiNOPs	1250
+SwissMadeSecurity	1200
+ISITDTU	1200
+Snatch The Root	1150
+318br	1150
+P_TE	1150
+RATF{Rage Against The Flag}	1150
+Turing Down For What	1125
+cRUcible	1100
+noraneco	1100
+noTeamName	1100
+MV9rwGOf08	1100
+Team Morgan	1075
+Gophers in the Shell	1054
+Maliciel Sans Frontieres	1050
+D1vergenc337_PH	1050
+syper	1050
+meepwn	1050
+phucteam	1050
+Danang_Hoian	1050
+BITSkrieg	1050
+Pony7	1031
+ascii overflow	1000
+InfoSecIITR76	1000
+tmtz	1000
+n00bs_with_m00bs	1000
+evandrix	1000
+D2GSS	950
+LeaveCat	950
+Honeypot	950
+smoke leet everyday	925
+Specter	925
+DFCI	900
+Beers4Flags	900
+fuffateam	900
+dc562	900
+koo	875
+Team IA	850
+Gecko	850
+omakase	850
+CTF wo Suru	850
+CTF-infinit	850
+v0rt3x	835
+rop2root	825
+UIT-BH	825
+Infektion	825
+Bono_iPad	825
+securimag	825
+os-aalborg	825
+Aaditya Purani	825
+HackingForSoju	806
+WhiteShirts	800
+FRSecure	800
+ZeroDimension	800
+e11even	775
+#TetraconFanta	775
+kmashell	753
+PoisonedBYTES	750
+m$eC	750
+Fourchette Bombe	750
+HTP	750
+BlackTR	725
+M4scarPwn3	725
+Grumpy Unicorn	725
+1up	725
+Shady Hats	725
+Another Bad Idea	725
+anaconda	701
+CAT-Security	700
+SeaMonsters	700
+KyungHeeUniv16_JUNOHLEE_is_Looking_for_GirlFriend	700
+RDot.Org	700
+UnderGaylord	700
+hAIXer	700
+Pwnium	700
+PELEdaumpaunoMARADONA	700
+SunplaceSolution	700
+dust	675
+CactusField	675
+lintile	675
+THCrew	675
+Pyladies	675
+g0t dirty milk??	675
+jinmo123	650
+aba	650
+KuroNeko	650
+SHARK	650
+pwnplay	650
+ivenoteam	650
+OPT	650
+Mandheling	650
+ShellShock	650
+zzzsXezzz	650
+The Wolves	625
+Booyaa	625
+Avidya	625
+DPS	625
+0xfl4g	625
+hy00un	600
+prototype.hep	600
+HackInTN	600
+UltraIndex	600
+forPractice	600
+init1	600
+objEEdump	600
+Execut3	600
+MrAdmin	600
+H3X0R	600
+UCCU	575
+cuti	575
+Follow_the_Sun	575
+vnr	575
+damedesu	575
+Team.AZ	575
+SentineL	575
+Suns of Anarchy	575
+nacayoshi00	575
+VadSomHelst	575
+E4404_404	575
+KernelSanders	575
+ahihi	550
+ekko	550
+HACK TOUTE	550
+0xec	550
+ekoeko	550
+taurus	550
+Efiens	550
+int 0x80	550
+kckckc	550
+NaNo Consulting	550
+Bopoznpvt	525
+1BTC	525
+payload.zip	525
+big_y	525
+morris989	500
+Glidermed	500
+g0tiu5a	500
+bitbitbit	500
+dqi	500
+wabisabi	500
+unknown84	475
+l3g10ns	475
+how2hack	475
+Team X00x	475
+h3x4lif3	475
+catg	475
+okudo3	475
+cupertino	475
+loser	450
+pandasys	450
+allyourgibson	450
+interr0bang	450
+Smart Robot	450
+mohumohu	450
+motet	450
+Come to Try Fortune	450
+Yacine101	450
+Attack@Pwn	428
+#!/usr/bin/Ym9iIQ== `5em1n4r_R00M`	425
+#ERROR!	425
+Scrypter	425
+Peterpen	425
+lcgg	425
+K20DTU	425
+Lemondogs	425
+NeOLux-C1Ph3r	425
+elrodrix	425
+th3jackers	425
+Mason Competitive Cyber	425
+Sawadeeka	400
+Supermasivo Negros Full-Metall Panqueques de Tocino	400
+Tomatosalad	400
+/7343|-|b|<|/|	400
+psychobolt	400
+d3m0n	400
+starlessaeon	400
+Ultra	400
+PoE	400
+dispynode2.0	400
+TunSH	400
+MAD COWS	400
+Pwnd	400
+TeamWithSuchNameAlreadyExists	400
+RTFM - Red Team Freakin' Maniacs	400
+BackPocket	400
+bar	379
+qy2016	375
+Magic-Hat	375
+TBA	375
+Contagion	375
+BlueTeam	375
+Partly Cloudy	375
+Nontan	375
+SpyDer	375
+KSUCDC	375
+cu_later	375
+HackInfinity	375
+MefhigosetH	375
+br00twurst	350
+noobs	350
+RockLab	350
+Grumpy Narwhal	350
+ineXHAust	350
+CyberTeam6	350
+Akaryuu	350
+Invulnerable	350
+IBAS	350
+11DPN	350
+furiuz	350
+FreeWiFi	350
+test	350
+dsec13	350
+NaijaSecForce	350
+4815162342	350
+shellz r us	350
+FIIYC	331
+igorpyan	325
+BoomBoom	325
+MonoMini	325
+sXe	325
+StASecure	325
+glxr	302
+Migdalo	300
+Wiremask	300
+Lite_Metal_Wombat	300
+elbrashan	300
+thepowerofGREP	300
+ITCMUDTU	300
+ids-team	300
+Cesium@	300
+The_Selcouth	300
+EpicTeam	300
+CiG+	300
+ToUyen	300
+redE	300
+YouAreDelayingTheProject	300
+user	300
+dakine	300
+TWN	300
+Sparkle Motion	300
+penthackon	300
+esjeruk	300
+InfoSecIITR	300
+Per for month	300
+Pride Of N	275
+Note 7 Surprise	275
+josebeo	275
+cr4wl3r	275
+Tenesys	275
+bin_dojo	275
+h4rdF0rc3	275
+Toxa_man	275
+team mystic	275
+minka-sec	275
+catcat	275
+paperwhale	275
+Hacktest	275
+BitsPlz	275
+ckm	275
+takisystema	275
+glaros	275
+KernelPanicClub	275
+teperi	275
+GBCKnights	275
+Johncgeenty	250
+DISM	250
+jsutset	250
+shimenawa	250
+unlimit	250
+pseud0randomness	250
+ge0rged0e	250
+HIT	250
+Delogrand	250
+LASC	250
+X10AUG2050	250
+osucsc	250
+iwonthectf	250
+Storm	250
+Jboyd	250
+swehack	250
+ASDASDASD	225
+BA55R0P	225
+BBHT	225
+Team Angus	225
+Pseudonymous	225
+shinobi	225
+ByteBandits	225
+wjcsharp	225
+BHG	225
+Pwnage Inc.	225
+2O2L2H	225
+n0de	225
+GodKnows	225
+AdopteUnMec	225
+Pwning for Tacos	225
+utdcsg	225
+Tempo	225
+kfx	225
+whoame	225
+hanto	225
+HappyHacking	225
+kluo	225
+tawashi	225
+Lilac	225
+vanhelsing	225
+MilWestA	225
+bdd	225
+wytc0de	225
+zeroFKNsk1lz	200
+RognekCock	200
+gooligans	200
+ex3x	200
+Spontaneous	200
+m1dn8	200
+gdb	200
+f0r3v3r_4l0n3	200
+TimidLion	200
+nahi munkar	200
+beefbabe	200
+user237691	200
+GolekSnack_	200
+wyvern	200
+master_kaking_metasploit	200
+thinking	200
+Goodintheory	200
+Maltack	200
+rays	200
+inspired	200
+static_sushi	200
+WhySoLonely	200
+DeLedeLabaner	200
+Badfoo	175
+merges	175
+MonkeyDance	175
+daemon_deacons	175
+The Elite Firm	175
+tmdahr1245	175
+SUSlo.PAS	175
+kent	175
+k3y6reak	175
+Beta_securiteam	175
+True0xA3	175
+Olleh	175
+2wyz3	175
+hexpresso	175
+BNHacking	175
+Sud0	175
+commandos	175
+belmarin	175
+hans	175
+aaaa	175
+DTPTandy	175
+TDOH-PIPE	175
+loner	175
+DATA_EXPUNGED	175
+fandango	175
+invader	175
+roskyfrosky	175
+redbolt2222	175
+ferrun	175
+SooLFaa	175
+liquid	175
+Pdgn	175
+legacy	175
+nooby-doo	151
+Stack	150
+psiresearch	150
+teamME	150
+unturrito	150
+Shadow Cats	150
+FlickFlakAction	150
+rafael_p	150
+dark61	150
+0x67mac	150
+ERG	150
+kotarou	150
+INDIOSPICAROS	150
+Artificial Truth	150
+Bonza	150
+HAHA	150
+n0Sk!LL	150
+Chief Unicorn	150
+L.E.I.	150
+Alamina	150
+GH2N	150
+Allhex	150
+.globlHax	150
+guanguan	150
+cl45h	150
+Espacio	150
+ThrustBastard	150
+tvoyded	150
+acdwas	150
+MagoDopapo	150
+cyBears	150
+73mb_sec	150
+PmP	150
+illicittiger	150
+qwe	150
+UniformTangoDelta	150
+FqTW	150
+nonamesfor	150
+Revenger	150
+Algo	150
+C0t0mate	150
+shpik	150
+UIN HACKING	150
+Shijima	150
+NIS	150
+ThirdEye	150
+wbdn_z	150
+North APCS	150
+Boss de boss	150
+Cracking Ducks	150
+freefirex	125
+Kerberint	125
+electrolytes	125
+k.OS	125
+ROOKS	125
+gb9	125
+SerialHexOffenderz	125
+CNB-Horse	125
+d00dbruh	125
+badplague	125
+fa1l	125
+zimzim	125
+Fsec	125
+DFM	125
+Leoveg87	125
+sometaim i am cri	125
+b1riy@ni	125
+HAN_S0L0	125
+foreverXVII	125
+warm.	125
+reasoningmonkey	125
+babysteps	125
+pinksheep	125
+iSome	125
+dkr1337	100
+natalia	100
+koala	100
+Niemand.Sec	100
+I_Suck	100
+catt13ya	100
+java	100
+GD-Team	100
+BBB	100
+Harimeow Malaya	100
+Attackers	100
+brandom	100
+onemanteam	100
+RSHU	100
+****	100
+Good Game	100
+akhalash	100
+cbarreto	100
+s0xx	100
+nulltester	100
+larryboy825	100
+dowat	100
+WYCTF	100
+D4nnR	100
+zorro_1	100
+ekoth	100
+ritizen	100
+noname	100
+AlphonseBrown	100
+D@rk$h3ll	100
+TheBotSquad	100
+solo	100
+Onii-chan's Dank Memes	100
+asdfjklal	100
+4cksec	100
+BestThresh	100
+whiskas	100
+mirage	100
+iamanoobplzdonthurtme	100
+GameOfPWNZ	75
+sdm	75
+aperezalbela	75
+Zork	75
+Not Found	75
+raxxx	75
+Nivel Pichula	75
+n00bsRus	75
+LIONCITY	75
+crit3ri4	75
+12341234	75
+h3x.m33x	75
+hero	75
+ijustwanttoseechallanges	75
+hust	75
+viettel	75
+testtest	75
+Quietigers	75
+CSquad	75
+thadius	75
+From zero to hero	75
+kendyhikaru	75
+krsec	75
+Luck	75
+deadb1t	75
+The Shield	75
+Charlieb	75
+GinVlad	75
+hackb0x	75
+op.rad	75
+hatoan	75
+hunter2	75
+bobby	75
+hahahaha	75
+l0lpl3b5	75
+sXoul	75
+Yozik	75
+linit	75
+GiVeMeRoOt	75
+leftteam	75
+Fluxion	75
+WizardsOfDos	75
+GetSxwifty	75
+[notso]EvilCorp	75
+theMachine	75
+GGININDER	75
+N00b	75
+Jpoke	75
+najugomtang	75
+wakass	75
+shubhangsati	75
+PliScio	75
+DjigIT	75
+zizicoincoin	75
+#STAG	75
+WWU Hackdown	75
+0x4148fo	75
+Thug@thug	75
+SOSec	75
+Nu1L	75
+Meow	75
+nonohae	75
+deaDLock	75
+blackjack	75
+My, Myself And your Data	75
+CyberRaid	75
+dream_team_nah	75
+azaraks	75
+Nonez	75
+znv	75
+tvoi_ded	50
+Austral	50
+elgringo	50
+The Worst Thing Ever	50
+jhcorea7	50
+clubbingbabyseals	50
+angu	50
+ACS	50
+BlackHatElite	50
+bourbon	50
+U473312	50
+sollos	50
+cmp	50
+spin13	50
+Night walkers	50
+NotCuteJustSexy!	50
+cult of hacking	50
+Some_Team	50
+0xyGen	50
+sonic	50
+ascent	50
+dodododo	50
+newbie1287	50
+MrMugiwara	50
+dotSlash	50
+GRIS	50
+MehTeam	50
+<h1>Reg</h1>	50
+jackflash	50
+tidereis13	50
+KXTI_1	50
+rpm27	50
+41ice	50
+ComerCookieEBom	50
+Null Ninja	50
+SrikarYallala	50
+groovylazer	50
+kuriring	50
+anu	50
+KXTI	50
+3xodia	50
+eecu	50
+Veneno	50
+NakedNerds	50
+Meme	50
+ECX Inc.	50
+atx2600	50
+Lions	50
+Archive	50
+dgilgild	25
+Chaos Legion	25
+John	25
+TOPKEK	25
+Mithreindeir	25
+fierrotigre	25
+Ascope	25
+paradox	25
+ANYTHING	25
+noobfromsea	25
+ggg	25
+Hello	25
+Kings	25
+tancuibap	25
+test12	25
+thumb	25
+123123abc	25
+SmallCute	25
+Cyber-Ninja	25
+d0c	25
+teamasdsdg	25
+SickMemes	25
+team1	25
+solowolf	25
+justmebruh	25
+brucel33t	25
+deptraivcl	25
+P14za	25
+2much4zblock	25
+lightningmar	25
+fidatolucifer	25
+F.H.D	25
+0x61	25
+pomf pomf kimochi	25
+somethinggeneric	25
+TheDefender	25
+0x0titan	25
+Codex	25
+madhav	25
+Khanza	25
+tazza	25
+popo	25
+soomink	25
+roflcop	25
+MUN	25
+chuitoufa	25
+tomyamice	25
+h4x0r5	25
+MetaMelange	25
+banhbokep	25
+0x00	25
+JosephChen	25
+cyber2016	25
+blaze	25
+Decrypto	25
+volk	25

@@ -9,7 +9,7 @@
 
 ## Write-up
 
-(TODO)
+I first began by downloading the nearest EKOPARTY image (the tasks page [background](background.png)) and after reading through all the short text snippets in the image, the top left corner contains your flag: `EKO{th3_fl4g}`.
 
 ## Other write-ups and resources
 
