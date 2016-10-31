@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* https://piggybird.net/2016/10/ekoparty-2016-write-hacker-disguise-100/
 * https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/for_100/README.md

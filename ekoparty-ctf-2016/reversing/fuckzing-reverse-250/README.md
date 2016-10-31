@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * https://kimiyuki.net/blog/2016/10/29/ekoparty-ctf-2016-fuckzing-reverse/
+* http://van.prooyen.com/reversing/2016/10/30/Fuckzing-reverse-Writeup.html

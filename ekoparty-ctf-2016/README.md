@@ -15,6 +15,7 @@
 ## External write-ups only
 
 * [fbi/btc-300](fbi/btc-300)
+* [misc/lsso-200](misc/lsso-200)
 * [web/carder-150](web/carder-150)
 * [fbi/find-me-100](fbi/find-me-100)
 * [misc/x-flag-150](misc/x-flag-150)
@@ -45,7 +46,6 @@
 * [reversing/quacks-like-a-duck-200](reversing/quacks-like-a-duck-200)
 * [forensics/alice-secret-message-175](forensics/alice-secret-message-175)
 * [forensics/knock-knock-125](forensics/knock-knock-125)
-* [misc/lsso-200](misc/lsso-200)
 * [pwning/bubble-250](pwning/bubble-250)
 * [fbi/i2p-node-checker-tool-400](fbi/i2p-node-checker-tool-400)
 * [fbi/silk-road-4-500](fbi/silk-road-4-500)

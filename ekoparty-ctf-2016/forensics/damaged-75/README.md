@@ -15,6 +15,7 @@
 ## Other write-ups and resources
 
 * http://yuelab82.hatenablog.com/entry/ekoparty2016_writeup
+* https://piggybird.net/2016/10/ekoparty-2016-write-damaged-75/
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
 * https://github.com/team-bitskrieg/CTF-writeups/tree/master/EKOctf/forensics/75-Damaged
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Forensics/Damaged
