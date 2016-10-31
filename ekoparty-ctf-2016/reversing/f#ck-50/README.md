@@ -14,6 +14,7 @@
 
 ## Other write-ups and resources
 
+* https://youtu.be/aOdOSUMGX20
 * https://github.com/p4-team/ctf/tree/master/2016-10-26-ekoparty/re_50
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
 * https://penafieljlm.wordpress.com/2016/10/29/ekoparty-ctf-2016-write-ups/#rev-50

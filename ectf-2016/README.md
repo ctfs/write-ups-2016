@@ -9,7 +9,8 @@
 
 ## External write-ups only
 
-* none yet
+* [crypto/DaaS](crypto/DaaS)
+* [misc/number_place](misc/number_place)
 
 ## Missing write-ups
 
@@ -18,7 +19,5 @@
 * [reverse/lorem](reverse/lorem)
 * [misc/idIoT](misc/idIoT)
 * [misc/ebufgne](misc/ebufgne)
-* [misc/number_place](misc/number_place)
-* [crypto/DaaS](crypto/DaaS)
 * [crypto/counterattack](crypto/counterattack)
 * [crypto/cryptofun](crypto/counterfun)

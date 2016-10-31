@@ -15,5 +15,6 @@
 ## Other write-ups and resources
 
 * https://0day.work/ekoparty-ctf-2016-writeups/
+* http://specterdev.blogspot.ca/2016/10/write-up-ekoparty-2016-ctf-web-25-50.html
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Web/Url%20shortener
 * http://hugodelval.com/writeup/2016%2010%2028%20-%20ekoparty/Url%20shortener%20-%20Web%20-%20200pts

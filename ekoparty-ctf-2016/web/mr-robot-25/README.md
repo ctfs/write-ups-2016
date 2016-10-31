@@ -21,4 +21,6 @@ If you then go to that link `https://ctf.ekoparty.org/static/wIMti7Z27b.txt` you
 ## Other write-ups and resources
 
 * https://youtu.be/lxUsxc2WX3w
+* https://github.com/Idomin/CTF-Writeups/tree/master/EKOCTF-2016
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
+* http://specterdev.blogspot.ca/2016/10/write-up-ekoparty-2016-ctf-web-25-50.html
