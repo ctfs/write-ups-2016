@@ -17,3 +17,4 @@
 
 * https://ctftime.org/writeup/4290
 * http://duksctf.github.io/TUMCTF2016-haggis/
+* http://uss.informatik.uni-ulm.de/?p=492
