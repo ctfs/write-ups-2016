@@ -15,3 +15,4 @@
 
 * https://losfuzzys.github.io/writeup/2016/10/02/tumctf-web50/
 * https://dinhbaoluciusteam.wordpress.com/2016/10/02/web-free_as_in_bavarian_beer-tumctf
+* https://uss.informatik.uni-ulm.de/?p=492
