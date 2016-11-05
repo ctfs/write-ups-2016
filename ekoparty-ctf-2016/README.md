@@ -31,6 +31,7 @@
 * [misc/the-fake-satoshi-300](misc/the-fake-satoshi-300)
 * [misc/congested-service-100](misc/congested-service-100)
 * [forensics/vsftpd-dejavu-150](forensics/vsftpd-dejavu-150)
+* [forensics/knock-knock-125](forensics/knock-knock-125)
 * [pwning/fuckzing-exploit-200](pwning/fuckzing-exploit-200)
 * [reversing/malware-sample-400](reversing/malware-sample-400)
 * [pwning/my-first-service-i-100](pwning/my-first-service-i-100)
@@ -44,7 +45,6 @@
 
 * [reversing/quacks-like-a-duck-200](reversing/quacks-like-a-duck-200)
 * [forensics/alice-secret-message-175](forensics/alice-secret-message-175)
-* [forensics/knock-knock-125](forensics/knock-knock-125)
 * [misc/lsso-200](misc/lsso-200)
 * [pwning/bubble-250](pwning/bubble-250)
 * [fbi/i2p-node-checker-tool-400](fbi/i2p-node-checker-tool-400)
