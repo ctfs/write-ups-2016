@@ -25,6 +25,7 @@
 * [pwning/ultra-baby-25](pwning/ultra-baby-25)
 * [web/url-shortener-200](web/url-shortener-200)
 * [misc/old-but-gold-250](misc/old-but-gold-250)
+* [misc/lsso-200](misc/lsso-200)
 * [reversing/old-times-100](reversing/old-times-100)
 * [reversing/rreeggeexx-75](reversing/rreeggeexx-75)
 * [reversing/back-again-150](reversing/back-again-150)
@@ -45,7 +46,6 @@
 
 * [reversing/quacks-like-a-duck-200](reversing/quacks-like-a-duck-200)
 * [forensics/alice-secret-message-175](forensics/alice-secret-message-175)
-* [misc/lsso-200](misc/lsso-200)
 * [pwning/bubble-250](pwning/bubble-250)
 * [fbi/i2p-node-checker-tool-400](fbi/i2p-node-checker-tool-400)
 * [fbi/silk-road-4-500](fbi/silk-road-4-500)

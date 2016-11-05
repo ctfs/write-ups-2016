@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/douglasqsantos/ctf-writeups/tree/master/2016-10-26-ekoparty/misc_200 
