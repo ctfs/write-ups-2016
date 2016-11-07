@@ -13,5 +13,5 @@
 
 ## Other write-ups and resources
 
-* <http://p1kachu.pluggi.fr/writeup/re/2016/04/18/plaid-quick-writeup/>
+* [Stanislas Lejay](http://p1kachu.pluggi.fr/writeup/re/2016/04/18/plaid-quick-writeup/)
 * http://ctf.yeuchimse.com/plaid-ctf-2016-quick-re175/

@@ -5,9 +5,9 @@
 **Solves:** 86
 **Description:**
 
-> A mysterious signal… can you decode it? 
-> 
-> 
+> A mysterious signal… can you decode it?
+>
+>
 > Running at morset.pwning.xxx:11821
 
 ## Write-up
@@ -17,6 +17,5 @@
 ## Other write-ups and resources
 
 * <https://duksctf.github.io/PCTF2016-morset/>
-* https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/misc_morset
-* http://quanyang.github.io/plaid-ctf-2016-morset-misc-50/
-
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/misc_morset)
+* [Quan Yang](https://quanyang.github.io/plaid-ctf-2016-morset-misc-50/)

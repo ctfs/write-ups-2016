@@ -16,8 +16,8 @@ So we used radare2 in order to do a emulated.
   * r2 -A haha1
 
 2. Enumeration
-  * afl: 
-  
+  * afl:
+
     ```
     [0x100000ef0]> afl
     0x100000e00    4 105          sym._decrypt
@@ -27,9 +27,9 @@ So we used radare2 in order to do a emulated.
     0x100000f3c    1 6            sym.imp.printf
     0x100000f42    1 6            sym.imp.strlen
     ```
-   
-  * V @ entry0 
- 
+
+  * V @ entry0
+
     ```
     0x100000ef8      c745fc000000.  mov dword [rbp - local_4h], 0                                                                                                                                         
     0x100000eff      c745f8070000.  mov dword [rbp - local_8h], 7                                                                                                                                         
@@ -39,7 +39,7 @@ So we used radare2 in order to do a emulated.
     0x100000f0f      0f8505000000   jne 0x100000f1a            ;[1]                                                                                                                                       
     0x100000f15      e856ffffff     call sym._totallyNotTheFlag ;[2]
     ```
-   * V @ sym._totallyNotTheFlag
+   * V @ sym.\_totallyNotTheFlag
 
      ```
      0x100000eb0      e84bffffff     call sym._decrypt          ;[2]                                                                                                                                       
@@ -48,12 +48,12 @@ So we used radare2 in order to do a emulated.
      0x100000ec0      b000           mov al, 0                                                                                                                                                             
      0x100000ec2      e875000000     call sym.imp.printf
      ```
-    
+
  3. Conclusion
   * We made a little guess here: We have an opaque predicate at 0x100000f0c, which will
  always result into false. If it would be evaluated as true, totallyNotTheFlag would be called.
  This decrypts a string in the binary and print on stdout, which might be our flag.
- 
+
 4. Options
   * We could either reverse the encryption algorithm and decrypt the flag ourselves or use
  radare2 ESIL ('Evaluable Strings Intermediate Language') functionality to emulate the algorithm.
@@ -90,16 +90,16 @@ So we used radare2 in order to do a emulated.
     * aesu 0x100000ec2
   * Check parameters for printf
     * ps @ rdi
-    
+
     ```
         %s
     ```
-    * ps @ rsi 
-    
+    * ps @ rsi
+
     ```
         CTF{w0w_b1NarY_1s_h@rd}
     ```
-    
+
 Here we go!:)
 Sadly this was the only real binary challenge in ABCTF. Given that it was beginner CTF this seems
 reasonable. However in my opinion only practice makes perfect, so don't be afraid to spread some mor

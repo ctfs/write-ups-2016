@@ -20,4 +20,4 @@
 
 * https://bamboofox.github.io/2016/09/07/MMA-CTF-2nd-2016-Interpreter-200/
 * http://uaf.io/exploitation/2016/09/05/TokyoWesterns-MMA-Interpreter.html
-* https://kimiyuki.net/blog/2016/09/05/twctf-2016-interpreter/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/09/05/twctf-2016-interpreter/)

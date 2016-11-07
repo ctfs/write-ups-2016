@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 400
-**Solves:** 
+**Solves:**
 **Description:**
 
 > It's time to submit your homework. But I'm sure the teacher is too busy to check your homework.
@@ -14,5 +14,5 @@
 
 ## Other write-ups and resources
 
-* https://github.com/tothi/ctfs/tree/master/alictf-2016/homework
-* http://lorexxar.cn/2016/06/06/alictf2016/
+* [RingZer0](https://github.com/tothi/ctfs/tree/master/alictf-2016/homework)
+* [LoRexxar (Chinese)](http://lorexxar.cn/2016/06/06/alictf2016/

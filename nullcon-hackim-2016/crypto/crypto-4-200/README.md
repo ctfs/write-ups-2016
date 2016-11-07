@@ -2,12 +2,12 @@
 
 **Category:** Crypto
 **Points:** 200
-**Solves:** 
+**Solves:**
 **Description:**
 
 > He is influential, he is powerful. He is your next contact you can get you out of this situation. You must reach him soon. Who is he? The few pointers intrecpted by KGB are in the file. Once we know him, we can find his most valuable possession, his PRIDE.
-> 
-> 
+>
+>
 > [whatsHisPride.md5s](./whatsHisPride.md5s)
 
 
@@ -34,7 +34,7 @@ The name of his aircraft is the flag! Jett Clipper Ella
 ## Other write-ups and resources
 
 * <https://cryptsec.wordpress.com/2016/01/31/hackim-ctf-2016-write-up-crypto-question-4-200-points/>
-* <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/crypto_4#eng-version>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/crypto_4#eng-version)
 * <http://h4ckx0re-ctf-crew.co.nf/2016/01/31/hackim-ctf-2016-crypto-4/>
 * <http://err0r-451.ru/hackim-crypto-question-4-200pts/>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176564.html)

@@ -22,7 +22,7 @@ Oh and for your records my name is IceCTF{always_listen_to_your_substitute_flags
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/IceCTF-30-Substituted-Cryptography/
+* [RawSec](https://rawsec.ml/en/IceCTF-30-Substituted-Cryptography/)
 * https://youtu.be/xQJ4Ndke9HM
 * http://5k33tz.com/icectf-substituted/
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Crypto/Substituted

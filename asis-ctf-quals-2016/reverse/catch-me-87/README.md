@@ -14,5 +14,5 @@
 ## Other write-ups and resources
 
 * http://vladz.devzero.fr/016_ASIS-CTF-catchme.html
-* https://github.com/raccoons-team/ctf/tree/master/2016-05-07-asis-ctf-quals/catch_me
-* http://sibears.ru/labs/ASIS-CTF-quals-2016-catch-me/
+* [Raccoons Team](https://github.com/raccoons-team/ctf/tree/master/2016-05-07-asis-ctf-quals/catch_me)
+* [SiBears](http://sibears.ru/labs/ASIS-CTF-quals-2016-catch-me/)

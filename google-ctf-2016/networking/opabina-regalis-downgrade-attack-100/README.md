@@ -27,4 +27,4 @@ Additionally, you should format your Exchange_Headers such as:
 ## Other write-ups and resources
 
 * https://github.com/Blystad/googlectf_writeups/tree/master/networking/opabina_regalis_downgrade_attack
-* https://blog.nfrost.me/2016/05/01/google-ctf-2016-downgrade-attack.html
+* [Nick Frost](https://blog.nfrost.me/2016/05/01/google-ctf-2016-downgrade-attack.html)

@@ -22,6 +22,6 @@
 
 ## Other write-ups and resources
 
-* https://amritabi0s.wordpress.com/2016/09/06/mma-ctf2nd-diary-write-up/
+* [Amrita University bi0s](https://amritabi0s.wordpress.com/2016/09/06/mma-ctf2nd-diary-write-up/)
 * https://david942j.blogspot.tw/2016/09/write-up-tokyo-westernsmma-ctf-2nd-2016.html (Chinese)
 * http://uaf.io/exploitation/2016/09/06/TokyoWesterns-MMA-Diary.html

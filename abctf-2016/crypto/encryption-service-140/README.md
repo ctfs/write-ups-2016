@@ -14,7 +14,7 @@ You can connect with nc 107.170.122.6 7765 and the source can be found here.
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
 * https://ctftime.org/writeup/3622
-* https://www.doyler.net/security-not-included/ecb-chosen-plaintext-attack
-* https://p-te.fr/2016/07/23/abctf-encryption-service/
+* [Ray Doyle](https://www.doyler.net/security-not-included/ecb-chosen-plaintext-attack)
+* [P_TE](https://p-te.fr/2016/07/23/abctf-encryption-service/)

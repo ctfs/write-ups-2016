@@ -6,11 +6,11 @@
 **Description:**
 
 > Mandogs are about to take over Backdoor. Help us defeat them. Here: <http://hack.bckdr.in/FORGE>
-> 
+>
 > Created by: Ashish Chaudhary
-> 
+>
 > No. of Correct Submissions: 6
-> 
+>
 
 
 ## Write-up
@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-06-04-backdoor-ctf/crypto_forge
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-06-04-backdoor-ctf/crypto_forge)

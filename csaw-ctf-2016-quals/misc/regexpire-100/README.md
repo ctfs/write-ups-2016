@@ -14,7 +14,7 @@ I thought I found a perfect match but she ended up being my regEx girlfriend.
 ## Other write-ups and resources
 
 * https://eugenekolo.com/blog/csaw-qual-ctf-2016/#regexpire
-* https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/regexpire
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/regexpire)
 * http://www.megabeets.net/csaw-2016-regexpire/
-* http://rawsec.ml/en/CSAW-2016-100-Regexpire-misc/
+* [RawSec](https://rawsec.ml/en/CSAW-2016-100-Regexpire-misc/
 * http://ropgadget.com/main.html#csaw16_misc_regexpire

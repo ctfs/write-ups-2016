@@ -35,6 +35,6 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-09-05-tokyo-mma/rotten_uploader
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-05-tokyo-mma/rotten_uploader)
 * https://github.com/73696e65/ctf-notes/blob/master/2016-westerns.tokyo/web-150-rotten_uploader.txt
 * http://zubcic.re/blog/tokyo-westerns-mma-ctf-rotten-uploader

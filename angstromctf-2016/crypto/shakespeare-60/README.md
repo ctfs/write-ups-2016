@@ -1,8 +1,8 @@
 # angstromCTF 2016 : shakespeare-60
 
 **Category:** Crypto
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
 > We have uncovered a Shakespearean-era transmission that seems perfectly ordinary. Can you help us find the hidden message in this Hamlet soliloquy?
@@ -54,4 +54,4 @@ Flag: *astreetcarnameddesire*
 
 ## Other write-ups and resources
 
-* https://github.com/jashanbhoora/write-ups-2016/tree/master/angstromctf-2016/crypto/shakespeare-60
+* [Jashan Bhorra](https://github.com/jashanbhoora/write-ups-2016/tree/master/angstromctf-2016/crypto/shakespeare-60)

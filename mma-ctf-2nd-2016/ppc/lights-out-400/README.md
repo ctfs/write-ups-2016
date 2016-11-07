@@ -23,5 +23,5 @@
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/09/05/twctf-2016-lights-out/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/09/05/twctf-2016-lights-out/)
 * https://soupofentropy.wordpress.com/2016/09/05/how-to-solve-any-lights-out-games-or-my-writeup-for-lights-out-tokyo-westernsmma-ctf-2nd-2016/

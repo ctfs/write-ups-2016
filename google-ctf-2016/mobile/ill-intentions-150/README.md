@@ -17,7 +17,7 @@ Do you have have ill intentions?
 * <https://blog.lse.epita.fr/articles/78-google-capture-the-flag-2016-mobile-category.html>
 * https://github.com/yohanes/write-ups/tree/master/google-ctf/mobile-ill-intentions
 * https://github.com/dpox/ctfs/blob/master/googlectf2016/IllIntentions.md
-* https://ctf.rip/googlectf-2016-ill-intentions-mobile-challenge/
+* [CTF.RIP](https://ctf.rip/googlectf-2016-ill-intentions-mobile-challenge/)
 * http://blog.squareroots.de/en/2016/05/google-ctf-2016-ill-intentions-mobile/
 * https://github.com/d3rezz/Google-Capture-The-Flag-2016
 * http://pecey.github.io/blog/2016/05/04/google-ctf-ill-intentions.html

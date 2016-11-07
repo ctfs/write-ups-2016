@@ -16,5 +16,5 @@ Submit the flag in the format: CTF-BR{seed}.
 ## Other write-ups and resources
 
 * https://www.eugenekolo.com/blog/pwn2win-2016-python-tokens-writeup/
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)
 * http://goo.gl/piOS22

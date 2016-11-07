@@ -34,4 +34,4 @@ After logging in we see the flag: `abctf{th3_l4st_0n3_1s_th3_b3st_0n3}`
 
 ## Other write-ups and resources
 
-* https://0x90r00t.com/2016/07/24/abctf-2016-se-and-xss-the-art-of-phishing-and-trolling/
+* [0x90r00t](https://0x90r00t.com/2016/07/24/abctf-2016-se-and-xss-the-art-of-phishing-and-trolling/)

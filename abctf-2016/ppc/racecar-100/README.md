@@ -15,5 +15,5 @@ Aren't Palindromes cool? I certainly think so, which is why I want you to find t
 
 ## Other write-ups and resources
 
-* https://github.com/qux-bbb/ABCTF-2016_writeup/blob/master/RacecaR--Programming/RacecaR.md
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Qux BBB (Japanese)](https://github.com/qux-bbb/ABCTF-2016_writeup/blob/master/RacecaR--Programming/RacecaR.md)
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

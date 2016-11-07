@@ -19,6 +19,6 @@ Refreshing the page with the new cookie set, your are presented with the flag: `
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-50-Chocolate-Web-Exploitation/
+* [RawSec](https://rawsec.ml/en/ABCTF-50-Chocolate-Web-Exploitation/
 * https://ctftime.org/writeup/3576
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

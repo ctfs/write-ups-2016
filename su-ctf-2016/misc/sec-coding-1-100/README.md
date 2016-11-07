@@ -14,6 +14,6 @@
 
 ## Other write-ups and resources
 
-* <https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-misc-100-sec-coding-1-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-misc-100-sec-coding-1-write-up/)
 * <http://losfuzzys.github.io/writeup/2016/02/07/sharifctf2016-sec-coding1/>
-* <https://github.com/p4-team/ctf/tree/master/2016-02-05-sharif/misc_100_seccoding1>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-05-sharif/misc_100_seccoding1)

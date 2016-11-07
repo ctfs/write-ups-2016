@@ -2,7 +2,7 @@
 
 **Category:** Forensic
 **Points:** 90
-**Solves:** 
+**Solves:**
 **Description:**
 
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/MrMugiwara/WriteupsCTF/blob/master/CTFsecuriNets2016/MemDump.md
+* [Soufiane Boussali](https://github.com/MrMugiwara/WriteupsCTF/blob/master/CTFsecuriNets2016/MemDump.md)

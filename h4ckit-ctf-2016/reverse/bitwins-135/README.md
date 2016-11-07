@@ -15,4 +15,4 @@ Laos
 
 ## Other write-ups and resources
 
-* https://0x90r00t.com/2016/09/29/h4ck1t-2016-reverse-135-bitwins-write-up/
+* [0x90r00t](https://0x90r00t.com/2016/09/29/h4ck1t-2016-reverse-135-bitwins-write-up/)

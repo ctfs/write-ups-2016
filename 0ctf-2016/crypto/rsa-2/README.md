@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* <https://github.com/p4-team/ctf/tree/master/2016-03-12-0ctf/rsa> 
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-12-0ctf/rsa)

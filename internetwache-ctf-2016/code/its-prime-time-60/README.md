@@ -6,8 +6,8 @@
 **Description:**
 
 > Description: We all know that prime numbers are quite important in cryptography. Can you help me to find some?
-> 
-> 
+>
+>
 > Service: 188.166.133.53:11059
 
 
@@ -34,9 +34,9 @@ while True:
 
 ## Other write-ups and resources
 
-* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-code-60-its-prime-time-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-code-60-its-prime-time-write-up/)
 * <https://forum.xeksec.com/f138/t88655/>
-* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_60>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_60)
 * <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-its-prime-time-code60>
 * <http://rektsec.github.io/writeups/ctf/internetwatche-2016-ctf-its-primer-time-code-60/>
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/coding/code60>

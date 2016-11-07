@@ -15,5 +15,5 @@
 
 ## Other write-ups and resources
 
-* https://p-te.fr/2016/10/02/tumctf-prokrastination-2/
+* [P_TE](https://p-te.fr/2016/10/02/tumctf-prokrastination-2/)
 * https://github.com/Iansus/writeups/blob/master/TUMCTF2016-prokrastination.md

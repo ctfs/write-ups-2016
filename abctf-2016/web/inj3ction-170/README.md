@@ -15,5 +15,5 @@ You can do it. [Link](http://yrmyzscnvh.abctf.xyz/injection3/)
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
 * https://www.youtube.com/watch?v=AIq7ZXphNDM

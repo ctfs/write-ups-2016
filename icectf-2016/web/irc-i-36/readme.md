@@ -12,7 +12,7 @@ Connect to the IRC channel using any client (rawsec suggests Mibbit if you don't
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/IceCTF-35-IRC-1-Misc/
+* [RawSec](https://rawsec.ml/en/IceCTF-35-IRC-1-Misc/)
 * [Japanese](https://ctftime.org/writeup/3815)
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Irc1-Misc-35
 * https://youtu.be/MMZec1hxBcQ

@@ -14,4 +14,4 @@ This is a stereotyped CGC binary. Go and give me a PoV.  Service at cgc.cykor.kr
 
 ## Other write-ups and resources
 
-* https://ctf.rip/secuinside2016-cykor00002/
+* [CTF.RIP](https://ctf.rip/secuinside2016-cykor00002/)

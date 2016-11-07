@@ -12,4 +12,4 @@ We found this very mysterious image, it doesn't look complete and there seems to
 
 ## Other write-ups and resources
 
-* https://0x90r00t.com/2016/08/26/icectf-2016-crypto-140-sand-castle-write-up/
+* [0x90r00t](https://0x90r00t.com/2016/08/26/icectf-2016-crypto-140-sand-castle-write-up/)

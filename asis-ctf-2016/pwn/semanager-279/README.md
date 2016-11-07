@@ -15,4 +15,4 @@ nc semanager.asis-ctf.ir 9797
 
 ## Other write-ups and resources
 
-* https://github.com/kitctf/writeups/tree/master/asis-finals-2016/semanager
+* [KITCTF](https://github.com/kitctf/writeups/tree/master/asis-finals-2016/semanager)

@@ -12,7 +12,7 @@ This service is really strange... It seems to accept only C programs. Can you ge
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/08/27/icectf-2016-stage3/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/08/27/icectf-2016-stage3/)
 * https://ctftime.org/writeup/3728
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#quine-iii-90p--125p
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage3/Quine

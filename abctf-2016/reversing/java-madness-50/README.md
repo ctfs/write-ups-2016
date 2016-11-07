@@ -13,4 +13,4 @@ Hey if you can get this to pass some tests you could probably have the flag.
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-50-Java-Madness-Reverse-Engineering/
+* [RawSec](https://rawsec.ml/en/ABCTF-50-Java-Madness-Reverse-Engineering/)

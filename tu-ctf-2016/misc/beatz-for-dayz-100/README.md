@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 Flagg hidden in a FLAC file
 
@@ -14,4 +14,4 @@ Flagg hidden in a FLAC file
 ## Other write-ups and resources
 
 * https://github.com/team-bitskrieg/CTF-writeups/tree/master/tuctf/Beatz%20for%20dayz
-* http://sibears.ru/labs/TUCTF-2016-Beatz-for-dayz/
+* [SiBears](http://sibears.ru/labs/TUCTF-2016-Beatz-for-dayz/)

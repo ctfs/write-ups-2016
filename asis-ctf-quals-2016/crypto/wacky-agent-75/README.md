@@ -15,4 +15,4 @@ Rookie Agent strikes again! He tried to encrypt a [message](https://github.com/c
 
 ## Other write-ups and resources
 
-* http://sibears.ru/labs/ASIS-CTF-Quals-2016-Wacky-Agent/
+* [SiBears](http://sibears.ru/labs/ASIS-CTF-Quals-2016-Wacky-Agent/)

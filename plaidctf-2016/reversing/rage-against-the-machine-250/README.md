@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* <http://p1kachu.pluggi.fr/writeup/re/2016/04/18/plaid-ratm-writeup/>
+* [Stanislas Lejay](http://p1kachu.pluggi.fr/writeup/re/2016/04/18/plaid-ratm-writeup/)

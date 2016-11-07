@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* http://lockboxx.blogspot.com/2016/10/tum-ctf-2016-writeup-hackorplay.html
+* [Action Dan](http://lockboxx.blogspot.com/2016/10/tum-ctf-2016-writeup-hackorplay.html)

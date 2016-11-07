@@ -14,10 +14,10 @@
 
 ## Other write-ups and resources
 
-* <https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/recon_3#eng-version>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-01-29-nullcon/recon_3#eng-version)
 * <https://www.xil.se/post/hackim-2016-programming-3-arturo182/>
 * <http://ctf.s4thi5h.com/nullcon-hackim-2016-ctf-programming/>
 * <https://www.youtube.com/watch?v=P1owhAm_yRQ&feature=youtu.be>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176428.html)
-* <https://0x90r00t.com/2016/02/03/hackim-2016prog-134-200300400-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/03/hackim-2016prog-134-200300400-write-up/)
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/HackIM/programming.md>

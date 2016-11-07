@@ -13,7 +13,7 @@ nc shadow.asis-ctf.ir 31337
 
 This was a rather unusual exploitation challenge, nevertheless was quite
 refreshing and still a lot of fun to solve.
-However marking it as a "warm-up" challenge seems a little bit optimistic in my opinion! 
+However marking it as a "warm-up" challenge seems a little bit optimistic in my opinion!
 
 As always here are my tools used in this challenge:
 * [radare2](https://github.com/radare/radare2)
@@ -40,21 +40,21 @@ So we fire up radare:
 	...
 	[0x08048660]> ! checksec --file shadow
 	RELRO           STACK CANARY      NX            PIE             RPATH      RUNPATH      FILE
-	No RELRO        Canary found      NX disabled   No PIE          No RPATH   No RUNPATH   shadow	
-	
+	No RELRO        Canary found      NX disabled   No PIE          No RPATH   No RUNPATH   shadow
+
 
 Alright no PIE and no NX, seems like our lucky day!
 With a little bit of further reversing we find out that the binary is all about
 beers. In the menu we can chose between creating a new beer via '1' or
 viewing/modifying an existing beer via '2'. A beer itself is represented with a
 struct looking smth. like this:
-
+```C
 	struct beerstruct {
 		int description_size;
-		void (*repr)(void);
-		char *description;
+		void (\*repr)(void);
+		char \*description;
 	}
-
+```
 Those beestructs are allocated on the heap with a variable description size.
 Note that the second member of the struct is function pointer, which gets
 randomly assigned one of four predefined funtions:
@@ -63,12 +63,12 @@ randomly assigned one of four predefined funtions:
 	0x080487d9    1 30           sym.paulaner
 	0x080487f7    1 30           sym.haineken
 	0x08048815    1 30           sym.heinz
- 
+
 I encourage you to play around with the binary a little bit further and reverse
 it of your own, as I will now concentrate on the exploiting part of the game.
 
 The first thing you'll notice are the weird looking function calls:
-	
+
 	push sym.beer_counter ; sym.beer_counter
 	call fcn.08048e28 ;[c]
 
@@ -88,36 +88,36 @@ residing at 0x0804a4c0.
 
 Second of all you might notice an out-of-bounds memory read in the sym.beerdesc
 function, where the choice of the desired beer is read into memory as:
-	
+
     lea eax, dword [ebp - local_70h] ;[b]
     push eax
-    push str._255s ; str._255s
-    push sym.imp.__isoc99_scanf ; sym.imp.__isoc99_scanf
+    push str.\_255s ; str.\_255s
+    push sym.imp.\__isoc99_scanf ; sym.imp.\__isoc99_scanf
 
 Which basically reads 0xff (255) bytes from stdin to the stack 0x70 above ebp.
 You should see the buffer overflow here immediately, remember the executable
 stack and get excited for a short moment! ... And then realize you forgot the
 canaries... Damn it!
 
-The next thing that leaps out is the huge description size you're allowed to 
+The next thing that leaps out is the huge description size you're allowed to
 allocate in the sym.add_one function:
 
     mov eax, dword [ebp - local_34h]
-    cmp eax, 0x100000 
-    jbe 0x8048919 ;[h] 
+    cmp eax, 0x100000
+    jbe 0x8048919 ;[h]
 
 This is one of the crucial parts of this exploit and you should test this by
 yourself! The first thing you might be wondering is that this description size
 looks suspiciously big and you might be thinking what happens when you choose
 such a description size... So let's just try it:
-	
+
 	$ gdb -q ./shadow
-	gdb-peda$ break *0x080488f8
+	gdb-peda$ break \*0x080488f8
 	Breakpoint 1 at 0x80488f8
-	gdb-peda$ b *0x0804892d
+	gdb-peda$ b \*0x0804892d
 	Breakpoint 2 at 0x804892d
 	gdb-peda$ run
-	Starting program: /home/moritz/CTF/2016/asis-ctf/files/shadow/shadow 
+	Starting program: /home/moritz/CTF/2016/asis-ctf/files/shadow/shadow
 	Hey, what's your name?
 	mightymo
 	Welcome!
@@ -174,10 +174,10 @@ we wanted to allocate was bigger than the top chunk of the heap could provide.
 Thereby a memory region adjacent to the shadow stack is mmaped and returned to
 the malloc call.
 So we got our heap region just above the shadow-stack, but don't have any
-overflow in the beestruct... So the question remains, does this help us in any way? 
+overflow in the beestruct... So the question remains, does this help us in any way?
 It turns out it does, but we have to take a closer look to
 description size check in the add_one function. Precisely to the false branch:
-	
+
 	0x80488ff
 	0x080488ff sub esp, 0xc
 	0x08048902 push sym.add_one ; sym.add_one
@@ -202,9 +202,9 @@ shadow-stack... \o/ ... Well I know this sounds quite esoteric, but it's not
 that complicated in practice. Also if you remember correctly the beerstruct
 contained a function pointer and this one is called in the sym.beerdesc
 function:
-	
+
     mov eax, dword [ebp - local_78h]      
-    mov eax, dword [eax*4 + obj.beerlist] 
+    mov eax, dword [eax*4 + obj.beerlist]
     mov eax, dword [eax + 4]              
     sub esp, 0xc                          
     push eax                              
@@ -254,10 +254,10 @@ ebp/rip. If we have a look at the code above starting with instruction at
 
 2. 0x080489ff leave
 
-		ebp -> (points to next frame) 
+		ebp -> (points to next frame)
 
 		+0x4	|    rip	| <- esp
-			|    ebp	| 
+			|    ebp	|
 		-0x4	|		|
 		-0x8	|		|
 		-0xc	|    canary	|
@@ -314,17 +314,17 @@ And here is our final exploit in action:
 	$ p2 beer_pwn.py
 	[+] Starting local process './shadow': Done
 	[3522]
-	[*] Paused (press any to continue)
-	[*] Inserting shellcode into nickname
-	[*] Creating heap chunk
-	[*] Overflowing shadow-stack into heap
-	[*] Overflowing rip and triggering function-pointer call
-	[*] Switching to interactive mode
+	[\*] Paused (press any to continue)
+	[\*] Inserting shellcode into nickname
+	[\*] Creating heap chunk
+	[\*] Overflowing shadow-stack into heap
+	[\*] Overflowing rip and triggering function-pointer call
+	[\*] Switching to interactive mode
 	$ whoami
-	mightymo	
+	mightymo
 
 
 ## Other write-ups and resources
 
-* https://amritabi0s.wordpress.com/2016/09/12/asis-finals-2016-shadow-write-up/
-* https://github.com/kitctf/writeups/blob/master/asis-finals-2016/shadow/solve.py
+* [Amrita University bi0s](https://amritabi0s.wordpress.com/2016/09/12/asis-finals-2016-shadow-write-up/)
+* [KITCTF](https://github.com/kitctf/writeups/blob/master/asis-finals-2016/shadow/solve.py)

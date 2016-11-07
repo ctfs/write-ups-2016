@@ -6,11 +6,11 @@
 **Description:**
 
 > Description: Students have developed a new admin login technique. I doubt that it's secure, but the hash isn't crackable. I don't know where the problem is...
-> 
-> 
+>
+>
 > Attachment: [web50.zip](./web50.zip)
-> 
-> 
+>
+>
 > Service: <https://mess-of-hash.ctf.internetwache.org/>
 
 Sources: <https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/web50/code>
@@ -80,5 +80,5 @@ Logging in with username `pr0_adm1n` and the found password results in a success
 * <https://www.xil.se/post/internetwache-2016-web-50-simonvik/>
 * <https://eugenekolo.com/blog/internetwache-2016-ctf-writeups/>
 * <https://blog.amishsecurity.com/internetwache-ctf-2016-web50-mess-of-hash/>
-* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/web_50>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/web_50)
 * <http://pastebin.com/K4xGYGMK>

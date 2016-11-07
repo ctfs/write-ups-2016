@@ -24,7 +24,7 @@ See [tutorial.py](tutorial.py)
 * https://github.com/InfoSecIITR/write-ups/tree/master/2016/csaw-quals-2016/pwn/tutorial
 * https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/pwn-200-tutorial.md
 * http://anee.me/tutorial-csaw-ctf-2016-writeup/
-* https://tsunpoko.github.io/CSAW2016/
+* [Tsun Poko (Japanese)](https://tsunpoko.github.io/CSAW2016/)
 * https://github.com/ernw/ctf-writeups/tree/master/csaw2016/tutorial
 * https://www.incertia.net/blog/csaw-quals-2016-tutorial-200/
 * http://poning.me/2016/09/29/tutorial/

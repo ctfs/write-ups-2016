@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 85
-**Solves:** 11 
+**Solves:** 11
 **Description:**
 
 Bah, I feel like my programming skills really aren't up to snuff. I can never seem to get my decryption programs to work right... Can you figure this out for me?
@@ -22,4 +22,4 @@ Unlike pour-over, this coffee can be unbrewed.
 ## Other write-ups and resources
 
 * https://sardinachanx.gitbooks.io/sctf-2016q1-write-ups/content/unbrewed_85_pts.html
-* http://ipushino.blogspot.com/2016/04/sctf-2016-q-unbrewed-85-pts.html
+* [iPush](http://ipushino.blogspot.com/2016/04/sctf-2016-q-unbrewed-85-pts.html)

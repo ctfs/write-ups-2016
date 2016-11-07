@@ -15,4 +15,4 @@ nc dam.asis-ctf.ir 34979
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/dam
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/dam)

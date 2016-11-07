@@ -18,4 +18,4 @@ Hey, This is our single-author [library](https://github.com/ctfs/write-ups-2016/
 
 ## Other write-ups and resources
 
-* https://amritabi0s.wordpress.com/2016/06/11/asis-ctf-quals-2016-b00ks-writeup/
+* [Amrita University bi0s](https://amritabi0s.wordpress.com/2016/06/11/asis-ctf-quals-2016-b00ks-writeup/)

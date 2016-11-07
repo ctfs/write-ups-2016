@@ -6,11 +6,11 @@
 **Description:**
 
 > Description: Math is used in cryptography, but someone got this wrong. Can you still solve the equations? Hint: You need to encode your answers.
-> 
-> 
+>
+>
 > Attachment: [code70.zip](./code70.zip)
-> 
-> 
+>
+>
 > Service: 188.166.133.53:11071
 
 
@@ -77,8 +77,8 @@ while True:
 
 ## Other write-ups and resources
 
-* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_70>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/ppc_70)
 * <https://github.com/Kileak/CTF/tree/master/2016/internetwache/code/numbersgame>
 * <https://github.com/Execut3/CTF/tree/master/Participated-CTF/2016/InternetWache/coding/code70>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Code/Code70.md>
-* <https://www.whitehatters.academy/internetwache-ctf-code50/>
+* [Whitehatters Academy](https://www.whitehatters.academy/internetwache-ctf-code50/)

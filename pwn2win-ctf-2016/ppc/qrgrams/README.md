@@ -14,4 +14,4 @@
 ## Other write-ups and resources
 
 * https://www.xil.se/post/pwn2win-2016-qrgrams-kbeckmann/
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)

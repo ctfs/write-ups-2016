@@ -2,11 +2,11 @@
 
 **Category:** Reversing
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
 > ctf=Capture The traFfic?
-> 
+>
 > HINT: port 5555
 
 
@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* http://quanyang.github.io/alictf-2016-coloroverflow/
+* [Quan Yang](https://quanyang.github.io/alictf-2016-coloroverflow/)

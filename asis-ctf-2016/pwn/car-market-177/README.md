@@ -16,4 +16,4 @@ nc car-market.asis-ctf.ir 31337
 ## Other write-ups and resources
 
 * https://github.com/eaglePwn/CTFwriteup/blob/master/asis2016_final/Car_Market/solve.py
-* https://kimiyuki.net/blog/2016/09/12/asis-ctf-finals-2016-car-market/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/09/12/asis-ctf-finals-2016-car-market/)

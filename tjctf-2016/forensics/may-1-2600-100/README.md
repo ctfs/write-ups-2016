@@ -11,5 +11,5 @@ After downloading and unzipping the file provided, it appears as a .DBX file. Go
 
 * [MilWestA - CTFtime.org](https://ctftime.org/writeup/3451)
 * [SiBears - SiBears.ru](http://sibears.ru/labs/TJCTF-2016-May-1-2600/)
-* (Russian) http://countersite.org/articles/sysadmin/99-outbox-forensics-tjctf-2016.html)
+* [Invulnerable (Russian)](http://countersite.org/articles/sysadmin/99-outbox-forensics-tjctf-2016.html)
  * [My Computer is a Potato - gitbooks.io](https://bobacadodl.gitbooks.io/tjctf-2016-writeups/content/may_1st,_2060_100_pts.html)

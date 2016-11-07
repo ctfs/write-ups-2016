@@ -13,7 +13,7 @@ to get some good guesses at the has algorithm. Start with the most popular hashi
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/IceCTF-70-Kitty-Web/
+* [RawSec](https://rawsec.ml/en/IceCTF-70-Kitty-Web/)
 * https://github.com/WCSC/writeups/tree/master/icectf-2016/kitty
 * https://github.com/grocid/CTF/tree/master/IceCTF/2016#kitty-80-p
 * https://github.com/TeamContagion/CTF-Write-Ups/blob/master/icectf-2016/Web/Kitty

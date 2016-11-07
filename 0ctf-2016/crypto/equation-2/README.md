@@ -116,7 +116,7 @@ q =12502893634923161599824465146407069882228513776947707295476805997311776855879
 e = 65537
 ```
 
-I then Googled `Decrypt RSA with p q e` which directed me to [this stack exchange page](http://crypto.stackexchange.com/questions/19444/rsa-given-q-p-and-e), listing the EGCD algorithm as the best option. Below is a Python implementation of the EGCD decryption algorithm (courtesy of [Pharisaeus](https://github.com/Pharisaeus)). The output?
+I then Googled `Decrypt RSA with p q e` which directed me to [this Stack Exchange page](http://crypto.stackexchange.com/questions/19444/rsa-given-q-p-and-e), listing the EGCD algorithm as the best option. Below is a Python implementation of the EGCD decryption algorithm (courtesy of [Pharisaeus](https://github.com/Pharisaeus)). The output?
 
 `0ctf{Keep_ca1m_and_s01ve_the_RSA_Eeeequati0n!!!}`
 
@@ -152,5 +152,5 @@ with open("flag.enc", "rb") as input_file:
 
 ## Other write-ups and resources
 
-* <https://0day.work/0ctf-2016-quals-writeups/>
-* <https://github.com/p4-team/ctf/tree/master/2016-03-12-0ctf/equation>
+* [0day](https://0day.work/0ctf-2016-quals-writeups/)
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-12-0ctf/equation)

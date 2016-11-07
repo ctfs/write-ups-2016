@@ -15,5 +15,5 @@ Or give another text color;-)
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-15-Virtual-Box-2-Virtual-Series/
-* (Japanese) http://yuelab82.hatenablog.com/entry/2016/07/24/042028
+* [RawSec](https://rawsec.ml/en/ABCTF-15-Virtual-Box-2-Virtual-Series/)
+* [Takatori Ru (Japanese)](http://yuelab82.hatenablog.com/entry/2016/07/24/042028)

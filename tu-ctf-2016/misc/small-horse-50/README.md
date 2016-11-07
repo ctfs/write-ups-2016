@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 50
-**Solves:** 
+**Solves:**
 **Description:**
 
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* http://sibears.ru/labs/tuctf-2016-small-horse/
+* [SiBears](http://sibears.ru/labs/tuctf-2016-small-horse/)

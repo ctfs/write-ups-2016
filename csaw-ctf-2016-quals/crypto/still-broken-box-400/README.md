@@ -19,6 +19,6 @@ flag{n3v3r_l34k_4ny_51n6l3_b17_0f_pr1v473_k3y}
 
 * http://mslc.ctf.su/wp/csaw-quals-2016-broken-box-crypto-300-400/
 * https://github.com/grocid/CTF/tree/master/CSAW/2016
-* https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/still_broken_box
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/still_broken_box)
 * https://github.com/grocid/CTF/tree/master/CSAW/2016#still-broken-box-400-p
 * https://galhacktictrendsetters.wordpress.com/2016/09/22/csaw-quals-2016-still-broken-box/

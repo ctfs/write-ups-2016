@@ -20,7 +20,7 @@ I personally used Maltego from Kali Linux on the domain and ran all the transfor
 ## Other write-ups and resources
 
 * https://youtu.be/Gr3Fcg8Pe3E
-* https://0day.work/ekoparty-ctf-2016-writeups/
+* [0day](https://0day.work/ekoparty-ctf-2016-writeups/)
 * https://github.com/Idomin/CTF-Writeups/tree/master/EKOCTF-2016
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
 * http://specterdev.blogspot.ca/2016/10/write-up-ekoparty-2016-ctf-web-25-50.html

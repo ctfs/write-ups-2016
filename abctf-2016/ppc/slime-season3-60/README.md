@@ -14,4 +14,4 @@ I only pay in coins because I'm hipster, but I forgot to bring my nickels today!
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

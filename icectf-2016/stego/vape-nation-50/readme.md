@@ -16,7 +16,7 @@ Because no clear text appears normally, choose the `Reversed colors view` where 
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/IceCTF-50-Vape-Nation-Stego/
+* [RawSec](https://rawsec.ml/en/IceCTF-50-Vape-Nation-Stego/)
 * https://bryceandress.github.io/2016/08/27/Vape-Nation.html
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/VapeNation-Stego-50
 * https://github.com/JosiahPierce/writeups/blob/master/IceCTF2016:Vape_Nation.md

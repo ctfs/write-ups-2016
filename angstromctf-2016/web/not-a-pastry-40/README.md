@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* http://ipushino.blogspot.com/2016/04/angstromctf-2016-not-pastry-web-40.html
+* [iPush](http://ipushino.blogspot.com/2016/04/angstromctf-2016-not-pastry-web-40.html)

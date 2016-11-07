@@ -15,5 +15,5 @@ audio_visual_receiver_code
 ## Other write-ups and resources
 
 * P1kachu (Team LSE) <http://p1kachu.pluggi.fr/writeup/re/2016/05/01/googlectf-audio-visual-writeup/>
-* https://0x90r00t.com/2016/05/02/google-capture-the-flag-2016-reverse-150-audio-visual-receiver-code-write-up/
+* [0x90r00t](https://0x90r00t.com/2016/05/02/google-capture-the-flag-2016-reverse-150-audio-visual-receiver-code-write-up/)
 * https://github.com/ret2libc/ctfs/tree/master/googlectf2016/audio_visual_receiver

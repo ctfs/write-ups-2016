@@ -15,4 +15,4 @@ Whose idea was to multiply [these](https://github.com/ctfs/write-ups-2016/tree/m
 
 ## Other write-ups and resources
 
-* http://sibears.ru/labs/ASIS-CTF-Quals-2016-qrop/
+* [SiBears](http://sibears.ru/labs/ASIS-CTF-Quals-2016-qrop/)

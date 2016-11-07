@@ -13,4 +13,4 @@ nc 118.70.80.143 23449
 
 ## Other write-ups and resources
 
-* https://amritabi0s.wordpress.com/2016/06/26/whitehat-contest-11-supermarket/
+* [Amrita University bi0s](https://amritabi0s.wordpress.com/2016/06/26/whitehat-contest-11-supermarket/)

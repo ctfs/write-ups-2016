@@ -24,6 +24,6 @@
 * https://github.com/ispoleet/ctf-writeups/tree/master/mma_ctf_2016/reverse_box
 * https://blahcat.github.io/2016/09/06/twctf-2016-reverse-box-writeup/
 * http://www.megabeets.net/twctf-2016-reverse-reverse-box/
-* https://quanyang.github.io/tokyo-westerns-ctf-2nd-2016-reverse-box/
+* [Quan Yang](https://quanyang.github.io/tokyo-westerns-ctf-2nd-2016-reverse-box/)
 * http://hamidx9.ir/solutions/2016/tw_mma_ctf/reverse_box/sol.py
 * https://github.com/ByteBandits/writeups/tree/master/mma-ctf-2016/re/reverse-box/sudhackar

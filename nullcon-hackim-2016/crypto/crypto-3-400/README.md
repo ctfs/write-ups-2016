@@ -2,12 +2,12 @@
 
 **Category:** Crypto
 **Points:** 400
-**Solves:** 
+**Solves:**
 **Description:**
 
 > After entring the luxurious condomium,you get the feel that you are in home of a yester Star. the extravagant flooring and furnishings shows the richness of this star. But where is she? There she is, lying peacefuly on her couch. See what Envy has done to her...with a perfectly well maintained attractive body she still looks sex diva, except for her face beyond recogniton. Her identity is crucial to know who killed her and why? In absence of any personal data around there is only a file. with a cryptic text in it. Preity sure she has used her own name to XOR encrypt the file. And challenge is to know her name.
-> 
-> 
+>
+>
 > [AncientSecretsOfTheKamaSutra.txt](./AncientSecretsOfTheKamaSutra.txt)
 
 
@@ -43,4 +43,4 @@ Ktzrjû_knN^yj/!IÑØxdjb6B h@,Ab.$yc,{cA}ÑÓ@&x[lj ckibrar9sg
 * <https://www.xil.se/post/hackim-2016-crypto-3-arturo182/>
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/HackIM/crypto-3.md#nullcon-hackim-crypto-question-3>
 * [Chinese](http://www.cnblogs.com/Christmas/p/5176542.html)
-* <https://0x90r00t.com/2016/02/03/hackim-2016crypto-400-crypto-question-3-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/03/hackim-2016crypto-400-crypto-question-3-write-up/)

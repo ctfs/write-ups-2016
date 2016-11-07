@@ -15,4 +15,4 @@ I have borrowed this [software license](https://github.com/ctfs/write-ups-2016/t
 
 ## Other write-ups and resources
 
-* http://sibears.ru/labs/ASIS-CTF-Quals-2016-Leaked_License/
+* [SiBears](http://sibears.ru/labs/ASIS-CTF-Quals-2016-Leaked_License/)

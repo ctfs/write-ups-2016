@@ -14,5 +14,5 @@ We pwned ciphers and [web services](https://masterpage.asis-ctf.ir/).. Yet we fo
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/blob/master/2016-09-09-asis-final/master_page/README.md
+* [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-09-09-asis-final/master_page/README.md)
 * http://corb3nik.github.io/asis%20finals%202016/masterpage/

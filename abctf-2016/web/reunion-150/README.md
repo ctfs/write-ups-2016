@@ -13,5 +13,5 @@ The union command could maybe be used to your advantage [here](http://yrmyzscnvh
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
 * https://www.youtube.com/watch?v=hrSJh_GupSM

@@ -26,4 +26,4 @@ SHA512 Solution Hash(es):
 
 ## Other write-ups and resources
 
-* https://0x90r00t.com/2016/04/17/sctf-2016-code-100-unblink-write-up/
+* [0x90r00t](https://0x90r00t.com/2016/04/17/sctf-2016-code-100-unblink-write-up/)

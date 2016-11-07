@@ -15,4 +15,4 @@ Listening on port 13001 on ssl-added-and-removed-here.ctfcompetition.com
 ## Other write-ups and resources
 
 * https://github.com/Blystad/googlectf_writeups/tree/master/networking/opabina_regalis_redirect
-* https://blog.nfrost.me/2016/05/01/google-ctf-2016-redirect.html
+* [Nick Frost](https://blog.nfrost.me/2016/05/01/google-ctf-2016-redirect.html)

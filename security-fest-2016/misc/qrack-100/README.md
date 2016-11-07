@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
 We recovered this from a crashed spaceship. All we know is that aliens love QR, but we humans hate it…
@@ -13,4 +13,4 @@ We recovered this from a crashed spaceship. All we know is that aliens love QR, 
 
 ## Other write-ups and resources
 
-* https://ctf.rip/securityfest-2016-ctf-qrack-misc-challenge/
+* [CTF.RIP](https://ctf.rip/securityfest-2016-ctf-qrack-misc-challenge/)

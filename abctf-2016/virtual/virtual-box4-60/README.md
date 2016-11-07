@@ -18,5 +18,5 @@ Giving us the flag: ABCTF{Y0U_F0UND_ME}
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-60-Virtual-Box-4-Virtual-Series/
-* (Japanese) http://yuelab82.hatenablog.com/entry/2016/07/24/042028
+* [RawSec](https://rawsec.ml/en/ABCTF-60-Virtual-Box-4-Virtual-Series/)
+* [Takatori Ru (Japanese)](http://yuelab82.hatenablog.com/entry/2016/07/24/042028)

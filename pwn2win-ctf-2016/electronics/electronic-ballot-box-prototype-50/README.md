@@ -13,5 +13,5 @@ A member of Project SKY has infiltrated into a Club recycling facility and got a
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-03-26-pwn2win/electronic_ballot_box_prototype
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-26-pwn2win/electronic_ballot_box_prototype)
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)

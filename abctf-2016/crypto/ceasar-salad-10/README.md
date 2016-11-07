@@ -6,12 +6,12 @@
 **Description:**
 
 
-Most definitely the best salad around. Can you decrypt this for us? 
+Most definitely the best salad around. Can you decrypt this for us?
 xyzqc{t3_qelrdeq_t3_k33a3a_lk3_lc_qe3p3}
 
 ## Write-up
 
-A simple Ceasar-Chiffre, just rotate the characters and check for anything that's making sense... 
+A simple Ceasar-Chiffre, just rotate the characters and check for anything that's making sense...
 
 The flag format was abctf{FLAG} which gives us a rotation of -3:
 
@@ -19,5 +19,5 @@ The flag format was abctf{FLAG} which gives us a rotation of -3:
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-10-Caesar-Salad-Cryptography/
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [RawSec](https://rawsec.ml/en/ABCTF-10-Caesar-Salad-Cryptography/)
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

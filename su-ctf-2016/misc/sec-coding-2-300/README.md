@@ -15,6 +15,6 @@
 ## Other write-ups and resources
 
 * <https://www.xil.se/post/sharifctf-2016-misc-secure2/>
-* <https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-misc-300-sec-coding-2-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-misc-300-sec-coding-2-write-up/)
 * <http://losfuzzys.github.io/writeup/2016/02/07/sharifctf2016-sec-coding2/>
-* <https://github.com/p4-team/ctf/tree/master/2016-02-05-sharif/misc_300_seccoding2>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-05-sharif/misc_300_seccoding2)

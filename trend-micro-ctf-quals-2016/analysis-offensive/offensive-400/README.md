@@ -2,7 +2,7 @@
 
 **Category:** Analysis-Offensive
 **Points:** 400
-**Solves:** 
+**Solves:**
 **Description:**
 
 ## Write-up
@@ -11,4 +11,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-07-30-trendmicro/offensive_400
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-07-30-trendmicro/offensive_400)

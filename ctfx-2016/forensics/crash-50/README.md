@@ -14,5 +14,5 @@
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/3921
-* http://rawsec.ml/en/CTFx-50-crash-forensics/
+* [RawSec](https://rawsec.ml/en/CTFx-50-crash-forensics/
 * https://github.com/bobacadodl/ctfx-problems/blob/master/forensics/crash-50/writeup.txt

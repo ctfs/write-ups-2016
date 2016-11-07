@@ -6,8 +6,8 @@
 **Description:**
 
 > Description: I once took a nap on my keyboard. I dreamed of a brand new language, but I could not decipher it nor get its meaning. Can you help me? Hint: Replace the spaces with either '{' or '}' in the solution. Hint: Interpreters don't help. Operations write to the current index.
-> 
-> 
+>
+>
 > Attachment: [rev80.zip](./rev80.zip)
 
 
@@ -34,9 +34,9 @@ Flag: **IW{ILOVETAPEBAGEL}**
 
 * <https://www.xil.se/post/internetwache-2016-rev80-kbeckmann/>
 * <https://www.xil.se/post/internetwache-2016-rev-80-arturo182/>
-* <https://github.com/jashanbhoora/write-ups-2016/tree/master/internetwache-ctf-2016/reversing/eso-tape-80>
-* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-reverse-80-eso-tape-write-up/>
-* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/re_80>
+* [Jashan Bhoora](https://github.com/jashanbhoora/write-ups-2016/tree/master/internetwache-ctf-2016/reversing/eso-tape-80)
+* [0x90r00t](https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-reverse-80-eso-tape-write-up/)
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/re_80)
 * <https://github.com/EspacioTeam/write-ups/tree/master/2016/internetwache/exp80>
 * <https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/reverse/rev80.md>
 * <http://poning.me/2016/02/29/eso-tape/>

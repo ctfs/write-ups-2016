@@ -13,6 +13,6 @@
 
 ## Other write-ups and resources
 
-* http://p1kachu.pluggi.fr/writeup/forensics/2016/05/09/asisctf-forensics-firtog-writeup/
-* http://b0tchsec.com/2016/asis/firtog
-* http://sibears.ru/labs/ASIS-CTF-Quals-2016-firtog/
+* [Stanislas Lejay](http://p1kachu.pluggi.fr/writeup/forensics/2016/05/09/asisctf-forensics-firtog-writeup/)
+* [b0tchsec](http://b0tchsec.com/2016/asis/firtog)
+* [SiBears](http://sibears.ru/labs/ASIS-CTF-Quals-2016-firtog/)

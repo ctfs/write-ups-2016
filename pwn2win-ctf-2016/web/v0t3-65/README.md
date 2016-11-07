@@ -14,4 +14,4 @@ A vote is being held on the Senate to decide whether the internet will be staple
 ## Other write-ups and resources
 
 * https://jh00nsec.wordpress.com/2016/03/28/pwn2win-ctf-2016-v0t3-65-points-web-hacking-rtfm-team/
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)

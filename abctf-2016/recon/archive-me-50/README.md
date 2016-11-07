@@ -18,5 +18,5 @@ And it contains the flag: ABCTF{Archives_are_useful!} in
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
-* http://rawsec.ml/en/ABCTF-50-Archive-Me-Reconaissance/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
+* [RawSec](https://rawsec.ml/en/ABCTF-50-Archive-Me-Reconaissance/)
