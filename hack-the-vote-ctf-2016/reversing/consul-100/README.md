@@ -14,5 +14,6 @@
 
 ## Other write-ups and resources
 
-* https://github.com/ymgve/ctf-writeups/tree/master/hackthevote2016/reversing100-consul
+* https://nacayoshi00.wordpress.com/2016/11/07/hack-the-vote-ctf-writeup/
 * https://github.com/sidervs/ctf/blob/master/2016-11-Hack-the-vote/consul/README.md
+* https://github.com/ymgve/ctf-writeups/tree/master/hackthevote2016/reversing100-consul

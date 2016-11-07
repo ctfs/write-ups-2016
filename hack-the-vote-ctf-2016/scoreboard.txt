@@ -1,0 +1,1028 @@
+Dragon Sector                  5651.000
+Tasteless                      5551.000
+0daysober                      5151.000
+Plaid Parliament of Pwning     4651.000
+dcua                           4651.000
+p4                             4201.000
+Lab RATs                       4101.000
+сыс                         3851.000
+ASIS                           3849.000
+pdgn                           3401.000
+ByteShredders                  3199.000
+HackingForSoju                 3001.000
+[Redacted]                     2951.000
+TSG                            2901.000
+SomeRandomName                 2851.000
+LosFuzzys                      2501.000
+Hanoiati                       2499.000
+STT                            2451.000
+TokyoWesterns                  2401.000
+Samurai                        2351.000
+DuRaRaRa!!                     2351.000
+ACM-ICPHP                      2251.000
+Snatch The Root                2151.000
+217                            2051.000
+Ayatollah Hack-your-polla      2051.000
+PiggyBird                      1999.000
+Balsn                          1951.000
+Epic Leet Team                 1951.000
+xSTF                           1901.000
+DeliciousHorse                 1901.000
+Bushwhackers                   1851.000
+Knightsec                      1851.000
+ChocolateMakers                1801.000
+scryptos                       1751.000
+#NugLyf                        1701.000
+WizardsOfDos                   1701.000
+Just Hit the Core              1651.000
+squareroots                    1651.000
+HackXore                       1601.000
+khack40                        1501.000
+Batman&#39;s Kitchen           1451.000
+OpenToAll                      1401.000
+H4x0rPsch0rr                   1401.000
+0x90r00t                       1399.000
+Bits For Everyone              1351.000
+CardiffComputingClub           1351.000
+7HxzZ                          1349.000
+Gallopsled                     1301.000
+farmingsimulator2015           1301.000
+du1iqvw                        1301.000
+WE_0WN_Y0U                     1301.000
+fifth                          1251.000
+bi0s                           1251.000
+True0xA3                       1251.000
+$1                             1201.000
+4theplot                       1201.000
+pony7                          1201.000
+saarsec                        1201.000
+FFCrew                         1151.000
+SpyDer                         1151.000
+FAUST                          1151.000
+galhacktic trendsetters        1151.000
+atx2600                        1101.000
+Capture the Swag               1101.000
+tmtz                           1101.000
+shakalCTF                      1101.000
+Antichat                       1051.000
+Securimag                      1051.000
+Cyber Pig Security             1051.000
+pixel                          1051.000
+InSecurity                     1001.000
+Delusions of Grandeur          1001.000
+omakase                        1001.000
+D2GSS                          999.000 
+evandrix                       999.000 
+ENOFLAG                        951.000 
+m1z0r3                         951.000 
+BabyPhD                        951.000 
+Maliciel Sans Frontières      951.000 
+ALLES!                         901.000 
+BS Labs                        901.000 
+CS16                           899.000 
+w0pr                           851.000 
+kotarou                        851.000 
+securitybit.nl                 851.000 
+efiens                         851.000 
+Shady Hats                     851.000 
+cnsuva                         801.000 
+Consecutive Normal Hacks       801.000 
+Shells Angels                  801.000 
+Bah Humbug                     801.000 
+P_TE                           801.000 
+GBCKnights                     801.000 
+Shellphish                     800.000 
+Jbooo                          751.000 
+Shine                          751.000 
+frompwnimport                  701.000 
+RiceSec                        701.000 
+PKTeam                         701.000 
+mofet                          701.000 
+THS                            701.000 
+Aaditya Purani                 701.000 
+0xCB3                          701.000 
+uiuctf                         699.000 
+NUSec                          651.000 
+Pernicious Pointers            651.000 
+9SOC                           651.000 
+blackbunny                     651.000 
+mango                          651.000 
+Bono_iPad                      651.000 
+Team ChinaBox                  650.000 
+dqi                            650.000 
+LeaveCat                       649.000 
+Note 7 Surprise                601.000 
+SHARK                          601.000 
+noraneco                       601.000 
+Alpackers                      601.000 
+ZeroDimension                  601.000 
+DLion                          601.000 
+f4lrik                         601.000 
+pwny                           601.000 
+jbz                            599.000 
+metastase                      551.000 
+MAVISANG                       551.000 
+n0l3ptr                        551.000 
+kokeshi                        551.000 
+minami                         551.000 
+At Least We&#39;re Pretty      551.000 
+shellcorp                      551.000 
+SecPA                          551.000 
+37h3r34l                       501.000 
+RomeoRomanticHacker            501.000 
+x71                            501.000 
+Leet Zeppelin                  501.000 
+noTeamName                     501.000 
+wombat2                        501.000 
+shijima                        501.000 
+C43S4RS                        501.000 
+b1n4ry4rms                     501.000 
+ByteBandits                    501.000 
+1up                            501.000 
+318br                          501.000 
+LiveOverflow                   499.000 
+LoST CTF                       451.000 
+TheGoonies                     451.000 
+dust                           451.000 
+jeannedhack                    451.000 
+ascii overflow                 451.000 
+b0tch_sec                      451.000 
+K4PDaddy                       451.000 
+nacayoshi00                    451.000 
+BreakPoint                     451.000 
+segfaults                      451.000 
+YoloSw4g                       451.000 
+Valar Morghulis                449.000 
+th3jackers                     449.000 
+WCSC                           401.000 
+Calliope                       401.000 
+Team Tsunami                   401.000 
+Hackthissite                   401.000 
+d4rkc0de                       401.000 
+kebab-cased                    401.000 
+St4ckPr0t0c0l                  401.000 
+HIT                            401.000 
+Hackeriet                      401.000 
+Pyladies                       401.000 
+nattypwns                      401.000 
+MFK                            401.000 
+trojans                        401.000 
+ParadoxicalTheory              401.000 
+ckm                            401.000 
+RATF{Rage Against The Flag}    401.000 
+M57                            401.000 
+Hackademics                    401.000 
+H3X0R                          399.000 
+Galfone                        351.000 
+Fluxion                        351.000 
+1aM1ns1d3                      351.000 
+defragmented brains            351.000 
+pipbuck                        351.000 
+CTF-infinit                    351.000 
+rot13                          351.000 
+init1                          351.000 
+Challbusters                   351.000 
+kernel_snuffy                  351.000 
+Ytterbium Shmabs               350.000 
+AsssassiNOPs                   350.000 
+as1                            349.000 
+CAT-Security                   349.000 
+wildHats                       301.000 
+Kernelsanders                  301.000 
+Mercurii                       301.000 
+jackdaw                        301.000 
+no_purpose_appointment         301.000 
+allalone2                      301.000 
+Ameer                          301.000 
+objEEdump                      301.000 
+0xec                           301.000 
+Ra1ningSn0w                    301.000 
+sThor                          301.000 
+0d0a                           301.000 
+PROMWAD                        301.000 
+ObsessiveCompulsiveDisorder    301.000 
+ParinoiaSec                    301.000 
+Burlingpwn                     301.000 
+Team Oops                      301.000 
+netsecfocus                    301.000 
+Colonel 0x20                   301.000 
+irGeeks                        301.000 
+Tinfoil Hats                   301.000 
+CsEc-CoMp                      301.000 
+SwagL0rds                      301.000 
+Hopjesvla                      301.000 
+pwndevils                      301.000 
+0xD13A                         301.000 
+oajdhfjo                       301.000 
+KrackUrM0M                     300.000 
+ttyy                           299.000 
+!SpamAndHex                    299.000 
+pwnplay                        299.000 
+FooBar5                        299.000 
+Come To Fight                  299.000 
+IngloriousMonkeys              299.000 
+Nakshatra                      299.000 
+Contagion                      299.000 
+NYUSEC                         251.000 
+D1vergenc337_PH                251.000 
+tunatunatuna                   251.000 
+WhiteShirts                    251.000 
+qy2016                         251.000 
+Yacine101                      251.000 
+bin_dojo                       251.000 
+Tactical Failure               251.000 
+0xBU                           251.000 
+E4404_404                      251.000 
+enak.png                       251.000 
+swehack                        251.000 
+.ROTC                          251.000 
+0x41                           251.000 
+h3x0m3g4                       251.000 
+test                           251.000 
+SIGINT                         251.000 
+uosec                          251.000 
+damedesu                       251.000 
+NIS                            251.000 
+DoubleSigma                    251.000 
+Follow the Sun                 251.000 
+HackInfinity                   251.000 
+KerberINT                      251.000 
+OPT                            251.000 
+Kernel Panic                   251.000 
+NULL Life                      251.000 
+Mason Competitive Cyber        251.000 
+Gud3!                          251.000 
+++++                           250.000 
+Dancing Simpletons             249.000 
+minecraft                      249.000 
+Nihliphobe                     248.000 
+beh4pres                       201.000 
+TheBotSquad                    201.000 
+MSU-CTF                        201.000 
+a7vinx                         201.000 
+how2hack                       201.000 
+TXST-CS                        201.000 
+IBAS                           201.000 
+PC_CTF                         201.000 
+anaconda                       201.000 
+jinmo123                       201.000 
+Rangers happen to ride unicorns 201.000 
+BambooFox                      201.000 
+tethik                         201.000 
+Galaxians                      201.000 
+TeamWithSuchNameAlreadyExists  201.000 
+WarRoom                        201.000 
+GG GT                          201.000 
+The Wizard&#39;s Sanctum       201.000 
+Av3ng3rs 1n1c14t1v3            201.000 
+BlueTeam                       201.000 
+sometaim i am cri              201.000 
+UQAM-BernieBooBoo              201.000 
+Los Alamos Hacker Society      201.000 
+Bad Subnet Mask                201.000 
+Hackstangslol                  201.000 
+ReedvEggleston                 201.000 
+CyberTeam6                     201.000 
+SpyDer7                        201.000 
+$leep!ng                       201.000 
+tbp                            201.000 
+WWU Hackdown                   201.000 
+M.I.S.T                        201.000 
+Fullmetal Sun of Scorching Pain 201.000 
+dodododo                       200.000 
+MonkeyDance                    200.000 
+Team X00x                      200.000 
+s1f3r.n00b                     199.000 
+Tailored Access Operations     199.000 
+SecHubIL                       199.000 
+Citramon                       151.000 
+Milk Hunters                   151.000 
+BigGasWarship                  151.000 
+Hack4Harambe                   151.000 
+Purple Natas Owen              151.000 
+ArrBas                         151.000 
+Slug Security                  151.000 
+CaptureTheSelena               151.000 
+smoke leet everyday            151.000 
+Pawn Sec                       151.000 
+##earthpig                     151.000 
+x10AUG2050                     151.000 
+Black Technology Royal         151.000 
+midiskali                      151.000 
+DPS                            151.000 
+Racoon                         151.000 
+b01lers                        151.000 
+e11even                        151.000 
+Jcweaver                       151.000 
+WHK                            151.000 
+Aurora                         151.000 
+BasicallyUnknown               151.000 
+FIT-HACK                       151.000 
+Team.AZ                        151.000 
+H41M-3L1T3                     151.000 
+omnomnom                       151.000 
+hiy                            151.000 
+Attack@Pwn                     151.000 
+Dev_null                       151.000 
+pwn_hub                        151.000 
+SeaMonsters                    151.000 
+PeterPEN                       151.000 
+OptiNergo                      151.000 
+shellz r us                    151.000 
+paperwhale                     151.000 
+hAIXer                         151.000 
+Gecko                          151.000 
+Mom&#39;s Spaghetti            151.000 
+BNHacking                      151.000 
+IntelligentRussianSecurityTeam 151.000 
+/7343|-|b|&lt;|/|              151.000 
+BAKLAJAVA                      151.000 
+h4rdF0rc3                      151.000 
+CactusField                    151.000 
+DC423                          151.000 
+oziko                          151.000 
+GGG3                           151.000 
+CyberOps                       151.000 
+glaros                         151.000 
+BBHHS                          151.000 
+BlackCat                       151.000 
+randomo                        151.000 
+Team IA                        151.000 
+neptunia                       151.000 
+ToxicProxy                     151.000 
+OpticalIllusion                151.000 
+Cybernauts                     151.000 
+THB                            151.000 
+TeaM_MeaT                      151.000 
+xine                           151.000 
+xinexec                        151.000 
+Vester                         151.000 
+tc                             151.000 
+paid2penetrate                 151.000 
+NeOLux-C1Ph3r                  151.000 
+THINKING                       151.000 
+treehacker                     151.000 
+Edward Snowdenhands            151.000 
+Są gorsi                      151.000 
+FWHIBBIT                       151.000 
+crayontheft                    151.000 
+CorpOfHack                     151.000 
+Brutewoorse                    151.000 
+AVP                            151.000 
+01020201                       151.000 
+pocarisweat                    151.000 
+Ultra                          151.000 
+Hax4Pizza                      151.000 
+Cyberchase                     151.000 
+Jakatiel                       150.000 
+Pink Noise                     150.000 
+The Clinton Email Foundation   149.000 
+bbb                            149.000 
+CSG                            149.000 
+Hackday                        101.000 
+ukoreh                         101.000 
+PhotonCricket                  101.000 
+NothingToSeeHere               101.000 
+Xatnys                         101.000 
+booms                          101.000 
+clubbingbabyseals              101.000 
+totemo                         101.000 
+RancaToco                      101.000 
+crit3ri4                       101.000 
+WhiteCat                       101.000 
+Magic Hat                      101.000 
+oprad                          101.000 
+m00m00                         101.000 
+FinHackers                     101.000 
+Thomas                         101.000 
+wabisabi                       101.000 
+jfhs                           101.000 
+Cyberwildcats                  101.000 
+JohnDoe                        101.000 
+Stack                          101.000 
+mischa                         101.000 
+data_expunged                  101.000 
+brucel33t                      101.000 
+whitehattersUK                 101.000 
+Invulnerable                   101.000 
+⛅︎                         101.000 
+dankmeme                       101.000 
+Smoaky&#39;s Ponies            101.000 
+Kimchi.Twerkbomb               101.000 
+takisystema                    101.000 
+taurus                         101.000 
+Jimmy Jam and the Hoagies      101.000 
+Cache_Crook                    101.000 
+roguecookies                   101.000 
+alguien                        101.000 
+Po                             101.000 
+Fourchette Bombe               101.000 
+rainbow_bash                   101.000 
+Revenger                       101.000 
+lastsec                        101.000 
+acfamily                       101.000 
+bidoof                         101.000 
+Group8                         101.000 
+RunCMD                         101.000 
+bigdermskrew                   100.000 
+Sigient                        100.000 
+HT                             100.000 
+guitared                       100.000 
+SUSlo.PAS                      100.000 
+Silly Rainbow Limousine        100.000 
+MakeMD5GreatAgain              100.000 
+tail -a ./swift                100.000 
+HakunaMatata                   100.000 
+blahblahblah                   100.000 
+Alamina                        100.000 
+SpySheriff                     100.000 
+plplpl                         100.000 
+smallwhite                     100.000 
+rebifton                       100.000 
+botaremedio                    100.000 
+takaki                         100.000 
+HopHacker                      100.000 
+Lice1969                       99.000  
+DADADA                         99.000  
+JustCC                         99.000  
+TeamRocketIst                  99.000  
+x0r                            99.000  
+mind_it                        51.000  
+pseud0randomness               51.000  
+TunSH                          51.000  
+StrexCorp                      51.000  
+Port:4444                      51.000  
+TU6PM                          51.000  
+BackPocket                     51.000  
+P3t3rp4rk3r                    51.000  
+GiVeMeRoOt                     51.000  
+nocturnal                      51.000  
+Avidya                         51.000  
+PHCN                           51.000  
+CoOpHotSauce                   51.000  
+BaldRunners                    51.000  
+hackthebank                    51.000  
+rawsec                         51.000  
+Per for month                  51.000  
+UIN HACKING                    51.000  
+Nubbarna                       51.000  
+2BoysHaveNoName                51.000  
+Console Cowboys                51.000  
+Section 31                     51.000  
+Raspberry                      51.000  
+Ginja                          51.000  
+knuthastic                     51.000  
+TWN                            51.000  
+CyberLutra                     51.000  
+Hack The Panda                 51.000  
+High Entr0py                   51.000  
+PhyTeam                        51.000  
+KXTI                           51.000  
+cse5472group5                  51.000  
+T3ngu Team                     51.000  
+vintersnow                     51.000  
+nooby-doo                      51.000  
+ShzU_NetSec_Mr.X               51.000  
+Red Xander                     51.000  
+squeel                         51.000  
+UtdIA                          51.000  
+UTD IA                         51.000  
+team1                          51.000  
+0m4n                           50.000  
+Gibdeon                        50.000  
+D@rk$h3ll                      50.000  
+Black_Shield                   50.000  
+0x8F                           50.000  
+s0n10n                         49.000  
+Vorpal                         49.000  
+MrFastBin                      49.000  
+mberdyshev                     49.000  
+NeO_Team                       49.000  
+SecCtfTeam                     1.000   
+PoisonedBytes                  1.000   
+flamezzz                       1.000   
+arachnophobia                  1.000   
+Master_IronBar                 1.000   
+HackInTN                       1.000   
+n00bs_with_m00bs               1.000   
+ascope                         1.000   
+WE NEED TO BUILD A FIREWALL    1.000   
+D4rkSh3ll                      1.000   
+seven                          1.000   
+DFM                            1.000   
+EvilCorp                       1.000   
+d3bug                          1.000   
+Crimson Agents                 1.000   
+penthackon                     1.000   
+bibi                           1.000   
+JeJe                           1.000   
+CAT-Air                        1.000   
+Bartack                        1.000   
+YOUTH                          1.000   
+MV9rwGOf08                     1.000   
+EPAD                           1.000   
+Natalia                        1.000   
+Sud0                           1.000   
+phann                          1.000   
+Tino de Ras 2016               1.000   
+r3d_fl0w3r                     1.000   
+LoneAngler                     1.000   
+heyb0ss                        1.000   
+Hash Slinging Hackers          1.000   
+2ndYearCyberStaffs             1.000   
+hackpack                       1.000   
+cRUcible                       1.000   
+LevitatingLion                 1.000   
+Riding Solo                    1.000   
+devcraft                       1.000   
+DFCI                           1.000   
+Lite_Metal_Wombat              1.000   
+based                          1.000   
+pork                           1.000   
+NorthBEASTern                  1.000   
+Javier                         1.000   
+ActuallyYourRealDad            1.000   
+a412on                         1.000   
+rip                            1.000   
+604sec                         1.000   
+Mithreindeir                   1.000   
+koo                            1.000   
+CCQK                           1.000   
+Sodobytes                      1.000   
+0x5465616d4e616d65             1.000   
+Elipsisp                       1.000   
+White Rocks                    1.000   
+PeakChaos                      1.000   
+0xibram                        1.000   
+topkek                         1.000   
+FreeWiFi                       1.000   
+Just4Fun                       1.000   
+Trial1                         1.000   
+Stack No Pivot                 1.000   
+sarpwn                         1.000   
+allyourgibson                  1.000   
+Suns of Anarchy                1.000   
+BinaryClinton                  1.000   
+natedog                        1.000   
+xreconkillerx                  1.000   
+BITSkrieg                      1.000   
+The :(){ :|:&amp; };: Squad    1.000   
+BakedPotatoes                  1.000   
+mcnmcn                         1.000   
+--drop%20tables                1.000   
+LightSide                      1.000   
+Astrovus                       1.000   
+larryboy825                    1.000   
+DivideByZero                   1.000   
+CarRamRod                      1.000   
+daudauf                        1.000   
+hanto                          1.000   
+Alone?                         1.000   
+N0O8S                          1.000   
+PeethsSoloEndevour             1.000   
+tank1st99                      1.000   
+FCPheonix                      1.000   
+WOLFPACK                       1.000   
+Reptilian Shapeshifters        1.000   
+c0d3r3d                        1.000   
+Bl@ckWhite                     1.000   
+koala                          1.000   
+Kilometerpreter                1.000   
+cat3_enki                      1.000   
+MilWestA                       1.000   
+The_unknown                    1.000   
+HHSS                           1.000   
+athompson                      1.000   
+GNU-E-Ducks                    1.000   
+Blistig                        1.000   
+dephault                       1.000   
+9453                           1.000   
+g0tiu5a                        1.000   
+ydinsota                       1.000   
+xxxiv                          1.000   
+Cumbancha                      1.000   
+r00ters                        1.000   
+Jumala                         1.000   
+406                            1.000   
+NullMaster                     1.000   
+lapasion                       1.000   
+M4dH4tt3r&#39;s Minions        1.000   
+punkmaster                     1.000   
+KSUCDC                         1.000   
+OMGCYBER                       1.000   
+mecho                          1.000   
+Me                             1.000   
+GeekMinistry                   1.000   
+kingfalcon                     1.000   
+Linwz                          1.000   
+WFMU                           1.000   
+Leviathan                      1.000   
+_BS0D                          1.000   
+StASecure                      1.000   
+Sublime                        1.000   
+mohumohu                       1.000   
+ECX Inc.                       1.000   
+CNB-Horse                      1.000   
+Goat.se                        1.000   
+Bing Bong                      1.000   
+badplague                      1.000   
+team17                         1.000   
+BootHack0x55AA                 1.000   
+Tripl3                         1.000   
+Pride of N                     1.000   
+Come to Try Fortune            1.000   
+123gotem                       1.000   
+oma                            1.000   
+TeamTaint                      1.000   
+Zer0Access                     1.000   
+D3siprox                       1.000   
+YTML                           1.000   
+GinVlad                        1.000   
+SoMac                          1.000   
+NaijaSecForce                  1.000   
+GeeYouKnit                     1.000   
+n0nt4n                         1.000   
+mame_mi                        1.000   
+lotteD                         1.000   
+xpproject                      1.000   
+pandasys                       1.000   
+FyodorTheCat                   1.000   
+KerKerYuna                     1.000   
+KerKerYuan                     1.000   
+icedvovos                      1.000   
+toptrump                       1.000   
+Unknown                        1.000   
+kokoatyannprpr                 1.000   
+DicksOut4Harambe               1.000   
+BiggusDickus and the Hail Mary&#39;s 1.000   
+rootkeeper                     1.000   
+rctf                           1.000   
+n0Sk!LL                        1.000   
+austinwile                     1.000   
+&quot;Cyber&quot;              1.000   
+kirby                          1.000   
+M4DH4TT3R5                     1.000   
+memeparty                      1.000   
+Team Archangel                 1.000   
+vanhelsing                     1.000   
+D-SEC.Mongolia                 1.000   
+HKCCB                          1.000   
+genericTeam333                 1.000   
+CyberHuskies                   1.000   
+WhiteHats                      1.000   
+Lowkeys_Legion                 1.000   
+LIONCITY                       1.000   
+CatFlag                        1.000   
+solid_snek                     1.000   
+teperi                         1.000   
+d4nnr                          1.000   
+Testing                        1.000   
+NSL                            1.000   
+hartzetazuri                   1.000   
+abatchy                        1.000   
+thedevilhacks                  1.000   
+swag                           1.000   
+Harimeow Malaya                1.000   
+Zero Cool                      1.000   
+The Right is Right             1.000   
+DDPlus                         1.000   
+pranav                         1.000   
+0s0_blancos                    1.000   
+john_doe_fe                    1.000   
+NS 6349                        1.000   
+qqq                            1.000   
+Xinbin                         1.000   
+Hacker                         1.000   
+UltraIndex                     1.000   
+Endevor                        1.000   
+Hughmungus                     1.000   
+pradyumna1                     1.000   
+AmritaCSN14                    1.000   
+Nihilum                        1.000   
+2372826180                     1.000   
+blerp                          1.000   
+PartaiPenghibur                1.000   
+Aupwn                          1.000   
+bigb0y27                       1.000   
+cerealkillers                  1.000   
+UAE                            1.000   
+flagged                        1.000   
+Owleyes Team                   1.000   
+Lemondogs                      1.000   
+parkchanjin                    1.000   
+lazada                         1.000   
+wwww                           1.000   
+TheWildHunt                    1.000   
+Chaos Legion                   1.000   
+Siddh                          1.000   
+Brett Andrews Team             1.000   
+bazinga                        1.000   
+l3g10ns                        1.000   
+Pie Pirates                    1.000   
+baobao                         1.000   
+blah                           1.000   
+PliScio                        1.000   
+siscon                         1.000   
+hacker69                       1.000   
+dotYar                         1.000   
+0x61                           1.000   
+Grumpy Unicorn                 1.000   
+nwk                            1.000   
+otamad                         1.000   
+tancuibap                      1.000   
+AloneInTheDark                 1.000   
+testtest123                    1.000   
+baymax                         1.000   
+ransomware                     1.000   
+Swampers                       1.000   
+martbhell                      1.000   
+otterHackers                   1.000   
+b4ndr3k                        1.000   
+ManCity                        1.000   
+HappyHacking                   1.000   
+Sudo_root                      1.000   
+Frankkung                      1.000   
+atmaci                         1.000   
+tazza                          1.000   
+bob_the_breaker                1.000   
+555plus                        1.000   
+Bladers                        1.000   
+vls                            1.000   
+shadowwolf899                  1.000   
+appBana                        1.000   
+team_1                         1.000   
+JnJHAHA                        1.000   
+blackf0x                       1.000   
+piratesecurity                 1.000   
+heX                            1.000   
+Temp                           1.000   
+Shuz_NetSec_hafez              1.000   
+bdd                            1.000   
+invader                        1.000   
+lynxjerm                       1.000   
+bleck                          1.000   
+UglyFlowers                    1.000   
+Sparkle Motion                 1.000   
+cups                           1.000   
+TeamName                       1.000   
+Sawadeeka                      1.000   
+nurlashko                      1.000   
+Beers4Flags                    1.000   
+Sparta                         1.000   
+Moram                          1.000   
+kaz                            1.000   
+Espacio                        1.000   
+d3x                            1.000   
+t4hu                           1.000   
+not robots                     1.000   
+Shzu_NetSec_kholdebarin        1.000   
+Quietiger                      1.000   
+GD-Team                        1.000   
+acdwas                         1.000   
+os-aalborg                     1.000   
+NukeFromOrbit                  1.000   
+Pwnage Inc.                    1.000   
+madcow                         1.000   
+Adarkar                        1.000   
+luxeria                        1.000   
+CSsquad                        1.000   
+bleth                          1.000   
+YouHaveBeenPwned               1.000   
+shenlong                       1.000   
+SINISTRA                       1.000   
+bomji                          1.000   
+MrMugiwara                     1.000   
+ineXHAust                      1.000   
+TmTs                           1.000   
+Thunderbolts                   1.000   
+troto                          1.000   
+kali                           1.000   
+OmsK28team                     1.000   
+otput12                        1.000   
+zwhubuntu                      1.000   
+MrAdmin                        1.000   
+24ninjas                       1.000   
+Incanus                        1.000   
+ShuHackSoc                     1.000   
+HackDab                        1.000   
+pro                            1.000   
+zinexianteam                   1.000   
+#00ff00                        1.000   
+Shzu_NetSec_95                 1.000   
+zero1                          1.000   
+NullVoid                       1.000   
+MMMM                           1.000   
+BoomBoom                       1.000   
+f0reveralone                   1.000   
+supernarf                      1.000   
+Ma5kedMan                      1.000   
+pinksheep                      1.000   
+Sunking                        1.000   
+Olleh                          1.000   
+hillarysflaps                  1.000   
+CiG+                           1.000   
+stevejobsvn                    1.000   
+Shzu_NetSec_Pasargad           1.000   
+Pandemic                       1.000   
+ALLLES                         1.000   
+n0de                           1.000   
+C521                           1.000   
+JangoFight                     1.000   
+StratumAuhuur                  1.000   
+blaze                          1.000   
+moo                            1.000   
+g0liath                        1.000   
+soomink                        1.000   
+Cyber-Ninja                    1.000   
+Gareeb Bug Hunters             1.000   
+123                            1.000   
+Rookuu                         1.000   
+SoloCup                        1.000   
+calter                         1.000   
+alaki                          1.000   
+Bopoznpvt                      1.000   
+WTF                            1.000   
+ilswinr                        1.000   
+loln00b                        1.000   
+ISITDTU                        1.000   
+bitboom                        1.000   
+ddd                            1.000   
+tempo                          1.000   
+warriors                       1.000   
+yangsan                        1.000   
+OPC                            1.000   
+Leet Haxors                    1.000   
+CyberCodersUtd                 1.000   
+Ujun9_T1mu12                   1.000   
+wagiro                         1.000   
+MAD COWS                       1.000   
+proton                         1.000   
+PonyDeer                       1.000   
+Da best                        1.000   
+Cafelinux                      1.000   
+Donald Clinton                 1.000   
+csmc_netsec                    1.000   
+T3rn4ry_c0d3                   1.000   
+Wolf_Pack                      1.000   
+Caffeine                       1.000   
+GrayJorbson4Prezident          1.000   
+Raccoons                       1.000   
+AbstergoIndustries             1.000   
+The01011100devz01011100ejects  1.000   
+Mr. Jester                     1.000   
+dsotmman                       1.000   
+ShellcodeWeCanBelieveIn        1.000   
+skrrt                          1.000   
+pwning for tacos               1.000   
+cyb0rg                         1.000   
+loldafaq                       1.000   
+Port Scan My Dirty Bit         1.000   
+Fluffy Bun Buns                1.000   
+asciicharacter                 1.000   
+WatIsDezeUnit                  1.000   
+yup                            1.000   
+TheePotato                     1.000   
+jpgsk                          1.000   
+RDNCCMTCRACK                   1.000   
+theheavyhorse                  1.000   
+beefbabe                       1.000   
+Tagpro                         1.000   
+mlp2                           1.000   
+FuzzyCrazy                     1.000   
+GoddamnEmails                  1.000   
+porcodio-team                  1.000   
+cagpp                          1.000   
+Fenrir                         1.000   
+red9057                        1.000   
+viciosteam                     1.000   
+_mezcal                        1.000   
+Bottom of the Bottle           1.000   
+dotbot                         1.000   
+bucherons                      1.000   
+HackersInPajamas               1.000   
+in_it_for_fun                  1.000   
+SeñorRoboto                   1.000   
+wakass                         1.000   
+tiger_team_24/7                1.000   
+psiresearch                    1.000   
+SproutedBit                    1.000   
+Algo                           1.000   
+Algo/ctf@1234                  1.000   
+K20DTU                         1.000   
+jiangyou                       1.000   
+Anonymouse                     1.000   
+Codhex                         1.000   
+in/s/ane                       1.000   
+DaemonDeacons                  1.000   
+xegies                         1.000   
+bestthresh                     1.000   
+h4th4t                         1.000   
+teeest                         1.000   
+commandos                      1.000   
+siddhanjay                     1.000   
+Meerkat                        1.000   
+triplex                        1.000   
+cyber2016                      1.000   
+naman                          1.000   
+creamoftherop                  1.000   
+und3rsc0r3s                    1.000   
+1BTC                           1.000   
+ytkety                         1.000   
+testtest                       1.000   
+jinsiben                       1.000   
+73mb_Sec                       1.000   
+sooneungchung                  1.000   
+b0ss                           1.000   
+Gribz                          1.000   
+Beta_securiteam                1.000   
+LonelyBit                      1.000   
+OverDover                      1.000   
+T-rex                          1.000   
+[empty]                        1.000   
+TDOH-PIPE                      1.000   
+Z3105                          1.000   
+xymfrx                         1.000   
+nandayo                        1.000   
+Tenesys                        1.000   
+shzu_netsec_MD7                1.000   
+igorPyan                       1.000   
+thadius                        1.000   
+RobotCoffeeCafe                1.000   
+|L0N3_1|                       1.000   
+OSU-group4                     1.000   
+L1M4R                          1.000   
+rut                            1.000   
+CosmicdbDotXyz                 1.000   
+kluo                           1.000   
+WiggleWaggleHackle             1.000   
+intc3                          1.000   
+varlathass                     1.000   
+DisksOutForHarambe             -1.000  
+Dakine                         -1.000  
+NodeZero                       -1.000  
+winnerS                        -1.000  
+M4dR4ts                        -1.000  
+Team Whales                    -1.000  
+Merges                         -1.000  
+0xC0FF33                       -1.000  
+MysticEnvoy                    -1.000  
+TBOS                           -1.000  
+wight                          -1.000  
+Sh3llc0d324                    -1.000  
+dhOO45                         -1.000  
+kawadu                         -1.000  
+typedef123                     -1.000  
+justest                        -1.000  
+DejaVu                         -1.000  
+Grumpy Narwhal                 -1.000  
+fa1l                           -1.000  
+mizu                           -1.000  
+ptrawt                         -1.000  
+Kirugulige                     -1.000  
+ALL_OUT                        -1.000  
+hsir                           -1.000  
+Kombada                        -1.000  
+lcgg                           -1.000  
+UQAMDrunk                      -1.000  
+Bui                            -1.000  
+Glidermed                      -1.000  
+nasilemak                      -1.000  
+OPQROO1245                     -1.000  
+Alphateam                      -1.000  
+Sph!nx                         -1.000  
+dlut                           -1.000  
+shit                           -1.000  
+tomato                         -1.000  
+teamsolo                       -1.000  
+SILeNt_UiTM                    -1.000  
+fela                           -1.000  
+sunplace                       -1.000  
+Playfair2k16                   -1.000  
+NetSec                         -1.000  
+Nivy                           -1.000  
+l0l3z                          -1.000  
+Bugs_Bunny                     -1.000  
+MCL                            -1.000  
+GoodInTheory                   -1.000  
+The DHARMA Initiative          -1.000  
+SADBOYS                        -1.000  
+sw1ss_kn1f3                    -1.000  
+hy00un                         -1.000  
+greenhat                       -1.000  
+kotobuki                       -1.000  
+ITCMUDTU                       -1.000  
+jijicanyu                      -1.000  
+T43_50L17ARY                   -1.000  
+the_hack                       -1.000  
+sher1ock                       -1.000  
+The Trump Train                -1.000  
+Noob University                -1.000  
+rpiwhat                        -1.000  
+TheKillingTime                 -1.000  
+kee                            -1.000  
+~ is where the &lt;3 is        -2.000  
+GaryJohnson                    -2.000  
+wolverinesec                   -2.000  
+noooo                          -2.000  
+trash                          -2.000  
+piwiteam                       -2.000  

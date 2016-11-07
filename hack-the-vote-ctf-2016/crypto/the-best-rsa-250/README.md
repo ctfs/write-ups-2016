@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * https://piggybird.net/2016/11/hack-the-vote-2016-write-up-the-best-rsa-crypto-250/
+* [Carl Loendahl](https://github.com/grocid/CTF/tree/master/Hack%20the%20vote/2016#the-best-rsa-250-p)
