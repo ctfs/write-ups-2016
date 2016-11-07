@@ -16,6 +16,7 @@
 ## Other write-ups and resources
 
 * https://youtu.be/-AiVLoS9_yg
+* https://ctftime.org/writeup/4650
 * [0day](https://0day.work/ekoparty-ctf-2016-writeups/)
 * https://github.com/Idomin/CTF-Writeups/tree/master/EKOCTF-2016
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Reversing/Back%20again

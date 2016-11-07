@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * http://van.prooyen.com/cryptography/2016/11/06/Boxes-of-Ballots-Writeup.html
+* [Carl Loendahl](https://github.com/grocid/CTF/tree/master/Hack%20the%20vote/2016#boxes-of-ballots-200-p)

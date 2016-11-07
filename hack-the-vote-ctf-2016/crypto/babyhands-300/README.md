@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Carl Loendahl](https://github.com/grocid/CTF/tree/master/Hack%20the%20vote/2016#babys-hands-300-p)
