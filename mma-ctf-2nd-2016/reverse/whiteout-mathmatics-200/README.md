@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/blob/master/2016-09-05-tokyo-mma/whiteout_mathematics/README.md
+* [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-09-05-tokyo-mma/whiteout_mathematics/README.md)

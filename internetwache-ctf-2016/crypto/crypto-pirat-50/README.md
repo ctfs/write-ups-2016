@@ -119,6 +119,6 @@ The whole python code used to solve this challenge, plus the TAPIR table in text
 
 * <https://losfuzzys.github.io/writeup/2016/02/21/iwctf2016-crypto-pirat/>
 * <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-crypto-pirat-crypto50>
-* <https://ctf.rip/internetwache-2016-crypto-pirat-cryptography-challenge/>
+* [CTF.RIP](https://ctf.rip/internetwache-2016-crypto-pirat-cryptography-challenge/)
 * <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-crypto-pirat.html>
 * <http://www.melodia.pw/2016/02/22/internetwache-ctf-2016-writeup-crypto-50/>

@@ -19,5 +19,5 @@ abctf{g00gle_driv3_1s_my_f4v0r1t3}
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-50-Drive-Home-Reconaissance/
+* [RawSec](https://rawsec.ml/en/ABCTF-50-Drive-Home-Reconaissance/)
 * https://ctftime.org/writeup/3575

@@ -16,4 +16,4 @@
 * <https://github.com/VulnHub/ctf-writeups/blob/master/2016/plaidctf/Misc_the_stuff_50.md>
 * <https://duksctf.github.io/PCTF2016-the-stuff/>
 * https://github.com/TechSecCTF/writeups/blob/master/plaidctf2016/thestuff/thestuff.md
-* https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/misc_the_stuff
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/misc_the_stuff)

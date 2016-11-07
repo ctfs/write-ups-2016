@@ -109,5 +109,5 @@ It took about 3 hours to break through 3000 cycles. Every captcha was downloaded
 ## Other write-ups and resources
 
 * <https://github.com/EspacioTeam/write-ups/tree/master/2016/volga/YACST2>
-* <https://github.com/p4-team/ctf/tree/master/2016-03-26-volga2016-quals/yacs2>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-26-volga2016-quals/yacs2)
 * <https://der.ttyh.ru/blag/post/yacst-writeup/>

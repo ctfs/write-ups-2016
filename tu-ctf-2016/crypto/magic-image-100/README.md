@@ -18,6 +18,6 @@ Can you decrypt it?
 
 ## Other write-ups and resources
 * https://github.com/team-bitskrieg/CTF-writeups/tree/master/tuctf/Magic%20Image
-* (Russian) http://countersite.org/articles/cryptography/90-magic-image.html
+* [Invulnerable (Russian)](http://countersite.org/articles/cryptography/90-magic-image.html)
 * https://github.com/Fire30/CTF-WRITEUPS/blob/master/TUCTF/crypto/magic-image.md
-* http://sibears.ru/labs/tuctf-2016-magic-image/
+* [SiBears](http://sibears.ru/labs/tuctf-2016-magic-image/)

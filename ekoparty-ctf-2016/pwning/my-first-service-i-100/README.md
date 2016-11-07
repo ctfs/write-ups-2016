@@ -14,6 +14,6 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-10-26-ekoparty/pwn_100
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-10-26-ekoparty/pwn_100)
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Pwning/My%20first%20service%20I

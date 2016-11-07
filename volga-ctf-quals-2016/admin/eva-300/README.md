@@ -14,4 +14,4 @@ The image matters.
 
 ## Other write-ups and resources
 
-* <https://ctf.rip/volgactf-2016-eva-admin/>
+* [CTF.RIP](https://ctf.rip/volgactf-2016-eva-admin/)

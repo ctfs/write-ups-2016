@@ -20,5 +20,5 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-09-05-tokyo-mma/restricted_ruby
-* https://kimiyuki.net/blog/2016/09/05/twctf-2016-private-local-comment/
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-05-tokyo-mma/restricted_ruby)
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/09/05/twctf-2016-private-local-comment/)

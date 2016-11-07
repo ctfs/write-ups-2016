@@ -12,7 +12,7 @@ The most classic cipher is ceasar cipher, and with the keyword rotate (ROT), the
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/IceCTF-20-Rotated-Cryptograhy/
+* [RawSec](https://rawsec.ml/en/IceCTF-20-Rotated-Cryptograhy/)
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Rotated-Crypto-20
 * http://5k33tz.com/icectf-rotated/
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Crypto/Rotated

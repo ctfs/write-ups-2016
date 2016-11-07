@@ -16,5 +16,5 @@ Opening it with any capable programm reveals the flag...
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-35-Virtual-Box-3-Virtual-Series/
-* (Japanese) http://yuelab82.hatenablog.com/entry/2016/07/24/042028
+* [RawSec](https://rawsec.ml/en/ABCTF-35-Virtual-Box-3-Virtual-Series/)
+* [Takatori Ru (Japanese)](http://yuelab82.hatenablog.com/entry/2016/07/24/042028)

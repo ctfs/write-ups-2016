@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-09-24-dctf/musicetry_misc_200
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-24-dctf/musicetry_misc_200)

@@ -6,8 +6,8 @@
 **Description:**
 
 > Description: My friend really can't remember passwords. So he uses some kind of obfuscation. Can you restore the plaintext?
-> 
-> 
+>
+>
 > Attachment: [misc50.zip](./misc50.zip)
 
 
@@ -24,8 +24,8 @@
 * <http://cafelinux.info/articles/writeups-internetwache-ctf-2016-the-hidden-message-misc50>
 * <http://rektsec.github.io/writeups/ctf/internetwatche-2016-ctf-the-hidden-message-misc-50/>
 * <http://ctfwriteups.blogspot.de/2016/02/internetwache-ctf-2016-hidden-message.html>
-* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-50-the-hidden-message-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-50-the-hidden-message-write-up/)
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc50.md>
 * <http://poning.me/2016/02/23/the-hidden-message/>
-* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/misc_50>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/misc_50)
 * <http://err0r-451.ru/internetwache-web-0ldsk00lblog-80pts/>

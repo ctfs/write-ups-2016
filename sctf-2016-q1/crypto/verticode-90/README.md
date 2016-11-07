@@ -48,6 +48,6 @@ Try looking up some imaging libraries.
 * https://github.com/HackThisCode/CTF-Writeups/tree/master/2016/SCTF/Verticode
 * https://github.com/318br/sctf/tree/master/2016q1/Verticode
 * http://hack.carleton.team/2016/04/18/sctf-io-2016-q1-verticode-90-points/
-* http://ipushino.blogspot.com/2016/04/sctf-2016-q-verticode-crypto.html
+* [iPush](http://ipushino.blogspot.com/2016/04/sctf-2016-q-verticode-crypto.html)
 * https://sardinachanx.gitbooks.io/sctf-2016q1-write-ups/content/verticode_90_pts.html
 * https://pequalsnp-team.github.io/writeups/verticode

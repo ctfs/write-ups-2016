@@ -14,5 +14,5 @@
 
 ## Other write-ups and resources
 
-* <https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-crypto-100-rail-fence-cipher-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/06/sharif-university-ctf-2016-crypto-100-rail-fence-cipher-write-up/)
 * [Korean](https://github.com/tyhan/CTF/tree/master/SharifCTF2016/URE)

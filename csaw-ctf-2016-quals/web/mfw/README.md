@@ -14,7 +14,7 @@
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/4135
-* https://tsunpoko.github.io/CSAW2016/
+* [Tsun Poko (Japanese)](https://tsunpoko.github.io/CSAW2016/)
 * https://blog.michaelz.xyz/csaw-ctf-2016-quals/
 * http://ropgadget.com/posts/4.html#csaw16_web_mfw
 * http://rotimiakinyele.com/csaw-ctf-quals-2016-writeups.jsp

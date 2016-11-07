@@ -16,4 +16,4 @@ IP: amazeing.hackable.software
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-04-14-confidence-teaser/network_ppc_amazeing
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-04-14-confidence-teaser/network_ppc_amazeing)

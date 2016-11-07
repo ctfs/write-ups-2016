@@ -20,4 +20,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/CODEGATE/pwnable/oldschool> 
-* [Japanese](http://shift-crops.hatenablog.com/entry/2016/03/14/194958)
+* [Shift Crops (Japanese)](http://shift-crops.hatenablog.com/entry/2016/03/14/194958)

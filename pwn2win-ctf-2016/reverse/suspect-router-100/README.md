@@ -14,4 +14,4 @@ We have found this suspect binary in one of the SKY project routers. We suspect 
 ## Other write-ups and resources
 
 * https://github.com/epicleet/write-ups-2016/tree/pwn2win-ctf-2016/pwn2win-ctf-2016/reverse/suspect-router-100
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)

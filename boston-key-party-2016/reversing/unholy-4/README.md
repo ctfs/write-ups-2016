@@ -15,5 +15,5 @@
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2016/BKPCTF/reversing/unholy>
-* <https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/re_4_unholy>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-06-bkpctf/re_4_unholy)
 * <http://poning.me/2016/03/10/unholy/>

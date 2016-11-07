@@ -12,7 +12,7 @@ To search for the flag manually, press Ctrl+U on each page (it's on the sponsors
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/IceCTF-50-Scavenger-Hunt-Misc/
+* [RawSec](https://rawsec.ml/en/IceCTF-50-Scavenger-Hunt-Misc/)
 * http://0xbugsbunny.blogspot.com/2016/08/icectfwriteupstage1stage2.html
 * https://capturetheflags.blogspot.in/2016/08/icectf-2016-scavenger-hunt-writeup.html
 * https://youtu.be/CyvjUXW5quE

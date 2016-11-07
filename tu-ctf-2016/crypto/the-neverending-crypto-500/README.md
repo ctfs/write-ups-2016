@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 500
-**Solves:** 
+**Solves:**
 **Description:**
 
 
@@ -13,6 +13,6 @@
 
 ## Other write-ups and resources
 
-* https://blog.nfrost.me/2016/05/15/tu-ctf-2016-neverending-crypto.html
-* http://sibears.ru/labs/tuctf-2016-the-neverending-crypto/
+* [Nick Frost](https://blog.nfrost.me/2016/05/15/tu-ctf-2016-neverending-crypto.html)
+* [SiBears](http://sibears.ru/labs/tuctf-2016-the-neverending-crypto/)
 * https://uss.informatik.uni-ulm.de/?p=429

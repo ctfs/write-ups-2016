@@ -15,4 +15,4 @@ It was the pattern shown in the description, followed by the flag...
 
 ## Other write-ups and resources
 
-* (Japanese) http://yuelab82.hatenablog.com/entry/2016/07/24/042028
+* [Takatori Ru (Japanese)](http://yuelab82.hatenablog.com/entry/2016/07/24/042028)

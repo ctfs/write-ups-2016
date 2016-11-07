@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
 > The friendship between native and dex.
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* http://quanyang.github.io/alictf-2016-loopandloop-reversing-100/
+* [Quan Yang](https://quanyang.github.io/alictf-2016-loopandloop-reversing-100/)

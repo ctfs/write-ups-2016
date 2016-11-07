@@ -13,5 +13,5 @@ Find the [flag](rsa.txz).
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/rsa
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-09-asis-final/rsa)
 * https://kinyabitch.wordpress.com/2016/09/11/asis-ctf-finals-rsa/

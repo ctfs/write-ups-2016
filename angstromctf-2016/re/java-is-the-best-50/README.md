@@ -16,4 +16,4 @@
 ## Other write-ups and resources
 
 * https://ctftime.org/writeup/3085
-* http://ipushino.blogspot.com/2016/04/angstromctf2016-java-is-best-re-50.html
+* [iPush](http://ipushino.blogspot.com/2016/04/angstromctf2016-java-is-best-re-50.html)

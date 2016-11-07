@@ -11,4 +11,4 @@
 
 ## Other write-ups and resources
 
-* http://sibears.ru/labs/TJCTF_GUESS/
+* [SiBears](http://sibears.ru/labs/TJCTF_GUESS/)

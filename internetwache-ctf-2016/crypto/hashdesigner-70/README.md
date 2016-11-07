@@ -6,11 +6,11 @@
 **Description:**
 
 > Description: There was this student hash design contest. All submissions were crap, but had promised to use the winning algorithm for our important school safe. We hashed our password and got '00006800007d'. Brute force isn't effective anymore and the hash algorithm had to be collision-resistant, so we're good to go, aren't we?
-> 
-> 
+>
+>
 > Attachment: [crypto70.zip](./crypto70.zip)
-> 
-> 
+>
+>
 > Service: 188.166.133.53:10009
 
 
@@ -104,7 +104,7 @@ def myhash(text):
 
 		for j in range(16):
 			if(j >= 12 ):
-				tz = (tq[0] & tq[1]) | ~tq[2] 
+				tz = (tq[0] & tq[1]) | ~tq[2]
 			elif(j >= 8):
 				tz = (tq[3] | tq[2])
 			elif(j >= 4):
@@ -124,7 +124,7 @@ def myhash(text):
 	q2 = q2 % 0xFF # Same here... 0xFFFFFFFF
 
 	return tp(t11,q2)
- 
+
 
 print "Starting brute force"
 
@@ -136,7 +136,7 @@ for combo in itertools.combinations_with_replacement(string.lowercase+string.dig
 Using our hash collision generator we eventually come up with a suitable password:
 
 ~~~
-$ pypy myhash.py 
+$ pypy myhash.py
 Starting brute force
 Answer found: aaaaaaaaaaaaablry6
 
@@ -152,4 +152,4 @@ IW{redacted_flag}
 ## Other write-ups and resources
 
 * <https://www.xil.se/post/internetwache-2016-crypto70-kbeckmann/>
-* <https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/crypto_70>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-02-20-internetwache/crypto_70)

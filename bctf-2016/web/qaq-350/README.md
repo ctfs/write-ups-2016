@@ -12,4 +12,4 @@ None
 
 ## Other write-ups and resources
 
-* https://github.com/raccoons-team/ctf/tree/master/2016-03-19-bctf/web-350-QAQ
+* [Raccoons Team](https://github.com/raccoons-team/ctf/tree/master/2016-03-19-bctf/web-350-QAQ)

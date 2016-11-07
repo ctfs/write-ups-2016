@@ -17,7 +17,7 @@ will filter out `IceCTF{why_would_you_even_do_anything_client_side}`
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/IceCTF-50-Flag-Storage-Web/
+* [RawSec](https://rawsec.ml/en/IceCTF-50-Flag-Storage-Web/)
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Flag_Storage
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/icectf-2016/Web/Flag%20Storage
 * https://www.youtube.com/watch?v=-_tdCiwBuco&feature=youtu.be

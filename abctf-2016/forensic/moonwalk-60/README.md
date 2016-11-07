@@ -13,4 +13,4 @@ There is something a little off about this picture. If you could help us we coul
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ABCTF-60-MoonWalk-Forensics/
+* [RawSec](https://rawsec.ml/en/ABCTF-60-MoonWalk-Forensics/)

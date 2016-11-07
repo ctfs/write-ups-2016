@@ -63,4 +63,4 @@ I believe Wikipedia has something to say about predicate transformer semantics..
 
 ## Other write-ups and resources
 
-* https://0x90r00t.com/2016/04/19/sctf-2016-code-130-i-cant-get-no-satisfaction-write-up/
+* [0x90r00t](https://0x90r00t.com/2016/04/19/sctf-2016-code-130-i-cant-get-no-satisfaction-write-up/)

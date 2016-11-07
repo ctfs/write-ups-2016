@@ -13,6 +13,6 @@ I RSA encrypted the same message 3 different times with the same exponent. Can y
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
-* http://rawsec.ml/en/ABCTF-125-A-Small-Broadcast-Cryptography/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
+* [RawSec](https://rawsec.ml/en/ABCTF-125-A-Small-Broadcast-Cryptography/)
 * https://ctftime.org/writeup/3618

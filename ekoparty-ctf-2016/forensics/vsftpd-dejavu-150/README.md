@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/for_150/README.md
+* [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/for_150/README.md)

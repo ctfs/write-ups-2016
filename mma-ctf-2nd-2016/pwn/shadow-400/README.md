@@ -30,6 +30,6 @@ finally we overwrite tls_dtor with address of [system_addr, bin_sh_addr] which i
 ## Other write-ups and resources
 
 * https://github.com/ispoleet/ctf-writeups/tree/master/mma_ctf_2016/shadow
-* https://amritabi0s.wordpress.com/2016/09/09/mmactf-2nd-shadow-write-up/
+* [Amrita University bi0s](https://amritabi0s.wordpress.com/2016/09/09/mmactf-2nd-shadow-write-up/)
 * http://hamidx9.ir/solutions/2016/tw_mma_ctf/shadow/sol.py
 * http://uaf.io/exploitation/2016/09/05/TokyoWesterns-MMA-shadow.html

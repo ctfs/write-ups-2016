@@ -14,5 +14,5 @@ Now you can [upload](https://binarycloud.asis-ctf.ir/) any types of files, tempo
 
 ## Other write-ups and resources
 
-* https://ctf.rip/asis-ctf-2016-binarycloud-web-challenge/
+* [CTF.RIP](https://ctf.rip/asis-ctf-2016-binarycloud-web-challenge/)
 * http://corb3nik.github.io/asis%202016/Binary-Cloud/

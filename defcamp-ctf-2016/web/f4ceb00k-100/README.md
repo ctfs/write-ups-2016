@@ -14,4 +14,4 @@
 ## Other write-ups and resources
 
 * http://corb3nik.github.io/dctf%20quals%202016/f4ceb00k-60s/
-* https://github.com/p4-team/ctf/tree/master/2016-09-24-dctf/web100
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-24-dctf/web100)

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* http://shift-crops.hatenablog.com/entry/2016/10/11/233559#Babyheap-Pwn-300
+* [Shift Crops (Japanese)](http://shift-crops.hatenablog.com/entry/2016/10/11/233559#Babyheap-Pwn-300

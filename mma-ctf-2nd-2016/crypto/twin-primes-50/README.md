@@ -17,7 +17,7 @@
 ## Other write-ups and resources
 
 * https://github.com/TeamContagion/CTF-Write-Ups/tree/master/TokyoWesterns-2016/Twin%20Primes
-* (Russian) http://countersite.org/articles/cryptography/113-twin-primes-writeup.html
+* [Invulnerable (Russian)](http://countersite.org/articles/cryptography/113-twin-primes-writeup.html)
 * http://hamidx9.ir/solutions/2016/tw_mma_ctf/twin_primes/sol.py
 * http://shpik.tistory.com/71
 * https://github.com/ByteBandits/writeups/tree/master/mma-ctf-2016/crypto/twin-primes/sudhackar

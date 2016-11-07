@@ -6,8 +6,8 @@
 **Description:**
 
 > Description: Can you read the barcodes?
-> 
-> 
+>
+>
 > Attachment: [misc90.zip](./misc90.zip)
 
 
@@ -17,7 +17,7 @@
 
 ## Other write-ups and resources
 
-* <https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-90-barparty-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/22/internetwache-ctf-2016-misc-90-barparty-write-up/)
 * <https://github.com/WesternCyber/CTF-WriteUp/blob/master/2016/Internetwache/Misc/Misc90.md>
 * <http://www.mousab.com/2016/02/internetwache-ctf-2016-misc90-write-up.html>
 * <https://github.com/QuokkaLight/write-ups/blob/master/internetwache-ctf-2016/misc/misc90.md>

@@ -2,7 +2,7 @@
 
 **Category:** Coding
 **Points:** 300
-**Solves:** 
+**Solves:**
 **Description:**
 
 We found a strange zip file. Sadly the content is encrypted. As only criminals encrypt their stuff we need to decrypt this urgently. Flag format is FLAGB**************S.
@@ -13,4 +13,4 @@ We found a strange zip file. Sadly the content is encrypted. As only criminals e
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-08-21-bioterra-ctf/zip
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-08-21-bioterra-ctf/zip)

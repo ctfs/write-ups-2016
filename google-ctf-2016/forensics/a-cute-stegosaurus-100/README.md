@@ -15,4 +15,4 @@ stego.pcap
 ## Other write-ups and resources
 
 * http://fadec0d3.blogspot.com/2016/05/google-ctf-2016-cute-stegosaurus-100.html
-* http://sibears.ru/labs/googlectf2016stegosaurus/
+* [SiBears](http://sibears.ru/labs/googlectf2016stegosaurus/)

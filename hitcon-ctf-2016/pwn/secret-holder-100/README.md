@@ -14,5 +14,5 @@
 
 ## Other write-ups and resources
 
-* http://shift-crops.hatenablog.com/entry/2016/10/11/233559#Secret-Holder-Pwn-100
+* [Shift Crops (Japanese)](http://shift-crops.hatenablog.com/entry/2016/10/11/233559#Secret-Holder-Pwn-100
 * http://poning.me/2016/10/29/secret-holder/

@@ -16,5 +16,5 @@ The challenge was to reverse a binary (ELF 64-bit) and find the right input.
 ## Other write-ups and resources
 
 * https://github.com/rick2600/writeups/blob/master/pwn2win-2016/sleeper_cell.md
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)
 * https://www.xil.se/post/pwn2win-2016-sleeper-cell-kbeckmann/

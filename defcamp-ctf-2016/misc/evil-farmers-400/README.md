@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/blob/master/2016-09-24-dctf/misc400/README.md
+* [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-09-24-dctf/misc400/README.md)

@@ -13,6 +13,6 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/reversing_quixotic
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/reversing_quixotic)
 * http://ctf.yeuchimse.com/plaid-ctf-2016-quite-quixotic-quest-re300/
 * http://blukat29.github.io/2016/04/pctf-2016-qqq/

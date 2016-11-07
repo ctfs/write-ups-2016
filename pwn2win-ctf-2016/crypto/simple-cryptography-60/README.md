@@ -13,4 +13,4 @@ The club decided to evolve the security of communication for something more effi
 ## Other write-ups and resources
 
 * https://www.xil.se/post/pwn2win-2016-simple-crypto-rspkt/
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)

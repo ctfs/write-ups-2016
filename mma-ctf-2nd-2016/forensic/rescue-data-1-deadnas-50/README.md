@@ -86,7 +86,7 @@ Once I mounted the resulting image I was able to see the flag.jpg file containin
 
 ## Other write-ups and resources
 
-* https://github.com/tothi/ctfs/tree/master/mma-ctf-2016/deadnas
+* [RingZer0](https://github.com/tothi/ctfs/tree/master/mma-ctf-2016/deadnas)
 * http://www.codilime.com/tw-mma-2-2016-deadnas/
-* (Russian) http://countersite.org/articles/sysadmin/116-deadnas-writeup.html
+* [Invulnerable (Russian)](http://countersite.org/articles/sysadmin/116-deadnas-writeup.html)
 * http://megabeets.net/twctf-2016-web-rescue-data-1-deadnas/

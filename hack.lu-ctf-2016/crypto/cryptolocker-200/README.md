@@ -15,6 +15,6 @@
 
 ## Other write-ups and resources
 
-* https://p-te.fr/2016/10/20/hack-lu-cryptolocker/
+* [P_TE](https://p-te.fr/2016/10/20/hack-lu-cryptolocker/)
 * http://van.prooyen.com/cryptography/2016/10/20/cryptolocker-Writeup.html
 * https://gophers-in-the-shell.herokuapp.com/hack-lu-2016-cryptolock-crypto-200-pts/

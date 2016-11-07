@@ -2,7 +2,7 @@
 
 **Category:** Crypto
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
     qv, sgytx :U !! acg scw xyg udtum nfd !!! htpn'l kigof.
@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/MrMugiwara/WriteupsCTF/tree/master/CTFsecuriNets2016
+* [Soufiane Boussali](https://github.com/MrMugiwara/WriteupsCTF/tree/master/CTFsecuriNets2016)

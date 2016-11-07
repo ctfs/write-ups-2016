@@ -16,8 +16,8 @@ José Saramago, The Double
 
 ## Other write-ups and resources
 
-* http://sibears.ru/labs/ASIS-CTF-Quals-2016-odrrere/
-* (Russian) http://countersite.org/articles/steganography/88-odrrere-forensicsstego-asis-ctf-2016.html
-* http://lockboxx.blogspot.com/2016/05/asis-ctf-2016-quals-writeup-odrrere.html
-* https://github.com/raccoons-team/ctf/tree/master/2016-05-07-asis-ctf-quals/odrrere
-* https://blog.nfrost.me/2016/05/08/asis-ctf-quals-2016-odrrere.html
+* [SiBears](http://sibears.ru/labs/ASIS-CTF-Quals-2016-odrrere/)
+* [Invulnerable (Russian)](http://countersite.org/articles/steganography/88-odrrere-forensicsstego-asis-ctf-2016.html)
+* [Action Dan](http://lockboxx.blogspot.com/2016/05/asis-ctf-2016-quals-writeup-odrrere.html)
+* [Raccoons Team](https://github.com/raccoons-team/ctf/tree/master/2016-05-07-asis-ctf-quals/odrrere)
+* [Nick Frost](https://blog.nfrost.me/2016/05/08/asis-ctf-quals-2016-odrrere.html)

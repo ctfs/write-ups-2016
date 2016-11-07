@@ -6,13 +6,13 @@
 **Description:**
 
 > In Sharif CTF we have lots of task ready to use, so we stored their data about author or creation date and other related information in some files. But one of our staff used a method to store data efficiently and left the group some days ago. So if you want the flag for this task, you have to find it yourself!
-> 
+>
 > Download [fashion.tar.gz](./fashion.tar.gz)
 
 
 ## Write-up
 
-by [jashanbhoora](https://github.com/jashanbhoora)
+by [Jashan Bhoora](https://github.com/jashanbhoora)
 
 We are given a single file for the challenge: `fashion.tar.gz`
 
@@ -86,4 +86,4 @@ Flag: SharifCTF{2b9cb0a67a536ff9f455de0bd729cf57}
 * <https://github.com/gtoubassi/femtozip>
 * <https://www.xil.se/post/sharifctf-2016-forensics-fashion-flag-arturo182/>
 * <https://github.com/ctfs/write-ups-2016/tree/master/su-ctf-2016/forensics/we-lost-the-fashion-flag-100>
-* <https://0x90r00t.com/2016/02/09/sharif-university-ctf-2016-forensic-100-we-lost-the-fashion-flag-write-up/>
+* [0x90r00t](https://0x90r00t.com/2016/02/09/sharif-university-ctf-2016-forensic-100-we-lost-the-fashion-flag-write-up/)

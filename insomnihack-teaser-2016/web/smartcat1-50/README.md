@@ -22,12 +22,12 @@
 ## Other write-ups and resources
 
 * <https://pony7.fr/ctf:public:insomnihack-teaser:smartcat>
-* <https://ctf.rip/insomnihack-teaser-2016-smartcat1-50-pt-web-challenge/>
+* [CTF.RIP](https://ctf.rip/insomnihack-teaser-2016-smartcat1-50-pt-web-challenge/)
 * <https://0x1337seichi.wordpress.com/2016/01/17/insomnihack-2016-ctf-teaser-smartcat-1-2-writeup/>
 * <http://toh.necst.it/insomnihack/web/smartcat/>
 * <http://blog.justinsteven.com/posts/2016/01/18/insomnihack-declawing-smartcat1-and-smartcat2/>
 * <https://github.com/raccoons-team/ctf/tree/master/2016-01-16-insomnihack-teaser/web_50-50_smartcat>
-* <https://github.com/p4-team/ctf/tree/master/2016-01-16-insomnihack/web_100_smartcat#smartcat1-eng>
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-01-16-insomnihack/web_100_smartcat#smartcat1-eng)
 * <https://highon.coffee/blog/insomnihack-ctf-teaser-smartcat1-writeup/>
 * <http://nusgreyhats.org/write-ups/INSOMNIHACK-CTF-Teaser-2016-Write-Up-Smartcat1/>
 * <http://h4ckx0re-ctf-crew.co.nf/2016/01/23/insomnihack-teaser-2016-smartcat1-50-pts/>

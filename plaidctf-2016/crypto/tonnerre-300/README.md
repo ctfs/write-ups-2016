@@ -19,4 +19,4 @@
 * <https://duksctf.github.io/PCTF2016-tonnerre/>
 * <https://grocid.net/2016/04/17/plaidctf-tonnerre/>
 * https://github.com/TechSecCTF/writeups/blob/master/plaidctf2016/tonnerre/tonnerre.md
-* https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/crypto_tonnerre
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-04-15-plaid-ctf/crypto_tonnerre)

@@ -15,4 +15,4 @@ Oh no. We locked this PDF and forgot the password. Can you help us?
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

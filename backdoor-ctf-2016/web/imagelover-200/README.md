@@ -6,11 +6,11 @@
 **Description:**
 
 > Find imagelover here
-> 
+>
 > Created by: Amanpreet Singh
-> 
+>
 > No. of Correct Submissions: 28
-> 
+>
 
 
 ## Write-up
@@ -20,4 +20,4 @@
 ## Other write-ups and resources
 
 * https://github.com/nikhil96sher/CTF-Writeups/tree/master/Backdoor/IMAGELOVER
-* http://b0tchsec.com/2016/backdoorctf/imagelover
+* [b0tchsec](http://b0tchsec.com/2016/backdoorctf/imagelover)

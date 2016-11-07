@@ -2,7 +2,7 @@
 
 **Category:** Pwn
 **Points:** 200
-**Solves:** 
+**Solves:**
 **Description:**
 
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-08-21-bioterra-ctf/akashic_records
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-08-21-bioterra-ctf/akashic_records)

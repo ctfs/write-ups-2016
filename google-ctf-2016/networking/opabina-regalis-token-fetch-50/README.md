@@ -54,4 +54,4 @@ Listening on port 1876 on ssl-added-and-removed-here.ctfcompetition.com
 ## Other write-ups and resources
 
 * https://github.com/Blystad/googlectf_writeups/tree/master/networking/opabina_regalis_token_fetch
-* http://b0tchsec.com/2016/googlectf/opabina-regalis-token-fetch
+* [b0tchsec](http://b0tchsec.com/2016/googlectf/opabina-regalis-token-fetch)

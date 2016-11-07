@@ -17,4 +17,4 @@ Listening on port 12001 on ssl-added-and-removed-here.ctfcompetition.com
 ## Other write-ups and resources
 
 * https://github.com/Blystad/googlectf_writeups/tree/master/networking/opabina_regalis_input_validation
-* https://blog.nfrost.me/2016/05/01/google-ctf-2016-input-validation.html
+* [Nick Frost](https://blog.nfrost.me/2016/05/01/google-ctf-2016-input-validation.html)

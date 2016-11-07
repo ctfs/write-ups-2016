@@ -18,5 +18,5 @@
 
 * <https://www.xil.se/post/sharifctf-2016-forensics-blocks-arturo182/>
 * <http://losfuzzys.github.io/writeup/2016/02/07/sharifctf2016-blocks/>
-* <https://ctf.rip/sharifctf-2016-blocks-forensics-400-point-challenge/>
-* <https://0x90r00t.com/2016/02/08/sharif-university-ctf-2016-forensic-400-blocks-write-up/>
+* [CTF.RIP](https://ctf.rip/sharifctf-2016-blocks-forensics-400-point-challenge/)
+* [0x90r00t](https://0x90r00t.com/2016/02/08/sharif-university-ctf-2016-forensic-400-blocks-write-up/)

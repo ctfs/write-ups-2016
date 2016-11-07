@@ -15,4 +15,4 @@ nc only9.asis-ctf.ir 42953
 
 ## Other write-ups and resources
 
-* https://github.com/kitctf/writeups/tree/master/asis-finals-2016/only9
+* [KITCTF](https://github.com/kitctf/writeups/tree/master/asis-finals-2016/only9)

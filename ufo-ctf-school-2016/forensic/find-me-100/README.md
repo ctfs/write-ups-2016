@@ -2,7 +2,7 @@
 
 **Category:** Forensic
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/MrMugiwara/WriteupsCTF/tree/master/ufoCTF2016/Find_Me
+* [Soufiane Boussali](https://github.com/MrMugiwara/WriteupsCTF/tree/master/ufoCTF2016/Find_Me)

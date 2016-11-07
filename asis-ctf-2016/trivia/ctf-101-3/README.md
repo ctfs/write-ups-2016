@@ -13,6 +13,6 @@ Watch your heads!
 
 ## Other write-ups and resources
 
-* http://rawsec.ml/en/ASIS-3-CTF-101-Trivia/
+* [RawSec](https://rawsec.ml/en/ASIS-3-CTF-101-Trivia/
 * http://www.megabeets.net/asis-ctf-ctf-101/
 * https://ctftime.org/writeup/4076

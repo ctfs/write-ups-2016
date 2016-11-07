@@ -20,6 +20,6 @@ Hint: Who is Fideleeto (Cuba!) in real life? Take this into account. :)
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-03-26-pwn2win/secret_account
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-26-pwn2win/secret_account)
 * https://www.xil.se/post/pwn2win-2016-secret-accounts-rspkt/
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)

@@ -13,4 +13,4 @@ There is a way to exploit the calculator [here](http://yrmyzscnvh.abctf.xyz/web7
 
 ## Other write-ups and resources
 
-* https://kimiyuki.net/blog/2016/07/23/abctf-2016/
+* [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

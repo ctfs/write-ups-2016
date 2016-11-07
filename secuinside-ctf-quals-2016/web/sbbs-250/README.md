@@ -13,4 +13,4 @@ Get flag  http://52.78.86.97:8080
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/blob/master/2016-07-09-secuinside-ctf/SBBS/README.md
+* [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-07-09-secuinside-ctf/SBBS/README.md)

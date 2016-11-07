@@ -2,7 +2,7 @@
 
 **Category:** Web
 **Points:** 200
-**Solves:** 
+**Solves:**
 **Description:**
 
 They pretend to check your letter of application. I want to proof that they are doing nothing to help you. Get me access to the filesystem!
@@ -13,4 +13,4 @@ They pretend to check your letter of application. I want to proof that they are 
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-08-21-bioterra-ctf/job_portal
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-08-21-bioterra-ctf/job_portal)

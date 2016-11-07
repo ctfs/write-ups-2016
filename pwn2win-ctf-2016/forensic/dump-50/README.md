@@ -15,6 +15,6 @@ Submit the flag in the format: CTF-BR{message}
 
 ## Other write-ups and resources
 
-* https://github.com/p4-team/ctf/tree/master/2016-03-26-pwn2win/dump
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-03-26-pwn2win/dump)
 * https://www.xil.se/post/pwn2win-2016-dump-rspkt/
-* http://dragonsector.pl/docs/pwn2win2016_writeups.pdf
+* [Dragon Sector](http://dragonsector.pl/docs/pwn2win2016_writeups.pdf)
