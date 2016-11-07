@@ -19,3 +19,4 @@
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
 * https://penafieljlm.wordpress.com/2016/10/29/ekoparty-ctf-2016-write-ups/#rev-50
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Reversing/F%23ck
+* https://specterdev.blogspot.com/2016/10/write-up-ekoparty-2016-ctf-reverse.html

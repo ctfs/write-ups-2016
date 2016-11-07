@@ -19,3 +19,4 @@
 * https://0day.work/ekoparty-ctf-2016-writeups/
 * https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/web_150/README.md
 * https://github.com/team-bitskrieg/CTF-writeups/tree/master/EKOctf/web/150-carder
+* https://penafieljlm.wordpress.com/2016/10/29/ekoparty-ctf-2016-write-ups/#web-150

@@ -21,3 +21,4 @@
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
 * https://penafieljlm.wordpress.com/2016/10/29/ekoparty-ctf-2016-write-ups/#pwn-25
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Pwning/Ultra%20baby
+* https://specterdev.blogspot.com/2016/10/write-up-ekoparty-2016-ctf-pwning-25-50.html
