@@ -41,3 +41,4 @@ print("EKO{" + str(n) + "}")
 * https://github.com/Idomin/CTF-Writeups/tree/master/EKOCTF-2016
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Reversing/JVM
+* https://specterdev.blogspot.com/2016/10/write-up-ekoparty-2016-ctf-reverse.html

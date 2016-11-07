@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/fgvxf/ctf/blob/master/2016-10-26-ekoparty/forensics-125/README.md 
