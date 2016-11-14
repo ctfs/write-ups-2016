@@ -14,5 +14,8 @@
 
 ## Other write-ups and resources
 
-* https://piggybird.net/2016/11/hack-the-vote-2016-write-up-the-best-rsa-crypto-250/
+* [PiggyBird](https://piggybird.net/2016/11/hack-the-vote-2016-write-up-the-best-rsa-crypto-250/)
+* [Aneesh Kotnana](https://github.com/Alaska47/HackTheVote-2016-Writeups/tree/master/crypto/250-Best-RSA)
+* [Leet Zeppelin](https://leet-zeppelin-site.herokuapp.com/post/2)
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-11-05-hack-the-vote/rsa_crypto_250)
 * [Carl Loendahl](https://github.com/grocid/CTF/tree/master/Hack%20the%20vote/2016#the-best-rsa-250-p)

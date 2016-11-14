@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* https://amritabi0s.wordpress.com/2016/11/07/hack-the-vote-electioneering-write-up/
 * https://github.com/ymgve/ctf-writeups/tree/master/hackthevote2016/forensics250-electioneering

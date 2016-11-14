@@ -16,4 +16,4 @@
 ## Other write-ups and resources
 
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/Misc/X-Flag
-* https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-10-26-ekoparty/misc_150
+* [FFCrew](https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-10-26-ekoparty/misc_150)

@@ -13,5 +13,6 @@
 
 ## Other write-ups and resources
 
-* http://van.prooyen.com/cryptography/2016/11/06/Boxes-of-Ballots-Writeup.html
+* [Adam Van Prooyen](http://van.prooyen.com/cryptography/2016/11/06/Boxes-of-Ballots-Writeup.html)
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-11-05-hack-the-vote/ballots_crypto_200)
 * [Carl Loendahl](https://github.com/grocid/CTF/tree/master/Hack%20the%20vote/2016#boxes-of-ballots-200-p)

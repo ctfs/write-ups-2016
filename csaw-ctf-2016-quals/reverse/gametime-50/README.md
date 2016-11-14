@@ -32,11 +32,12 @@ Finally the program will spit out:
 
 ## Other write-ups and resources
 
-* https://glennmcgui.re/blog/2016/csaw-ctf-2016-gametime/
-* http://www.megabeets.net/csaw-2016-gametime-writeup/
 * https://youtu.be/MoGtAHvagJw
-* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/reversing-50-gametime.md
 * http://anee.me/gametime-csaw-ctf-2016-writeup/
-* https://github.com/ctfs/write-ups-2016/issues/2116
-* http://ropgadget.com/posts/4.html#csaw16_re_gametime
 * https://blog.michaelz.xyz/csaw-ctf-2016-quals/
+* https://github.com/ctfs/write-ups-2016/issues/2116
+* http://www.megabeets.net/csaw-2016-gametime-writeup/
+* http://ropgadget.com/posts/4.html#csaw16_re_gametime
+* https://glennmcgui.re/blog/2016/csaw-ctf-2016-gametime/
+* [Jhin Su](https://github.com/JhinSu/CSAW-2016-Write-Ups/tree/master/Reverse/Gametime)
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/reversing-50-gametime.md

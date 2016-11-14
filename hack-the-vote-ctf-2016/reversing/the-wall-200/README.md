@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://zerosum0x0.blogspot.com/2016/11/hack-vote-wall-solution.html
+* [ZeroSum0x0](https://zerosum0x0.blogspot.com/2016/11/hack-vote-wall-solution.html)

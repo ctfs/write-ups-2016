@@ -14,5 +14,6 @@
 
 ## Other write-ups and resources
 
+* [B0tchsec](http://b0tchsec.com/2016/hack-the-vote/sanders)
 * https://github.com/USCGA/writeups/tree/master/online_ctfs/hackthevote2016/web100
 * https://github.com/bl4de/ctf/blob/master/2016/HackTheVote_2016/Web100_Indiana/Sanders_Fan_Club_Web100.md

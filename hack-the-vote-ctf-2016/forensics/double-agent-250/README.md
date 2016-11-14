@@ -17,4 +17,4 @@
 ## Other write-ups and resources
 
 * https://github.com/ymgve/ctf-writeups/tree/master/hackthevote2016/forensics250-double_agent
-* https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-11-04-hackthevote/for_250
+* [FFCrew](https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-11-04-hackthevote/for_250)

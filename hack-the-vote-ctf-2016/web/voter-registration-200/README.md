@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* https://kebechet.net/post/8/Hack_The_Vote___Voter_Registration
+* [Zach M](https://kebechet.net/post/8/Hack_The_Vote___Voter_Registration)
+* [I4Info](http://www.i4info.in/2016/10/25/HacktheVote-Web-100/)

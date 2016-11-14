@@ -14,5 +14,5 @@
 
 ## Other write-ups and resources
 
-* https://nacayoshi00.wordpress.com/2016/10/09/hitcon-2016-writeup/
+* [Tech Hacks](https://nacayoshi00.wordpress.com/2016/10/09/hitcon-2016-writeup/)
 * https://github.com/team-bitskrieg/CTF-writeups/tree/master/hitcon/web/Are%20you%20rich%201%20and%202

@@ -14,8 +14,10 @@
 
 ## Other write-ups and resources
 
-* https://ctftime.org/writeup/4625
-* https://nacayoshi00.wordpress.com/2016/11/07/hack-the-vote-ctf-writeup/
+* [Go Back](https://ctftime.org/writeup/4625)
+* [Tech Hacks](https://nacayoshi00.wordpress.com/2016/11/07/hack-the-vote-ctf-writeup/)
+* [Jhin Su](https://github.com/JhinSu/HackTheVote2016-WriteUps/tree/master/Forensics/Warp-Speed)
 * https://github.com/ymgve/ctf-writeups/tree/master/hackthevote2016/forensics150-warpspeed
-* https://github.com/HarveyHunt/ctfs/blob/master/2016/hackthevote/forensics/warp_speed/warp_speed.md
+* [Harvey Hunt](https://github.com/HarveyHunt/ctfs/blob/master/2016/hackthevote/forensics/warp_speed/warp_speed.md)
+* [Aneesh Kotnana](https://github.com/Alaska47/HackTheVote-2016-Writeups/blob/master/forensics/150-Warp-Speed/README.md)
 * [United States Coast Guard Academy](https://github.com/USCGA/writeups/tree/master/online_ctfs/hackthevote2016/forensics150)

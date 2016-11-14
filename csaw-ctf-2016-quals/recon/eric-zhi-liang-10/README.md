@@ -13,7 +13,7 @@ We heard Eric has his own subreddit. Can you find Eric for us?
 
 Find the subreddit [r/ericliang](https://www.reddit.com/r/ericliang).
 
-[theRealEricLiang](https://www.reddit.com/user/theRealEricLiang) is a moderator for the subreddit. Wading through his posts, he went to a [NYC Hackster Meetup](https://www.reddit.com/r/creativecoding/comments/51fas9/has_anyone_worked_with_the_intel_edison/). 
+[theRealEricLiang](https://www.reddit.com/user/theRealEricLiang) is a moderator for the subreddit. Wading through his posts, he went to a [NYC Hackster Meetup](https://www.reddit.com/r/creativecoding/comments/51fas9/has_anyone_worked_with_the_intel_edison/).
 
 Looking for "nyc meetup hackster intel edison" on Google, the first result is a [Meetup event](http://www.meetup.com/Hackster-NYC/events/232881069/).
 
@@ -28,3 +28,4 @@ Allen Lau is a founder of Wattpad, which is a site where users can post their st
 ## Other write-ups and resources
 
 * https://utdcsg.github.io/csaw-quals16/recon/ericzhilang.html
+* [Jhin Su](https://github.com/JhinSu/CSAW-2016-Write-Ups/tree/master/Recon/Eric-Zhi-Liang)

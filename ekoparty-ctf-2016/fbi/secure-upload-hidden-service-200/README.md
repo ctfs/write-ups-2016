@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://tasteless.eu/post/2016/10/ekoparty-secure-upload-hidden-service/
+* [Tasteless](https://tasteless.eu/post/2016/10/ekoparty-secure-upload-hidden-service/)

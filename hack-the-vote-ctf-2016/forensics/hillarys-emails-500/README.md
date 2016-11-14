@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* http://yamaguchi-1024.hatenablog.com/entry/2016/11/07/115726
+* [Yamaguchi](http://yamaguchi-1024.hatenablog.com/entry/2016/11/07/115726)

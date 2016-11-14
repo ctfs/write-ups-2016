@@ -22,5 +22,5 @@
 * https://github.com/xPowerz/CTF-Writeups/tree/master/2016/CSAW/mfw
 * http://kendyhikaru.blogspot.com/2016/09/writeup-csaw-ctf-2016.html
 * https://github.com/bl4de/ctf/blob/master/2016/CSAW_CTF_2016/mfw/mfw_web125.md
-* https://galhacktictrendsetters.wordpress.com/2016/09/19/csaw-quals-2016-mfw/
+* [Halhacktic Trendsetters](https://galhacktictrendsetters.wordpress.com/2016/09/19/csaw-quals-2016-mfw/)
 * https://github.com/InfoSecIITR/write-ups/tree/master/2016/csaw-quals-2016/web/mfw

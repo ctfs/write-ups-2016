@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * [Carl Loendahl](https://github.com/grocid/CTF/tree/master/Hack%20the%20vote/2016#babys-hands-300-p)
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-11-05-hack-the-vote/hands_crypto_300)

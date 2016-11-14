@@ -2,7 +2,7 @@
 
 **Category:** Reversing
 **Points:** 50
-**Solves:** 
+**Solves:**
 **Description:**
 
 Only the chosen ones have the gift to read between the lines. We got this binary here. It does more than one may think.
@@ -14,5 +14,5 @@ Only the chosen ones have the gift to read between the lines. We got this binary
 ## Other write-ups and resources
 
 * https://youtu.be/npyHJiQTLUQ
-* https://kebechet.net/post/6/BioTerra________Wathzefugg
+* [Zach M](https://kebechet.net/post/6/BioTerra________Wathzefugg)
 * https://akshayajayan.wordpress.com/2016/08/22/bioterra-ctf-2016-wathzefugg/
