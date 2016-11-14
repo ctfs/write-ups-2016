@@ -16,6 +16,7 @@
 
 ## Other write-ups and resources
 
+* https://glennmcgui.re/blog/2016/ekoparty-ctf-2016-ultrababy/
 * https://youtu.be/gPFh3QsP8tI
 * https://www.youtube.com/watch?v=T4sXmoOAD5M
 * https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
