@@ -65,4 +65,4 @@ CSAW 2016           September 2016          WTF.SH(1)
 * https://github.com/grocid/CTF/tree/master/CSAW/2016#wtfsh-150-p
 * https://github.com/ernw/ctf-writeups/tree/master/csaw2016/wtf.sh
 * http://kendyhikaru.blogspot.com/2016/09/writeup-csaw-ctf-2016.html
-* https://galhacktictrendsetters.wordpress.com/2016/09/20/csaw-quals-2016-wtf-sh-1/
+* [Halhacktic Trendsetters](https://galhacktictrendsetters.wordpress.com/2016/09/20/csaw-quals-2016-wtf-sh-1/)

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://0xec.blogspot.com/2016/11/hack-vote-2016-ctf-apteaser-writeup.html
+* [0xec](https://0xec.blogspot.com/2016/11/hack-vote-2016-ctf-apteaser-writeup.html)

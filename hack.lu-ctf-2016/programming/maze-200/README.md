@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* http://hugodelval.com/writeup/2016%2010%2019%20-%20hack.lu/Maze%20-%20Programming%20Misc%20-%20207pts
+* [Hugo Delval](http://hugodelval.com/writeup/2016%2010%2019%20-%20hack.lu/Maze%20-%20Programming%20Misc%20-%20207pts)

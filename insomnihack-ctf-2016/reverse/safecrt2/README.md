@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* <https://tasteless.eu/post/2016/03/insomnihack-safecrt/>
+* [Tasteless](https://tasteless.eu/post/2016/03/insomnihack-safecrt/)

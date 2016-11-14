@@ -16,5 +16,5 @@ I first began by downloading the nearest EKOPARTY image (the tasks page [backgro
 * https://youtu.be/Z2WmykMRNTQ
 * [0day](https://0day.work/ekoparty-ctf-2016-writeups/)
 * https://github.com/Idomin/CTF-Writeups/tree/master/EKOCTF-2016
-* https://piggybird.net/2016/10/ekoparty-2016-write-hidden-inside-eko-misc-50/
+* [PiggyBird](https://piggybird.net/2016/10/ekoparty-2016-write-hidden-inside-eko-misc-50/)
 * http://specterdev.blogspot.ca/2016/10/write-up-ekoparty-2016-ctf-misc-50pt.html#more

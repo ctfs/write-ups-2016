@@ -14,5 +14,5 @@
 
 ## Other write-ups and resources
 
-* https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-10-26-ekoparty/misc_200
-* https://github.com/douglasqsantos/ctf-writeups/tree/master/2016-10-26-ekoparty/misc_200 
+* [FFCrew](https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-10-26-ekoparty/misc_200)
+* https://github.com/douglasqsantos/ctf-writeups/tree/master/2016-10-26-ekoparty/misc_200

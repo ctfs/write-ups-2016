@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [0x90r00t](https://0x90r00t.com/2016/11/09/hack-the-vote-2016-forensics-300-more-suspicious-traffic-write-up/)

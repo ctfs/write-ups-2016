@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* http://hugodelval.com/writeup/2016%2010%2028%20-%20ekoparty/Forenshit%20-%20Web%20-%20400pts
+* [Hugo Delval](http://hugodelval.com/writeup/2016%2010%2028%20-%20ekoparty/Forenshit%20-%20Web%20-%20400pts)

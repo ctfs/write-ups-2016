@@ -20,11 +20,12 @@ Unzipping the clam, there is an `image0.gif` inside of `ppt/media` that is MaxiC
 
 ## Other write-ups and resources
 
-* http://www.megabeets.net/csaw-2016-clams-dont-dance-writeup/
-* https://github.com/krx/CTF-Writeups/tree/master/CSAW%2016%20Quals/for100%20-%20Clams%20Dont%20Dance
-* http://s0ngsari.tistory.com/entry/CSAW-2016-Clams-Dont-Dance
-* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/forensics-100-clams_dont_dance.md
-* https://obumchidi.wordpress.com/2016/09/19/csaw-clams-dont-dance/
 * http://ropgadget.com/posts/4.html#csaw16_forensics_clam
+* http://www.megabeets.net/csaw-2016-clams-dont-dance-writeup/
+* http://s0ngsari.tistory.com/entry/CSAW-2016-Clams-Dont-Dance
+* https://obumchidi.wordpress.com/2016/09/19/csaw-clams-dont-dance/
 * https://utdcsg.github.io/csaw-quals16/forensics/clamsdontdance.html
+* [Jhin Su](https://github.com/JhinSu/CSAW-2016-Write-Ups/tree/master/Forensics/Clams-Don-t-Dance)
 * (Indonesian) http://blog.indonesiancoder.com/write-up-csaw-ctf-qualification-round-2016
+* https://github.com/krx/CTF-Writeups/tree/master/CSAW%2016%20Quals/for100%20-%20Clams%20Dont%20Dance
+* https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.csaw.io/forensics-100-clams_dont_dance.md

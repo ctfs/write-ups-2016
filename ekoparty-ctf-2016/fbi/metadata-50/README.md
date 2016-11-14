@@ -17,6 +17,6 @@ Some quick Googling reveals `.onion` domains can only be opened with `Tor`. Down
 * https://youtu.be/0LOKdINpK6M
 * [0day](https://0day.work/ekoparty-ctf-2016-writeups/)
 * http://yuelab82.hatenablog.com/entry/ekoparty2016_writeup
-* https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/
+* [Tech Hacks](https://nacayoshi00.wordpress.com/2016/10/28/ekoparty-ctf-2016-writeup/)
 * [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/fbi_50/README.md)
 * https://github.com/burlingpwn/writeups/tree/master/EKOPARTY-CTF-2016/FBI/Metadata

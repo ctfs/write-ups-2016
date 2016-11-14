@@ -38,7 +38,10 @@ Executing this script on the ciphertext file should provide you with the flag:
 
 ## Other write-ups and resources
 
-* [United States Coast Guard Academy](https://github.com/USCGA/writeups/tree/master/online_ctfs/hackthevote2016/crypto50)
+* [Rawsec](http://rawsec.ml/en/Hack-The-Vote-2016-50-topkek/)
+* [Aneesh Kotnana](https://github.com/Alaska47/HackTheVote-2016-Writeups/tree/master/crypto/50-TOPKEK)
 * [Harvey Hunt](https://github.com/HarveyHunt/ctfs/blob/master/2016/hackthevote/crypto/topkek/topkek.md)
 * [Carl Loendahl](https://github.com/grocid/CTF/tree/master/Hack%20the%20vote/2016#topkek-50-p)
 * https://s3.amazonaws.com/hackthevote/kek.43319559636b94db1c945834340b65d68f90b6ecbb70925f7b24f6efc5c2524e.txt
+* [United States Coast Guard Academy](https://github.com/USCGA/writeups/tree/master/online_ctfs/hackthevote2016/crypto50)
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-11-05-hack-the-vote/kek_crypto_50)

@@ -14,5 +14,5 @@
 
 ## Other write-ups and resources
 
-* https://tasteless.eu/content/post/2016/11/hackthevote-lockpicking/
-* https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-11-04-hackthevote/for_350
+* [Tasteless](https://tasteless.eu/content/post/2016/11/hackthevote-lockpicking/)
+* [FFCrew](https://github.com/FFCrewCTF/ctf-writeups/tree/master/2016-11-04-hackthevote/for_350)

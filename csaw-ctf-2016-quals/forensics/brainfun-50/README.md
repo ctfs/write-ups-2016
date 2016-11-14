@@ -5,7 +5,7 @@
 **Solves:**
 **Description:**
 
-Scrambled Fun for Everyone! 
+Scrambled Fun for Everyone!
 
 ## Write-up
 
@@ -15,4 +15,4 @@ Scrambled Fun for Everyone!
 ## Other write-ups and resources
 
 * https://gist.github.com/Lense/a8e94e96f886cb773f646b8aaea806fc
-* https://galhacktictrendsetters.wordpress.com/2016/09/19/csaw-quals-2016-brainfun/
+* [Halhacktic Trendsetters](https://galhacktictrendsetters.wordpress.com/2016/09/19/csaw-quals-2016-brainfun/)

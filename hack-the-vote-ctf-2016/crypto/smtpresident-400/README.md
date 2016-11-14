@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-11-05-hack-the-vote/smtp_crypto_400)

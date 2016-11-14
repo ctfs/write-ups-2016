@@ -35,7 +35,8 @@ end
 
 ## Other write-ups and resources
 
-* https://github.com/xPowerz/CTF-Writeups/tree/master/2016/CSAW/Fuzyll
-* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/fuzyll)
-* http://rotimiakinyele.com/csaw-ctf-quals-2016-writeups.jsp
 * https://utdcsg.github.io/csaw-quals16/recon/fuzyll.html
+* http://rotimiakinyele.com/csaw-ctf-quals-2016-writeups.jsp
+* https://github.com/xPowerz/CTF-Writeups/tree/master/2016/CSAW/Fuzyll
+* [Jhin Su](https://github.com/JhinSu/CSAW-2016-Write-Ups/tree/master/Recon/Fuzyll)
+* [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-09-16-csaw/fuzyll)

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* http://hugodelval.com/writeup/2016%2011%2006%20-%20HackTheVote/Just%20in%20Time%20-%20Web%20-%20300pts
+* [Hugo Delval](http://hugodelval.com/writeup/2016%2011%2006%20-%20HackTheVote/Just%20in%20Time%20-%20Web%20-%20300pts)
