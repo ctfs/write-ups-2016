@@ -17,5 +17,5 @@
 
 ## Other write-ups and resources
 
-* https://ctftime.org/writeup/3086
+* [D3siprox](https://ctftime.org/writeup/3086)
 * [Soufiane Boussali](https://github.com/MrMugiwara/WriteupsCTF/blob/master/AngstromCTF2016/Volatile90/README.md)

@@ -15,6 +15,6 @@
 
 ## Other write-ups and resources
 
-* https://ctftime.org/writeup/3084
+* [D3siprox](https://ctftime.org/writeup/3084)
 * [iPush](http://ipushino.blogspot.com/2016/04/angstromctf2016-supersecure-web-30.html)
-* https://ctftime.org/writeup/3200
+* [Exploit3M](https://ctftime.org/writeup/3200)

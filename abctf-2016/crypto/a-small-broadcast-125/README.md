@@ -15,4 +15,4 @@ I RSA encrypted the same message 3 different times with the same exponent. Can y
 
 * [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
 * [RawSec](https://rawsec.ml/en/ABCTF-125-A-Small-Broadcast-Cryptography/)
-* https://ctftime.org/writeup/3618
+* [ATX 2600](https://ctftime.org/writeup/3618)

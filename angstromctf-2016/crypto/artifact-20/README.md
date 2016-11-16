@@ -15,6 +15,6 @@
 
 ## Other write-ups and resources
 
-* https://ctftime.org/writeup/3082
+* [D3siprox](https://ctftime.org/writeup/3082)
 * [iPush](http://ipushino.blogspot.com/2016/04/angstromctf2016-artifact-crypto-20.html)
-* https://ctftime.org/writeup/3199
+* [Exploit3M](https://ctftime.org/writeup/3199)

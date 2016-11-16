@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://youtu.be/AGHW9nf_oVo
+* [Mohamed Chamli](https://youtu.be/AGHW9nf_oVo)

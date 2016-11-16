@@ -2,7 +2,7 @@
 
 **Category:** Pwn
 **Points:** 100
-**Solves:** 
+**Solves:**
 **Description:**
 
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* https://github.com/murmus/ctf/blob/master/events/alictf2016/fb/sploit.py
+* [Sam](https://github.com/murmus/ctf/blob/master/events/alictf2016/fb/sploit.py)

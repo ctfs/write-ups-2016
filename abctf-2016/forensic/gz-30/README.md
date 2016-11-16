@@ -14,5 +14,5 @@ We shot a flag into this file but some things got messed up on the way...
 ## Other write-ups and resources
 
 * [RawSec](https://rawsec.ml/en/ABCTF-30-GZ-Forensics/)
-* https://ctftime.org/writeup/3573
+* [RedShield5](https://ctftime.org/writeup/3573)
 * [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

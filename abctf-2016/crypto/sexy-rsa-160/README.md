@@ -14,5 +14,5 @@ Check this out!
 ## Other write-ups and resources
 
 * [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
-* https://ctftime.org/writeup/3621
+* [ATX 2600](https://ctftime.org/writeup/3621)
 * [P_TE](https://p-te.fr/2016/07/23/abctf-sexy-rsa/)

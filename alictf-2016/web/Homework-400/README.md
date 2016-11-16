@@ -15,4 +15,4 @@
 ## Other write-ups and resources
 
 * [RingZer0](https://github.com/tothi/ctfs/tree/master/alictf-2016/homework)
-* [LoRexxar (Chinese)](http://lorexxar.cn/2016/06/06/alictf2016/
+* [LoRexxar (Chinese)](http://lorexxar.cn/2016/06/06/alictf2016/)
