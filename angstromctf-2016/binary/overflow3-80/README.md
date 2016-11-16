@@ -2,7 +2,7 @@
 
 **Category:** Binary
 **Points:** 80
-**Solves:** 
+**Solves:**
 **Description:**
 
 ## Write-up
@@ -11,4 +11,4 @@
 
 ## Other write-ups and resources
 
-* https://www.youtube.com/watch?v=pQ76OmaS4eg&feature=youtu.be
+* [Mohamed Chamli](https://www.youtube.com/watch?v=pQ76OmaS4eg&feature=youtu.be)

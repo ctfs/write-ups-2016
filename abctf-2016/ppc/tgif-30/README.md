@@ -17,4 +17,4 @@ Read-in every date and use python-datetime to calculate the weekday in the next 
 
 * [RawSec](https://rawsec.ml/en/ABCTF-30-TGIF-Programming/)
 * [Takatori Ru (Japanese)](http://yuelab82.hatenablog.com/entry/2016/07/24/042028)
-* https://ctftime.org/writeup/3617
+* [NattyPwns](https://ctftime.org/writeup/3617)

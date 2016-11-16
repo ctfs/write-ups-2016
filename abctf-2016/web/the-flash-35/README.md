@@ -13,6 +13,6 @@ Being a web problem, the best first step is to check out the source code of the 
 
 ## Other write-ups and resources
 
-* [RawSec](https://rawsec.ml/en/ABCTF-35-The-Flash-Web-Exploitation/
-* https://ctftime.org/writeup/3574
+* [RawSec](https://rawsec.ml/en/ABCTF-35-The-Flash-Web-Exploitation/)
+* [RedShield5](https://ctftime.org/writeup/3574)
 * [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)

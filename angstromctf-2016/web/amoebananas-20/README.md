@@ -15,6 +15,6 @@
 
 ## Other write-ups and resources
 
-* https://ctftime.org/writeup/3083
+* [D3siprox](https://ctftime.org/writeup/3083)
 * [iPush](http://ipushino.blogspot.com/2016/04/angstromctf2016-amoebananas-web-20.html)
-* https://ctftime.org/writeup/3198
+* [Exploit3M](https://ctftime.org/writeup/3198)

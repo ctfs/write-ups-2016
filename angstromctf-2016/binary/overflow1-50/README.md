@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://www.youtube.com/watch?v=sOKaxDdxsJc
+* [Abdeljalil Noriri](https://www.youtube.com/watch?v=sOKaxDdxsJc)

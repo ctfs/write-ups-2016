@@ -18,3 +18,4 @@
 * [Aneesh Kotnana](https://github.com/Alaska47/HackTheVote-2016-Writeups/blob/master/forensics/250-Trump-likes-colors/README.md)
 * https://github.com/ymgve/ctf-writeups/tree/master/hackthevote2016/forensics250-trump_likes_colors
 * [Harvey Hunt](https://github.com/HarveyHunt/ctfs/blob/master/2016/hackthevote/forensics/trump_likes_colours/colours.md)
+* [Rawsec](http://rawsec.ml/en/Hack-The-Vote-2016-250-trump-likes-colors/)

@@ -13,5 +13,5 @@ I just learned about encryption and tried to write my own authentication system.
 
 ## Other write-ups and resources
 
-* https://ctftime.org/writeup/3620
+* [ATX 2600](https://ctftime.org/writeup/3620)
 * [P_TE](https://p-te.fr/2016/07/23/abctf-custom-authentication/)
