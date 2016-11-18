@@ -6,10 +6,10 @@
 
 There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
 
-* they’re scattered across the interwebs
-* they don’t usually include the original files needed to solve the challenge
-* some of them are incomplete or skip ‘obvious’ parts of the explanation, and are therefore not as helpful for newcomers
-* often they disappear when the owner forgets to renew their domain or shuts down their blog
+* They’re scattered across the interwebs
+* They don’t usually include the original files needed to solve the challenge
+* Some of them are incomplete or skip ‘obvious’ parts of the explanation, and are therefore not as helpful for newcomers
+* Often they disappear when the owner forgets to renew their domain or shuts down their blog
 
 This repository aims to solve those problems.
 
