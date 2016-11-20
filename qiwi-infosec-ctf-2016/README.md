@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [crypto/3-100](crypto/3-100)
 
 ## External write-ups only
 
@@ -13,7 +13,6 @@
 * [crypto/400](crypto/400)
 * [crypto/3-300](crypto/3-300)
 * [crypto/5-200](crypto/5-200)
-* [crypto/3-100](crypto/3-100)
 * [crypto/2-400](crypto/2-400)
 * [crypto/2-300](crypto/2-300)
 * [crypto/1-200](crypto/1-200)
