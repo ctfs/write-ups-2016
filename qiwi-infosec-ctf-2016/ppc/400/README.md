@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [s0h3ck](https://github.com/s0h3ck/h3ck-c0ding/tree/master/CTFs/Qiwi-Infosec%20CTF%202016#ppc_400)
