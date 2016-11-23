@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * [Samurai CTF](https://github.com/samuraictf/writeups/blob/master/rc3-2016/cachet.md)
+* [amuraictf](https://github.com/samuraictf/writeups/blob/master/rc3-2016/cachet.md)

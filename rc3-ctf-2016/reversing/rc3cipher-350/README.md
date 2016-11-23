@@ -5,7 +5,7 @@
 **Solves:**
 **Description:**
 
-
+> (TODO)
 
 ## Write-up
 
@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * [Swiss Cyber Storm](https://github.com/swisscyberstorm/cft_write_ups/tree/master/2016/rc3ctf/reversing/rc3cipher)
+* [Inndy](https://gist.github.com/Inndy/eca85d80f9e03260d35bff5c1c22b6b1)

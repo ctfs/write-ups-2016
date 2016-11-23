@@ -19,4 +19,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Alexey Ryabov](http://f4lrik.ru/en/bork-bork-web-300-rc3-ctf/)
+* [Rawsec](http://rawsec.ml/en/RC3CTF-2016-web-300-bork-bork/)

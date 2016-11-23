@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Ghaaf](http://blog.ghaaf.me/2016/11/21/rc3-ctf-goreverseme/)

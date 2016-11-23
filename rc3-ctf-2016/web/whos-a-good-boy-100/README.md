@@ -23,3 +23,6 @@
 ## Other write-ups and resources
 
 * [Game Of PWNz](https://gameofpwnz.com/?p=451)
+* [Ethical Hackers Club](https://ethicalhackers.club/rc3-ctf-2016-write-ups/#GoodBoy)
+* [Rawsec](http://rawsec.ml/en/RC3CTF-2016-web-100-Who-s-a-good-boy/)
+* [B0tchSec](http://b0tchsec.com/2016/rc3ctf/good-boy)

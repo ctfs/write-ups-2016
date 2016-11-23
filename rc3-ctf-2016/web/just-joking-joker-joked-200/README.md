@@ -18,3 +18,6 @@
 ## Other write-ups and resources
 
 * [Game Of PWNz](https://gameofpwnz.com/?p=437)
+* [Indonesian Coder](http://blog.indonesiancoder.com/write-up-rc3-ctf-just-joking-joker-joked)
+* [Ethical Hackers Club](https://ethicalhackers.club/rc3-ctf-2016-write-ups/#Joker)
+* [B0tchSec](http://b0tchsec.com/2016/rc3ctf/just-joking)

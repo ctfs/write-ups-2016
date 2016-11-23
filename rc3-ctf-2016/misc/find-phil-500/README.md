@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [B0tchSec](http://b0tchsec.com/2016/rc3ctf/find-phil)

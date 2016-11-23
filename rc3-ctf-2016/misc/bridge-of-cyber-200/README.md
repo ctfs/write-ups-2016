@@ -19,4 +19,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Indonesian Coder](http://blog.indonesiancoder.com/write-up-rc3-ctf-bridge-of-cyber)
+* [Rawsec](http://rawsec.ml/en/RC3CTF-2016-misc-200-bridge-of-cyber/)
+* [B0tchSec](http://b0tchsec.com/2016/rc3ctf/bridge-of-cyber)
