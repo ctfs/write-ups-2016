@@ -23,4 +23,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [s0h3ck](https://github.com/s0h3ck/h3ck-c0ding/blob/master/CTFs/RC3%20CTF%202016/README.md#my-game)
+* [Alexey Ryabov](http://f4lrik.ru/en/my-game-crypto-400-rc3-ctf/)

@@ -14,3 +14,5 @@
 ## Other write-ups and resources
 
 * [Akshay Ajayan](http://r00tus3r.blogspot.in/2016/11/rc3-ctf-2016-logmein.html)
+* [Rick](https://github.com/rickvg/RC3-Fall-CTF-2016-write-ups/tree/master/Write-up-logmein)
+* [Ghaaf](https://github.com/Ghaaf/writeup/blob/master/RC3-2016-logmein.py)

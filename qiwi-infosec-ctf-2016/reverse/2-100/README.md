@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Lanuma](https://lanuma.web.id/qiwi-ctf-2016-reverse_100_2/)
+* [Nacayoshi](https://nacayoshi00.wordpress.com/2016/11/22/qiwi-ctf-writeup/)

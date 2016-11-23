@@ -19,3 +19,5 @@
 * [s0h3ck](https://github.com/s0h3ck/h3ck-c0ding/blob/master/CTFs/RC3%20CTF%202016/README.md#salad)
 * [Indonesian Coder](http://blog.indonesiancoder.com/)
 * [Rick](https://github.com/rickvg/RC3-Fall-CTF-2016-write-ups/tree/master/Write-up-Salad)
+* [Binary Studio](https://binarystud.io/rc3-ctf-2016-salad-crypto-100.html)
+* [s0h3ck](https://github.com/s0h3ck/h3ck-c0ding/blob/master/CTFs/RC3%20CTF%202016/README.md#salad)
