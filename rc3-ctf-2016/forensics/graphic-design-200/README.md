@@ -19,3 +19,4 @@
 * [Neolex](https://neol3x.wordpress.com/2016/11/21/graphic-design-forensics200ptsr3ctf-2016/)
 * [ABCTF Team](https://blog.abctf.xyz/rc3-fall-ctf-writeups/)
 * [HydraSec](https://ctftime.org/writeup/4750)
+* [Zero Dimension](http://lauricesite.blogspot.tw/2016/11/2016-rc3-writeup-graphic-design.html)

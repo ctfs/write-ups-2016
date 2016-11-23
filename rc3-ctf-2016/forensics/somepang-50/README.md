@@ -18,3 +18,4 @@
 * [Rawsec](http://rawsec.ml/en/RC3CTF-2016-forensics-50-somepang/)
 * [Binary Studio](https://binarystud.io/rc3-ctf-2016-some-pang-forensics-50.html)
 * [Manuel Mancera](https://github.com/Sinkmanu/CTF/blob/master/RC3-2016-Somepang-50.py)
+* [Nacayoshi](https://nacayoshi00.wordpress.com/2016/11/22/rc3-ctf-2016/)
