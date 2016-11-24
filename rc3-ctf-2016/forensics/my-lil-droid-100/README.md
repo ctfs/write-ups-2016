@@ -23,3 +23,4 @@
 * [Indonesian Coder](http://blog.indonesiancoder.com/write-up-rc3-ctf-my-lil-droid)
 * [ABCTF Team](https://blog.abctf.xyz/rc3-fall-ctf-writeups/)
 * [PhucTeam](https://phucteam.wordpress.com/2016/11/23/rc3-ctf-forensic-100-my-lil-droid/)
+* [Aneesh Kotnana](https://github.com/Alaska47/RC3CTF-2016-Writeups/tree/master/forensics/100-My-Lil-Droid)

@@ -24,3 +24,4 @@
 * [Vivi Langga](http://blackmagicexploits.com/blog/ctf/misc/all/goodtime)
 * [AVP](http://notes.avp42.com/ctf/rc3-2016/2016/11/21/rc3-2016-forensics-400.html)
 * [3696e65](https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.rc3.club/misc-150-goodtime.py)
+* [Aneesh Kotnana](https://github.com/Alaska47/RC3CTF-2016-Writeups/tree/master/misc/150-goodtime)

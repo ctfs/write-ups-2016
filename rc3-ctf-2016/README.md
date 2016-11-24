@@ -34,7 +34,8 @@
 * [rc3-ctf-2016/misc/music-to-my-ears-400](rc3-ctf-2016/misc/music-to-my-ears-400)
 * [rc3-ctf-2016/misc/find-phil-500](rc3-ctf-2016/misc/find-phil-500)
 * [rc3-ctf-2016/pwn/ims-easy-150](rc3-ctf-2016/pwn/ims-easy-150)
+* [rc3-ctf-2016/forensics/get-schwifty-500](rc3-ctf-2016/forensics/get-schwifty-500)
 
 ## Missing write-ups
 
-* [rc3-ctf-2016/forensics/get-schwifty-500](rc3-ctf-2016/forensics/get-schwifty-500)
+* none yet
