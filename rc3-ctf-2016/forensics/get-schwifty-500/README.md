@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Aneesh Kotnana](https://github.com/Alaska47/RC3CTF-2016-Writeups/blob/master/forensics/500-Get-Schwifty/README.md)
