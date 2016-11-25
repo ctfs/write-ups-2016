@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [meh (Challenge Author)](https://github.com/mehQQ/public_writeup/tree/master/hitcon2016/HeartAttack)
