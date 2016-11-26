@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : my-game-400
 
 **Category:** Crypto
-**Points:**
+**Points:** 400
 **Solves:**
 **Description:**
 

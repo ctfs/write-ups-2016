@@ -1,11 +1,11 @@
 # RC3 CTF 2016 : ims-easy-150
 
 **Category:** Pwn
-**Points:**
+**Points:** 150
 **Solves:**
 **Description:**
 
-
+> (TODO)
 
 ## Write-up
 

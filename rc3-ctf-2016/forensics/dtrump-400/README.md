@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : dtrump-400
 
 **Category:** Forensics
-**Points:**
+**Points:** 400
 **Solves:**
 **Description:**
 

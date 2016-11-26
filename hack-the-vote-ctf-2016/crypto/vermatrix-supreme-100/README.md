@@ -19,3 +19,4 @@
 * https://github.com/ymgve/ctf-writeups/tree/master/hackthevote2016/crypto100-vermatrix_supreme
 * [Aneesh Kotnana](https://github.com/Alaska47/HackTheVote-2016-Writeups/tree/master/crypto/100-Vermatrix-Supreme)
 * [Binary Studio](https://binarystud.io/hackthevote-2016-vermatrix-supreme-writeup.html)
+* [Zero Dimension](https://github.com/CTFwriteup-ZeroDimension/HackTheVote/tree/master/VermatrixSupreme)

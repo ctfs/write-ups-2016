@@ -1,11 +1,11 @@
 # RC3 CTF 2016 : card-maker-500
 
 **Category:** Pwn
-**Points:**
+**Points:** 500
 **Solves:**
 **Description:**
 
-
+> (TODO)
 
 ## Write-up
 

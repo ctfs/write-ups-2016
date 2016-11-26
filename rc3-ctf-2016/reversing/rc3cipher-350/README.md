@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : rc3cipher-350
 
 **Category:** Reversing
-**Points:**
+**Points:** 350
 **Solves:**
 **Description:**
 

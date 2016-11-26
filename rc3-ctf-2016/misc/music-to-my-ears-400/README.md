@@ -1,12 +1,11 @@
 # RC3 CTF 2016 : music-to-my-ears-400
 
 **Category:** Misc
-**Points:**
+**Points:** 400
 **Solves:**
 **Description:**
 
 > Captain's Log:
->
 >
 > Morale is low.
 >
@@ -22,3 +21,5 @@
 ## Other write-ups and resources
 
 * [B0tchSec](http://b0tchsec.com/2016/rc3ctf/beep-boop)
+* [Aneesh Kotnana](https://github.com/Alaska47/RC3CTF-2016-Writeups/blob/master/misc/400-Music-to-my-Ears/README.md)
+* [Team Free Wifi](https://www.teamfreewifi.com/ctfs/rc3/2016/music-to-my-ears/)

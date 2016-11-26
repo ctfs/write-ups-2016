@@ -1,11 +1,11 @@
 # RC3 CTF 2016 : get-schwifty-500
 
 **Category:** Forensics
-**Points:**
+**Points:** 500
 **Solves:**
 **Description:**
 
-
+> (TODO)
 
 ## Write-up
 
