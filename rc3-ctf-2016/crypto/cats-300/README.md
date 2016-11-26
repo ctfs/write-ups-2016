@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : cats-300
 
 **Category:** Crypto
-**Points:**
+**Points:** 300
 **Solves:**
 **Description:**
 

@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : calculus-200
 
 **Category:** Crypto
-**Points:**
+**Points:** 200
 **Solves:**
 **Description:**
 

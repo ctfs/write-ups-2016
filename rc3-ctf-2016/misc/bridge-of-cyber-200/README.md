@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : bridge-of-cyber-200
 
 **Category:** Misc
-**Points:**
+**Points:** 200
 **Solves:**
 **Description:**
 
@@ -22,3 +22,4 @@
 * [Indonesian Coder](http://blog.indonesiancoder.com/write-up-rc3-ctf-bridge-of-cyber)
 * [Rawsec](http://rawsec.ml/en/RC3CTF-2016-misc-200-bridge-of-cyber/)
 * [B0tchSec](http://b0tchsec.com/2016/rc3ctf/bridge-of-cyber)
+* [0xd13a](https://0xd13a.github.io/ctfs/rc3ctf2016/bridge-of-cyber)

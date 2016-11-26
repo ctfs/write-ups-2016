@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : logmein-100
 
 **Category:** Reversing
-**Points:**
+**Points:** 100
 **Solves:**
 **Description:**
 
@@ -17,3 +17,4 @@
 * [Rick](https://github.com/rickvg/RC3-Fall-CTF-2016-write-ups/tree/master/Write-up-logmein)
 * [Ghaaf](https://github.com/Ghaaf/writeup/blob/master/RC3-2016-logmein.py)
 * [Nacayoshi](https://nacayoshi00.wordpress.com/2016/11/22/rc3-ctf-2016/)
+* [0xd13a](https://0xd13a.github.io/ctfs/rc3ctf2016/logmein)

@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : agent-g-500
 
 **Category:** Crypto
-**Points:**
+**Points:** 500
 **Solves:**
 **Description:**
 

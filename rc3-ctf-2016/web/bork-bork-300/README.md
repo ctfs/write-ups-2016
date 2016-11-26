@@ -1,7 +1,7 @@
 # RC3 CTF 2016 : bork-bork-300
 
 **Category:** Web
-**Points:**
+**Points:** 300
 **Solves:**
 **Description:**
 
@@ -21,3 +21,4 @@
 
 * [Alexey Ryabov](http://f4lrik.ru/en/bork-bork-web-300-rc3-ctf/)
 * [Rawsec](http://rawsec.ml/en/RC3CTF-2016-web-300-bork-bork/)
+* [0xd13a](https://0xd13a.github.io/ctfs/rc3ctf2016/bork-bork)
