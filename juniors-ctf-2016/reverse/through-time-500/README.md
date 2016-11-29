@@ -17,7 +17,7 @@
 >
 > **Dipper:** And what next?
 >
-> **Stan:** Thank to "Through time" a great progress in science will be made. But due to a critical mistake a huge number of people will disapear out from space and time. The organization will be destroyed as well as its works. I used to think that everything is lost until I found a flash memory card and there was a programm on it 40 years ago near the police telephone box... Why was it left there?... There was also this: 4(-"K%%+3D!8C6-%5;9;=X-(/, I guess it's a message from fututre. I've always dreamt to know what is it about..
+> **Stan:** Thank to "Through time" a great progress in science will be made. But due to a critical mistake a huge number of people will disapear out from space and time. The organization will be destroyed as well as its works. I used to think that everything is lost until I found a flash memory card and there was [a program on it](https://github.com/circleous/write-ups-2016/blob/c0ba78557acbea572ff4218eb8d8e1e4d22f08ae/juniors-ctf-2016/reverse/through-time-500/ThroughTime.zip) 40 years ago near the police telephone box... Why was it left there?... There was also this: 4(-"K%%+3D!8C6-%5;9;=X-(/, I guess it's a message from fututre. I've always dreamt to know what is it about..
 >
 > **Dipper:** Gruncle! I can decode it! I need to analyse the encryption algorithm and write a decoder!
 >
