@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [0xBeefBabe](http://s.id/cPY)
+* [Manuel Mancera](https://github.com/Sinkmanu/CTF/blob/master/Juniors-2016-Hidden-500.txt)

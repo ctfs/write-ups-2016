@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Ryosuke SATO](http://jtwp470.hatenablog.jp/entry/juniors-ctf)

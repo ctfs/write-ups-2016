@@ -13,4 +13,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-recon-Here-goes/)
+* [0xBeefBabe](http://s.id/cPX)
+* [Thund3r](https://thund3rblog.wordpress.com/2016/11/26/junior-ctf-2016-crypto-300p-here-goes/)

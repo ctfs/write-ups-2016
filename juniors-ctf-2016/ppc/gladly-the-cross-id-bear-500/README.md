@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [SSSpeedgit00](https://ssspeedgit00.github.io/2016/11/28/2016-juniors-CTF/)

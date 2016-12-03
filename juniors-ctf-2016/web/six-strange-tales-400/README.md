@@ -23,4 +23,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Ryosuke SATO](http://jtwp470.hatenablog.jp/entry/juniors-ctf)
+* [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-web-Six-Strange-Tales/)
+* [0x90r00t](https://0x90r00t.com/2016/11/27/juniors-ctf-2016-web-300-six-strange-tales-write-up/)

@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Hugo Delval](http://hugodelval.com/writeup/2016%2011%2027%20-%20Juniors%20CTF/Voting%20-%20Web%20Scripting%20-%20400pts)

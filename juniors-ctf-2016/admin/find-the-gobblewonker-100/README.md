@@ -23,4 +23,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-network-Find-The-Gobblewonker/)

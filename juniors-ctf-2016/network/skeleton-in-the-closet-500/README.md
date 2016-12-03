@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-network-Skeleton-in-the-closet/)
+* [0x90r00t](https://0x90r00t.com/2016/11/27/juniors-ctf-2016-network-500-skeleton-in-the-closet-write-up/)

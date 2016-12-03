@@ -15,4 +15,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Zero Dimension](https://github.com/CTFwriteup-ZeroDimension/JuniorCTF-2016/tree/master/DirtyRepo)
+* [Thund3r](https://thund3rblog.wordpress.com/2016/11/28/junior-ctf-2016-forensic-400p-dirty-repo/)
+* [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-forensics-Dirty-Repo/)
