@@ -33,8 +33,8 @@
 
 * [network/urengoy-pomary-uzhgorod-500](network/urengoy-pomary-uzhgorod-500)
 * [crypto/webmonkey-500](crypto/webmonkey-500)
-* [crypto/all-your-base-are-belong-to-us-500](crypto/all-your-base-are-belong-to-us-500)
 * [crypto/lets-decrypt-500](crypto/lets-decrypt-500)
+* [crypto/all-your-base-are-belong-to-us-500](crypto/all-your-base-are-belong-to-us-500)
 * [reverse/gravity-authenticator-500](reverse/gravity-authenticator-500)
 * [reverse/concatenation-500](reverse/concatenation-500)
 * [reverse/through-time-500](reverse/through-time-500)
