@@ -15,4 +15,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Zero Dimension](https://github.com/CTFwriteup-ZeroDimension/JuniorCTF-2016/tree/master/CloneAttack)
+* [Ryosuke SATO](http://jtwp470.hatenablog.jp/entry/juniors-ctf)
+* [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-forensics-clone-attack/)

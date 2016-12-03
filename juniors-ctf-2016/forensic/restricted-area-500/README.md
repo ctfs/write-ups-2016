@@ -22,4 +22,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Yacine Ouarezki](https://github.com/Yacine101/CTF_SOLUTIONS/blob/master/RESTRICTED_AREA_admin.md)
+* [Ryosuke SATO](http://jtwp470.hatenablog.jp/entry/juniors-ctf)

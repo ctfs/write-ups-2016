@@ -33,4 +33,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-forensics-Lost-everything-but-hope/)
+* [0x90r00t](https://0x90r00t.com/2016/11/27/juniors-ctf-2016-forensic-500-lost-everything-but-hope-write-up/)

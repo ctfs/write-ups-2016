@@ -57,4 +57,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Zero Dimension](https://github.com/CTFwriteup-ZeroDimension/JuniorCTF-2016/tree/master/LostCode)

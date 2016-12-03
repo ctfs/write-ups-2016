@@ -27,4 +27,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [0x90r00t](https://0x90r00t.com/2016/11/27/juniors-ctf-2016-misc-500-oldschool-write-up/)

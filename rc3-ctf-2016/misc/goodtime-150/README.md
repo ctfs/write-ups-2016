@@ -26,3 +26,4 @@
 * [3696e65](https://github.com/73696e65/ctf-notes/blob/master/2016-ctf.rc3.club/misc-150-goodtime.py)
 * [Aneesh Kotnana](https://github.com/Alaska47/RC3CTF-2016-Writeups/tree/master/misc/150-goodtime)
 * [Auke Zwaan](http://aukezwaan.nl/tutorials/rc3-ctf-2016-goodtime-150-points/)
+* [Zero Dimension](https://github.com/CTFwriteup-ZeroDimension/RC3-2016/tree/master/GoodTime)

@@ -18,3 +18,4 @@
 * [Ghaaf](https://github.com/Ghaaf/writeup/blob/master/RC3-2016-logmein.py)
 * [Nacayoshi](https://nacayoshi00.wordpress.com/2016/11/22/rc3-ctf-2016/)
 * [0xd13a](https://0xd13a.github.io/ctfs/rc3ctf2016/logmein)
+* [Zero Dimension](https://github.com/CTFwriteup-ZeroDimension/RC3-2016/tree/master/Logmein)

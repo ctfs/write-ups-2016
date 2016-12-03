@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Adeptex](https://github.com/adeptex/CTF/blob/master/forum-for-all.md)
