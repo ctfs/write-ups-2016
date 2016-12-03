@@ -5,7 +5,16 @@
 **Solves:**
 **Description:**
 
-(TODO)
+    SAM'S PIZZAS
+
+    by dok
+    100 points
+
+    How much do you love pizza ?
+
+    Remarks : "there are some guessing..."
+
+    Download
 
 ## Write-up
 
