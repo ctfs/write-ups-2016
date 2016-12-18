@@ -61,14 +61,14 @@ LosT.x64: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked
 Lets take a look on the binary
 ```
 % ./LosT.x64
-This is a safe bruteforcer Lost. Try to guess (32*[0-9a-f]: 
+This is a safe bruteforcer Lost. Try to guess (32*[0-9a-f]:
 Success -- 1; Fail --0
 Options
 -b, start bruteforce
 -h, show this help
 Example: ./LosT -b 0123456789abcdef0123456789abcdef
 ```
-Given 32 chars [0-9a-f] and we need to make the output to success (all 1). 
+Given 32 chars [0-9a-f] and we need to make the output to success (all 1).
 By finding which byte is true(on)..
 ```
 key    "                                "
@@ -115,3 +115,4 @@ The flag is `616dc3888a99170c5b8aa721d925ac68`
 ## Other write-ups and resources
 
 * [Zero Dimension](https://github.com/CTFwriteup-ZeroDimension/JuniorCTF-2016/tree/master/LostCode)
+* [SST CTF](https://github.com/SST-CTF/writeups/tree/master/Juniors%20CTF/LosT%20Code)

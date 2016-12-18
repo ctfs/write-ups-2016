@@ -38,3 +38,4 @@
 
 * [Jules Tucker](https://github.com/JulesDT/ctfWriteUps/tree/master/Junior%20CTF%202016/Southern%20Cross%20-%20Crypto%20-%20300)
 * [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-crypto-southern-cross/)
+* [SST CTF](https://github.com/SST-CTF/writeups/tree/master/Juniors%20CTF/Southern%20Cross)

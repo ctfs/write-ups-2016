@@ -1,0 +1,17 @@
+# Sharif 2016 : tehran-487
+
+**Category:** Sharif-Ctf-2016
+**Points:** 
+**Solves:** 
+**Description:**
+
+> We live in Tehran city. nc ctf.sharif.edu 54515 [Download](<http://ctf.sharif.edu/ctf7/api/download/50)>
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet

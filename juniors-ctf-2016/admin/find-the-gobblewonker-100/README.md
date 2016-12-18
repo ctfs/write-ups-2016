@@ -24,3 +24,4 @@
 ## Other write-ups and resources
 
 * [Rawsec](http://rawsec.ml/en/JuniorCTF-2016-network-Find-The-Gobblewonker/)
+* [SST CTF](https://github.com/SST-CTF/writeups/tree/master/Juniors%20CTF/Find%20The%20Gobblewonker)

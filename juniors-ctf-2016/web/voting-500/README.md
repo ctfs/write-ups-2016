@@ -20,3 +20,5 @@
 ## Other write-ups and resources
 
 * [Hugo Delval](http://hugodelval.com/writeup/2016%2011%2027%20-%20Juniors%20CTF/Voting%20-%20Web%20Scripting%20-%20400pts)
+* [SST CTF](https://github.com/SST-CTF/writeups/tree/master/Juniors%20CTF/Voting!!!)
+* [1DEA](https://ctftime.org/writeup/4926)
