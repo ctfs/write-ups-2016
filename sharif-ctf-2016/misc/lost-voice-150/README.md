@@ -1,0 +1,17 @@
+# Sharif 2016 : lost-voice-150
+
+**Category:** Sharif-Ctf-2016
+**Points:** 
+**Solves:** 
+**Description:**
+
+> Concatenate the flag parts! [Download](<http://ctf.sharif.edu/ctf7/api/download/35)>
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet
