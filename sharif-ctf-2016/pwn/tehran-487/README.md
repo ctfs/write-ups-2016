@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * [LosFuzzys](https://losfuzzys.github.io/writeup/2016/12/18/sharifctf7-tehran/)
+* [irGeeks](https://github.com/irGeeks/ctf/tree/master/2016-SharifCTF7/tehran)
