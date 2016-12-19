@@ -14,3 +14,5 @@
 ## Other write-ups and resources
 
 * [Himacrot](https://github.com/spyoff/ctf-writeup/tree/master/sharifctf-2016/misc-100-camera-model)
+* [YoloSw4g](https://github.com/Iansus/writeups/tree/master/2016/SharifCTF7/Pwn-CameraModel)
+* [InfoSecIITR](https://github.com/InfoSecIITR/write-ups/tree/master/2016/SharifCTF-2016/misc-100)

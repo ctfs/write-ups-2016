@@ -15,3 +15,5 @@
 ## Other write-ups and resources
 
 * [LosFuzzys](https://losfuzzys.github.io/writeup/2016/12/18/sharifctf7-guess-persian-nomoreblind/)
+* [YoloSw4g](https://github.com/Iansus/writeups/tree/master/2016/SharifCTF7/Pwn-Guess)
+* [InfoSecIITR](https://github.com/InfoSecIITR/write-ups/tree/master/2016/SharifCTF-2016/pwn-50)

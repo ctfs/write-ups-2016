@@ -18,3 +18,5 @@
 * [Akshay Ajayan](http://r00tus3r.blogspot.in/2016/12/sharif-ctf-re-challenges.html)
 * [Khiem Doan (Korean)](https://youtu.be/Rvhk3T0bYO0)
 * [Mohamed Chamli](https://youtu.be/swuXXF-TZyM)
+* [Harvey Hunt](https://github.com/HarveyHunt/ctfs/blob/master/2016/sharif/reverse/getit/getit.md)
+* [InfoSecIITR](https://github.com/InfoSecIITR/write-ups/tree/master/2016/SharifCTF-2016/rev-50)
