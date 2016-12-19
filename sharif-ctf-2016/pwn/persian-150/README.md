@@ -1,8 +1,8 @@
 # Sharif 2016 : persian-150
 
 **Category:** Sharif-Ctf-2016
-**Points:** 
-**Solves:** 
+**Points:**
+**Solves:**
 **Description:**
 
 > Iran's first language is Persian, not Arabic! nc ctf.sharif.edu 54514
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [LosFuzzys](https://losfuzzys.github.io/writeup/2016/12/18/sharifctf7-guess-persian-nomoreblind/)
