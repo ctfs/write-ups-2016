@@ -14,4 +14,6 @@ What is admin's password?:-)
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/blob/master/2016-12-10-seccon-2016-quals/web_100_basiq/README.md
+* http://n1ghtingale.me/write-ups/2016/12/12/SECCON-2016-Web-100-basiq-writeup.html
+* https://youtu.be/zNVMeLSUepM

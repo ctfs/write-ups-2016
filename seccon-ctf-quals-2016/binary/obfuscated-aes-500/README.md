@@ -14,4 +14,4 @@ Decrypt it.
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.repo.kr/2016/12/seccon-2016-online-ctf-binarycrypto500_13.html

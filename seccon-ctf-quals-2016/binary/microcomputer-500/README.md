@@ -41,4 +41,4 @@ Reference:
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/q3k/ctf/tree/master/SECCON2016Quals/microcomputer

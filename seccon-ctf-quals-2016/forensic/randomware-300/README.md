@@ -20,4 +20,5 @@ password: h9nn4c2955kik9qti9xphuxti
 
 ## Other write-ups and resources
 
-* none yet
+* https://gist.github.com/Lense/421d39318745549a0f26aef44541c8ef
+* https://github.com/tothi/ctfs/tree/master/seccon-quals-ctf-2016/randomware

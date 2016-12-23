@@ -51,4 +51,14 @@ https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 
 ## Other write-ups and resources
 
-* none yet
+* http://aukezwaan.nl/write-ups/seccon-2016-online-ctf-vigenere-100-points/
+* https://github.com/p4-team/ctf/tree/master/2016-12-10-seccon-2016-quals/vigenere
+* https://github.com/pogTeam/writeups/blob/master/2016/seccon/Vigenere/README.md
+* https://nacayoshi00.wordpress.com/2016/12/12/seccon-2016-online-writeup/
+* https://0xd13a.github.io/ctfs/seccon2016/vigenere
+* https://ctftime.org/writeup/4982
+* https://ctftime.org/writeup/4980
+* https://github.com/Inndy/ctf-writeup/tree/master/2016-seccon/vigenere
+* https://www.youtube.com/watch?v=OJ65pbaG84M
+* https://j-kruse.de/2016/12/11/100-vigenere/
+* https://github.com/pr0v3rbs/CTF/blob/master/2016/SECCON/Vigenere/decode.py

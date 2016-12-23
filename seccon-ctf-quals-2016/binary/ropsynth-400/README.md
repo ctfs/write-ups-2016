@@ -22,4 +22,4 @@ Read "secret" and output the content such as the following code.
 
 ## Other write-ups and resources
 
-* none yet
+* https://tasteless.eu/post/2016/12/seccon-ropsynth/
