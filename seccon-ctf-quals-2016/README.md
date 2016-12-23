@@ -5,13 +5,9 @@
 
 ## Completed write-ups
 
-* none yet
+* [exploit/jmper-300](exploit/jmper-300)
 
 ## External write-ups only
-
-* none yet
-
-## Missing write-ups
 
 * [forensic/randomware-300](forensic/randomware-300)
 * [forensic/memory-analysis-100](forensic/memory-analysis-100)
@@ -22,12 +18,8 @@
 * [binary/microcomputer-500](binary/microcomputer-500)
 * [binary/ropsynth-400](binary/ropsynth-400)
 * [binary/lost-decryption-200](binary/lost-decryption-200)
-* [crypto](crypto)
-* [crypto/backpackers-capricious-cipher-200](crypto/backpackers-capricious-cipher-200)
-* [crypto/png-over-telegraph-300](crypto/png-over-telegraph-300)
-* [crypto/alphacomplex2-500](crypto/alphacomplex2-500)
-* [crypto/alphacomplex1-300](crypto/alphacomplex1-300)
 * [crypto/vigenere-100](crypto/vigenere-100)
+* [exploit/mboard-500](exploit/mboard-500)
 * [exploit/cheer-msg-100](exploit/cheer-msg-100)
 * [exploit/tinypad-300](exploit/tinypad-300)
 * [exploit/missle-400](exploit/missle-400)
@@ -39,3 +31,10 @@
 * [web/pppppoxy-200](web/pppppoxy-200)
 * [web/basiq-100](web/basiq-100)
 * [web/biscuiti-300](web/biscuiti-300)
+
+## Missing write-ups
+
+* [crypto/backpackers-capricious-cipher-200](crypto/backpackers-capricious-cipher-200)
+* [crypto/png-over-telegraph-300](crypto/png-over-telegraph-300)
+* [crypto/alphacomplex2-500](crypto/alphacomplex2-500)
+* [crypto/alphacomplex1-300](crypto/alphacomplex1-300)
