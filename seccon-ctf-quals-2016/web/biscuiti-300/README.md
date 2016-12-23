@@ -15,4 +15,6 @@ Can you login as admin?
 
 ## Other write-ups and resources
 
-* none yet
+* http://crypto.rop.sh/post/2ODE1D5GNUUH
+* https://gist.github.com/sonickun/dba8163394b849f70b968690c02c169b
+

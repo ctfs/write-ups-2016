@@ -14,4 +14,4 @@ Reverse it.
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/Inndy/ctf-writeup/tree/master/2016-seccon/retrospectiv

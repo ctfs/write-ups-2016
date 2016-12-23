@@ -16,4 +16,5 @@ Please help me.
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/Inndy/ctf-writeup/tree/master/2016-seccon/lost_decryption
+* http://van.prooyen.com/reversing/cryptography/2016/12/11/Lost-Decryption-Writeup.html
