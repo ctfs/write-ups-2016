@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* https://c0riolis.github.io/post/whitehat-grandprix-2016-re200/

@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* http://rawsec.ml/en/WhiteHat-GrandPrix-2016-forensics-300-Banh-it-la-gai/

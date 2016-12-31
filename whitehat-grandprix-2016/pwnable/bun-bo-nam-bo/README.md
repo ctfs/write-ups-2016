@@ -25,4 +25,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* https://david942j.blogspot.fr/2016/12/write-up-whitehat-grand-prix-2016_21.html
