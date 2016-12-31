@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* https://github.com/p4-team/ctf/tree/master/2016-12-16-whitehat/hello

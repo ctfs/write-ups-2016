@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* http://rawsec.ml/en/WhiteHat-GrandPrix-2016-misc-100-Banh-da-Ke/
