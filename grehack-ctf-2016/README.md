@@ -1,6 +1,6 @@
 # GreHack CTF 2016 write-ups
 
-* [GreHack.org](https://grehack.org/en/)
+* [GreHack.fr](https://grehack.fr/)
 * [Scoreboard](TODO) or [local alternative](TODOLOCAL)
 
 ## Completed write-ups
