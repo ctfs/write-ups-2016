@@ -88,4 +88,4 @@ __Answer: noWEP__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-regular-season-2/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-regular-season-2/)
