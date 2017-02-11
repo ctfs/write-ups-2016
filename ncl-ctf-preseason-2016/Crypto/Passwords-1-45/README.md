@@ -1,4 +1,4 @@
-# NCL 2016 Preseason : Passwords-45
+# NCL 2016 Preseason : Passwords-1-45
 
 __Category__: Crypto
 
@@ -48,4 +48,4 @@ __Answer: mattersail62__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-crypto/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-crypto/)
