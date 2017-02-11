@@ -288,4 +288,4 @@ __Answer: http://216.242.103.2:3000/uploader.php__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-regular-season-1/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-regular-season-1/)
