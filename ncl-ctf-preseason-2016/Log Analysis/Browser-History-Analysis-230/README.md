@@ -100,4 +100,4 @@ __Answer: 176.223.201.198__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-log-analysis/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-log-analysis/)
