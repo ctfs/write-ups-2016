@@ -172,4 +172,4 @@ __Answer: NCL-FJCG-1632__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-network-analysis2/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-network-analysis2/)
