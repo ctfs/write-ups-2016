@@ -1,4 +1,4 @@
-# NCL 2016 Preseason : Network-Traffic-Analysis-Report-DNS-100
+# NCL 2016 Preseason : Network-Traffic-Analysis-DNS-100
 
 __Category__: Network Traffic Analysis
 __Points__: 100
