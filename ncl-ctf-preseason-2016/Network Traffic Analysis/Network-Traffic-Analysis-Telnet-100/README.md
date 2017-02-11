@@ -76,4 +76,4 @@ __Answer: armv4tl__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-network-analysis2/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-network-analysis2/)
