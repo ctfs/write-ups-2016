@@ -52,4 +52,4 @@ __Answer: mattersail__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-crypto/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-crypto/)
