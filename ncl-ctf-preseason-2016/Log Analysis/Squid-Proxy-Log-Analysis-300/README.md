@@ -110,4 +110,4 @@ __Answer: http://liveupdate.symantecliveupdate.com/streaming/...__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-log-analysis/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-log-analysis/)
