@@ -94,4 +94,4 @@ __Answer: 213__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-network-analysis1/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-network-analysis1/)
