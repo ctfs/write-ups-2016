@@ -93,4 +93,4 @@ __Answer: node-v7.1.0.pkg__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-regular-season-1/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-regular-season-1/)
