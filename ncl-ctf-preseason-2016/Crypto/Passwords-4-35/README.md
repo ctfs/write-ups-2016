@@ -41,4 +41,4 @@ __Answer: grab the emails off the mailserver__
 
 ## Other Write-ups and Resources
 
-* https://jhalon.github.io/ncl-crypto/
+* [Jack Halon - KKB](https://jhalon.github.io/ncl-crypto/)
