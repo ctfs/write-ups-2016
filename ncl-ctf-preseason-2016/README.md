@@ -2,7 +2,7 @@
 
 * https://www.nationalcyberleague.org/fall-season
 
-<a href="https://raw.githubusercontent.com/jhalon/jhalon.github.io/master/images/ncl1.png"><img src="https://raw.githubusercontent.com/jhalon/jhalon.github.io/master/images/ncl1.png></a>
+<a href="https://raw.githubusercontent.com/jhalon/jhalon.github.io/master/images/ncl1.png"><img src="https://raw.githubusercontent.com/jhalon/jhalon.github.io/master/images/ncl1.png"></a>
 
 
 ### Completed write-ups
