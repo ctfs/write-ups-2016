@@ -94,7 +94,7 @@ __Answer: 3303628e25d43be4e11cc8878c5c5878__
 
 __What file does the anonymous user download?__
 
-Once again, back in the TPC stream, at stream 4 - we see that someone is logging in as anonymous. The file name that we need for our answer is used with the __RETR__ command.
+Once again, back in the TPC stream, on stream 4 - we see that someone is logging in as anonymous. The file name that we need for our answer is used with the __RETR__ command.
 
 <a href="https://jhalon.github.io/images/ncl-ftp4.png"><img src="https://jhalon.github.io/images/ncl-ftp4.png"></a>
 
