@@ -20,4 +20,4 @@ NOTE: For testing, you can use [this Docker container](shjail.tar.xz) to reprodu
 
 ## Other write-ups and resources
 
-* none yet
+* https://galhacktictrendsetters.wordpress.com/2017/01/06/33c3-ctf-shjail/

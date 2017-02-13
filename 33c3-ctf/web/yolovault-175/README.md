@@ -17,4 +17,4 @@ NOTE: The admin uses PhantomJS with a 5 seconds timeout.
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/pashosh-ctf/yolovault

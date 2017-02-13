@@ -16,4 +16,4 @@ Apparently it is in the database table flag which has 4 columns, that's all he k
 
 ## Other write-ups and resources
 
-* none yet
+* http://secgroup.github.io/2017/01/03/33c3ctf-writeup-shia/

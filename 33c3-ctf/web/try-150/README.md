@@ -15,4 +15,5 @@ Flag is in /challenge/flag
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/blob/master/2016-12-27-33c3/web_150_try/README.md
+* http://rawsec.ml/en/C3CTF-33-150-try-web/

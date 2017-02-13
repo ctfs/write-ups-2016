@@ -15,4 +15,4 @@ You only live once, so why [search](http://78.46.224.80:1337/) twice?
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/p4-team/ctf/blob/master/2016-12-27-33c3/web_250_yoso/README.md

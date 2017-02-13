@@ -17,4 +17,4 @@ Note: this challenge is rate limited
 
 ## Other write-ups and resources
 
-* none yet
+* https://piggybird.net/2016/12/33c3-ctf-smartfridge2-writeup-crypto-75/

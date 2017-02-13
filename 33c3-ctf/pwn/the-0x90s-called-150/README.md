@@ -17,4 +17,5 @@ If you want to try it locally first, [check this out](https://archive.aachen.ccc
 
 ## Other write-ups and resources
 
-* none yet
+* http://www.megabeets.net/33c3-ctf-0x90s-called-writeup/
+* http://bruce30262.logdown.com/posts/1255925-33c3-ctf-2016-the-0x90s-called
