@@ -1,7 +1,7 @@
 # 33c3 CTF write-ups
 
 * <https://archive.aachen.ccc.de/33c3ctf.ccc.ac/index.html>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://archive.aachen.ccc.de/33c3ctf.ccc.ac/scoreboard/index.html) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
