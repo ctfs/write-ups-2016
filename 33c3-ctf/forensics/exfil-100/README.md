@@ -15,4 +15,7 @@ Can you help?
 
 ## Other write-ups and resources
 
-* none yet
+* https://0xd13a.github.io/ctfs/33c3/exfil/
+* https://github.com/zbetcheckin/33C3_CTF_2k16
+* https://github.com/EdwardPwnden/ctf-2016/tree/master/33c3/exfil
+* https://github.com/Migdalo/writeups/tree/master/2016-cc3c-ctf/exfil

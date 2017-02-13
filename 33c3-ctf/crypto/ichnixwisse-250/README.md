@@ -15,4 +15,4 @@ Somebody told me graph coloring is hard. He didn't believe me that I have the pe
 
 ## Other write-ups and resources
 
-* none yet
+* https://galhacktictrendsetters.wordpress.com/2017/01/04/33c3-ctf-ichnixwisse/

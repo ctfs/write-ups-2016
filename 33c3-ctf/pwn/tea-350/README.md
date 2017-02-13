@@ -17,4 +17,4 @@ environment: docker run -i -t tsuro/nsjail-ctf /bin/bash
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/ymgve/ctf-writeups/tree/master/33c3_ctf/pwn350-tea

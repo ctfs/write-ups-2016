@@ -19,4 +19,4 @@ ATTENTION: this challenge is rate limited to 15 connections / minute. Your conne
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/InfoSecIITR/write-ups/tree/master/2016/33c3-ctf-2016/misc/hohoho

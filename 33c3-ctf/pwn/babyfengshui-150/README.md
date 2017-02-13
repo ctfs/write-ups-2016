@@ -15,4 +15,6 @@ They asked me to write the best application to store our users profile, so I did
 
 ## Other write-ups and resources
 
-* none yet
+* https://galhacktictrendsetters.wordpress.com/2017/01/05/33c3-ctf-babyfengshui/
+* https://github.com/murmus/ctf/tree/master/events/33c3ctf/babyfengshui
+* http://bruce30262.logdown.com/posts/1256093-33c3-ctf-2016-babyfengshui

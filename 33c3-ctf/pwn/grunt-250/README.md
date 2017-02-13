@@ -13,4 +13,4 @@ Pokepwn [this](grunt)! nc 78.46.224.90 1337
 
 ## Other write-ups and resources
 
-* none yet
+* https://github.com/murmus/ctf/tree/master/events/33c3ctf/grunt

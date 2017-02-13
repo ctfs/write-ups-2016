@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* http://bruce30262.logdown.com/posts/1256252-33c3-ctf-2016-rec

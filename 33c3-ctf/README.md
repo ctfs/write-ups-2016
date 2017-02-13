@@ -9,26 +9,12 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * [reversing/smartfridge1-150](reversing/smartfridge1-150)
-* [reversing/mario-350](reversing/mario-350)
-* [reversing/someta1-250](reversing/someta1-250)
-* [pwn/coercive-600](pwn/coercive-600)
-* [pwn/feuerfuchs-600](pwn/feuerfuchs-600)
 * [pwn/grunt-250](pwn/grunt-250)
-* [pwn/spacebox-600](pwn/spacebox-600)
-* [pwn/ohfortuna-300](pwn/ohfortuna-300)
 * [pwn/babyfengshui-150](pwn/babyfengshui-150)
 * [pwn/rec-200](pwn/rec-200)
-* [pwn/read-eval-pwn-loop-525](pwn/read-eval-pwn-loop-525)
-* [pwn/sftp-525](pwn/sftp-525)
 * [pwn/the-0x90s-called-150](pwn/the-0x90s-called-150)
 * [pwn/espr-150](pwn/espr-150)
-* [pwn/recurse-500](pwn/recurse-500)
-* [pwn/smartfridge3-100](pwn/smartfridge3-100)
 * [pwn/tea-350](pwn/tea-350)
 * [ppc/someta2-250](ppc/someta2-250)
 * [misc/hohoho-350](misc/hohoho-350)
@@ -44,3 +30,16 @@
 * [web/try-150](web/try-150)
 * [web/yolovault-175](web/yolovault-175)
 * [web/list0r-400](web/list0r-400)
+
+## Missing write-ups
+
+* [reversing/mario-350](reversing/mario-350)
+* [reversing/someta1-250](reversing/someta1-250)
+* [pwn/coercive-600](pwn/coercive-600)
+* [pwn/feuerfuchs-600](pwn/feuerfuchs-600)
+* [pwn/spacebox-600](pwn/spacebox-600)
+* [pwn/ohfortuna-300](pwn/ohfortuna-300)
+* [pwn/read-eval-pwn-loop-525](pwn/read-eval-pwn-loop-525)
+* [pwn/sftp-525](pwn/sftp-525)
+* [pwn/recurse-500](pwn/recurse-500)
+* [pwn/smartfridge3-100](pwn/smartfridge3-100)

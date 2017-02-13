@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://galhacktictrendsetters.wordpress.com/2017/01/04/33c3-ctf-beeblebrox/

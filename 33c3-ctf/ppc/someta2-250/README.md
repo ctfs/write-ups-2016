@@ -16,4 +16,4 @@ NOTE: This is the same as someta1, but with harder constraints.
 
 ## Other write-ups and resources
 
-* none yet
+* https://kimiyuki.net/blog/2016/12/30/33c3-ctf-someta2/
