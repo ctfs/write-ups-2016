@@ -1,7 +1,6 @@
 # National Cyber League Postseason 2016 write-ups
 
-#### todo: add local alternative
-* [local alternative](scoreboard.txt)
+* [local alternative](scoreboard.md)
 
 ## Repo-local write-ups
 
