@@ -4,7 +4,8 @@
 
 ## Repo-local write-ups
 
-* TODO
+* [enumeration-and-exploitation/enum4-checker-100](enumeration-and-exploitation/enum4-checker-100)
+* [log-analysis/log2-vsftpd-95](log-analysis/log2-vsftpd-95)
 
 ## External write-ups only
 
@@ -23,10 +24,8 @@
 * [enumeration-and-exploitation/enum1-coffee-75](enumeration-and-exploitation/enum1-coffee-75)
 * [enumeration-and-exploitation/enum2-peace-150](enumeration-and-exploitation/enum2-peace-150)
 * [enumeration-and-exploitation/enum3-llamas-150](enumeration-and-exploitation/enum3-llamas-150)
-* [enumeration-and-exploitation/enum4-checker-100](enumeration-and-exploitation/enum4-checker-100)
 * [enumeration-and-exploitation/enum5-boom-boom-240](enumeration-and-exploitation/enum5-boom-boom-240)
 * [log-analysis/log1-fail2ban-45](log-analysis/log1-fail2ban-45)
-* [log-analysis/log2-vsftpd-95](log-analysis/log2-vsftpd-95)
 * [log-analysis/log3-applog-100](log-analysis/log3-applog-100)
 * [network-traffic-analysis/web1-web-1-50](network-traffic-analysis/web1-web-1-50)
 * [network-traffic-analysis/web2-web-2-100](network-traffic-analysis/web2-web-2-100)
