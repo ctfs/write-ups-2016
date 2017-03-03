@@ -1,0 +1,348 @@
+#	Team	Country	Points
+1	HydraBus	fr	5,700
+2	gijs	nl	4,900
+3	Balda	ch	4,600
+4	CaptureTheSwag	au	3,200
+5	S0S1	ua	3,100
+6	Zeta Two	se	3,100
+7	MotherHUckers	hu	3,050
+8	Yohanes Nugroho	th	3,000
+9	SWUK!	de	2,900
+10	dqi	nl	2,500
+11	HuhnScheibe	id	2,200
+12	noopwafel	nl	2,150
+13	f0f	de	2,100
+14	Team Plebe	fr	2,050
+15	Paniscia	it	1,900
+16	LiveOverflow	de	1,800
+17	pakesson	se	1,650
+18	Azox	ch	1,600
+19	ar1s	be	1,450
+20	Secuhack	de	1,350
+21	poney	fr	1,300
+22	EPAD	dk	1,200
+23	#10111	de	1,150
+24	littlenarwhals	us	1,150
+25	hoeg	dk	1,000
+26	0xBU	us	1,000
+27	Tolstoy's Beard	ru	1,000
+28	Tasteless	de	850
+29	soez	es	850
+30	h4ng3r	es	850
+31	n0w	es	850
+32	BarbaTeam	es	650
+33	CompArch	us	650
+34	miceopede	us	600
+35	inc	gb	550
+36	Argus	il	500
+37	grimmlin	ch	450
+38	PaellaValenciana	es	400
+39	kag	fr	400
+40	#!42	nl	300
+41	ius	nl	300
+42	dcua-school	ua	300
+43	Aivan Sama	fi	300
+44	zosen	es	300
+45	duks	ch	300
+46	EEP Labs	it	300
+47	BluEMP	us	300
+48	papa-g	nl	200
+49	fox	it	200
+50	manolis	de	200
+51	'';!--"<XSS>=&{()}	ru	200
+52	SatProf	nl	200
+53	Notional Labs	gb	150
+54	rs	es	100
+55	12345	ru	100
+56	Maxovitch	nl	100
+57	Team Polybius	it	100
+58	rocco	hu	100
+59	Dragon Sector	va	100
+60	groupies	ca	100
+61	ajax	fr	100
+62	loboteam	es	100
+63	PACE	sg	100
+64	dropkick	us	100
+65	breadsticks	us	100
+66	timcess	ru	100
+67	Iknownothing_ImfromBarcelona	nl	100
+68	chad	us	0
+69	Prion	gb	0
+70	aniopahojaz	mu	0
+71	invapid	us	0
+72	NullPtr	pl	0
+73	Santiagogf89	es	0
+74	jabbink	nl	0
+75	Spartan2016TE	dk	0
+76	thvdburgt	nl	0
+77	iqademaxezu	bn	0
+78	thefilesareinthecomputer	us	0
+79	Noob	dk	0
+80	authwcf	au	0
+81	pork	us	0
+82	BitPwn3rs	ro	0
+83	vivuuwoviruuz	ng	0
+84	Euler's Identity	hu	0
+85	Atarii	gb	0
+86	none	us	0
+87	team_tom	il	0
+88	aipunude	sv	0
+89	sp3ctr3	in	0
+90	Leet Haxors	us	0
+91	test56	fr	0
+92	Dystopian Narwhals	sg	0
+93	renegades	ro	0
+94	CardiffComputingClub	gb	0
+95	Nickers	de	0
+96	HW@262	sg	0
+97	Jaime Sandoval	mx	0
+98	Psymera	mx	0
+99	0xOPOSEC	pt	0
+100	blackbunny	fr	0
+101	mitb	so	0
+102	GanbaruTeam	de	0
+103	uluxuom	af	0
+104	Juancar Xilinx	ie	0
+105	testtest	sg	0
+106	PTL	ch	0
+107	Peta909	sg	0
+108	MeshX93	de	0
+109	Canadia	ca	0
+110	purge	us	0
+111	Team Vocaloid	nl	0
+112	metalamin	es	0
+113	qwokka	us	0
+114	ibadazezuaen	pr	0
+115	wombat	sg	0
+116	CRyPT @ WPI	us	0
+117	Mergen	tr	0
+118	javox	ma	0
+119	pollypocket	be	0
+120	likelihood	id	0
+121	BabyPhD	it	0
+122	ekotjzeqoqif	gb	0
+123	nicovell3	es	0
+124	Asdfg	cz	0
+125	siba7eros	ph	0
+126	HARBIWARE	tr	0
+127	sk3wl	us	0
+128	Xiia0F1aGGer$	sg	0
+129	arikeuz	gu	0
+130	N4NU	jp	0
+131	llllll	gb	0
+132	diblu	ro	0
+133	enovella	es	0
+134	SSERL	cn	0
+135	BigLike	ru	0
+136	nekoware	es	0
+137	HackEnBarra	es	0
+138	Ramiro	nl	0
+139	itszn	us	0
+140	Fail-Lanks	za	0
+141	ZeroFearSyndrom	fr	0
+142	what_am_i_doing	nl	0
+143	Randomdata	nl	0
+144	PillowyMoundsofMashedPotatoes	us	0
+145	mick	nl	0
+146	QED	it	0
+147	DATATECH	tn	0
+148	TicketHack	fr	0
+149	baukencur	id	0
+150	mambru	mx	0
+151	Team Midas	gb	0
+152	eniesatafebis	uz	0
+153	as1	de	0
+154	Yaoi Boyz	us	0
+155	bitwise	es	0
+156	Haxelion	be	0
+157	0xdeadbeef	pr	0
+158	samvartaka	nl	0
+159	XOR	dz	0
+160	AccentureTVM	cz	0
+161	auieera	cy	0
+162	Terms of Enrampagement	us	0
+163	test	nl	0
+164	Multifactor.net	ca	0
+165	BlueKitchen	ch	0
+166	Serre	us	0
+167	ololowa	ua	0
+168	oxucaroloyy	ch	0
+169	oreshki	nl	0
+170	tom	il	0
+171	iepzaokkewopa	qa	0
+172	DFCI	id	0
+173	roka	se	0
+174	dumpsh0ck	nl	0
+175	fnord	sg	0
+176	Ascope	fr	0
+177	nohats	de	0
+178	polym	de	0
+179	MK	us	0
+180	cnc	th	0
+181	mouser	jp	0
+182	Pouete	ch	0
+183	nezlooy	ru	0
+184	Shellphish	us	0
+185	BroEvem	ch	0
+186	blp	ch	0
+187	qqqqqq	nl	0
+188	sirpoot	sg	0
+189	dimsat	us	0
+190	5Minutes	fr	0
+191	nabirise	dz	0
+192	LT	cn	0
+193	Martin	nl	0
+194	cccac	de	0
+195	just_me	it	0
+196	CheetoBandito	us	0
+197	peperoni	ar	0
+198	obizugivusasa	br	0
+199	TRUMPY	es	0
+200	BadIntentions	ro	0
+201	Team ur0	in	0
+202	KMS	es	0
+203	ARTeam	sg	0
+204	rpp0	be	0
+205	glem	au	0
+206	eyuomacobafi	ml	0
+207	Pat Le Panda	fr	0
+208	From zero to hero	id	0
+209	JM	ca	0
+210	High Entr0py	it	0
+211	cm7bv	us	0
+212	Abdelkader	ma	0
+213	uacuheboyeq	mn	0
+214	DiaLluvioso	es	0
+215	icke	de	0
+216	goto solution	nl	0
+217	BrosEvem	ch	0
+218	Mrtn	no	0
+219	nic-lovin	ca	0
+220	Asdfg2	cz	0
+221	xsz	es	0
+222	xzaramurd	ro	0
+223	ElpidioValdes	cu	0
+224	1234	nl	0
+225	OSS	hr	0
+226	Pwnium	tn	0
+227	anal0gsurf3r	ca	0
+228	n00bie	in	0
+229	jdr	nl	0
+230	abaommeviqed	gh	0
+231	Team noop	dk	0
+232	p7mx	de	0
+233	deletemeplz	nl	0
+234	NullStack	nl	0
+235	broglek	us	0
+236	waugh	fr	0
+237	Potato	mk	0
+238	Blue Haxor	id	0
+239	gatin00b	ca	0
+240	opimife	ma	0
+241	boobs	af	0
+242	four0four	us	0
+243	P_TE	fr	0
+244	c3c	nl	0
+245	odqidiqo	br	0
+246	Luisco100	co	0
+247	offed	pl	0
+248	Siawo	de	0
+249	Jrtapsell	gb	0
+250	Boyarsky's Moustache	ru	0
+251	coflynn	ca	0
+252	testname	es	0
+253	TeamOpti	se	0
+254	lavugomso	cr	0
+255	secure.wombat	sg	0
+256	Sulley	rs	0
+257	DCI	ca	0
+258	ZenSecurity	by	0
+259	zsl	mk	0
+260	agu	tr	0
+261	ExSeT	nl	0
+262	Console Cowboys	nl	0
+263	comewel	it	0
+264	badfirmware	se	0
+265	überh4x0rß	de	0
+266	SxRaPH	ca	0
+267	McLikeTheRestaurant	us	0
+268	'">; -- |	hu	0
+269	digitalgansters	us	0
+270	REU	ua	0
+271	DevCraft	au	0
+272	Nazareth	us	0
+273	ameise	us	0
+274	ovicolo	cu	0
+275	Delete me please	af	0
+276	UnknownIndentifier	nl	0
+277	Cyber Security IPB	id	0
+278	Erethon	gr	0
+279	España!	es	0
+280	advisability	co	0
+281	HmT	nl	0
+282	guest	de	0
+283	synack	us	0
+284		us	0
+285	st4rsh4d3	hu	0
+286	dw00d	de	0
+287	cyberman	us	0
+288	sewulujo	zm	0
+289	xSTF	pt	0
+290	underscores	nl	0
+291	WreckEm	us	0
+292	cobacobi	af	0
+293	teampolkoiiu	bs	0
+294	ERSA	wo	0
+295	PE	es	0
+296	blub	de	0
+297	2sec4u	gb	0
+298	Colonel0x20	us	0
+299	Attie	gb	0
+300	D0nkey	nl	0
+301	ALLES!	de	0
+302	NullDiv3	au	0
+303	Masada	in	0
+304	CodeAndSec	us	0
+305	sharknado	aq	0
+306	kernelsndrs	us	0
+307	joga	us	0
+308	CCX	id	0
+309	ozivuumvenipo	id	0
+310	Hackerman	zw	0
+311	Douby	fr	0
+312	gnaux	se	0
+313	geoheon	kr	0
+314	jopawp2	us	0
+315	Jojo25	mx	0
+316	Dingsbums	de	0
+317	bizeabapi	bo	0
+318	jeznot	fr	0
+319	Verdan	ro	0
+320	cothan	vn	0
+321	learninguy	es	0
+322	PizzaByte	il	0
+323	EC	se	0
+324	bnds	dk	0
+325	binaryglitch	il	0
+326	Pes Planovalgus	cz	0
+327	niroc	il	0
+328	rnt	fr	0
+329	LEGOFAN	de	0
+330	CORGI	id	0
+331	feed57005	cz	0
+332	iyalolitig	fj	0
+333	Memolita	tr	0
+334	invictus-0x90	gb	0
+335	x90	za	0
+336	mango	us	0
+337	plplpl	us	0
+338	AhnMo	kr	0
+339	aelbaz	es	0
+340	muhself	nl	0
+341	Analoguebus	us	0
+342	bitsforeveryone	us	0
+343	milkmix_	ch	0
+344	10111	mk	0
+345	Bejaardentehuis 'Het Zonnetje'	nl	0
+346	JohnDoe	ua	0
+347	The Wizard's Sanctum	us	0
