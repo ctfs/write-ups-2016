@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * [Stanislas Lejay](http://p1kachu.pluggi.fr/writeup/re/2016/04/18/plaid-ratm-writeup/)
+* [Capcah](https://gist.github.com/Capcah/d2657b6b4e4e533226350a855c17dec6)
