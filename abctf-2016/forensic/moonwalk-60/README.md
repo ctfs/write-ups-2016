@@ -14,3 +14,4 @@ There is something a little off about this picture. If you could help us we coul
 ## Other write-ups and resources
 
 * [RawSec](https://rawsec.ml/en/ABCTF-60-MoonWalk-Forensics/)
+* [OMECA](https://github.com/nbrisset/CTF/blob/master/abctf-2016/challenges/moonwalk-60)

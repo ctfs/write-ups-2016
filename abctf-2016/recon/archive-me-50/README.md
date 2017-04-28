@@ -20,3 +20,4 @@ And it contains the flag: ABCTF{Archives_are_useful!} in
 
 * [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
 * [RawSec](https://rawsec.ml/en/ABCTF-50-Archive-Me-Reconaissance/)
+* [OMECA](https://github.com/nbrisset/CTF/blob/master/abctf-2016/challenges/archive-me-50)

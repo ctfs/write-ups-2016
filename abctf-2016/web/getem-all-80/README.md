@@ -14,3 +14,4 @@ I think one of the users data fields holds a flag. If only you could find the us
 ## Other write-ups and resources
 
 * [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
+* [OMECA](https://github.com/nbrisset/CTF/blob/master/abctf-2016/challenges/get-em-all-80)
