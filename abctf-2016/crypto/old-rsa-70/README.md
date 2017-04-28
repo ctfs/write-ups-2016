@@ -15,3 +15,4 @@ I'm sure you can retrieve the flag from this file.
 ## Other write-ups and resources
 
 * [Kimiyuki Onaka](https://kimiyuki.net/blog/2016/07/23/abctf-2016/)
+* [OMECA](https://github.com/nbrisset/CTF/blob/master/abctf-2016/challenges/old-rsa-70)
