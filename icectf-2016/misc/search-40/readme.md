@@ -12,7 +12,7 @@ This challenge requires DNS lookup knowledge. DNS (Domain Name System) provides 
 
 ## Other write-ups and resources
 
-* [RawSec](https://rawsec.ml/en/IceCTF-40-Search-Misc/)
+* [RawSec](https://rawsec.ml/en/IceCTF-2016-IceCTF-40-Search-Misc/)
 * https://github.com/Idomin/CTF-Writeups/blob/master/IceCTF/Search-misc-40
 * https://github.com/318BR/IceCTF/tree/master/2016/Stage2/Search
 * https://mrpnkt.github.io/2016/icectf-2016-search/
