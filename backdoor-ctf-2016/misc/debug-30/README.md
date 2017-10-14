@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* https://codemaxx.github.io/writeups/backdoorctf16/5debug/

@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * [P4 Team](https://github.com/p4-team/ctf/tree/master/2016-06-04-backdoor-ctf/ppc_isolve)
+* https://codemaxx.github.io/writeups/backdoorctf16/2isolve/
