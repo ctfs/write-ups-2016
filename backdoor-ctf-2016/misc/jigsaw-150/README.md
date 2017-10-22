@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-06-04-backdoor-ctf/misc_jigsaw/README.md)
+* https://codemaxx.github.io/writeups/backdoorctf16/1jigsaw/

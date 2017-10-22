@@ -25,3 +25,4 @@
 ## Other write-ups and resources
 
 * http://s0ngsari.tistory.com/entry/Backdoor-CTF-Enter-the-Matrix
+* https://codemaxx.github.io/writeups/backdoorctf16/6enter-the-matrix/

@@ -21,3 +21,4 @@
 
 * https://github.com/nikhil96sher/CTF-Writeups/tree/master/Backdoor/IMAGELOVER
 * [b0tchsec](http://b0tchsec.com/2016/backdoorctf/imagelover)
+* https://codemaxx.github.io/writeups/backdoorctf16/3imagelover/
