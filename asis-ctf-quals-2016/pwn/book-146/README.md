@@ -5,7 +5,7 @@
 **Solves:** 29
 **Description:**
 
-Hey, This is our single-author [library](https://github.com/ctfs/write-ups-2016/tree/master/asisis-ctf-quals-2016/pwn/books-146/books). But after any sunset there's another sunrise. So be cool and pwn the Sun!
+Hey, This is our single-author [library](https://github.com/ctfs/write-ups-2016/raw/master/asis-ctf-quals-2016/pwn/book-146/books). But after any sunset there's another sunrise. So be cool and pwn the Sun!
 
     nc books.asis-ctf.ir 13007
 
